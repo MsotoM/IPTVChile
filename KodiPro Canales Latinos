@@ -1,0 +1,1671 @@
+#EXTM3U
+
+#EXTINF:0 group-title="TVAR",América Sports - CTV - CABA TV Cable - CD Cd Aut Bs As
+http://iphone-streaming.ustream.tv/ustreamVideo/11602466/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Canal Rural - CTV - CABA TV Cable - CD Cd Aut Bs As
+rtsp://streamrural.cmd.com.ar:1935/liverural/crural/rural1
+#EXTINF:0 group-title="TVAR",DW - CTV - CABA TV Cable - CD Cd Aut Bs As
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:0 group-title="TVAR",Magazine - CTV - CABA TV Cable - CD Cd Aut Bs As
+rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
+#EXTINF:0 group-title="TVAR",Q Musica - CTV - CABA TV Cable - CD Cd Aut Bs As
+mms://streamqm.uigc.net/qmusica
+#EXTINF:0 group-title="TVAR",TN Todo Noticias - CTV - CABA TV Cable - CD Cd Aut Bs As
+rtsp://stream.tn.com.ar/live/tnhd1
+#EXTINF:0 group-title="TVAR",Antena Negra TV - 20.1 TV - CABA TV TDA - CD Cd Aut Bs As
+http://servicioamerica.net:1935/8680/8680/playlist.m3u8
+#EXTINF:0 group-title="TVAR",LRL456 Orbe 21 - 21.1 TV - CABA TV TDA - CD Cd Aut Bs As
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+#EXTINF:0 group-title="TVAR",Paka Paka - 22.2 TV - CABA TV TDA - CD Cd Aut Bs As
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+#EXTINF:0 group-title="TVAR",TaTeTi - 22.3 TV - CABA TV TDA - CD Cd Aut Bs As
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
+#EXTINF:0 group-title="TVAR",TECtv - 22.5 TV - CABA TV TDA - CD Cd Aut Bs As
+http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
+#EXTINF:0 group-title="TVAR",LS82 TVP - 23.2 TV - CABA TV TDA - CD Cd Aut Bs As
+http://live-edge01.telecentro.net.ar/live/smil:tvp.smil/chunklist_w2101988573_b2628000_sleng.m3u8
+#EXTINF:0 group-title="TVAR",Construir - 23.3 TV - CABA TV TDA - CD Cd Aut Bs As
+http://iphone-streaming.ustream.tv/ustreamVideo/9143107/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",DTV Diputados - 23.4 TV - CABA TV TDA - CD Cd Aut Bs As
+http://lsdhcdnhls-lh.akamaihd.net/i/hcdnarsatHLS_1@301805/master.m3u8
+#EXTINF:0 group-title="TVAR",DeporTV - 24.1 TV - CABA TV TDA - CD Cd Aut Bs As
+http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
+#EXTINF:0 group-title="TVAR",Rock & Pop Se Ve - 24.2 TV - CABA TV TDA - CD Cd Aut Bs As
+http://iphone-streaming.ustream.tv/ustreamVideo/10002020/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Viajar - 24.4 TV - CABA TV TDA - CD Cd Aut Bs As
+http://eventshd-lh.akamaihd.net/i/viajar_1@168433/index_814_av-p.m3u8
+#EXTINF:0 group-title="TVAR",Telesur - 25.3 TV - CABA TV TDA - CD Cd Aut Bs As
+http://cdn2.telesur.ultrabase.net/livecf/telesurLive/master.m3u8
+#EXTINF:0 group-title="TVAR",G360 - 25.4 TV - CABA TV TDA - CD Cd Aut Bs As
+http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
+#EXTINF:0 group-title="TVAR",RT - 25.5 TV - CABA TV TDA - CD Cd Aut Bs As
+http://rt-a.akamaihd.net/ch_02@325606/master.m3u8
+#EXTINF:0 group-title="TVAR",Canal 26 HD - 26.1 TV - CABA TV TDA - CD Cd Aut Bs As
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Canal 26 SD - 26.1 TV - CABA TV TDA - CD Cd Aut Bs As
+http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Telemax - 26.2 TV - CABA TV TDA - CD Cd Aut Bs As
+http://live-edge01.telecentro.net.ar/live/tlx-480/playlist.m3u8
+#EXTINF:0 group-title="TVAR",C5N HD - 27.1 TV - CABA TV TDA - CD Cd Aut Bs As
+http://server5.stweb.tv/c5n/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",One TV - 27.2 TV - CABA TV TDA - CD Cd Aut Bs As
+http://server5.stweb.tv/radioone/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",LS85 El Trece - 33.1 TV - CABA TV TDA - CD Cd Aut Bs As
+rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
+#EXTINF:0 group-title="TVAR",ACUA Mayor HD - 34.3 TV - CABA TV TDA - CD Cd Aut Bs As
+http://media.tda.gob.ar/ACUA-Mayor/smil:acuamayor_pc.smil/playlist.m3u8
+#EXTINF:0 group-title="TVAR",LS83 Canal 9 - 35.1 TV - CABA TV TDA - CD Cd Aut Bs As
+http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/playlist.m3u8
+#EXTINF:0 group-title="TVAR",ACUA Federal HD - 35.3 TV - CABA TV TDA - CD Cd Aut Bs As
+http://media.tda.gob.ar/ACUA-Federal/smil:acuafederal_pc.smil/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Senado TV - ITV - CABA TV Web - CD Cd Aut Bs As
+mmsh://active.telecomcdn.com/hsn/hsn
+#EXTINF:0 group-title="TVAR",Tango City - ITV - CABA TV Web - CD Cd Aut Bs As
+mms://stream.tangocity.com.ar/tangocity
+#EXTINF:0 group-title="TVAR",Solidaria TV - 45 TV - Caseros - GB Gran Bs As
+http://188.165.135.22/remararg/livestream/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Bayres tv - 41 TV - G de Laferrere - GB Gran Bs As
+http://iphone-streaming.ustream.tv/ustreamVideo/11170603/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Telecreativa - 5 TV - Lanus - GB Gran Bs As
+http://iphone-streaming.ustream.tv/ustreamVideo/18545628/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Canal Merlo - 4CTV - Merlo - GB Gran Bs As
+http://iphone-streaming.ustream.tv/ustreamVideo/6540917/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Moreno Visión - 13 TV - Moreno - GB Gran Bs As
+rtmp://morenovisiontv.noip.me/oflaDemo/live
+#EXTINF:0 group-title="TVAR",Provincial - 2CTV - San Miguel - GB Gran Bs As
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:0 group-title="TVAR",Tigre TV - 5 TV - Tigre - GB Gran Bs As
+http://iphone-streaming.ustream.tv/ustreamVideo/11068260/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Azul TV - 5 TV - Azul - BA Buenos Aires
+http://iphone-streaming.ustream.tv/ustreamVideo/15666757/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",BVC 4 - 4CTV - Bahia Blanca  TV - BA Buenos Aires
+http://iphone-streaming.ustream.tv/ustreamVideo/13490492/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",CVN - 4CTV - Bragado - BA Buenos Aires
+http://iphone-streaming.ustream.tv/ustreamVideo/8551699/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Red Difusora - 3CTV - Carhué - BA Buenos Aires
+http://iphone-streaming.ustream.tv/ustreamVideo/11792615/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",LRI754 Cariló - 104.3 TV - Cariló - BA Buenos Aires
+http://iphone-streaming.ustream.tv/ustreamVideo/4390191/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Pringles TV - 6 TV - Coronel Pringles - BA Buenos Aires
+mmsh://186.0.210.71:8080/
+#EXTINF:0 group-title="TVAR",TV 29 Ensenada - 29 TV - Ensenada - BA Buenos Aires
+rtmp://panel.dattalive.com/8008/8008
+#EXTINF:0 group-title="TVAR",LRS843 Infinita - 89.7 TV - General Villegas - BA Buenos Aires
+http://iphone-streaming.ustream.tv/ustreamVideo/11212276/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",TeleJunin - 2CTV - Junin - BA Buenos Aires
+rtmp://65.254.42.234/telejunin/telejunin
+#EXTINF:0 group-title="TVAR",TV Universidad - 56.1 TV - La Plata  TV - BA Buenos Aires
+rtmp://stratus.stream.cespi.unlp.edu.ar:80/stream/tvunlp
+#EXTINF:0 group-title="TVAR",Canal 4 - 4CTV - Lobos - BA Buenos Aires
+http://iphone-streaming.ustream.tv/ustreamVideo/5808974/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Parestv  Canal 3 - 30.1 TV - Luján - BA Buenos Aires
+http://iphone-streaming.ustream.tv/ustreamVideo/6721636/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Canal 2 MDP - 2 TV - Mar del Plata TV - BA Buenos Aires
+http://iphone-streaming.ustream.tv/ustreamVideo/13284341/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Canal 5 MDP - 5 TV - Mar del Plata TV - BA Buenos Aires
+http://iphone-streaming.ustream.tv/ustreamVideo/20909367/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Canal 28 - 28 TV - Mar del Plata TV - BA Buenos Aires
+http://iphone-streaming.ustream.tv/ustreamVideo/18752678/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",XFN TV - 41 TV - Mar del Plata TV - BA Buenos Aires
+rtmp://painel.serveron.com.br/8172/8172
+#EXTINF:0 group-title="TVAR",Clima + Servicios - 66CTV - Mar del Plata TV - BA Buenos Aires
+rtmp://painel.serveron.com.br/8168/8168
+#EXTINF:0 group-title="TVAR",LU82 Canal 10 - 43.1 TV - Mar del Plata TV - BA Buenos Aires
+http://ionlive1-lh.akamaihd.net/i/canal10_1@125367/master.m3u8
+#EXTINF:0 group-title="TVAR",Montevisión CV - 2CTV - Monte Hermoso - BA Buenos Aires
+http://iphone-streaming.ustream.tv/ustreamVideo/18746293/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Teleguia - 5CTV - Necochea - BA Buenos Aires
+http://iphone-streaming.ustream.tv/ustreamVideo/7846138/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",TSN TV - 10 TV - Necochea - BA Buenos Aires
+http://iphone-streaming.ustream.tv/ustreamVideo/18684140/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Local Olavarría - 5CTV - Olavarría - BA Buenos Aires
+http://iphone-streaming.ustream.tv/ustreamVideo/510556/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",LRI966 Cadena 103 - 103.1 TV - Olavarría - BA Buenos Aires
+http://200.41.182.220:1935/live/myStream/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Bunge y El Mar - ITV - Pinamar - BA Buenos Aires
+rtmp://wowza.telpin.com.ar/camara-bunge/camara-bunge.stream_720p
+#EXTINF:0 group-title="TVAR",Bunge-Libertador - ITV - Pinamar - BA Buenos Aires
+rtmp://wowza.telpin.com.ar/camara-fuente/fuente.stream_720p
+#EXTINF:0 group-title="TVAR",Telpin t2 - 2CTV - Pinamar - BA Buenos Aires
+rtmp://wowza.telpin.com.ar/telpintv/ttv.stream_720p
+#EXTINF:0 group-title="TVAR",LRI875 Power Cam - 100.3 TV - Pinamar - BA Buenos Aires
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Okey Cam - 107.1 TV - Pinamar - BA Buenos Aires
+http://wowza.telpin.com.ar:1935/okeyradio/okeyradio.stream/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Aire Visión 31 TDA - 6 TV - Punta Alta - BA Buenos Aires
+http://iphone-streaming.ustream.tv/ustreamVideo/20552916/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",La Costa - 9 TV - San Bernardo - BA Buenos Aires
+rtmp://stream.shockmedia.com.ar/8858/8858
+#EXTINF:0 group-title="TVAR",ATCCO - 2CTV - San Cte del Tuyú - BA Buenos Aires
+rtmp://painel.serveron.com.br/8170/8170
+#EXTINF:0 group-title="TVAR",AVC Atlántica - 2CTV - Santa Teresita - BA Buenos Aires
+mmsh://190.14.32.204:3905/
+#EXTINF:0 group-title="TVAR",Eco TV - 2CTV - Tandil - BA Buenos Aires
+rtmp://mediacontrol.jargon.com.ar/elecotv/elecotv
+#EXTINF:0 group-title="TVAR",Celta TV - 9 TV - Tres Arroyos - BA Buenos Aires
+http://iphone-streaming.ustream.tv/ustreamVideo/13952483/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Cabletel - 12CTV - Zárate - BA Buenos Aires
+http://190.151.144.22:8083/canallocal.flv
+#EXTINF:0 group-title="TVAR",Canal 8 - 8 TV - SFV de Catamarca - CA Catamarca
+http://iphone-streaming.ustream.tv/ustreamVideo/20677733/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",LRK471 Provincia - 7.1TV - SFV de Catamarca - CA Catamarca
+rtmp://190.12.101.126/catamarcartv.com/catamarcartv.com
+#EXTINF:0 group-title="TVAR",CN 22 Chaco TV - ITV - Resistencia - CC Chaco
+rtmp://painel.serveron.com.br:1935/8178/8178
+#EXTINF:0 group-title="TVAR",Chaco TV - 28.2 TV - Resistencia - CC Chaco
+rtmp://debred5.ecomchaco.com.ar/oflaDemo/chacoTV01-100041
+#EXTINF:0 group-title="TVAR",LU83 Canal 9 - 9 TV - Cdro Rivadavia - CH Chubut
+rtmp://www.canal9comodoro.com/live/c9/mp4:canal
+#EXTINF:0 group-title="TVAR",ETC - 4CTV - Esquel - CH Chubut
+rtmp://streamlky.alsolnet.com/canal4/live
+#EXTINF:0 group-title="TVAR",Madryn TV - 12CTV - Puerto Madryn - CH Chubut
+http://iphone-streaming.ustream.tv/ustreamVideo/7029416/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Total - 90.1 TV - Puerto Madryn - CH Chubut
+rtmp://158.69.223.236/aireurbano/mp4:aireurbano
+#EXTINF:0 group-title="TVAR",Canal Dartv - ITV - Cordoba  TV - CO Cordoba
+http://192.187.117.21:1935/dartv/dartv/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Canal C - 2CTV - Cordoba  TV - CO Cordoba
+http://iphone-streaming.ustream.tv/ustreamVideo/15263481/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",El Show de la Mañana - 12 TV - Cordoba  TV - CO Cordoba
+http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Cba24N - 31.1 TV - Cordoba  TV - CO Cordoba
+http://iphone-streaming.ustream.tv/ustreamVideo/11678041/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",LV80 SRT (10) - 31.2 TV - Cordoba  TV - CO Cordoba
+http://iphone-streaming.ustream.tv/ustreamVideo/20251601/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Telered - TV - Marcos Juarez - CO Cordoba
+rtmp://192.99.46.56/envivo/teleredtv
+#EXTINF:0 group-title="TVAR",LRJ504 TRU - 21 TV - Marcos Juarez - CO Cordoba
+http://iphone-streaming.ustream.tv/ustreamVideo/5832294/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",TV2 Regional - 2CTV - Monte Maiz - CO Cordoba
+rtmp://servicioamerica.net:1935/8336/8336
+#EXTINF:0 group-title="TVAR",Quatro TV - 4 TV - Rio Cuarto - CO Cordoba
+rtmp://enhd.co/8938/8938
+#EXTINF:0 group-title="TVAR",LV86 Imperio 13 - 29.1 TV - Rio Cuarto - CO Cordoba
+http://iphone-streaming.ustream.tv/ustreamVideo/18376856/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",VTV - CTV - Vicuña Mackenna - CO Cordoba
+http://iphone-streaming.ustream.tv/ustreamVideo/11057537/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",JEES TV - ITV - Corrientes - CR Corrientes
+http://iphone-streaming.ustream.tv/ustreamVideo/18409610/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",5tv - 5 TV - Corrientes - CR Corrientes
+rtmp://www.coninfo.net:1935/tvcinco/live2
+#EXTINF:0 group-title="TVAR",T5 Satelital - 5STV - Corrientes - CR Corrientes
+http://iphone-streaming.ustream.tv/ustreamVideo/14816945/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",13 Max - 32.1 TDA - Corrientes - CR Corrientes
+rtsp://coninfo.info/13m
+#EXTINF:0 group-title="TVAR",Tele Diez - 10 TV - Ps de los Libres - CR Corrientes
+http://iphone-streaming.ustream.tv/ustreamVideo/10327824/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Entre Rios TV - 6 TV - Crespo - ER Entre Rios
+http://iphone-streaming.ustream.tv/ustreamVideo/9042949/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",El 4 TV - 4CTV - Gualeguaychú - ER Entre Rios
+http://iphone-streaming.ustream.tv/ustreamVideo/15024581/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",LRI450 TV Litoral - 9 TV - Paraná - ER Entre Rios
+http://ionlive1-lh.akamaihd.net/i/canal9_1@125365/master.m3u8
+#EXTINF:0 group-title="TVAR",Canal 11 - 11 TV - Paraná - ER Entre Rios
+http://iphone-streaming.ustream.tv/ustreamVideo/8957585/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",LRI501 Canal 10 - 10 TV - San José - ER Entre Rios
+http://iphone-streaming.ustream.tv/ustreamVideo/253309/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",LT88 Lapacho 11 - 29.1 TV - Formosa  TV - FO Formosa
+http://stream1.livestreamingservices.com:1935/tvcanal11/tvcanal11/maste.m3u8
+#EXTINF:0 group-title="TVAR",Canal 2 - 2 TV - San S de Jujuy - JU Jujuy
+http://xcanal2jujuyx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Canal 4 HD - 4CTV - San S de Jujuy - JU Jujuy
+rtmp://streaming.wirenetserver.com.ar/canal4/live_1
+#EXTINF:0 group-title="TVAR",LW80 36.1 TDA - 7 TV - San S de Jujuy - JU Jujuy
+mms://200.43.187.111:1755/canal7
+#EXTINF:0 group-title="TVAR",Popular - 97.7 TV - Catriló - LP La Pampa
+rtmp://31.186.229.150/cplp/live
+#EXTINF:0 group-title="TVAR",La Pampa TV - 13 TV - Santa Rosa - LP La Pampa
+http://iphone-streaming.ustream.tv/ustreamVideo/10017350/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Rioja - 96.9 TV - La Rioja - LR La Rioja
+rtmp://streamlky.alsolnet.com:1935/mediosriojatv/live
+#EXTINF:0 group-title="TVAR",Canal 2 - 2 TV - La Rioja TV - LR La Rioja
+http://iphone-streaming.ustream.tv/ustreamVideo/18654672/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",LV91 29.1 TDA - 9 TV - La Rioja TV - LR La Rioja
+rtmp://31.186.229.150/canal9lr/live_160p
+#EXTINF:0 group-title="TVAR",LV91 29.1 TDA - 9 TV - La Rioja TV - LR La Rioja
+http://iphone-streaming.ustream.tv/ustreamVideo/20837930/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Fenix - 11CTV - La Rioja TV - LR La Rioja
+http://iphone-streaming.ustream.tv/ustreamVideo/18635120/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Canal 13 - 13 TV - La Rioja TV - LR La Rioja
+http://iphone-streaming.ustream.tv/ustreamVideo/14694479/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",TVEO - 2CTV - Mendoza  TV - ME Mendoza
+http://iphone-streaming.ustream.tv/ustreamVideo/13300574/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Cop 3 - 3 TV - Mendoza  TV - ME Mendoza
+http://iphone-streaming.ustream.tv/ustreamVideo/19440174/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Valle de Uco - 8 TV - Tunuyán - ME Mendoza
+http://iphone-streaming.ustream.tv/ustreamVideo/20971966/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",TV Cable - 4CTV - Candelaria - MI Misiones
+http://iphone-streaming.ustream.tv/ustreamVideo/19317720/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Canal 2 - 2 TV - Posadas  TV - MI Misiones
+http://190.57.237.214/live/canal.m3u8
+#EXTINF:0 group-title="TVAR",Canal 4 - 4 TV - Posadas  TV - MI Misiones
+rtmp://184.154.28.210:1935/canal4/canal4
+#EXTINF:0 group-title="TVAR",Noticias del 6 - 6 TV - Posadas  TV - MI Misiones
+rtmp://streamlky.alsolnet.com:332/noticiasdel6sd/live
+#EXTINF:0 group-title="TVAR",Canal 21 - 21 TV - Posadas  TV - MI Misiones
+http://iphone-streaming.ustream.tv/ustreamVideo/18595742/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",TVM - 27 TV - Posadas  TV - MI Misiones
+rtmp://stream1.livestreamingservices.com/tvmlive/tvmlive
+#EXTINF:0 group-title="TVAR",CN 24/7 - 17CTV - Neuquén - NQ Neuquen
+rtmp://184.172.26.212:1935/live/live22
+#EXTINF:0 group-title="TVAR",LU92 TVRionegrina 31 - 10 TV - General Roca - RN Rio Negro
+rtmp://184.172.26.212/live/live15
+#EXTINF:0 group-title="TVAR",SAOTV - 4CTV - Sn Antonio Oeste - RN Rio Negro
+http://iphone-streaming.ustream.tv/ustreamVideo/18496605/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Nortevisión - 10 TV - Rosario de Lerma - SA Salta
+http://iphone-streaming.ustream.tv/ustreamVideo/18501482/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",TV dos - 2 TV - Salta  TV - SA Salta
+http://iphone-streaming.ustream.tv/ustreamVideo/14249309/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Milenium TV - 4 TV - Salta  TV - SA Salta
+http://iphone-streaming.ustream.tv/ustreamVideo/18731894/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Cable Express - 4CTV - Salta  TV - SA Salta
+rtmp://media203.services.digitar.net/canal4salta/canal4salta
+#EXTINF:0 group-title="TVAR",Cadena 1 - 6 TV - Salta  TV - SA Salta
+rtmp://184.154.28.210/idea4/idea4
+#EXTINF:0 group-title="TVAR",Canal 7 - 7 TV - Salta  TV - SA Salta
+http://iphone-streaming.ustream.tv/ustreamVideo/19467262/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Multivisión 9 - 9 TV - Salta  TV - SA Salta
+http://xcanal9saltax.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Tele 10 - 10 TV - Salta  TV - SA Salta
+http://iphone-streaming.ustream.tv/ustreamVideo/14183607/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",20 de Febrero - 20 TV - Salta  TV - SA Salta
+http://iphone-streaming.ustream.tv/ustreamVideo/13425182/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Canal 41 - 41 TV - Salta  TV - SA Salta
+http://iphone-streaming.ustream.tv/ustreamVideo/17877826/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Canal 5 - 5 TV - Rio Gallegos TV - SC Santa Cruz
+http://iphone-streaming.ustream.tv/ustreamVideo/17814283/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Canal Express - 4CTV - Stgo del Estero - SE S del Estero
+http://iphone-streaming.ustream.tv/ustreamVideo/18381074/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",LRJ518 Canal 4 - 4 TV - San Juan  TV - SJ San Juan
+rtmp://streamlky.alsolnet.com/canal4sanjuan/live
+#EXTINF:0 group-title="TVAR",Telesol - 5 TV - San Juan  TV - SJ San Juan
+rtmp://37.187.108.127:554/canal5telesol/radiostation.stream
+#EXTINF:0 group-title="TVAR",San Juan TV - 13 TV - San Juan  TV - SJ San Juan
+http://iphone-streaming.ustream.tv/ustreamVideo/20962611/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",XAMA UNSJ - 33.1 TV - San Juan  TV - SJ San Juan
+http://iphone-streaming.ustream.tv/ustreamVideo/20540361/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",CTV - 2CTV - San Luis  TV - SL San Luis
+http://iphone-streaming.ustream.tv/ustreamVideo/20537644/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",LV90 San LuisTV 28.1 - 13 TV - San Luis  TV - SL San Luis
+http://iphone-streaming.ustream.tv/ustreamVideo/21066208/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Carolina Cable Color - 14CTV - San Luis  TV - SL San Luis
+http://iphone-streaming.ustream.tv/ustreamVideo/5031477/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",ACH Cable Hogar - 2CTV - Alvarez - ST Santa Fe
+http://iphone-streaming.ustream.tv/ustreamVideo/8053481/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",Link TV - ITV - Esperanza - ST Santa Fe
+http://xlinktvcanalx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0 group-title="TVAR",TDC - CTV - Firmat - ST Santa Fe
+rtmp://painel.serveron.com.br/8166/8166
+#EXTINF:0 group-title="TVAR",Litoral TV - 4 TV - Reconquista - ST Santa Fe
+http://iphone-streaming.ustream.tv/ustreamVideo/9160292/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",LT83 Canal 3 - 32.1 TV - Rosario  TV - ST Santa Fe
+mmsh://209.160.20.34/canal3
+#EXTINF:0 group-title="TVAR",Telecable - 2CTV - San J del Rincón - ST Santa Fe
+http://iphone-streaming.ustream.tv/ustreamVideo/18217253/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVAR",TN5 Supercanal - 5CTV - San M de Tucuman - TU Tucuman
+rtmp://5.9.59.236/golive/59_179_live
+#EXTINF:0 group-title="TVAR",Norte TV - 7 TV - San M de Tucuman - TU Tucuman
+rtmp://5.9.59.236/golive/59_305_live
+#EXTINF:0 group-title="TVAR",LW83 C10 28.1 - 10 TV - San M de Tucuman - TU Tucuman
+http://usasec.fankytv.com/livesec//canal10tuc.stream/playlist.m3u8?cp=/livesec//canal10tuc.stream/*&cf=1444608743&e=1444579958&h=d3c492112c598f2aa1e29fe711458426
+#EXTINF:0 group-title="TVAR",Metro TV - 12 TV - San M de Tucuman - TU Tucuman
+rtmp://5.9.59.236/golive/59_186_live
+
+#EXTINF:0 group-title="TVBO",RTP - 4 TV - La Paz - La Paz  TV
+http://iphone-streaming.ustream.tv/ustreamVideo/18680628/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVBO",CP51 ATB HD - 9 TV - La Paz - La Paz  TV
+http://edge-41-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist.m3u8
+#EXTINF:0 group-title="TVBO",CP51 ATB SD - 9 TV - La Paz - La Paz  TV
+rtmp://www.server.tevemi.com:1935/8004/8004
+#EXTINF:0 group-title="TVBO",CP37 Red Uno - 11 TV - La Paz - La Paz  TV
+http://iphone-streaming.ustream.tv/ustreamVideo/10248660/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVBO",Cristo Viene La Red - 33 TV - La Paz - La Paz  TV
+rtmp://67.215.182.6/8250/82502
+#EXTINF:0 group-title="TVBO",Cadena A - 36 TV - La Paz - La Paz  TV
+rtmp://www.server.tevemi.com:1935/8082/8082
+#EXTINF:0 group-title="TVBO",ABYA YALA - 41 TV - La Paz - La Paz  TV
+rtmp://tevemi-server1.entrydns.org:1935/8036/8036
+#EXTINF:0 group-title="TVBO",Red PAT - 42 TV - La Paz - La Paz  TV
+rtmp://www.server.tevemi.com:1935/8092/8092
+#EXTINF:0 group-title="TVBO",TV Off - 55 TV - La Paz - La Paz  TV
+rtmp://www.server.tevemi.com:1935/8090/8090
+#EXTINF:0 group-title="TVBO",TV Culturas - 110CTV - La Paz - La Paz  TV
+http://iphone-streaming.ustream.tv/ustreamVideo/18656202/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVBO",Tele C - 21 TV - Cochabamba - Cochabamba
+http://iphone-streaming.ustream.tv/ustreamVideo/16215348/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVBO",Red AD Venir - 24 TV - SC de la Sierra - Santa Cruz
+rtmp://streamer1.streamhost.org/salive/GMIredadvenirh
+#EXTINF:0 group-title="TVBO",Gigavisión - 33 TV - SC de la Sierra - Santa Cruz
+rtmp://www.server.tevemi.com:1935/8110/8110
+#EXTINF:0 group-title="TVBO",Red PAT - 39 TV - SC de la Sierra - Santa Cruz
+rtmp://www.server.tevemi.com:1935/8022/8022
+#EXTINF:0 group-title="TVBO",Plus TV - 39 TV - Tarija - Tarija
+http://iphone-streaming.ustream.tv/ustreamVideo/18660474/streams/live/playlist.m3u8
+
+#EXTINF:0 group-title="TVBR",ZYA505 Brasil Intern - 15 TV - Brasília TV - DF Dto Federal
+rtmp://ebcremuxlivefs.fplive.net/ebcremuxlive-ebctvbrasil/stream1
+#EXTINF:0 group-title="TVBR",ZYA506 Brasilia 6.1 - 28 TV - Brasília TV - DF Dto Federal
+rtmp://rtmp.cdn.upx.net.br:80/19b2/myStream.sdp
+#EXTINF:0 group-title="TVBR",ZYA516 Câmara 61.1 - 61 TV - Brasília TV - DF Dto Federal
+http://stream2.camara.leg.br:8134/camara-hls-live/TV1/camaraevent/TV1.m3u8
+#EXTINF:0 group-title="TVBR",ZYA516 Câmara 61.2 - 61 TV - Brasília TV - DF Dto Federal
+http://stream2.camara.leg.br:8134/camara-hls-live/TV2/camaraevent/TV2.m3u8
+#EXTINF:0 group-title="TVBR",TV Ultrafarma - SAT TV - Brasília TV - DF Dto Federal
+rtmp://wse.transmissaodigital.com:1935/cinealta4145/cinealta4145
+#EXTINF:0 group-title="TVBR",TV Comunitaria - NET12 TV - Brasília TV - DF Dto Federal
+rtmp://mediaserver1.estadovirtual.net:1935/c1954ev1276/aovivo
+#EXTINF:0 group-title="TVBR",TV Escola - NET13 TV - Brasília TV - DF Dto Federal
+http://livela.sambatech.com.br/hls-live/livepkgr/acerp_1f9a5d00db56b3c3020b6ac3dd693e12/liveevent/livestream.m3u8
+#EXTINF:0 group-title="TVBR",ZYA205 TV Aldeia - 2 TV - Rio Branco - AC Acre
+mms://midia.ac.gov.br/tvaldeia
+#EXTINF:0 group-title="TVBR",ZYA222 Pajuçara 11.1 - 43 TV - Maceió - AL Alagoas
+http://hls.stream.tnh1.com.br/live/tvpajucara_1/playlist.m3u8
+#EXTINF:0 group-title="TVBR",TV Maceió - NET22 TV - Maceió - AL Alagoas
+rtmp://srv3.zoeweb.tv/z46-live/stream
+#EXTINF:0 group-title="TVBR",TV MAR - NET25 TV - Maceió - AL Alagoas
+rtmp://shflash.directradios.com/gazeta3/stream
+#EXTINF:0 group-title="TVBR",Amazon SAT 44.1 - 46 TV - Manaus - AM Amazonas
+http://livela.sambatech.com.br/hls-live/livepkgr/amazonsat3_3e9c859611a5e7fbedc785bd33c418b5/liveevent/livestream.m3u8
+#EXTINF:0 group-title="TVBR",TV Baiana 15.1 - 16 TV - Salvador - BA Bahia
+http://d22fash3pgubk9.cloudfront.net/tvbaiana/aovivo/playlist.m3u8
+#EXTINF:0 group-title="TVBR",ZYA299 TVE Bahia 2.1 - 24 TV - Salvador - BA Bahia
+rtmp://stream2.ba.gov.br/livepkgr/pgm-2
+#EXTINF:0 group-title="TVBR",ZYA296 TV Aratu 4.1 - 25 TV - Salvador - BA Bahia
+rtmp://stream.tvpapodetudo.com.br:1935/aratuduZgOqNa/myStream.sdp
+#EXTINF:0 group-title="TVBR",ZYA434 TV Sinal 7.1 - 14 TV - Aracati - CE Ceará
+rtmp://192.187.117.21:1935/tvlucidio/tvlucidio
+#EXTINF:0 group-title="TVBR",ZYA426 TV União 17.1 - 18 TV - Fortaleza TV - CE Ceará
+rtmp://206.191.148.69:1935/tvuniao/tvuniao
+#EXTINF:0 group-title="TVBR",ZYA432 Diário 22.1 - 23 TV - Fortaleza TV - CE Ceará
+http://livela.sambatech.com.br/hls-live/livepkgr/tvdiario_2ff357495c9f34b35fc02b51ee33d935/liveevent/livestream.m3u8
+#EXTINF:0 group-title="TVBR",ZYA439 Metrópole - 26 TV - Fortaleza TV - CE Ceará
+rtmp://174.142.198.110/live/mp4:lider.mp4
+#EXTINF:0 group-title="TVBR",NordesTV - 27 TV - Fortaleza TV - CE Ceará
+rtmp://187.18.187.5/livepkgr/nordestv1
+#EXTINF:0 group-title="TVBR",ZYA436 Assembleia - 30 TV - Fortaleza TV - CE Ceará
+rtmp://srv6.zoeweb.tv/z404-live/stream
+#EXTINF:0 group-title="TVBR",ZYA430 Jangadeiro 12 - 35 TV - Fortaleza TV - CE Ceará
+rtmp://187.18.187.5/livepkgr/tvjangadeiro1
+#EXTINF:0 group-title="TVBR",ZYA438 O Povo - 48 TV - Fortaleza TV - CE Ceará
+rtmp://srv3.zoeweb.tv/z01-live/stream
+#EXTINF:0 group-title="TVBR",Record News ES 57.1 - 56 TV - Vitória - ES Espírito Sto
+rtmp://flash.midiaip.com.br/recordnewses/recordnewses
+#EXTINF:0 group-title="TVBR",ZYA576 S Dourada 9.1 - 20 TV - Goiânia - GO Goiás
+rtmp://flash.softhost.com.br/serradourada/tvserradourada
+#EXTINF:0 group-title="TVBR",ZYA586 PUC TV 24.1 - 22 TV - Goiânia - GO Goiás
+rtmp://flash.softhost.com.br/pucgoias/aovivo
+#EXTINF:0 group-title="TVBR",ZYA570 TBC News 13.1 - 31 TV - Goiânia - GO Goiás
+rtmp://rsync.com.br:1935/rsync00026/rsync.sdp
+#EXTINF:0 group-title="TVBR",ZYA585 Fonte TV 5.1 - 47 TV - Goiânia - GO Goiás
+rtmp://fms.softhost.com.br/live/fontetv
+#EXTINF:0 group-title="TVBR",ZYA657 Difusora Sul - 7 TV - Imperatriz - MA Maranhão
+rtmp://srv3.zoeweb.tv/z438-live/stream
+#EXTINF:0 group-title="TVBR",TV Guará 23.1 - 22 TV - São Luís - MA Maranhão
+rtmp://v1.fabricahost.com.br/tvguara/tvguara
+#EXTINF:0 group-title="TVBR",ZYA651 Difusora 4.1 - 38 TV - São Luís - MA Maranhão
+rtmp://srv3.zoeweb.tv/z437-live/stream
+#EXTINF:0 group-title="TVBR",ZYA731 Alfenas - 2 TV - Alfenas - MG Minas Gerais
+rtsp://tv-coder.unifenas.br/aovivo
+#EXTINF:0 group-title="TVBR",ANTV TV Andradas - 36 TV - Andradas - MG Minas Gerais
+rtmp://69.46.0.170/tvandradas/antv.stream
+#EXTINF:0 group-title="TVBR",ZYA729 RedeMinas 9.1 - 17 TV - Belo Horizonte - MG Minas Gerais
+rtmp://200.198.37.134:1935/live/livestream
+#EXTINF:0 group-title="TVBR",TV ALMG 35.1 - 26 TV - Belo Horizonte - MG Minas Gerais
+rtmp://stream300.overseebrasil.com.br:1935/live_almg_146/almg
+#EXTINF:0 group-title="TVBR",ZYA770 Candidés 13.1 - 46 TV - Divinópolis - MG Minas Gerais
+rtmp://streaming49.sitehosting.com.br/candides/mp4:candides_720p
+#EXTINF:0 group-title="TVBR",TV Sul - 4 TV - Guaxupé - MG Minas Gerais
+rtmp://rtmp.cdn.upx.net.br/00046/myStream.sdp
+#EXTINF:0 group-title="TVBR",ZYA758 NTV - 8 TV - Patos de Minas - MG Minas Gerais
+rtmp://srv02.brasilstream.com.br/live/ntv/ntv
+#EXTINF:0 group-title="TVBR",ZYA775 TV Poços 21.1 - 21 TV - Poços de Caldas - MG Minas Gerais
+rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp
+#EXTINF:0 group-title="TVBR",TV Plan 51.1 - 51 TV - Poços de Caldas - MG Minas Gerais
+rtmp://rtmp.cdn.upx.net.br/723b/myStream.sdp
+#EXTINF:0 group-title="TVBR",TV Libertas 3.1 - 35 TV - Pouso Alegre - MG Minas Gerais
+rtmp://rtmp.cdn.upx.net.br:80/60c6/myStream.sdp
+#EXTINF:0 group-title="TVBR",ZYA762 TV Sudoeste - 31 TV - São S do Paraíso - MG Minas Gerais
+rtmp://189.51.193.74/tvsudoeste/myStream
+#EXTINF:0 group-title="TVBR",SBA Agro Canal - SAT TV - Campo Grande - MS Mato G do Sul
+rtmp://srvvenus.canaldoboi.com/liveac/livestream
+#EXTINF:0 group-title="TVBR",SBA Conexão BR - SAT TV - Campo Grande - MS Mato G do Sul
+rtmp://srvvenus.canaldoboi.com/livecx/livestream
+#EXTINF:0 group-title="TVBR",SBA Novo Canal - SAT TV - Campo Grande - MS Mato G do Sul
+rtmp://srvvenus.canaldoboi.com/livenc/livestream
+#EXTINF:0 group-title="TVBR",SBA Canal do Boi - NET23 TV - Campo Grande - MS Mato G do Sul
+rtmp://srvvenus.canaldoboi.com/livecb/livestream
+#EXTINF:0 group-title="TVBR",ZYQ722 Record 10.1 - 38 TV - Cuiabá - MT Mato Grosso
+rtmp://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp
+#EXTINF:0 group-title="TVBR",ZYB206 Nazaré 30.1 - 31 TV - Belém - PA Pará
+rtsp://streaming.fundacaonazare.com.br/fnc
+#EXTINF:0 group-title="TVBR",ZYB202 Cultura 2.1 - 41 TV - Belém - PA Pará
+rtmp://177.74.1.38:80/funtelpa/tv_funtelpa
+#EXTINF:0 group-title="TVBR",TV Ponta Negra - 5 TV - Santarém - PA Pará
+http://iphone-streaming.ustream.tv/ustreamVideo/17127053/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVBR",ZYB278 Itararé 19.1 - 18 TV - Campina Grande - PB Paraíba
+rtmp://177.73.84.38/livepkgr/tv
+#EXTINF:0 group-title="TVBR",ZYB275 Borborema 9.1 - 30 TV - Campina Grande - PB Paraíba
+http://rtmp.cdn.upx.net.br/00161-1/myStream.sdp/playlist.m3u8
+#EXTINF:0 group-title="TVBR",ZYB272 Clube 10.1 - 16 TV - João Pessoa - PB Paraíba
+rtmp://rtmp.cdn.upx.net.br/00161-1/myStream.sdp
+#EXTINF:0 group-title="TVBR",ZYB274 Correio 12.1 - 17 TV - João Pessoa - PB Paraíba
+rtmp://174.37.99.198/dvrid1816/1816
+#EXTINF:0 group-title="TVBR",ZYB277 Arapuan 14.1 - 23 TV - João Pessoa - PB Paraíba
+rtmp://mediacp.ciclanohost.com.br:1935/8064/8064
+#EXTINF:0 group-title="TVBR",RCTV - NET27 TV - João Pessoa - PB Paraíba
+rtmp://flash1.crossdigital.com.br/491/491
+#EXTINF:0 group-title="TVBR",ZYB338 TV Jornal 2.1 - 35 TV - Recife - PE Pernambuco
+rtmp://evp.mm.uol.com.br/ne10/ne10-tvjornal-recife-video-web.sdp
+#EXTINF:0 group-title="TVBR",Assembleia - 16 TV - Teresina - PI Piauí
+rtmp://wse.transmissaodigital.com:1935/ronaldo537/ronaldo537
+#EXTINF:0 group-title="TVBR",ZYB351 CidadeVerde 5 - 28 TV - Teresina - PI Piauí
+http://192.99.46.182:1935/pioneira-tv/pioneira-tv/live.m3u8
+#EXTINF:0 group-title="TVBR",ZYB423 TV Antares - 22 TV - Arapongas - PR Paraná
+rtmp://srv3.zoeweb.tv/z99-live/stream
+#EXTINF:0 group-title="TVBR",RTV - 36 TV - Cambé - PR Paraná
+rtmp://173.236.10.10:1935/portalcambe/portalcambe
+#EXTINF:0 group-title="TVBR",ZYB420 CATVE - 20 TV - Cascavel - PR Paraná
+rtmp://wowza.catve.com.br/live/livestream
+#EXTINF:0 group-title="TVBR",ZYB397 Tarobá 6.1 - 36 TV - Cascavel - PR Paraná
+rtmp://mistreaming.com.br/TarobaCascavelDVR/TarobaCascavelDVR
+#EXTINF:0 group-title="TVBR",ZYB418 Mercosul 21.1 - 22 TV - Curitiba - PR Paraná
+rtmp://a1.fabricahost.com.br/redemercosul/redemercosul
+#EXTINF:0 group-title="TVBR",ZYB403 RIC TV 7.1 - 34 TV - Curitiba - PR Paraná
+rtmp://69.46.0.170/ricpr/ric.sdp
+#EXTINF:0 group-title="TVBR",ZYB410 e-Paraná 9.1 - 36 TV - Curitiba - PR Paraná
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:0 group-title="TVBR",Transamérica - 59 TV - Curitiba - PR Paraná
+rtmp://flash1.crossdigital.com.br/ponto2/transamerica2
+#EXTINF:0 group-title="TVBR",ZYB404 Sudoeste 7.1 - 49 TV - Pato Branco - PR Paraná
+rtmp://108.168.158.146:1935/live/mp4:tvsudoeste_source
+#EXTINF:0 group-title="TVBR",Luau TV - RCA05 TV - Nova Friburgo - RJ R de Janeiro
+rtmp://flashmedia.hospedagemdesite.com/luautv/aovivo/livestream
+#EXTINF:0 group-title="TVBR",Nova TV - RCA14 TV - Nova Friburgo - RJ R de Janeiro
+rtmp://wowza.netpoint.com.br/wendel/live
+#EXTINF:0 group-title="TVBR",TVI Vila Imperial - 19 TV - Petrópolis - RJ R de Janeiro
+rtmp://fml.9619.edgecastcdn.net/209619/stream
+#EXTINF:0 group-title="TVBR",ZYB512 SBT 11.1 - 24 TV - Rio de Janeiro - RJ R de Janeiro
+rtmp://80.82.78.16/online/sbt
+#EXTINF:0 group-title="TVBR",ZYB513 Record 13.1 - 39 TV - Rio de Janeiro - RJ R de Janeiro
+rtmp://107.152.104.6/app/recordrjs-channel
+#EXTINF:0 group-title="TVBR",ZYB531 NGT 26.1 - 45 TV - Rio de Janeiro - RJ R de Janeiro
+http://iphone-streaming.ustream.tv/ustreamVideo/14419615/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVBR",CJC - 59 TV - Rio de Janeiro - RJ R de Janeiro
+rtmp://flash1.crossdigital.com.br/ponto85/ongrace
+#EXTINF:0 group-title="TVBR",TCM - NET10 TV - Mossoró - RN R G do Norte
+rtmp://177.154.192.30/live/canal10
+#EXTINF:0 group-title="TVBR",ZYB567 RedeTV 17.1 - 16 TV - Natal - RN R G do Norte
+http://iphone-streaming.ustream.tv/ustreamVideo/18388615/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVBR",ZYB561 P Negra 13.1 - 36 TV - Natal - RN R G do Norte
+rtmp://mediacenter.tvpontanegra.com.br/live/livestream
+#EXTINF:0 group-title="TVBR",TV Assembleia 51.3 - 51 TV - Natal - RN R G do Norte
+rtmp://srv6.zoeweb.tv:1935/z627-live/stream
+#EXTINF:0 group-title="TVBR",TV Natal - NET12 TV - Natal - RN R G do Norte
+http://iphone-streaming.ustream.tv/ustreamVideo/17104844/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVBR",TV União - NET26 TV - Natal - RN R G do Norte
+rtmp://38.96.175.108/tvuniao/tvuniao
+#EXTINF:0 group-title="TVBR",TV Mix Brasil - NET27 TV - Natal - RN R G do Norte
+rtmp://184.172.23.109:1935/live/tvmix02/tvmix02
+#EXTINF:0 group-title="TVBR",TV Candelária - 11 TV - Porto Velho - RO Rondônia
+rtmp://cast2.player.tv.br/8126/8126
+#EXTINF:0 group-title="TVBR",ZYB596 SGC Rede TV - 17 TV - Porto Velho - RO Rondônia
+http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
+#EXTINF:0 group-title="TVBR",ZYB638 UCS - 27 TV - Caxias do Sul - RS Rio G do Sul
+http://mistreaming.com.br:1935/ucstvDVR/ucstvDVR/playlist.m3u8
+#EXTINF:0 group-title="TVBR",Caxias - NET14 TV - Caxias do Sul - RS Rio G do Sul
+rtmp://177.183.40.23:5119/live/tvcaxias
+#EXTINF:0 group-title="TVBR",Cidade - NET20 TV - Pelotas - RS Rio G do Sul
+rtmp://streaming2.inforede.inf.br/c1076ev2932/aovivo
+#EXTINF:0 group-title="TVBR",ZYB621 TVE RS - 7 TV - Porto Alegre TV - RS Rio G do Sul
+rtmp://s5.procergs.com.br/tve/stve
+#EXTINF:0 group-title="TVBR",ZYB612 TVCOM - 36 TV - Porto Alegre TV - RS Rio G do Sul
+rtmp://32747t.lp.azioncdn.net/2747t/a/access_options/rtmp-live/tvcom.sdp
+#EXTINF:0 group-title="TVBR",ZYB637 Ulbra TV - 48 TV - Porto Alegre TV - RS Rio G do Sul
+rtmp://10041b.ls.azioncdn.net/0041b/a/access_options/rtmp-live/ulbratv.sdp
+#EXTINF:0 group-title="TVBR",TVU Urbana - 55 TV - Porto Alegre TV - RS Rio G do Sul
+rtmp://srv6.zoeweb.tv/z433-live/stream
+#EXTINF:0 group-title="TVBR",UNiTV - NET15 TV - Porto Alegre TV - RS Rio G do Sul
+http://unitvaovivo.ufrgs.br:8080/live.flv
+#EXTINF:0 group-title="TVBR",Canal Rural - NET35 TV - Porto Alegre TV - RS Rio G do Sul
+rtmp://37149o.ls.azioncdn.net:80/7149o/a/canal_rural.sdp
+#EXTINF:0 group-title="TVBR",Campus - NET15 TV - Santa Maria - RS Rio G do Sul
+http://200.18.45.14/hls-live/livepkgr/_definst_/videos.m3u8
+#EXTINF:0 group-title="TVBR",ZYB785 ARTV - 5 TV - Araranguá - SC Sta Catarina
+rtmp://midia.contato.net/live/artv5/livestream
+#EXTINF:0 group-title="TVBR",TV Mocinha - CCS08 TV - Balnrio Camboriú - SC Sta Catarina
+rtmp://173.236.10.10:1935/tvmocinha/tvmocinha
+#EXTINF:0 group-title="TVBR",Galega - NET07 TV - Blumenau - SC Sta Catarina
+http://iphone-streaming.ustream.tv/ustreamVideo/19206716/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVBR",TV Brusque - 21 TV - Brusque - SC Sta Catarina
+rtmp://179.107.83.10/live/tvbrusque
+#EXTINF:0 group-title="TVBR",RTV Canal 19 - 19 TV - Criciúma - SC Sta Catarina
+http://wz6.dnip.com.br/rtvcriciuma/rtvcriciuma.sdp/playlist.m3u8
+#EXTINF:0 group-title="TVBR",Litoral Sul - NET20 TV - Criciúma - SC Sta Catarina
+rtmp://app.w7virtual.com/canal20/canal20_250
+#EXTINF:0 group-title="TVBR",TVAL Legislativa - NET16 TV - Florianópolis - SC Sta Catarina
+rtsp://tval.alesc.sc.gov.br/tval
+#EXTINF:0 group-title="TVBR",TVCOM - NET36 TV - Florianópolis - SC Sta Catarina
+rtmp://32747t.lp.azioncdn.net/2747t/a/access_options/rtmp-live/tvcom-sc.sdp
+#EXTINF:0 group-title="TVBR",ZYB833 Canção Nova - 13 TV - Aracaju - SE Sergipe
+http://cnhls-lh.akamaihd.net/i/cnhls_1@147036/master.m3u8
+#EXTINF:0 group-title="TVBR",Cidade - 20 TV - Aracaju - SE Sergipe
+http://d22fash3pgubk9.cloudfront.net/tvcidade/aovivo1/playlist.m3u8
+#EXTINF:0 group-title="TVBR",TV Alese - NET16 TV - Aracaju - SE Sergipe
+rtsp://midia.infonet.com.br/tvalese
+#EXTINF:0 group-title="TVBR",ZYB905 Aparecida - 59 TV - Aparecida - SP São Paulo
+rtmp://caikrondatacenter.com.br/tvaparecida/tvaparecida.stream
+#EXTINF:0 group-title="TVBR",ZYB879 SBT Interior - 7 TV - Araçatuba - SP São Paulo
+http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.m3u8
+#EXTINF:0 group-title="TVBR",Rede Família - 8 TV - Campinas - SP São Paulo
+rtsp://srv3.ntelecom.com.br/redefamilia
+#EXTINF:0 group-title="TVBR",ZYB898 Século 21 - 53 TV - Campinas - SP São Paulo
+http://257920-lh.akamaihd.net/i/TVSeculo21_hls@145741/master.m3u8
+#EXTINF:0 group-title="TVBR",TV Mundo Maior - 78CTV - Guarulhos - SP São Paulo
+rtmp://flash.asaweb.com.br/8306/8306
+#EXTINF:0 group-title="TVBR",Novo Tempo - 30 TV - Jacareí - SP São Paulo
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/master.m3u8
+#EXTINF:0 group-title="TVBR",ZYB913 Rede Paulista - 14 TV - Jundiaí - SP São Paulo
+rtmp://fml.1826F.edgecastcdn.net/201826F/stream3295
+#EXTINF:0 group-title="TVBR",ZYB920 TVT - 46 TV - Mogi das Cruzes - SP São Paulo
+http://livela.sambatech.com.br/hls-live/livepkgr/tvt_56fc38e9793ca9941f5203fab6e01263/liveevent/livestream.m3u8
+#EXTINF:0 group-title="TVBR",TV Cidade - NET08 TV - Osasco - SP São Paulo
+rtmp://stream01.msolutionbrasil.com.br/tvcidadenet/live
+#EXTINF:0 group-title="TVBR",ZYB912 Santa Cecília - 52 TV - Santos - SP São Paulo
+rtmp://flash1.crossdigital.com.br/2063/2063
+#EXTINF:0 group-title="TVBR",Chef TV - CTV - São Paulo TV - SP São Paulo
+rtmp://flashd.localmidia.com.br/cheftv/aovivo
+#EXTINF:0 group-title="TVBR",ZYB855 SBT - 4 TV - São Paulo TV - SP São Paulo
+rtmp://104.200.159.78/app/ricardo-marianos-channel
+#EXTINF:0 group-title="TVBR",ZYB850 Globo - 5 TV - São Paulo TV - SP São Paulo
+http://62.210.83.152:1935/liverepeat/101010/playlist.m3u8
+#EXTINF:0 group-title="TVBR",ZYB854 Record - 7 TV - São Paulo TV - SP São Paulo
+rtmp://80.82.78.16/online/record
+#EXTINF:0 group-title="TVBR",ZYB863 Rede TV - 9 TV - São Paulo TV - SP São Paulo
+rtmp://evp.mm.uol.com.br/redetv1/redetv1
+#EXTINF:0 group-title="TVBR",ZYB851 Cultura 2.1 - 24 TV - São Paulo TV - SP São Paulo
+rtmp://200.136.27.12/livepkgr/tvcultura4
+#EXTINF:0 group-title="TVBR",ZYB851 Univesp 2.2 - 24 TV - São Paulo TV - SP São Paulo
+rtmp://200.136.27.12/live/univesptv
+#EXTINF:0 group-title="TVBR",Rede Vida - 34 TV - São Paulo TV - SP São Paulo
+rtmp://rtmp.cdn.upx.net.br:80/74cc/myStream.sdp
+#EXTINF:0 group-title="TVBR",RIT - 40 TV - São Paulo TV - SP São Paulo
+rtmp://flash1.crossdigital.com.br/ponto79/ongrace
+#EXTINF:0 group-title="TVBR",Rede Brasil - 50 TV - São Paulo TV - SP São Paulo
+rtmp://78.46.36.212/redebrasiltv/redebrasiltv
+#EXTINF:0 group-title="TVBR",ZYB887 Rede Gospel - 53 TV - São Paulo TV - SP São Paulo
+http://media.igospel.com.br:1935/live/redegospel/waldo_paes.m3u8
+#EXTINF:0 group-title="TVBR",STZ TV - 59 TV - Sertãozinho - SP São Paulo
+rtmp://pge0907stz35.nethorizontes.tv/pge0907stz35/stzwebtv
+
+#EXTINF:0 group-title="TVCA",CFRN 12.1 CTV - 12 DT - Edmonton - AB Alberta
+http://198.179.31.198/live/2053.high.stream/2053.high.stream/index.m3u8
+#EXTINF:0 group-title="TVCA",CFCN-5 13.1 CTV - 13 DT - Lethbridge - AB Alberta
+http://198.179.31.198/live/2059.high.stream/2059.high.stream/index.m3u8
+#EXTINF:0 group-title="TVCA",CJIL 17.1 Miracle - 17 DT - Lethbridge - AB Alberta
+rtmp://miraclechannel.flash.internapcdn.net/miraclechannel/live_1/miraclechannel
+#EXTINF:0 group-title="TVCA",CHCH 11.1 News HD - 15 DT - Hamilton - ON Ontario
+http://54.85.197.21/live/news/playlist.m3u8
+#EXTINF:0 group-title="TVCA",CKWS 11.1 CTV - 11 TV - Kingston - ON Ontario
+http://2923.live.streamtheworld.com/CKWS
+#EXTINF:0 group-title="TVCA",The Weather Network - CTV - Oakville - ON Ontario
+http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer5.m3u8
+#EXTINF:0 group-title="TVCA",TSC TV - TV - Ottawa - ON Ontario
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:0 group-title="TVCA",CPAC Political - 24 TV - Ottawa - ON Ontario
+http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/master.m3u8
+#EXTINF:0 group-title="TVCA",Métrovision - TV - Montréal - QC Quebec
+rtmp://cp228779.live.edgefcs.net/live/metrovision_live@138690
+#EXTINF:0 group-title="TVCA",RDI Express - TV - Montréal - QC Quebec
+rtmp://cp86675.live.edgefcs.net:1935/live/RDI_TV@49158
+#EXTINF:0 group-title="TVCA",TVA Nouvelles - TV - Montréal - QC Quebec
+rtmp://cp39414.live.edgefcs.net/live/lcn1@9753/lcn1@9753
+#EXTINF:0 group-title="TVCA",Vision TV - TV - Montréal - QC Quebec
+rtmp://cp101680.live.edgefcs.net/live/livev_1@50832
+#EXTINF:0 group-title="TVCA",ARGENT - CTV - Montréal - QC Quebec
+rtmp://cp39414.live.edgefcs.net/live/argent@9751/argent@9751
+#EXTINF:0 group-title="TVCA",TVA - CTV - Montréal - QC Quebec
+http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
+#EXTINF:0 group-title="TVCA",TVA Sports - CTV - Montréal - QC Quebec
+rtmp://cp39414.live.edgefcs.net/live/shoptva@9752/shoptva@9752
+#EXTINF:0 group-title="TVCA",CFHD ICI - 47 DT - Montréal - QC Quebec
+http://flowcaster1.cdn.clearcable.net:1935/icilive/icitv/master.m3u8
+#EXTINF:0 group-title="TVCA",CJNT 62.1 City - 49 TV - Montréal - QC Quebec
+http://btflash-lh.akamaihd.net/i/BTMTLFLASH_live@120220/master.m3u8
+#EXTINF:0 group-title="TVCA",CKCK 2.1 CTV - 8 DT - Regina - SK Saskatchewan
+http://198.179.31.198/live/2056.high.stream/2056.high.stream/index.m3u8
+#EXTINF:0 group-title="TVCA",CICC CTV - 10 TV - Yorkton - SK Saskatchewan
+http://198.179.31.198/live/2062.high.stream/2062.high.stream/index.m3u8
+
+#EXTINF:0 group-title="TVCL",Estudio TV - TV - Santiago  TV - Metropolitana
+http://190.107.176.167:1935/live/estudio-tv/playlist.m3u8
+#EXTINF:0 group-title="TVCL",Pura TV - TV - Santiago  TV - Metropolitana
+http://movilstream.digitalproserver.com/puranoti/puranotivivo/puranoti.smil/playlist.m3u8
+#EXTINF:0 group-title="TVCL",SubTV - TV - Santiago  TV - Metropolitana
+mmsh://190.196.9.186:8080/subtv
+#EXTINF:0 group-title="TVCL",UESTV - TV - Santiago  TV - Metropolitana
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+#EXTINF:0 group-title="TVCL",Teletrak - CTV - Santiago  TV - Metropolitana
+http://movilstream.digitalproserver.com/sporting/sportingvivo/sporting.smil/playlist.m3u8
+#EXTINF:0 group-title="TVCL",24 Horas Cam - 14CTV - Santiago  TV - Metropolitana
+http://edge-51-cl.edge.mdstrm.com/tvn-live/smil:b19cd9ff05e2134cadc1a2a49fbacbf3/chunklist_b800000.m3u8
+#EXTINF:0 group-title="TVCL",Nuevo Tiempo - 25 TV - Santiago  TV - Metropolitana
+http://wow1.dallas.digitalproserver.com/ntiempo/ntiempovivo/livestream1/master.m3u8
+#EXTINF:0 group-title="TVCL",Liv TV - 54 TV - Santiago  TV - Metropolitana
+http://cdn.ztreaming.com/tustreaming/live2/playlist.m3u8
+#EXTINF:0 group-title="TVCL",CDTV Diputados - 64CTV - Santiago  TV - Metropolitana
+http://cl.origin.grupoz.cl/cddp1/live/playlist.m3u8
+#EXTINF:0 group-title="TVCL",TV Senado - 95CTV - Santiago  TV - Metropolitana
+http://janus-tv-jhs.senado.cl/jhs/tvsenado-sd/1446854400/1446904800/tvsenado-sd_1446907791.flv
+#EXTINF:0 group-title="TVCL",[13.1] 13 - 24 TV - Santiago  TVD - Metropolitana
+http://13.live.cdn.cl/13hddesktop/13hd-desktop.m3u8
+#EXTINF:0 group-title="TVCL",[9.1] Mega - 27 TV - Santiago  TVD - Metropolitana
+http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
+#EXTINF:0 group-title="TVCL",[4.1] La Red - 28 TV - Santiago  TVD - Metropolitana
+http://wow1.dallas.digitalproserver.com/redtv/redtvvivo/livestream1/master.m3u8
+#EXTINF:0 group-title="TVCL",[11.1] CHV - 30 TV - Santiago  TVD - Metropolitana
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
+#EXTINF:0 group-title="TVCL",[7.1] TVN - 33 TV - Santiago  TVD - Metropolitana
+http://edge-81-cl.edge.mdstrm.com/tvn-live/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:0 group-title="TVCL",[1.1] bbTV - 39 TV - Santiago  TVD - Metropolitana
+http://movilstream.digitalproserver.com/bbtvscl/bbtvsclvivo/bbtvscl.smil/playlist.m3u8
+#EXTINF:0 group-title="TVCL",Independencia TV - 9 TV - Independencia - Metropolitana
+http://evo.eltelon.com:443/live/independencia-tv/playlist.m3u8
+#EXTINF:0 group-title="TVCL",Maipú TV - TV - Maipú - Metropolitana
+http://movilstream.digitalproserver.com/maipu/maipuvivo/maipu.smil/playlist.m3u8
+#EXTINF:0 group-title="TVCL",Telemel - 16CTV - Melipilla - Metropolitana
+http://iphone-streaming.ustream.tv/ustreamVideo/21128102/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVCL",Canal ISB - TV - San Bernardo - Metropolitana
+http://movilstream.digitalproserver.com/isb/isbvivo/isb.smil/playlist.m3u8
+#EXTINF:0 group-title="TVCL",XRA102 RTC - 26 TV - Iquique - 01 I Región
+http://iphone-streaming.ustream.tv/ustreamVideo/18668523/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVCL",[32.1] ATV HD - 32 TV - Antofagasta - 02 II Región
+http://movilstream.digitalproserver.com/atv/atvvivo/atv.smil/playlist.m3u8
+#EXTINF:0 group-title="TVCL",[25.1] Holvoet HD - 25 TV - Copiapó - 03 III Región
+http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/playlist.m3u8
+#EXTINF:0 group-title="TVCL",[22.1] Más HD - 22 TV - La Serena - 04 IV Región
+http://video.crearchile.com:8080/live/mp4:serena.mp4/playlist.m3u8
+#EXTINF:0 group-title="TVCL",[25.1] VTV2 Valle HD - 25 TV - Los Andes - 05 V Región
+rtmp://flashmedia.aconcaguared.com/live/live_605537_nhAdU2RY
+#EXTINF:0 group-title="TVCL",[2.1] Canal 2 HD - 25 TV - San Antonio - 05 V Región
+http://video.crearchile.com:8080/live/mp4:canal2.mp4/playlist.m3u8
+#EXTINF:0 group-title="TVCL",Quinta Visión - 9CTV - Viña del Mar - 05 V Región
+http://iphone-streaming.ustream.tv/ustreamVideo/2950729/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVCL",Cesfam TV - TV - Las Cabras - 06 VI Región
+http://evo.eltelon.com:443/live/cesfamtv/playlist.m3u8
+#EXTINF:0 group-title="TVCL",Telecanal - 11 TV - Santa Cruz - 06 VI Región
+http://movilstream.digitalproserver.com/tcsc/tcscvivo/tcsc.smil/playlist.m3u8
+#EXTINF:0 group-title="TVCL",CNC - 11CTV - Santa Cruz - 06 VI Región
+http://audio.streaminghd.cl/8014/8014/playlist.m3u8
+#EXTINF:0 group-title="TVCL",[21.1] ContivisiónHD - 21 TV - Constitución - 07 VII Región
+http://evo.eltelon.com:443/live/contivision/playlist.m3u8
+#EXTINF:0 group-title="TVCL",[25.1] CDN HD - 25 TV - Curicó - 07 VII Región
+http://movilstream.digitalproserver.com/tccr/tccrvivo/tccr.smil/playlist.m3u8
+#EXTINF:0 group-title="TVCL",Canal 5 - 5 TV - Linares - 07 VII Región
+rtmp://v1.streaminglatinoamerica.com/canal5/canal5
+#EXTINF:0 group-title="TVCL",[25.1] Campus HD - 25 TV - Talca - 07 VII Región
+http://movilstream.digitalproserver.com/campustv/campustvvivo/campustv.smil/playlist.m3u8
+#EXTINF:0 group-title="TVCL",Canal 21 - 21 TV - Chillán - 08 VIII Región
+rtmp://streamradiohd.com/8134/8134
+#EXTINF:0 group-title="TVCL",TV8 - 8CTV - Concepción - 08 VIII Región
+http://movilstream.digitalproserver.com/tv8/tv8vivo/tv8.smil/playlist.m3u8
+#EXTINF:0 group-title="TVCL",Bío Bío - 9 TV - Concepción - 08 VIII Región
+http://movilstream.digitalproserver.com/c9/c9vivo/c9.smil/playlist.m3u8
+#EXTINF:0 group-title="TVCL",[11.1] tvu HD - 25 TV - Concepción - 08 VIII Región
+http://movilstream.digitalproserver.com/tvu/tvuvivo/tvu.smil/playlist.m3u8
+#EXTINF:0 group-title="TVCL",TV Lota - 4CTV - Lota - 08 VIII Región
+http://190.107.176.167:1935/live/tv4-television/playlist.m3u8
+
+#EXTINF:0 group-title="TVCL",Pucón TV - 5 TV - Pucón - 09 IX Región
+http://evo.eltelon.com:443/live/pucon-tv/playlist.m3u8
+#EXTINF:0 group-title="TVCL",[25.1] UA HD - 25 TV - Temuco - 09 IX Región
+http://movilstream.digitalproserver.com/uautonoma/uautonomavivo/uautonoma.smil/playlist.m3u8
+#EXTINF:0 group-title="TVCL",Canal 33 - 33 TV - Temuco - 09 IX Región
+http://evo.eltelon.com:443/live/canal-33/playlist.m3u8
+#EXTINF:0 group-title="TVCL",Canal 5 - 5 TV - Puerto Montt - 10 X Región
+http://iphone-streaming.ustream.tv/ustreamVideo/16911585/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVCL",[25.1] Inet HD - 25 TV - Puerto Montt - 10 X Región
+http://movilstream.digitalproserver.com/inetosorno/inetosornovivo/inetosorno.smil/playlist.m3u8
+#EXTINF:0 group-title="TVCL",Rocco TV - 4 TV - Coyhaique - 11 XI Región
+http://evo.eltelon.com:443/live/rocco-tv/playlist.m3u8
+#EXTINF:0 group-title="TVCL",Telesur ATV - 5 TV - Puerto Aysén - 11 XI Región
+http://movilstream.digitalproserver.com/aysentv/aysentvvivo/aysentv.smil/playlist.m3u8
+#EXTINF:0 group-title="TVCL",C 11 TV Aysén - 11 TV - Puerto Aysén - 11 XI Región
+http://v1.tustreaming.cl:1935/aysentv/aysentv/playlist.m3u8
+
+#EXTINF:0 group-title="TVCL",Pingüino TV - 4 TV - Punta Arenas - 12 XII Región
+rtmp://streaming.elpinguino.com:1935/live/pinguinotv_360p
+#EXTINF:0 group-title="TVCL",[25.1] ITV HD - 29 TV - Punta Arenas - 12 XII Región
+http://movilstream.digitalproserver.com/itv/itvvivo/itv.smil/playlist.m3u8
+#EXTINF:0 group-title="TVCL",[25.2] UMAG TV - 29 TV - Punta Arenas - 12 XII Región
+http://movil.ztreaming.com/tser5/tser5.sdp/playlist.m3u8
+#EXTINF:0 group-title="TVCL",TV Red - 31CTV - Punta Arenas - 12 XII Región
+rtmp://69.164.193.177:1935/live/myStream
+#EXTINF:0 group-title="TVCL",[25.1] MorrovisiónHD - 25 TV - Arica - 15 XV Región
+http://video.crearchile.com:8080/live/mp4:morrovision.mp4/playlist.m3u8
+#EXTINF:0 group-title="TVCL",Arica TV - 12 CTV - Arica - 15 XV Región
+http://movilstream.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/playlist.m3u8
+#EXTINF:0 group-title="TVCL",XQA016 Cappissima - 104.9 TV - Arica - 15 XV Región
+http://scl.streaminghd.cl/8032/8032/playlist.m3u8
+
+#EXTINF:0 group-title="TVCO",Cable Noticias - CTV - Sta Fe de Bogotá - Dto Capital TV
+rtmp://50.23.173.13:1935/live/cablenoticiastv_720p
+#EXTINF:0 group-title="TVCO",El Tiempo TV - CTV - Sta Fe de Bogotá - Dto Capital TV
+http://ooyalahd2-f.akamaihd.net/i/eltiempo1avts@1603/master.m3u8
+#EXTINF:0 group-title="TVCO",Hogar TV - STV - Sta Fe de Bogotá - Dto Capital TV
+http://xhogartvx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0 group-title="TVCO",Canal Capital - 2 TV - Sta Fe de Bogotá - Dto Capital TV
+http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/1.m3u8
+#EXTINF:0 group-title="TVCO",Caracol - 5 TV - Sta Fe de Bogotá - Dto Capital TV
+http://caracoltvlivehds-lh.akamaihd.net/i/caracol02_1@126280/master.m3u8
+#EXTINF:0 group-title="TVCO",Canal Uno 27.1 - 7 TV - Sta Fe de Bogotá - Dto Capital TV
+http://cdns840stu1010.multistream.net/rtvcCanalUNOlive/amlst:live/1.m3u8
+#EXTINF:0 group-title="TVCO",Señal Institucional - 9 TV - Sta Fe de Bogotá - Dto Capital TV
+http://cdns840stu1010.multistream.net/rtvclive/amlst:live/master.m3u8
+#EXTINF:0 group-title="TVCO",Canal TR3CE - 13 TV - Sta Fe de Bogotá - Dto Capital TV
+http://cdns840stu1010.multistream.net/canaltr3celive/amlst:live/master.m3u8
+#EXTINF:0 group-title="TVCO",Teleamiga - 45 TV - Sta Fe de Bogotá - Dto Capital TV
+http://cdns840stu1010.multistream.net/teleamigalive/amlst:live/master.m3u8
+#EXTINF:0 group-title="TVCO",CMB - 49 TV - Sta Fe de Bogotá - Dto Capital TV
+http://control2.worldkast.com:1935/cmb/ngrp:cmb_all/playlist.m3u8
+#EXTINF:0 group-title="TVCO",DC TV - 53 TV - Sta Fe de Bogotá - Dto Capital TV
+rtmp://cdns840stu1010.multistream.net/stream1215live/live-250
+#EXTINF:0 group-title="TVCO",TVN - 11CTV - Bello - Antioquia
+http://iphone-streaming.ustream.tv/ustreamVideo/14895057/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVCO",Viboral TV - CTV - El C de Viboral - Antioquia
+http://xviboraltvstreamx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0 group-title="TVCO",Canal UNE - CTV - Medellín - Antioquia
+http://uneapple-i.akamaihd.net/hls/live/207646/grupoune_st27@207646/st27_1.m3u8
+#EXTINF:0 group-title="TVCO",Click - CTV - Medellín - Antioquia
+http://uneapple-i.akamaihd.net/hls/live/206577/grupoune_st19@206577/st19_1.m3u8
+#EXTINF:0 group-title="TVCO",Cosmovisión - CTV - Medellín - Antioquia
+http://uneapple-i.akamaihd.net/hls/live/206415/grupoune_st14@206415/st14_1.m3u8
+#EXTINF:0 group-title="TVCO",Life Design - CTV - Medellín - Antioquia
+rtmp://edge.wms28.lorini.net/ldtv/ldtv
+#EXTINF:0 group-title="TVCO",Mi Musica HD - CTV - Medellín - Antioquia
+http://uneapple-i.akamaihd.net/hls/live/206731/grupoune_st20@206731/st20_1.m3u8
+#EXTINF:0 group-title="TVCO",Televentas - CTV - Medellín - Antioquia
+http://uneapple-i.akamaihd.net/hls/live/206413/grupoune_st12@206413/st12_1.m3u8
+#EXTINF:0 group-title="TVCO",Televentas Mio - CTV - Medellín - Antioquia
+http://uneapple-i.akamaihd.net/hls/live/205011/grupoune_st2@205011/st2_1.m3u8
+#EXTINF:0 group-title="TVCO",Tigo MusicHD - CTV - Medellín - Antioquia
+http://uneapple-i.akamaihd.net/hls/live/215955/grupoune_st44@215955/st44_1.m3u8
+#EXTINF:0 group-title="TVCO",Trendy Channel - CTV - Medellín - Antioquia
+http://uneapple-i.akamaihd.net/hls/live/205019/grupoune_st10@205019/st10_1.m3u8
+#EXTINF:0 group-title="TVCO",TV Agro - CTV - Medellín - Antioquia
+http://uneapple-i.akamaihd.net/hls/live/205015/grupoune_st6@205015/st6_1.m3u8
+#EXTINF:0 group-title="TVCO",Vmas+ - CTV - Medellín - Antioquia
+http://uneapple-i.akamaihd.net/hls/live/207642/grupoune_st23@207642/st23_1.m3u8
+#EXTINF:0 group-title="TVCO",Yes - CTV - Medellín - Antioquia
+http://uneapple-i.akamaihd.net/hls/live/205010/grupoune_st1@205010/st1_1.m3u8
+#EXTINF:0 group-title="TVCO",Teleantioquia - 5 TV - Medellín - Antioquia
+http://uneapple-i.akamaihd.net/hls/live/205013/grupoune_st4@205013/st4_1.m3u8
+#EXTINF:0 group-title="TVCO",CNC - 12CTV - Medellín - Antioquia
+http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/canalcnc1.m3u8
+#EXTINF:0 group-title="TVCO",Telemedellín - 31 TV - Medellín - Antioquia
+http://uneapple-i.akamaihd.net/hls/live/206414/grupoune_st13@206414/st13_1.m3u8
+#EXTINF:0 group-title="TVCO",Canal U - 35 TV - Medellín - Antioquia
+http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0 group-title="TVCO",Tele VID - 42 TV - Medellín - Antioquia
+http://uneapple-i.akamaihd.net/hls/live/205018/grupoune_st9@205018/st9_1.m3u8
+#EXTINF:0 group-title="TVCO",ZOOM TV - CTV - Barranquilla - Atlántico
+http://xcanalzoomtvx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0 group-title="TVCO",Telecaribe - 7 TV - Barranquilla - Atlántico
+rtmp://cdns840stu1010.multistream.net/telecaribelive/live-750
+#EXTINF:0 group-title="TVCO",Telecafé - 7 TV - Manizales - Caldas
+http://uneapple-i.akamaihd.net/hls/live/206417/grupoune_st16@206417/st16_1.m3u8
+#EXTINF:0 group-title="TVCO",Notivisión - TV - Popayán - Cauca
+rtmp://190.146.87.56/oflaDemo/livestream
+#EXTINF:0 group-title="TVCO",Nortevisión TV - 2CTV - Montería - Córdoba
+rtmp://108.168.207.154/live/myStream
+#EXTINF:0 group-title="TVCO",Campo TV - TV - Santa Marta - Magdalena
+http://iphone-streaming.ustream.tv/ustreamVideo/12219727/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVCO",CNC - TV - Pereira - Risaralda
+http://iphone-streaming.ustream.tv/ustreamVideo/5958141/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVCO",Enlace TV - TV - Barrancabermeja - Santander
+rtmp://stream2.livestreamingservices.com/tvenlace/tvenlace
+#EXTINF:0 group-title="TVCO",Canal TRO - 7 TV - Bucaramanga - Santander
+rtmp://cdns840stu1010.multistream.net/canaltro2live/live-200
+#EXTINF:0 group-title="TVCO",Canal Doce - TV - Sincelejo - Sucre
+http://iphone-streaming.ustream.tv/ustreamVideo/16935976/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVCO",PC TV - TV - Ibagué - Tolima
+http://iphone-streaming.ustream.tv/ustreamVideo/10554562/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVCO",Canal C - TV - Cali - Valle del Cauca
+http://iphone-streaming.ustream.tv/ustreamVideo/18726481/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVCO",Telepacífico - 11 TV - Cali - Valle del Cauca
+rtmp://cdns840stu1010.multistream.net:1935/telepacificolive/live-300
+#EXTINF:0 group-title="TVCO",Canal 14 - 14 TV - Cali - Valle del Cauca
+rtmp://cdns840stu1010.multistream.net:1935/canal14live/live-500
+#EXTINF:0 group-title="TVCO",CNC - TV - Palmira - Valle del Cauca
+rtmp://a.iblups.com/lives/KVZ7CKaoP6
+
+#EXTINF:0 group-title="TVCR",Cable Tica Zona Sur - 8CTV - Pérez Zeledón - San José TV
+http://iphone-streaming.ustream.tv/ustreamVideo/9170814/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVCR",TVS Sur - 14 TV - Pérez Zeledón - San José TV
+rtmp://unoredrtmp.tulix.tv:1935/granro/livestream1
+#EXTINF:0 group-title="TVCR",SINART - 13 TV - San José - San José TV
+rtmp://stream02.cyberfuel.com/SinartCanal13/livestream
+#EXTINF:0 group-title="TVCR",UCR TV - 15 TV - San José - San José TV
+rtmp://163.178.101.71/live/canal15envivo
+#EXTINF:0 group-title="TVCR",Enlace TBN - 23 TV - San José - San José TV
+http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/master.m3u8
+#EXTINF:0 group-title="TVCR",Cristo Visión - 31 TV - San José - San José TV
+http://iphone-streaming.ustream.tv/ustreamVideo/19715369/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVCR",Enlace Juvenil - 35 TV - San José - San José TV
+http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
+#EXTINF:0 group-title="TVCR",Telefides - 40 TV - San José - San José TV
+rtmp://stream02.cyberfuel.com/Telefides/livetelefides
+#EXTINF:0 group-title="TVCR",Canal 54 - 54 TV - San José - San José TV
+rtmp://stream02.cyberfuel.com/Canal54/livestream
+#EXTINF:0 group-title="TVCR",CB24 HD - 67 TV - San José - San José TV
+rtmp://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp
+#EXTINF:0 group-title="TVCR",Súper 5 - 5CTV - Grecia - Alajuela
+rtmp://k3.usastreams.com/superC/mp4:superC_2
+#EXTINF:0 group-title="TVCR",Tele Uno - TV - San Ramon - Alajuela
+rtmp://k3.usastreams.com/tvuno1/tvuno1
+
+#EXTINF:0 group-title="TVCU",Cubavisión - 6 TV - Cd de La Habana - Cd La Habana
+rtmp://149.11.34.78/live/cubavision.stream
+#EXTINF:0 group-title="TVCU",TV Marti - 18 TV - Miami - Florida
+rtmp://cp117766.live.edgefcs.net/live/live_high@47386
+
+#EXTINF:0 group-title="TVDO",Naranja TV - CTV - Santo Domingo - Dto Nacional TV
+http://ciez45.live.cloud.influxis.com/ciez45/NaranjaTV/playlist.m3u8
+#EXTINF:0 group-title="TVDO",DMYTV New York - ITV - Santo Domingo - Dto Nacional TV
+http://stream.dominicanyork.tv:1935/dominicanyorktv/DMYTV/playlist.m3u8
+#EXTINF:0 group-title="TVDO",Teleantillas - 2 TV - Santo Domingo - Dto Nacional TV
+http://mek4.mekstream.com/teleantillas/smil:teleantillas.smil/playlist.m3u8
+#EXTINF:0 group-title="TVDO",CERTV - 4 TV - Santo Domingo - Dto Nacional TV
+http://216.24.196.40:1935/live/canal4/playlist.m3u8
+#EXTINF:0 group-title="TVDO",Antena Latina - 7 TV - Santo Domingo - Dto Nacional TV
+http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
+#EXTINF:0 group-title="TVDO",Color Visión - 9 TV - Santo Domingo - Dto Nacional TV
+http://ss7.domint.net:2048/cvis_str/color/playlist.m3u8
+#EXTINF:0 group-title="TVDO",Telesistema - 11 TV - Santo Domingo - Dto Nacional TV
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/playlist.m3u8
+#EXTINF:0 group-title="TVDO",HIND Telecentro - 13 TV - Santo Domingo - Dto Nacional TV
+http://ss7.domint.net:2050/tcc_str/tc13/playlist.m3u8
+#EXTINF:0 group-title="TVDO",Noticias 16 - 16 TV - Santo Domingo - Dto Nacional TV
+http://mek2.mekstream.com/noticias16/smil:noticias16.smil/playlist.m3u8
+#EXTINF:0 group-title="TVDO",Telefuturo - 23 TV - Santo Domingo - Dto Nacional TV
+http://ss7.domint.net:1950/tf_str/futu/playlist.m3u8
+#EXTINF:0 group-title="TVDO",CDN Sportsmax - 28CTV - Santo Domingo - Dto Nacional TV
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+#EXTINF:0 group-title="TVDO",CDN - 37 TV - Santo Domingo - Dto Nacional TV
+http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
+#EXTINF:0 group-title="TVDO",Televida - 41 TV - Santo Domingo - Dto Nacional TV
+http://video2.alojado.com.do:1935/live/ALOJADO_TELEVIDA/playlist.m3u8
+#EXTINF:0 group-title="TVDO",TRA - 45 TV - Santo Domingo - Dto Nacional TV
+http://ss7.domint.net:2068/t45_str/trlive/playlist.m3u8
+#EXTINF:0 group-title="TVDO",Amé TV - 47 TV - Santo Domingo - Dto Nacional TV
+http://asx.domiplay.net:1935/rtplive/ame47.sdp/playlist.m3u8
+#EXTINF:0 group-title="TVDO",TNI - 51 TV - Santo Domingo - Dto Nacional TV
+http://ss7.domint.net:2078/tni_str/canal51/playlist.m3u8
+#EXTINF:0 group-title="TVDO",Telenord - 8 TV - San F de Macorís - Duarte
+http://mek2.mekstream.com/telenord8/smil:telenord8.smil/playlist.m3u8
+#EXTINF:0 group-title="TVDO",Telenord - 10 TV - San F de Macorís - Duarte
+http://mek2.mekstream.com/telenord10/smil:telenord10.smil/playlist.m3u8
+#EXTINF:0 group-title="TVDO",Telenord - 12 TV - San F de Macorís - Duarte
+http://mek2.mekstream.com/telenord12/smil:telenord12.smil/playlist.m3u8
+#EXTINF:0 group-title="TVDO",Telenord - 14 TV - San F de Macorís - Duarte
+http://mek2.mekstream.com/telenord14/smil:telenord14.smil/playlist.m3u8
+#EXTINF:0 group-title="TVDO",Televiaducto - 3CTV - Moca - Espaillat
+http://live-13.viewer.dacast.com/i/dclive_1@155469/master.m3u8
+#EXTINF:0 group-title="TVDO",Moca Visión - 6 TV - Moca - Espaillat
+http://iphone-streaming.ustream.tv/ustreamVideo/10270582/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVDO",TNE - 58CTV - Moca - Espaillat
+http://live-09.viewer.dacast.com/i/dclive_1@139470/master.m3u8
+#EXTINF:0 group-title="TVDO",Cana Visión - 88 TV - Bávaro-PuntaCana - La Altagracia
+rtmp://stream2.livestreamingservices.com:1935/canavision/canavision
+#EXTINF:0 group-title="TVDO",Mia TV - 10 TV - Higüey - La Altagracia
+rtmp://ss7.domint.net:2066/mia_str/mialive
+#EXTINF:0 group-title="TVDO",Nisibón - 10 TV - Higüey - La Altagracia
+http://iphone-streaming.ustream.tv/ustreamVideo/10052015/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVDO",TV Higuey - 12 TV - Higüey - La Altagracia
+http://asx.domiplay.net:1935/rtplive/tvhiguey.sdp/playlist.m3u8
+#EXTINF:0 group-title="TVDO",Cotubanama TV - 36 TV - Higüey - La Altagracia
+http://asx.domiplay.net:1935/rtplive/cotubanama.sdp/playlist.m3u8
+#EXTINF:0 group-title="TVDO",Romana TV - 42 TV - La Romana - La Romana
+http://asx.domiplay.net:1935/rtplive/romanatv.sdp/playlist.m3u8
+#EXTINF:0 group-title="TVDO",Telever - 12 TV - Jarabacoa - La Vega
+rtmp://71.6.201.115:1945/telever/telever.sdp
+#EXTINF:0 group-title="TVDO",La Voz de María - STV - La Vega - La Vega
+rtmp://va1.ministeriotv.com/mtv_video/83/stream
+#EXTINF:0 group-title="TVDO",Microvisión - 10 TV - La Vega - La Vega
+rtmp://m10.tv/microvision/microvision1
+#EXTINF:0 group-title="TVDO",Vega TV - 12 TV - La Vega - La Vega
+http://ss7.domint.net:2084/vtv_str/canal8/playlist.m3u8
+#EXTINF:0 group-title="TVDO",Platinium TV - 50 TV - La Vega - La Vega
+http://asx.domiplay.net:1935/rtplive/canal50.sdp/playlist.m3u8
+#EXTINF:0 group-title="TVDO",Faro Visión - 22 TV - Rio San Juan - Maria T Sanchez
+http://live-18.viewer.dacast.com/i/dclive_1@189257/master.m3u8
+#EXTINF:0 group-title="TVDO",Yuna Visión - 10 TV - Bonao - Monseñor Nouel
+http://ss4.domint.net:1986/yv_str/yuna/playlist.m3u8
+#EXTINF:0 group-title="TVDO",Bonao TV - 12 TV - Bonao - Monseñor Nouel
+http://ss7.domint.net:1988/btv_str/bonao/playlist.m3u8
+#EXTINF:0 group-title="TVDO",Maimón TV - 3 TV - Maimón - Monseñor Nouel
+http://ss7.domint.net:1990/mtv_str/maimon/playlist.m3u8
+#EXTINF:0 group-title="TVDO",Visión 3000 - 3 TV - Bani - Peravia
+http://ss4.domint.net:1968/v3_str/v3000/playlist.m3u8
+#EXTINF:0 group-title="TVDO",Peravia Visión - 8 TV - Bani - Peravia
+http://ss4.domint.net:1966/pv_str/peravia/playlist.m3u8
+#EXTINF:0 group-title="TVDO",Xtra Visión - 10 TV - Guananico - Puerto Plata
+http://iphone-streaming.ustream.tv/ustreamVideo/7661141/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVDO",TV Plata - 3 TV - Puerto Plata - Puerto Plata
+http://s13.streamcp.com:1935/8126/8126/playlist.m3u8
+#EXTINF:0 group-title="TVDO",Musa Visión - 10 TV - Puerto Plata - Puerto Plata
+http://joelzaiter1.srfms.com:1963/live/musav.sdp/playlist.m3u8
+#EXTINF:0 group-title="TVDO",Ocoa Visión - 12CTV - San José de Ocoa - San José de Ocoa
+http://iphone-streaming.ustream.tv/ustreamVideo/16135157/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVDO",Teleunión - 16 TV - Santiago - Santiago TV
+rtmp://50.62.135.164:1945/teleunion/TU
+#EXTINF:0 group-title="TVDO",Telemedios - 25 TV - Santiago - Santiago TV
+http://ss7.domint.net:2074/tdtv_str/vision/playlist.m3u8
+#EXTINF:0 group-title="TVDO",Teleuniverso - 29 TV - Santiago - Santiago TV
+http://ss7.domint.net:1942/tu_str/universo/playlist.m3u8
+#EXTINF:0 group-title="TVDO",Santiago TV - 36CTV - Santiago - Santiago TV
+http://iphone-streaming.ustream.tv/ustreamVideo/18743646/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVDO",Super TV - 55 TV - Santiago - Santiago TV
+http://ss7.domint.net:2022/stv_str/tv55/playlist.m3u8
+#EXTINF:0 group-title="TVDO",TV Recuerdos - 56 TV - Santiago - Santiago TV
+rtmp://media.az-streamingserver.com:1935/7248/7248
+#EXTINF:0 group-title="TVDO",Telecontacto - 57 TV - Santiago - Santiago TV
+http://stream.prostudionetwork.com:1957/telecontacto/TC/playlist.m3u8
+#EXTINF:0 group-title="TVDO",Xtremo Visión - 22 TV - San P de Macorís - Sn P de Macorís
+http://ss4.domint.net:1970/x_str/x-stremo/playlist.m3u8
+#EXTINF:0 group-title="TVDO",Uni TV - 10CTV - Esperanza - Valverde
+http://iphone-streaming.ustream.tv/ustreamVideo/14709981/streams/live/playlist.m3u8
+
+#EXTINF:0 group-title="TVEC",Telesucesos 29.1 - 41 TDT - Quito - Pichincha TDT
+http://iphone-streaming.ustream.tv/ustreamVideo/8120692/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVEC",CN Plus - 3CTV - Quito - Pichincha TV
+http://iphone-streaming.ustream.tv/ustreamVideo/9026145/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVEC",Cable Deportes - 11CTV - Quito - Pichincha TV
+http://iphone-streaming.ustream.tv/ustreamVideo/12310232/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVEC",Canela TV - 44 TV - Quito - Pichincha TV
+rtmp://38.96.148.216:1935/live/canelatv
+#EXTINF:0 group-title="TVEC",TC 10.1 - 29 TDT - Guayaquil - Guayas TDT
+rtmp://50.97.142.130:1935/live/_definst_/mp4:10003_480p
+#EXTINF:0 group-title="TVEC",UCSG Televisión - 42 TV - Guayaquil - Guayas TV
+rtmp://ecuastream.net:1935/UCSGHQ/UCSGHQ
+#EXTINF:0 group-title="TVEC",Caravana - 44 TV - Guayaquil - Guayas TV
+rtmp://audiohostingecuador.com:1935/caravanaTV/caravanaTV
+#EXTINF:0 group-title="TVEC",TVN - 9 TV - Ibarra - Imbabura
+http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0 group-title="TVEC",UTV Universitaria - 24 TV - Ibarra - Imbabura
+rtmp://online.utn.edu.ec/online/utvstream
+#EXTINF:0 group-title="TVEC",Ecotel - 22 TV - Loja - Loja
+rtmp://enhd.co:1935/ecoteltv/ecoteltv
+#EXTINF:0 group-title="TVEC",Televisión Manabita - 30 TV - Manta - Manabí
+rtmp://184.107.180.130:1935/manabitv/live
+#EXTINF:0 group-title="TVEC",Oromar TV 41.1 - 40 TV - Manta - Manabí
+rtmp://stream.gcorpvision.com:19356/live/oromartv
+#EXTINF:0 group-title="TVEC",Manavisión - 9 TV - Portoviejo - Manabí
+rtmp://mega.tramahosting.com:19355/live/manavision
+#EXTINF:0 group-title="TVEC",Unimax 34.1 - 34 TDT - Ambato - Tungurahua
+http://iphone-streaming.ustream.tv/ustreamVideo/18679408/streams/live/playlist.m3u8
+
+#EXTINF:0 group-title="TVSV",Agape TV - 8 TV - San Salvador - San Salvador TV
+rtmp://media.dominiocreativo.com:1935/agapetv8/agapetv8
+#EXTINF:0 group-title="TVSV",TVL Legislativa - 9CTV - San Salvador - San Salvador TV
+rtmp://tv.asamblea.gob.sv:80/live/plenaria
+#EXTINF:0 group-title="TVSV",TVES - 10 TV - San Salvador - San Salvador TV
+rtmp://198.24.135.42:80/canal10/canal10
+#EXTINF:0 group-title="TVSV",TV12 - 12 TV - San Salvador - San Salvador TV
+http://iphone-streaming.ustream.tv/ustreamVideo/5474055/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVSV",Meganoticias - 19 TV - San Salvador - San Salvador TV
+http://xmeganoticiasx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0 group-title="TVSV",Canal 21 - 21 TV - San Salvador - San Salvador TV
+http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0 group-title="TVSV",TVX - 23 TV - San Salvador - San Salvador TV
+rtmp://panel.elsalvadordigital.com/canal23/canal23
+#EXTINF:0 group-title="TVSV",Gentevé - 29 TV - San Salvador - San Salvador TV
+http://cdns840stu1010.multistream.net/genteve.c29.svlive/amlst:live/master.m3u8
+#EXTINF:0 group-title="TVSV",UTEC - 33 TV - San Salvador - San Salvador TV
+http://iphone-streaming.ustream.tv/ustreamVideo/4811076/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVSV",TV-Visa La Nueva - 9CTV - Nueva Concepción - Chalatenango
+http://iphone-streaming.ustream.tv/ustreamVideo/19675268/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVSV",El Camino - 29 TV - Ciudad Merliot - La Libertad
+rtmp://cdn.siscompnetwork.com/live/elcaminotv.sdp
+#EXTINF:0 group-title="TVSV",Canal 9 - 9 TV - La Unión - La Unión
+rtmp://198.24.135.42:80/canal9_launion/canal9_launion
+#EXTINF:0 group-title="TVSV",Canal 9 - 9 TV - Sta Rosa de Lima - La Unión
+rtmp://198.24.135.42:80/canal9/canal9
+#EXTINF:0 group-title="TVSV",TRV - CTV - San Miguel - San Miguel
+http://xtrvnuestasenalx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0 group-title="TVSV",TVO - 23 TV - San Miguel - San Miguel
+http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0 group-title="TVSV",Mas TV - 98CTV - San Miguel - San Miguel
+http://iphone-streaming.ustream.tv/ustreamVideo/8433263/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVSV",Canal Real - 98CTV - Sonsonate - Sonsonate
+http://iphone-streaming.ustream.tv/ustreamVideo/12061568/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVSV",Telemas - 99CTV - Sonsonate - Sonsonate
+rtmp://cdn.elsalvadordigital.com/telemas/telemas
+#EXTINF:0 group-title="TVSV",Canal 15 - 15 TV - Usulután - Usulután
+rtmp://198.24.135.42:80/canal15/canal15
+#EXTINF:0 group-title="TVSV",TVU - 62 TV - Usulután - Usulután
+http://iphone-streaming.ustream.tv/ustreamVideo/18684481/streams/live/playlist.m3u8
+
+#EXTINF:0 group-title="TVES",Canal Parlamento - CTV - Madrid - MD Madrid TDT
+http://congresodirectomobile.edgesuite.net/live/live6.stream/manifest.m3u8
+#EXTINF:0 group-title="TVES",HispanTV - CTV - Madrid - MD Madrid TDT
+http://ptv-hls.streaming.overon.es/ch04/livehigh.m3u8
+#EXTINF:0 group-title="TVES",Real Madrid TV - CTV - Madrid - MD Madrid TDT
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8
+#EXTINF:0 group-title="TVES",Mega - 26TDT - Madrid - MD Madrid TDT
+http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/master.m3u8
+#EXTINF:0 group-title="TVES",13tv - 39TDT - Madrid - MD Madrid TDT
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/playlist.m3u8
+#EXTINF:0 group-title="TVES",Intereconomía TV - 39TDT - Madrid - MD Madrid TDT
+http://edge3.adnstream.com:81/adaptive/intereconomiatv.m3u8
+#EXTINF:0 group-title="TVES",Kiss TV - 39TDT - Madrid - MD Madrid TDT
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:0 group-title="TVES",TVE TDP - 41TDT - Madrid - MD Madrid TDT
+http://iphonelive.rtve.es:1935/TDP_LV3_IPH/TDP_LV3_IPH.m3u8
+#EXTINF:0 group-title="TVES",Cuatro - 49TDT - Madrid - MD Madrid TDT
+http://mediasethls-lh.akamaihd.net/i/mitele/cuatro_ng@393134/index_500_av-p.m3u8
+#EXTINF:0 group-title="TVES",Telecinco - 49TDT - Madrid - MD Madrid TDT
+http://mediasethls-lh.akamaihd.net/i/mitele/telecinco_ng@393132/index_500_av-p.m3u8
+#EXTINF:0 group-title="TVES",La Otra - 55TDT - Madrid - MD Madrid TDT
+rtmp://telemadridlivefs.fplive.net:1935/laotralive-live/stream1
+#EXTINF:0 group-title="TVES",Telemadrid - 55TDT - Madrid - MD Madrid TDT
+rtmp://telemadridlivefs.fplive.net:1935/telemadridlive-live/stream1
+#EXTINF:0 group-title="TVES",C33 - 57TDT - Madrid - MD Madrid TDT
+http://iphone-streaming.ustream.tv/ustreamVideo/15741867/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVES",TVE 24h - 58TDT - Madrid - MD Madrid TDT
+http://iphonelive.rtve.es/24H_LV3_IPH/24H_LV3_IPH.m3u8
+#EXTINF:0 group-title="TVES",TVE La 1 - 58TDT - Madrid - MD Madrid TDT
+http://iphonelive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8
+#EXTINF:0 group-title="TVES",TVE La 2 - 58TDT - Madrid - MD Madrid TDT
+http://iphonelive.rtve.es/LA2_LV3_IPH/LA2_LV3_IPH.m3u8
+#EXTINF:0 group-title="TVES",Antena 3 - 59TDT - Madrid - MD Madrid TDT
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+#EXTINF:0 group-title="TVES",laSexta - 59TDT - Madrid - MD Madrid TDT
+http://a3live-lh.akamaihd.net/i/lasexta/lasexta_1@35272/master.m3u8
+#EXTINF:0 group-title="TVES",NOVA - 59TDT - Madrid - MD Madrid TDT
+http://a3live-lh.akamaihd.net/i/nova/novageo_1@379404/master.m3u8
+#EXTINF:0 group-title="TVES",Ondaluz Sierra - 24TDT - Arcs dl Frontera - AN Cádiz
+http://cls.elitehd-audiovisuales.com/olsierra/livestream1/master.m3u8
+#EXTINF:0 group-title="TVES",Ondaluz Cádiz - 54TDT - Cádiz - AN Cádiz
+http://cls.elitehd-audiovisuales.com/olcadiz/livestream1/master.m3u8
+#EXTINF:0 group-title="TVES",Una Cádiz TV - 52TDT - Chic dl Frontera - AN Cádiz
+rtmp://flash3.todostreaming.es/unatv2/live
+#EXTINF:0 group-title="TVES",Costa Noroeste - 30TDT - Jerz dl Frontera - AN Cádiz
+http://cdnvideo.webvideocore.net/livenl/out_71l7crusvo4c0kk4os0k/index.m3u8
+#EXTINF:0 group-title="TVES",Onda Jerez - 30TDT - Jerz dl Frontera - AN Cádiz
+rtmp://37.187.135.65/live/directo
+#EXTINF:0 group-title="TVES",Ondaluz Costa N/O - 30TDT - Jerz dl Frontera - AN Cádiz
+http://cls.elitehd-audiovisuales.com/olcosta/livestream1/master.m3u8
+#EXTINF:0 group-title="TVES",Ondaluz Jerez - 30TDT - Jerz dl Frontera - AN Cádiz
+http://cls.elitehd-audiovisuales.com/oljerez/livestream1/master.m3u8
+#EXTINF:0 group-title="TVES",Ondaluz La Isla - 54TDT - San Fernando - AN Cádiz
+http://cls.elitehd-audiovisuales.com/olisla/livestream1/master.m3u8
+#EXTINF:0 group-title="TVES",San Roque - 28TDT - San Roque - AN Cádiz
+http://flash3.todostreaming.es/sanroque/mystream/playlist.m3u8
+#EXTINF:0 group-title="TVES",Cancionero - 38TDT - Baena - AN Córdoba
+rtmp://89.140.99.41/live/livestream
+#EXTINF:0 group-title="TVES",PTV - ITV - Córdoba - AN Córdoba
+http://cls.todostreaming.eu/procono/livestream/playlist.m3u8
+#EXTINF:0 group-title="TVES",TG7 - 43TDT - Granada - AN Granada
+http://cdns724ste1010.multistream.net/tgsietelive/amlst:tvgranada/index.m3u8
+#EXTINF:0 group-title="TVES",Condavisión - 46TDT - Almonte - AN Huelva
+http://cls.todostreaming.eu/azahara/condavision/playlist.m3u8
+#EXTINF:0 group-title="TVES",El Sembrador - 50TDT - Huelva - AN Huelva
+rtmp://198.154.228.82/live/esnetv2
+#EXTINF:0 group-title="TVES",Huelva TV - 50TDT - Huelva - AN Huelva
+http://cls.todostreaming.eu/huelvatv/livestream/playlist.m3u8
+#EXTINF:0 group-title="TVES",Canal Costa - 43TDT - Lepe - AN Huelva
+http://cls.todostreaming.eu/azahara/lepevision/playlist.m3u8
+#EXTINF:0 group-title="TVES",Canal 45 - 40TDT - Andújar - AN Jaén
+rtmp://servers10.com/canal45tv/canal45tv
+#EXTINF:0 group-title="TVES",Onda Jaén RTV - 31TDT - Jaén - AN Jaén
+http://46.39.192.63:1935/jaen/jaen1.stream_origp/playlist.m3u8
+#EXTINF:0 group-title="TVES",Canal 43 - 40TDT - Estepona - AN Málaga
+rtmp://37.187.108.127:554/esteponatv/radiostation.stream
+#EXTINF:0 group-title="TVES",Costa del Sol TV - 22TDT - Fuengirola - AN Málaga
+rtmp://flash0.80385-live0.dna.qbrick.com/80385-live0/costa
+#EXTINF:0 group-title="TVES",Mijas 3.40 - 22TDT - Fuengirola - AN Málaga
+rtmp://teledifusion.tv/mijastv/mijastvlive
+#EXTINF:0 group-title="TVES",Ondaluz Málaga - 51TDT - Málaga - AN Málaga
+http://cls.elitehd-audiovisuales.com/olmalaga/livestream1/playlist.m3u8
+#EXTINF:0 group-title="TVES",PTV - 51TDT - Málaga - AN Málaga
+http://cls.todostreaming.eu/procono/ptvmalaga/playlist.m3u8
+#EXTINF:0 group-title="TVES",101tv - 58TDT - Málaga - AN Málaga
+http://cls.todostreaming.eu/101tv/livestream2/playlist.m3u8
+#EXTINF:0 group-title="TVES",Onda Azul - 58TDT - Málaga - AN Málaga
+http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/master.m3u8
+#EXTINF:0 group-title="TVES",M95 - 44TDT - Marbella - AN Málaga
+http://iphone-streaming.ustream.tv/ustreamVideo/15585029/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVES",Ondaluz Costa dl Sol - 44TDT - Marbella - AN Málaga
+http://cls.elitehd-audiovisuales.com/olmarbella/livestream1/playlist.m3u8
+#EXTINF:0 group-title="TVES",RTV Marbella - 44TDT - Marbella - AN Málaga
+http://cls.provideo.es/marbellatv/livestream/playlist.m3u8
+#EXTINF:0 group-title="TVES",Ondaluz Ronda - 30TDT - Ronda - AN Málaga
+http://cls.elitehd-audiovisuales.com/olronda/livestream1/playlist.m3u8
+#EXTINF:0 group-title="TVES",Ondaluz Sevilla - 34TDT - Sevilla - AN Sevilla
+http://cls.elitehd-audiovisuales.com/olsevilla/livestream1/playlist.m3u8
+#EXTINF:0 group-title="TVES",Andalucía TV - 37TDT - Sevilla - AN Sevilla
+http://195.55.74.224/rtva/andaluciatelevisionh264.flv
+#EXTINF:0 group-title="TVES",8tv - 54TDT - Sevilla - AN Sevilla
+http://iphone-streaming.ustream.tv/ustreamVideo/19875259/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVES",El Correo - 56TDT - Sevilla - AN Sevilla
+http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8
+#EXTINF:0 group-title="TVES",SFCTV - 56TDT - Sevilla - AN Sevilla
+rtmp://flash0.80137-live0.dna.qbrick.com:1935/80137-live0/sevillafc
+#EXTINF:0 group-title="TVES",C25 - 31TDT - Barbastro - AR Huesca
+rtmp://flash3.todostreaming.es/tvbarbastro/livestream
+#EXTINF:0 group-title="TVES",Huesca TV - 43TDT - Huesca - AR Huesca
+rtmp://streaming2.radiohuesca.com/live/huescatv
+#EXTINF:0 group-title="TVES",Aragón TV - 40TDT - Zaragoza - AR Zaragoza
+rtmp://aragontvlivefs.fplive.net/aragontvlive-live/stream_normal_abt
+#EXTINF:0 group-title="TVES",Popular TV - 41TDT - Torrelavega - CB Cantabria
+rtmp://flash3.todostreaming.es/ptvcantabria/livestream
+#EXTINF:0 group-title="TVES",TeleBahía - 41TDT - Torrelavega - CB Cantabria
+rtmp://62.42.17.93/live/Live
+#EXTINF:0 group-title="TVES",Vegavisión - 41TDT - Torrelavega - CB Cantabria
+http://iphone-streaming.ustream.tv/ustreamVideo/13521792/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVES",Ceuta TV - 37TDT - Ceuta - CE Ceuta
+http://teledifusion.tv:1935/anguloceuta/anguloceuta/playlist.m3u8
+#EXTINF:0 group-title="TVES",RTV Ceuta - 37TDT - Ceuta - CE Ceuta
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTINF:0 group-title="TVES",La 8 - 25TDT - Valladolid - CL Valladolid
+rtmp://cdn.s7.eu.nice264.com/niceLiveServer/cyl_cyltvlivem_MB_698ext
+#EXTINF:0 group-title="TVES",TV Hellín - 49TDT - Hellín - CM Albacete
+http://iphone-streaming.ustream.tv/ustreamVideo/18923318/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVES",Imás TV - 34TDT - Ciudad Real - CM Ciudad Real
+rtmp://149.11.34.6/live/imastv.stream
+#EXTINF:0 group-title="TVES",CMT - 23TDT - Toledo - CM Toledo
+http://live.rtvcm.stream.flumotion.com/rtvcm/live.flv.m3u
+#EXTINF:0 group-title="TVES",Canal Diocesano - 27TDT - Toledo - CM Toledo
+rtmp://flash3.todostreaming.es/edesco/livestream
+#EXTINF:0 group-title="TVES",Teletoledo - 27TDT - Toledo - CM Toledo
+rtmp://cast.streamingconnect.tv/teletoledo/teletoledo
+#EXTINF:0 group-title="TVES",Tindaya TV - 43TDT - Fuerteventura - CN Las Palmas
+rtmp://videostream.provideo.es/tindayatv/livestream
+#EXTINF:0 group-title="TVES",Lancelot TV - 21TDT - Lanzarote - CN Las Palmas
+rtmp://62.210.141.18:1935/directo/lancelot.television
+#EXTINF:0 group-title="TVES",RTV Canaria - 22TDT - LP Gran Canaria - CN Las Palmas
+rtmp://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream
+#EXTINF:0 group-title="TVES",Canal 13 - 58TDT - Mogán - CN Las Palmas
+mms://wm.mad.interhost.com/OjosSolidariosTv
+#EXTINF:0 group-title="TVES",Mogán RTV - 58TDT - Mogán - CN Las Palmas
+rtmp://teledifusion.tv/mogan/moganlive
+#EXTINF:0 group-title="TVES",Mírame TV - 24TDT - SC de Tenerife - CN SC Tenerife
+rtmp://wowzacontrol.com:1935/8104/8104
+#EXTINF:0 group-title="TVES",El Día TV - 47TDT - SC de Tenerife - CN SC Tenerife
+http://teledifusion.tv:1935/dia/dia/playlist.m3u8
+#EXTINF:0 group-title="TVES",teleb - 26TDT - Badalona - CT Barcelona
+rtmp://directe.tvbadalona.cat/live/myStream.sdp
+#EXTINF:0 group-title="TVES",BTV - 26TDT - Barcelona - CT Barcelona
+http://195.10.2.99/barcelonatv/barcelonatv-high.flv
+#EXTINF:0 group-title="TVES",8tv - 33TDT - Barcelona - CT Barcelona
+rtmp://streaming.8tv.cat:1935/8TV?videoId=3998198240001&lineUpId=&pubId=1589608506001&playerId=1982328835001&affiliateId=/8aldia-directe?videoId=3998198240001&lineUpId=&pubId=1589608506001&playerId=1982328835001&affiliateId=
+#EXTINF:0 group-title="TVES",3/24 - 44TDT - Barcelona - CT Barcelona
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+#EXTINF:0 group-title="TVES",Canal 33 - 44TDT - Barcelona - CT Barcelona
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8
+#EXTINF:0 group-title="TVES",Esport 3 - 44TDT - Barcelona - CT Barcelona
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:es3_web/playlist.m3u8
+#EXTINF:0 group-title="TVES",TV3 - 44TDT - Barcelona - CT Barcelona
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+#EXTINF:0 group-title="TVES",25 tv - 48TDT - Barcelona - CT Barcelona
+http://cdns724ste1010.multistream.net/25televisiolive/amlst:25tv/master.m3u8
+#EXTINF:0 group-title="TVES",El Punt Avui + - 48TDT - Barcelona - CT Barcelona
+http://iphone-streaming.ustream.tv/ustreamVideo/17388332/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVES",TV El Vendrell - 30TDT - El Vendrell - CT Barcelona
+http://iphone-streaming.ustream.tv/ustreamVideo/13291828/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVES",Vallès Visió - 40TDT - Granollers - CT Barcelona
+http://iphone-streaming.ustream.tv/ustreamVideo/14420271/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVES",M1TV - 24TDT - Mataró - CT Barcelona
+http://iphone-streaming.ustream.tv/ustreamVideo/6422461/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVES",VOTV - 40TDT - Vallès Oriental - CT Barcelona
+rtmp://video-streaming.laxarxa.com:1935/ocasional5/directe
+#EXTINF:0 group-title="TVES",Canal Blau - 30TDT - Vilanova Geltrú - CT Barcelona
+http://iphone-streaming.ustream.tv/ustreamVideo/14339579/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVES",Canal 10 Empordà - 26TDT - Alt Empordà - CT Gerona
+http://ventdelnord.tv:8080/escala/directe.m3u8
+#EXTINF:0 group-title="TVES",TV Girona - 39TDT - Girona - CT Gerona
+rtmp://tvgirona.dnssw.net/live/Icontouch
+#EXTINF:0 group-title="TVES",Andorra TV - 55TDT - La Seu d'Urgell - CT Lérida
+rtmp://194.158.80.31/live/rtva
+#EXTINF:0 group-title="TVES",Mola TV - 54TDT - Tarragona - CT Tarragona
+http://archlinux.frigola.cat:8080/mola/directe.m3u8
+#EXTINF:0 group-title="TVES",TAC12 - 54TDT - Tarragona - CT Tarragona
+rtmp://video-streaming.laxarxa.com:1935/ocasional4/directe
+#EXTINF:0 group-title="TVES",Canal Extremadura - 50TDT - Mérida - EX Badajoz
+rtmp://corporacionextremenaocclivefs.fplive.net/corporacionextremenalive-live/stream1
+#EXTINF:0 group-title="TVES",Ferrol TV - 34TDT - Ferrol - GA La Coruña
+mms://streaming.arsenet.com/tvf
+#EXTINF:0 group-title="TVES",TVG - 25TDT - S de Compostela - GA La Coruña
+http://media3.crtvg.es/live/tvge_2/playlist.m3u8
+#EXTINF:0 group-title="TVES",TEF - 38TDT - Ibiza - IB Ils Baleares
+rtmp://streaming3.streamteca.com/live/WXPHL
+#EXTINF:0 group-title="TVES",IB3 - 26TDT - Palma deMallorca - IB Ils Baleares
+rtmp://ib3tvlivefs.fplive.net/ib3tvlive-live/streamib3
+#EXTINF:0 group-title="TVES",TV3cat - 26TDT - Palma deMallorca - IB Ils Baleares
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/playlist.m3u8
+#EXTINF:0 group-title="TVES",Lux Mallorca - 37TDT - Palma deMallorca - IB Ils Baleares
+rtmp://fl1.viastreaming.net/canal37/livestream
+#EXTINF:0 group-title="TVES",LDTV - 39TDT - Lorca - MC Murcia
+http://stream-l3-4.vty.dmcdn.net/08/dm/1/xnm032/live.isml/master.m3u8
+#EXTINF:0 group-title="TVES",Canal 8 - 47TDT - Molina Nave - MC Murcia
+http://iphone-streaming.ustream.tv/ustreamVideo/18640089/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVES",Popular TV Melilla - 43TDT - Melilla - ML Melilla
+rtmp://streaming4.streamteca.com/live/fd56e63737574f49b1a17383e9dfe735
+#EXTINF:0 group-title="TVES",TV Melilla - 43TDT - Melilla - ML Melilla
+http://stream.tvmelilla.es:1935/tvmelilla/live/playlist.m3u8
+#EXTINF:0 group-title="TVES",Navarra Televisión - 26TDT - Pamplona - NC Navarra
+rtmp://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478ext
+#EXTINF:0 group-title="TVES",Teledonosti - 23TDT - San Sebastián - PV Guipúzcoa
+rtmp://brightcove.fc.llnwd.net:443/brightcove/047?videoId=374610760001&lineUpId=&pubId=85688294001&playerId=292369646001&affiliateId=/live-directo-diariovasco?videoId=374610760001&lineUpId=&pubId=85688294001&playerId=292369646001&affiliateId=
+#EXTINF:0 group-title="TVES",28 Kanala - 24TDT - Tolosa - PV Guipúzcoa
+rtmp://streaming6.streamteca.com/live/9LPGB
+#EXTINF:0 group-title="TVES",Erlo Telebista - 35TDT - Zarautz - PV Guipúzcoa
+rtmp://streaming4.streamteca.com/live/470QB
+#EXTINF:0 group-title="TVES",TeleBilbao - 23TDT - Bilbao - PV Vizcaya
+rtmp://149.11.34.6/live/telebilbao.stream
+#EXTINF:0 group-title="TVES",ETBSat - 35TDT - Bilbao - PV Vizcaya
+http://etbvhdfnogeo-lh.akamaihd.net/ETBEITBEUS_1_700@123477?videoId=3944167976001&lineUpId=&pubId=102076681001&playerId=3255438695001&affiliateId=&bandwidthEstimationTest=true&v=3.4.0&fp=WIN%2017,0,0,188&r=IVLDF&g=FUEWIYESCYDQ
+#EXTINF:0 group-title="TVES",STV - ITV - Logroño - RI La Rioja
+mms://www.riojasintonia.com/stv
+#EXTINF:0 group-title="TVES",TVR 10 - 44TDT - Logroño - RI La Rioja
+rtmp://teledifusion.tv/rioja/rioja
+#EXTINF:0 group-title="TVES",tvA - 56TDT - Alcoy - VC Alicante
+rtmp://92.222.37.18:1935/hls?u=G99t&p=T99g/tvaxa?u=G99t&p=T99g
+#EXTINF:0 group-title="TVES",TV Comarcal - 47TDT - Dénia - VC Alicante
+http://iphone-streaming.ustream.tv/ustreamVideo/17652616/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVES",Intercomarcal TV - 30TDT - Elda - VC Alicante
+rtmp://37.187.225.46:1935/hls?u=Gy9T&p=Y0xG/tvixa?u=Gy9T&p=Y0xG
+#EXTINF:0 group-title="TVES",TVCS - 50TDT - Castellón - VC Castellón
+http://streaming.enetres.net/B280DE9FE5AD42E9B9BFD56A0E2CA414021/smil:live.smil/master.m3u8
+#EXTINF:0 group-title="TVES",Ribera TV - 44TDT - Alzira - VC Valencia
+rtmp://flash3.todostreaming.es/ribera/livestream
+#EXTINF:0 group-title="TVES",Canal 7 Televalencia - 35TDT - Paterna - VC Valencia
+http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/smil:live.smil/master.m3u8
+#EXTINF:0 group-title="TVES",Levante TV - 23TDT - Valencia - VC Valencia
+rtmp://teledifusion.tv/levantetvlive/levantetvlive
+#EXTINF:0 group-title="TVES",TV Mediterráneo - 57TDT - Valencia - VC Valencia
+http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8
+
+#EXTINF:0 group-title="TVGT",Canal Antigua - CTV - Cdad Guatemala - Guatemala TV
+http://iphone-streaming.ustream.tv/ustreamVideo/1435410/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVGT",RTV Rhema - CTV - Cdad Guatemala - Guatemala TV
+rtmp://70.38.77.102:1935/rhematv/str.sdp
+#EXTINF:0 group-title="TVGT",TV Maya - 5 TV - Cdad Guatemala - Guatemala TV
+http://iphone-streaming.ustream.tv/ustreamVideo/9556054/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVGT",Guatevisión - 25 TV - Cdad Guatemala - Guatemala TV
+rtmp://bravo967.sysvirtuales.com/live/stream1.sdp
+#EXTINF:0 group-title="TVGT",De La Esperanza - 27 TV - Cdad Guatemala - Guatemala TV
+rtmp://186.64.110.67:1935/live/livestream
+#EXTINF:0 group-title="TVGT",Vea Canal - CTV - Mixco - Guatemala TV
+http://iphone-streaming.ustream.tv/ustreamVideo/3935086/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVGT",Azteca Guatemala - 35 TV - Mixco - Guatemala TV
+http://aztecalive-lh.akamaihd.net/i/1ym9yab3c_1@66742/master.m3u8
+#EXTINF:0 group-title="TVGT",Cable Club - 8 TV - Nueva Santa Rosa - Santa Rosa
+http://iphone-streaming.ustream.tv/ustreamVideo/13663574/streams/live/playlist.m3u8
+
+#EXTINF:0 group-title="TVHN",TVC El Líder - 5 TV - Tegucigalpa - Fco Morazan TV
+http://hls1.livestreamingcdn.com/livecdn517/mystream/playlist.m3u8
+#EXTINF:0 group-title="TVHN",Hondured - 13 TV - Tegucigalpa - Fco Morazan TV
+rtmp://173.236.71.62/hondured/hrtv.sdp
+#EXTINF:0 group-title="TVHN",TNH - 20 TV - Tegucigalpa - Fco Morazan TV
+http://iphone-streaming.ustream.tv/ustreamVideo/11114981/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVHN",Cholusat Sur - 36 TV - Tegucigalpa - Fco Morazan TV
+rtmp://live.audiotvserver.com/livemedia/cholusat
+#EXTINF:0 group-title="TVHN",Mundo TV - 42 TV - Tegucigalpa - Fco Morazan TV
+rtmp://38.96.148.78/live/mundotv
+#EXTINF:0 group-title="TVHN",Azteca Honduras - 44 TV - Tegucigalpa - Fco Morazan TV
+http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
+#EXTINF:0 group-title="TVHN",Maya TV - 66 TV - Tegucigalpa - Fco Morazan TV
+rtmp://4.30.20.151/mayaTv/mayaTv
+#EXTINF:0 group-title="TVHN",Canal 6 CBC - 6 TV - San Pedro Sula - Cortes
+http://67.213.223.181/opencaster/rmxvcuzEvfcr/playlist.m3u8
+
+#EXTINF:0 group-title="TVHN",Ten Canal 10 - 10 TV - San Pedro Sula - Cortes
+http://hd.worldkast.com/8378/smil:8378.smil/playlist.m3u8
+#EXTINF:0 group-title="TVHN",Telered 21 - 21 TV - San Pedro Sula - Cortes
+rtmp://cdn8.iviplanet.com/Telered21/myStream.sdp
+#EXTINF:0 group-title="TVHN",Campus TV - 59.1 TV - San Pedro Sula - Cortes
+http://xcampushdx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:0 group-title="TVMX",Azteca Deportes - CTV - Ciudad Mexico TV - DF Dto Federal
+http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_3_av-p.m3u8
+#EXTINF:0 group-title="TVMX",Tele Formula - ITV - Ciudad Mexico TV - DF Dto Federal
+rtmp://streamingtele.radioformula.com/live/A
+#EXTINF:0 group-title="TVMX",XEW 48 CDL Estrellas - 2 TV - Ciudad Mexico TV - DF Dto Federal
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
+#EXTINF:0 group-title="TVMX",XHTV 49 FOROtv - 4 TV - Ciudad Mexico TV - DF Dto Federal
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+#EXTINF:0 group-title="TVMX",7.4 Azteca Noticias - 7 TV - Ciudad Mexico TV - DF Dto Federal
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/master.m3u8
+#EXTINF:0 group-title="TVMX",XEIPN 33 OnceTV - 11 TV - Ciudad Mexico TV - DF Dto Federal
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+#EXTINF:0 group-title="TVMX",XHDF 25 Azteca 13 - 13 TV - Ciudad Mexico TV - DF Dto Federal
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:0 group-title="TVMX",XHCDM 21 Capital 21 - 21 TV - Ciudad Mexico TV - DF Dto Federal
+http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
+#EXTINF:0 group-title="TVMX",30.4 IngenioTV - 30 TV - Ciudad Mexico TV - DF Dto Federal
+rtmp://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4
+#EXTINF:0 group-title="TVMX",AprendeTV - 30 TV - Ciudad Mexico TV - DF Dto Federal
+rtmp://dl-dgtve.xsn.com.mx/dgtve/canal24dgtve.mp4
+#EXTINF:0 group-title="TVMX",Tele México - 30 TV - Ciudad Mexico TV - DF Dto Federal
+rtmp://dl-dgtve.xsn.com.mx/dgtve/canal21dgtve.mp4
+#EXTINF:0 group-title="TVMX",Telebachillerato - 30 TV - Ciudad Mexico TV - DF Dto Federal
+rtmp://dl-dgtve.xsn.com.mx/dgtve/canal17dgtve.mp4
+#EXTINF:0 group-title="TVMX",Telesecundaria + - 30 TV - Ciudad Mexico TV - DF Dto Federal
+rtmp://dl-dgtve.xsn.com.mx/dgtve/canal27dgtve.mp4
+#EXTINF:0 group-title="TVMX",Telesecundaria + - 30 TV - Ciudad Mexico TV - DF Dto Federal
+rtmp://dl-dgtve.xsn.com.mx/dgtve/canal11dgtve.mp4
+#EXTINF:0 group-title="TVMX",TV Docencia - 30 TV - Ciudad Mexico TV - DF Dto Federal
+rtmp://dl-dgtve.xsn.com.mx/dgtve/canal12dgtve.mp4
+#EXTINF:0 group-title="TVMX",TV Universidad - 30 TV - Ciudad Mexico TV - DF Dto Federal
+rtmp://dl-dgtve.xsn.com.mx/dgtve/canal22dgtve.mp4
+#EXTINF:0 group-title="TVMX",XHOPMA 30.1 UVozCT - 30 TV - Ciudad Mexico TV - DF Dto Federal
+http://kalsegsec-a.akamaihd.net/dc-0/m/pa-live-publish2/kLive/smil:0_tiy0fy59_all.smil/master.m3u8
+#EXTINF:0 group-title="TVMX",40.6 VibraTV - 40 TV - Ciudad Mexico TV - DF Dto Federal
+http://iphone-streaming.ustream.tv/ustreamVideo/17610211/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVMX",XHTVM 26 Proyecto 40 - 40 TV - Ciudad Mexico TV - DF Dto Federal
+http://aztecalive-lh.akamaihd.net/i/16up5a31u_1@85250/master.m3u8
+#EXTINF:0 group-title="TVMX",XHHCU C del Congreso - 45 TV - Ciudad Mexico TV - DF Dto Federal
+rtmp://pr.canaldelcongreso.gob.mx:1935/ccongreso/_definst_/congreso2b.mp4
+#EXTINF:0 group-title="TVMX",XHBZC 30 Canal 8 - 8 TV - La Paz - BS Baja Ca Sur
+http://iphone-streaming.ustream.tv/ustreamVideo/15071087/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVMX",XHCCA 30 TRC - 4 TV - Campeche - CA Campeche
+rtmp://video7.stream.mx:1935/8024/8024
+#EXTINF:0 group-title="TVMX",Telemar - CTV - San Fde Campeche - CA Campeche
+rtmp://wms.tecnoxia.com:80/8004/8004
+#EXTINF:0 group-title="TVMX",XHTTG 44 Canal Diez - 10 TV - Tuxtla Gutierrez - CH Chiapas
+rtmp://wos1.smartcast.com.mx/chiapas/chiapastv
+#EXTINF:0 group-title="TVMX",XHABC Canal 28 - 28 TV - Chihuahua - CI Chihuahua
+rtmp://maria.xnet.mx/xnetn/canal282
+#EXTINF:0 group-title="TVMX",XHSDD 5tv - 5 TV - Sabinas - CL Coahuila
+http://play.gvstream.net:554/e-tv-video/default.stream/playlist.m3u8
+#EXTINF:0 group-title="TVMX",XHRCG 7 RCG - 7 TV - Saltillo - CL Coahuila
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+#EXTINF:0 group-title="TVMX",XHUNES 28 EspañaTV - 28 TV - Durango - DU Durango
+http://miradioenlinea.net:1935/8032/8032/playlist.m3u8
+#EXTINF:0 group-title="TVMX",XHUAD 46 TV Lobo - 46 TV - Durango - DU Durango
+http://lobotv-lh.akamaihd.net/i/ch_1@325404/master.m3u8
+#EXTINF:0 group-title="TVMX",TV Independencia - 9CTV - Dolores Hidalgo - GT Guanajuato
+http://iphone-streaming.ustream.tv/ustreamVideo/12143149/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVMX",TV Guanajuato - 8CTV - Guanajuato - GT Guanajuato
+http://iphone-streaming.ustream.tv/ustreamVideo/12228795/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVMX",XHLEG 47 TV4 Cuatro - 4 TV - León - GT Guanajuato
+http://iphone-streaming.ustream.tv/ustreamVideo/4157836/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVMX",TV Acapulco - ITV - Acapulco - GU Guerrero
+rtmp://stream.hosteris.com/tvacapulco/tvacapulco
+#EXTINF:0 group-title="TVMX",XHACG RTG - 7 TV - Acapulco - GU Guerrero
+http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
+#EXTINF:0 group-title="TVMX",XHGJG 25.1 Noticias - 7 TV - Guadalajara - JA Jalisco
+http://74.63.97.188:1935/c7/videoc7/master.m3u8
+#EXTINF:0 group-title="TVMX",XHGJG 25.2 Cultura - 7 TV - Guadalajara - JA Jalisco
+http://74.63.97.188:1935/gnode05/videognode05/master.m3u8
+#EXTINF:0 group-title="TVMX",Ocho TV - 8CTV - Guadalajara - JA Jalisco
+http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
+#EXTINF:0 group-title="TVMX",XHPTP 41 Mexiquense - 34 TV - Coacalco - ME Mexico
+rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
+#EXTINF:0 group-title="TVMX",Nuestra Visión - 6CTV - Lázaro Cárdenas - MI Michoacán
+rtmp://video7.stream.mx:1935/8016/8016
+#EXTINF:0 group-title="TVMX",XHMOR 49 SMRTV - 2 TV - Morelia - MI Michoacán
+http://iphone-streaming.ustream.tv/ustreamVideo/13946965/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVMX",Canal 7 - 7CTV - Uruapan - MI Michoacán
+http://iphone-streaming.ustream.tv/ustreamVideo/20731311/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVMX",XHBG 27 GalaTV - 13 TV - Uruapan - MI Michoacán
+rtmp://cdn6.iviplanet.com/Canal13/myStream.sdp
+#EXTINF:0 group-title="TVMX",XHKG Canal 2 - 2 TV - Tepic - NA Nayarit
+http://canal2tepic-lh.akamaihd.net/i/ch_1@325632/master.m3u8
+#EXTINF:0 group-title="TVMX",XHTPG SDL Gente - 10 TV - Tepic - NA Nayarit
+rtmp://85.17.122.248:1935/live/radioaztlan
+#EXTINF:0 group-title="TVMX",XHFN 43 Azteca 7 - 7 TV - Monterrey - NL Nuevo León
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
+#EXTINF:0 group-title="TVMX",XHAW 12 Multimedios - 12 TV - Monterrey - NL Nuevo León
+http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedios.m3u8
+#EXTINF:0 group-title="TVMX",XHAW 12.2 Milenio - 12 TV - Monterrey - NL Nuevo León
+http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956
+#EXTINF:0 group-title="TVMX",XHMNU 35 UANL - 53 TV - Monterrey - NL Nuevo León
+mms://streaming.uanl.mx/canal53bandaancha/
+#EXTINF:0 group-title="TVMX",XHPUE 26 PueblaTV - 26 TV - Puebla - PU Puebla
+http://189.203.247.136:1935/live/pueblatv/master.m3u8
+#EXTINF:0 group-title="TVMX",XHHSECE RTQ - 50 TV - Querétaro - QE Querétaro
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:0 group-title="TVMX",Canal 10 - 10CTV - Cancún - QR Quintana Roo
+http://162.212.132.116:1935/live/tvlive2/master.m3u8
+#EXTINF:0 group-title="TVMX",XHCCU 39 GalaTV - 13 TV - Cancún - QR Quintana Roo
+http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8
+#EXTINF:0 group-title="TVMX",XHSLV 29 GalaTV - 7 TV - San Luis Potosí - SA San L Potosí
+rtmp://187.188.159.113/live/web.sdp
+#EXTINF:0 group-title="TVMX",XHQ 30 TV Pacífico - 3 TV - Culiacán - SI Sinaloa
+http://74.63.97.188:1935/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+#EXTINF:0 group-title="TVMX",XHI 32 TV Pacífico - 2 TV - Los Mochis - SI Sinaloa
+http://74.63.97.188:1935/gpacifico2/smil:mochis.smil/playlist.m3u8
+#EXTINF:0 group-title="TVMX",XHMZ 23 TV Pacífico - 7 TV - Mazatlán - SI Sinaloa
+http://74.63.97.188:1935/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+#EXTINF:0 group-title="TVMX",XHI 32 TV Pacífico - 2 TV - Ciudad Obregón - SO Sonora
+http://74.63.97.188:1935/gpacifico3/smil:obregon.smil/playlist.m3u8
+#EXTINF:0 group-title="TVMX",XHHO Azteca 7 - 10 TV - Hermosillo - SO Sonora
+http://iphone-streaming.ustream.tv/ustreamVideo/20098070/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVMX",XHTLX 22 TDT - 5 TV - Tlaxcala - TX Tlaxcala
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
+#EXTINF:0 group-title="TVMX",XHGV 26 TV Más - 4 TV - Xalapa - VE Veracruz
+rtmp://50.7.98.234/rtv/videortv
+#EXTINF:0 group-title="TVMX",XHY 25 GalaTV - 2 TV - Mérida - YC Yucatán
+http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVMerida/playlist.m3u8
+#EXTINF:0 group-title="TVMX",XHST Trecevisión - 13 TV - Mérida - YC Yucatán
+http://74.222.3.185:1935/live/ngrp:trecevision_all/playlist.m3u8
+#EXTINF:0 group-title="TVMX",Canal 15 Fresnillo - 15CTV - Fresnillo - ZA Zacatecas
+rtmp://live.zuperdns.net:1935/zuperhosting.live.grupob.canal15fresnillo/livestream
+#EXTINF:0 group-title="TVMX",Canal 15 Zacatecas - 15CTV - Zacatecas - ZA Zacatecas
+rtmp://live.zuperdns.net:1935/zuperhosting.live.grupob.canal15zacatecas/livestream
+
+#EXTINF:0 group-title="TVNI",Televicentro - 2 TV - Managua - Managua TV
+mms://Televicentro1.serverroom.us/televicentro
+#EXTINF:0 group-title="TVNI",Multinoticias - 4 TV - Managua - Managua TV
+http://iphone-streaming.ustream.tv/ustreamVideo/16349493/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVNI",TN8 Telenica - 8 TV - Managua - Managua TV
+rtmp://cdn5.iviplanet.com:1935/TN8MBR/_definst_/mp4:myStream.sdp_source
+#EXTINF:0 group-title="TVNI",Viva Nicaragua - 13 TV - Managua - Managua TV
+http://iphone-streaming.ustream.tv/ustreamVideo/13870671/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVNI",100% Noticias - 15 TV - Managua - Managua TV
+http://iphone-streaming.ustream.tv/ustreamVideo/610326/streams/live/playlist.m3u8
+
+#EXTINF:0 group-title="TVPA",SERTV 11 - 41TDT - Ciudad de Panamá - Panamá  TDT
+rtmp://216.224.177.132/live/sertv
+#EXTINF:0 group-title="TVPA",RPC TV 4 - 42TDT - Ciudad de Panamá - Panamá  TDT
+http://live.rpctv.com/rpctv/rpc.smil/master.m3u8
+#EXTINF:0 group-title="TVPA",Telemetro 13 - 44TDT - Ciudad de Panamá - Panamá  TDT
+http://live.telemetro.com/telemetro/tm.smil/master.m3u8
+#EXTINF:0 group-title="TVPA",TVN 2 - 45TDT - Ciudad de Panamá - Panamá  TDT
+http://urtmpkal-f.akamaihd.net/i/19wqj1kgf_1@136614/master.m3u8
+#EXTINF:0 group-title="TVPA",NEXtv 21 - 49TDT - Ciudad de Panamá - Panamá  TDT
+rtmp://190.102.61.118:1935/live/livestream
+#EXTINF:0 group-title="TVPA",Turff TV - ITV - Ciudad de Panamá - Panamá  TV
+http://iphone-streaming.ustream.tv/ustreamVideo/20164817/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVPA",TV Blast - ITV - Ciudad de Panamá - Panamá  TV
+http://www.streaming507.com:1935/TVBlast/TVBlast/playlist.m3u8
+#EXTINF:0 group-title="TVPA",Bocas TV - 18 TV - Bocas del Toro - Bocas del Toro
+http://ec2-54-91-55-222.thecube.com/playlive/n9j4_xcoded/playlist.m3u8
+
+#EXTINF:0 group-title="TVPY",Red Guaraní - 2 TV - Asunción - Capital  TV
+http://iphone-streaming.ustream.tv/ustreamVideo/19109913/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVPY",Paravisión - 5 TV - Asunción - Capital  TV
+rtmp://186.0.191.194:1935/BroadCam/live?bandwidth=1&src=1
+#EXTINF:0 group-title="TVPY",SNT Cerro Corá - 9 TV - Asunción - Capital  TV
+rtmp://190.104.129.98:1935/BroadCam/live?bandwidth=1&src=1
+#EXTINF:0 group-title="TVPY",RPC Canal 13 - 13 TV - Asunción - Capital  TV
+http://70.36.100.38:1935/live/canal13_hq.stream/playlist.m3u8
+#EXTINF:0 group-title="TVPY",TVCSA - 4CTV - Coronel Oviedo - Caaguazú
+http://iphone-streaming.ustream.tv/ustreamVideo/18645087/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVPY",TVA - 19 TV - Coronel Oviedo - Caaguazú
+http://iphone-streaming.ustream.tv/ustreamVideo/18651489/streams/live/playlist.m3u8
+
+#EXTINF:0 group-title="TVPE",OAY-4D América - 4 TV - Lima - Lima TV
+http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/master.m3u8
+#EXTINF:0 group-title="TVPE",OAY-4A Panamericana - 5 TV - Lima - Lima TV
+rtmp://cdn1.iblups.com/panamericanatv/ptv1
+#EXTINF:0 group-title="TVPE",OAY-4E TV Perú - 7 TV - Lima - Lima TV
+http://iphone-streaming.ustream.tv/ustreamVideo/17419715/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVPE",OBY-4R RBC - 11 TV - Lima - Lima TV
+rtmp://184.154.28.210/rbcsatelital/rbcsatelital
+#EXTINF:0 group-title="TVPE",Willax TV - 18CTV - Lima - Lima TV
+rtmp://willax.mediastream.pe/vv_willax/livestream
+#EXTINF:0 group-title="TVPE",JN19 - 19 TV - Lima - Lima TV
+mms://67.19.172.194/jn19
+#EXTINF:0 group-title="TVPE",OBV-4M Bethel TV - 25 TV - Lima - Lima TV
+rtmp://streamtv.betheltv.pe/bethelgospelhd/mp4:streamingbethel25hd_source
+#EXTINF:0 group-title="TVPE",Nuevo Tiempo - 41 TV - Lima - Lima TV
+http://stream.novotempo.com:1935/tv/smil:tvnuevotiempo.smil/master.m3u8
+#EXTINF:0 group-title="TVPE",Pacífico TV - 41 TV - Lima - Lima TV
+rtmp://46.23.64.76/iptvpacifico/livepacificotv
+#EXTINF:0 group-title="TVPE",OBL-4A TV La Luz - 49 TV - Lima - Lima TV
+rtmp://stream.iglesiaytecnologia.com:2077/live/tvlaluz
+#EXTINF:0 group-title="TVPE",Magestad TV - 15 TV - Chimbote - Ancash
+http://iphone-streaming.ustream.tv/ustreamVideo/16136715/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVPE",Real TV - 41 TV - Chimbote - Ancash
+http://iphone-streaming.ustream.tv/ustreamVideo/12261035/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVPE",OCY-6U TV UNSA - 45 TV - Arequipa - Arequipa
+http://iphone-streaming.ustream.tv/ustreamVideo/19811581/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVPE",OCY-7U TV Mundo - 53 TV - Arequipa - Arequipa
+rtmp://fms001.mediastream.pe/vv_tvmundo/livestream
+#EXTINF:0 group-title="TVPE",UCV Satelital - 15 TV - Trujillo - La Libertad
+rtmp://wowzacontrol.net/8050/8050
+#EXTINF:0 group-title="TVPE",Sol TV - 21 TV - Trujillo - La Libertad
+rtmp://live.soltvperu.com/soltv/soltv
+#EXTINF:0 group-title="TVPE",Foro TV - 33 TV - Puno - Puno
+http://iphone-streaming.ustream.tv/ustreamVideo/18855702/streams/live/playlist.m3u8
+
+#EXTINF:0 group-title="TVPR",WSJN 20.1 CTNi - 20 DC - San Juan - San Juan  TV
+http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8
+#EXTINF:0 group-title="TVPR",WIPR 6.1 PR TV - 43 DT - San Juan - San Juan  TV
+http://192.254.105.39/liveevent.m3u8
+#EXTINF:0 group-title="TVPR",WCCV 54.1 CDM TV - 46 DT - Arecibo - Arecibo
+http://unoredcdn.net/cdm100/myStream.sdp/playlist.m3u8
+#EXTINF:0 group-title="TVPR",WDWL Teleadoración - 30 DT - Bayamón - Bayamón
+http://unoredrtmp.tulix.tv/enlacepr/stream/playlist.m3u8
+#EXTINF:0 group-title="TVPR",WORO Teleoro - 13 DT - Fajardo - Carolina
+http://unoredrtmp.tulix.tv/worocanal13pr/myStream.sdp/playlist.m3u8
+#EXTINF:0 group-title="TVPR",WXWZ +MasTV - 23 LD - Guayama - Guayama
+http://iphone-streaming.ustream.tv/ustreamVideo/10683179/streams/live/playlist.m3u8
+
+#EXTINF:0 group-title="TVRA",Tele Aruba - 13 TV - Oranjestad - AH Aruba
+rtmp://201.229.0.51/livepkgr/livestream3
+#EXTINF:0 group-title="TVRA",Nos TV - 24CTV - Kaya Korona - AH Bonaire
+http://panchito13.flashmediacast.com:2087/live/livestream/playlist.m3u8
+#EXTINF:0 group-title="TVRA",CBC TV - 8 TV - Bridgetown - BB Barbados
+http://184.154.57.230:1935/cbcvideo/cbcstream/playlist.m3u8
+#EXTINF:0 group-title="TVRA",ZNS - 13 TV - Nassau - BS Bahamas
+http://xznsbahamasx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0 group-title="TVRA",Krem TV - 15 TV - Belize City - BZ Belize
+http://iphone-streaming.ustream.tv/ustreamVideo/1054347/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVRA",GBN - 7 TV - Saint George - GD Grenada
+rtmp://38.96.175.122:1951/live//livestream
+#EXTINF:0 group-title="TVRA",JNN - CTV - Kingston - JM Jamaica
+http://rjr_flash-lh.akamaihd.net/i/jnnD_1@28268/master.m3u8
+#EXTINF:0 group-title="TVRA",RETV - CTV - Kingston - JM Jamaica
+http://rjr_flash-lh.akamaihd.net/i/retvD_1@39668/master.m3u8
+#EXTINF:0 group-title="TVRA",TVJ - 11 TV - Kingston - JM Jamaica
+http://rjr_flash-lh.akamaihd.net/i/tvj_1@191979/master.m3u8
+#EXTINF:0 group-title="TVRA",CTV - 9 TV - Port of Spain - TT Trinidad
+http://cnmg.live.cdn.bitgravity.com/cnmg/live/ctv
+
+#EXTINF:0 group-title="TVUY",DW Latinoamérica - ITV - Montevideo - Montevideo TV
+rtmp://flash1.antel.net.uy/liveedge/canaldw
+#EXTINF:0 group-title="TVUY",VCC - 3CTV - Minas - Lavalleja
+http://iphone-streaming.ustream.tv/ustreamVideo/19067706/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVUY",CXB11 Canal 11 - 11 TV - Maldonado - Maldonado
+http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0 group-title="TVUY",Cablevisión - 4CTV - Paysandú - Paysandú
+http://76.73.96.250:8097/stream.nsv
+#EXTINF:0 group-title="TVUY",CLD TV - 8 TV - Libertad - San José
+http://iphone-streaming.ustream.tv/ustreamVideo/18778008/streams/live/playlist.m3u8
+
+#EXTINF:0 group-title="TVVE",Canal I - 2 TV - Caracas - Dto Federal  TV
+rtmp://edge.wms28.lorini.net/canal-i/canal-i
+#EXTINF:0 group-title="TVVE",ValeTV 5 - 5 TV - Caracas - Dto Federal  TV
+rtmp://edge.wms28.lorini.net/valetv/valetv
+#EXTINF:0 group-title="TVVE",La Tele - 12 TV - Caracas - Dto Federal  TV
+rtmp://edge.wms28.lorini.net/latele/latele
+#EXTINF:0 group-title="TVVE",TVR - 19CTV - Caracas - Dto Federal  TV
+rtmp://edge.wms28.lorini.net:80/tvrtv/tvrtv
+#EXTINF:0 group-title="TVVE",Globovisión - 33 TV - Caracas - Dto Federal  TV
+rtmp://edge.wms28.lorini.net/globovisiontv/globovisiontv
+#EXTINF:0 group-title="TVVE",Globovisión - 33 TV - Caracas - Dto Federal  TV
+http://stream-ec.vty.dmcdn.net/14/dm/1/xio7e2/live.isml/live.m3u8?77838fedd64fa52abe6a11bcbcbb4e628ed6025598628a06f42f77fac2727ddbb4a0c9c1bf1003d7b4224464dabc3e96396bd8ca530043331d053a42c54cb02c6f14a9088eff4bf774
+#EXTINF:0 group-title="TVVE",VTV 8 - 22.1 TDA - Caracas - Dto Federal  TV
+rtmp://cast.streamingconnect.tv/vtvweb2/vtvweb2
+#EXTINF:0 group-title="TVVE",TeleSUR 31 - 23.2 TDA - Caracas - Dto Federal  TV
+http://cdn2.telesur.ultrabase.net/livecf/telesurLive/playlist.m3u8
+#EXTINF:0 group-title="TVVE",TVes 12 - 24.1 TDA - Caracas - Dto Federal  TV
+rtmp://cast.streamingconnect.tv/tves2/tves2
+#EXTINF:0 group-title="TVVE",ANTV 25 - 24.2 TDA - Caracas - Dto Federal  TV
+rtmp://cast.streamingconnect.tv/antvweb/antvweb
+#EXTINF:0 group-title="TVVE",ConCiencia - 24.5 TDA - Caracas - Dto Federal  TV
+rtmp://edge.wms28.lorini.net/concienciatv/concienciatv
+#EXTINF:0 group-title="TVVE",TV Fanb - 25.1 TDA - Caracas - Dto Federal  TV
+rtmp://vpn58.hdtv.lorini.net/tvfanb/tvfanb1
+#EXTINF:0 group-title="TVVE",PDVSA TV - 25.4 TDA - Caracas - Dto Federal  TV
+rtmp://cast.streamingconnect.tv/pdvsatvweb/pdvsatvweb
+#EXTINF:0 group-title="TVVE",Russia Today - 25.6 TDA - Caracas - Dto Federal  TV
+http://odna.octoshape.net/f3f5m2v4/cds/ch2_720p/master.m3u8
+#EXTINF:0 group-title="TVVE",Oasis - 11CTV - Barcelona - Anzoátegui
+rtmp://edge.wms28.lorini.net/oasistv/oasistv
+#EXTINF:0 group-title="TVVE",TVO - 5 TV - Puerto La Cruz - Anzoátegui
+rtmp://edge.wms28.lorini.net/tvo/tvo
+#EXTINF:0 group-title="TVVE",Anzoátegui TV - 7CTV - Puerto La Cruz - Anzoátegui
+rtmp://edge.wms28.lorini.net/anzoateguitv/anzoateguitv
+#EXTINF:0 group-title="TVVE",Órbita TV - 8CTV - Puerto La Cruz - Anzoátegui
+http://univhb-lh.akamaihd.net/i/Orbita_5@183196/master.m3u8
+#EXTINF:0 group-title="TVVE",ContacTV - 45 TV - San Fdo de Apure - Apure
+http://iphone-streaming.ustream.tv/ustreamVideo/5942574/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVVE",TRV - 4 TV - Maracay - Aragua
+rtmp://edge.wms28.lorini.net/trvtv/trvtv
+#EXTINF:0 group-title="TVVE",Tic TV - 4CTV - Maracay - Aragua
+rtmp://edge.wms28.lorini.net/tictv/tictv
+#EXTINF:0 group-title="TVVE",Telearagua - 65 TV - Maracay - Aragua
+rtmp://telearagua.lorini.net/telearagua/telearagua1
+#EXTINF:0 group-title="TVVE",Barinas TV - 9CTV - Barinas - Barinas
+rtmp://edge.wms28.lorini.net/barinastv/barinastv
+#EXTINF:0 group-title="TVVE",Telellano - 41 TV - Barinas - Barinas
+rtmp://edge.wms28.lorini.net/telellanotv/telellanotv
+#EXTINF:0 group-title="TVVE",Bolivar Visión - 9CTV - Ciudad Bolivar - Bolivar
+rtmp://edge.wms28.lorini.net/bolivarvision/bolivarvision
+#EXTINF:0 group-title="TVVE",DAT TV - 30 TV - Valencia - Carabobo
+http://iphone-streaming.ustream.tv/ustreamVideo/4172359/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVVE",TRC - 28 TV - San Carlos - Cojedes
+rtmp://edge.wms28.lorini.net/trctv/trctv
+#EXTINF:0 group-title="TVVE",Médano TV - 55 TV - Santa Ana deCoro - Falcón
+rtmp://edge.wms28.lorini.net/medanotv/medanotv
+#EXTINF:0 group-title="TVVE",Promar TV - 27 TV - Barquisimeto - Lara
+rtmp://edge.wms28.lorini.net/promartv/promartv
+#EXTINF:0 group-title="TVVE",TAM - 60 TV - Mérida - Mérida
+rtmp://edge.wms28.lorini.net/tamtv/tamtv
+#EXTINF:0 group-title="TVVE",Monagas Visión - 11CTV - Maturín - Monagas
+rtmp://edge.wms28.lorini.net/monagasvision/monagasvision
+#EXTINF:0 group-title="TVVE",TV Plus - 14CTV - Maturín - Monagas
+http://iphone-streaming.ustream.tv/ustreamVideo/18110205/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVVE",Isla TV - TV - Isla Margarita - Nueva Esparta
+rtmp://edge.wms28.lorini.net/islatv/islatv
+#EXTINF:0 group-title="TVVE",TRP - 31 TV - Guanare - Portuguesa
+rtmp://edge.wms28.lorini.net/trptv/trptv
+#EXTINF:0 group-title="TVVE",TRT - 6 TV - San Cristóbal - Táchira
+rtmp://edge.wms28.lorini.net/trttv/trttv
+#EXTINF:0 group-title="TVVE",TVCT - 21 TV - San Cristobál - Táchira
+rtmp://edge.wms28.lorini.net/tvct/tvct
+#EXTINF:0 group-title="TVVE",Telemax Música - 40 TV - San Cristóbal - Táchira
+rtmp://edge.wms28.lorini.net/telemax,telemax
+#EXTINF:0 group-title="TVVE",Ven TV - 8CTV - Valera - Trujillo
+rtmp://edge.wms28.lorini.net/ventv/ventv
+#EXTINF:0 group-title="TVVE",Yaracuyana YTV - 47 TV - San Felipe - Yaracuy
+http://iphone-streaming.ustream.tv/ustreamVideo/13468837/streams/live/playlist.m3u8
+#EXTINF:0 group-title="TVVE",Ciudad TV - 4CTV - Maracaibo - Zulia
+rtmp://edge.wms28.lorini.net/ciudadtv/ciudadtv
+#EXTINF:0 group-title="TVVE",Canal 11 - 11 TV - Maracaibo - Zulia
+rtmp://edge.wms28.lorini.net/canalonce/canalonce
+#EXTINF:0 group-title="TVVE",ClaretTV - 32 TV - Maracaibo - Zulia
+rtmp://edge.wms28.lorini.net/clarettv/clarettv
+#EXTINF:0 group-title="TVVE",Telecolor - 41 TV - Maracaibo - Zulia
+rtmp://edge.wms28.lorini.net/telecolor/telecolor
+#EXTINF:0 group-title="TVVE",Coquivacoa - 44 TV - Maracaibo - Zulia
+rtmp://edge.wms28.lorini.net/coquivacoatv/coquivacoatv
+#EXTINF:0 group-title="TVVE",URBE TV - 59 TV - Maracaibo - Zulia
+rtmp://edge.wms28.lorini.net/urbetv/urbetv
+#EXTINF:0 group-title="TVVE",GlobalTV - 65 TV - Maracaibo - Zulia
+rtmp://edge.wms28.lorini.net/globaltv/globaltv
