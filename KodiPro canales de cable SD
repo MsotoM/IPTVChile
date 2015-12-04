@@ -1,0 +1,432 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="TV Guia_Canal 2 HD" tvg-name="Canal_2_HD" tvg-logo="canal-2-HD.png" group-title="Abierta Y Local",Canal 2 HD
+http://200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Foro TV" tvg-name="Foro_TV" tvg-logo="foro-tv-HD.png" group-title="Abierta Y Local",Foro TV HD
+http://200.76.77.237/LIVE/H01/CANAL104/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Canal 5 HD" tvg-name="Canal_5_HD" tvg-logo="canal-5-HD.png" group-title="Abierta Y Local",Canal 5 HD
+http://200.76.77.237/LIVE/H01/CANAL105/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Azteca 7" tvg-name="Azteca_7" tvg-logo="azteca-7.png" group-title="Abierta Y Local",Azteca 7 HD
+http://200.76.77.237/LIVE/H01/CANAL7/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Gala TV" tvg-name="Gala_TV" tvg-logo="gala-tv-hd.png" group-title="Abierta Y Local",Gala TV HD
+http://200.76.77.237/LIVE/H01/CANAL109/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Once TV" tvg-name="Once_TV" tvg-logo="once-tv.png" group-title="Abierta Y Local",Once TV HD
+http://200.76.77.237/LIVE/H01/CANAL111/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_El Trece" tvg-name="El_Trece" tvg-logo="el-trece.png" group-title="Abierta Y Local",El Trece HD
+http://200.76.77.237/LIVE/H01/CANAL13/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Cadena 3" tvg-name="cadena_3" tvg-logo="cadena-3.png" group-title="Abierta Y Local",Cadena 3
+http://200.76.77.237/LIVE/H01/CANAL143/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Television Mexiquense" tvg-name="Television_Mexiquense" tvg-logo="Mexiquense-HD.png" group-title="Abierta Y Local",Television Mexiquense HD
+http://75.126.65.232/lv_tvmexiquense/_definst_/broadcast1/chunklist_w561315673.m3u8
+
+#EXTINF:-1 tvg-id="TV Guia_Proyecto 40" tvg-name="Proyecto_40" tvg-logo="proyecto-40.png" group-title="Abierta Y Local",Proyecto 40 HD
+http://200.76.77.237/LIVE/H01/CANAL40/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_canal 52mx" tvg-name="canal_52mx" tvg-logo="canal-52.png" group-title="Abierta Y Local",Canal 52MX
+http://iptvcanales.com/xw/cable.php?canal=09&player=playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Guia_Multimedios Monterrey" tvg-name="Multimedios_Monterrey" tvg-logo="multimedios-monterrey.png" group-title="Abierta Y Local",Multimedios Monterrey HD
+http://200.76.77.237/LIVE/H01/CANAL167/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_TVMas" tvg-name="TVMas" tvg-logo="TVMas.png" group-title="Abierta Y Local",TVMas HD
+rtmp://50.7.98.234/rtv/videortv
+
+#EXTINF:-1 tvg-id="TV Guia_Az-Clic" tvg-name="AZCLIC_HD" tvg-logo="azclick hd.png" group-title="Abierta Y Local",AzClick HD
+http://200.76.77.237/LIVE/H01/CANAL725/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Unicable" tvg-name="Unicable" tvg-logo="unicable.png" group-title="Entretenimiento",Unicable HD
+http://200.76.77.237/LIVE/H01/CANAL218/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Tlnovelas" tvg-name="Tlnovelas" tvg-logo="tlnovelas.png" group-title="Entretenimiento",Tlnovelas
+http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Telemundo" tvg-name="Telemundo" tvg-logo="telemundo.png" group-title="Entretenimiento",Telemundo HD
+http://iphone-streaming.ustream.tv:80/uhls/20720323/streams/live/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="TV Guia_Univision" tvg-name="Univision" tvg-logo="univision.png" group-title="Entretenimiento",Univision
+http://public.tuiptv.biz/public/PlayList.php?id=0b8143cc-4e4e-416c-a6d7-2222be2fd705&channel=6
+
+#EXTINF:-1 tvg-id="TV Guia_BBC HD" tvg-name="BBC_HD" tvg-logo="bbc-entertainment.png" group-title="Entretenimiento",BBC Entertainment HD
+http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Fox" tvg-name="Fox" tvg-logo="FOX HD.png" group-title="Entretenimiento",Fox HD
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Warner HD" tvg-name="Warner_HD" tvg-logo="warner-hd.png" group-title="Entretenimiento",Warner HD
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Studio Universal" tvg-name="Studio_Universal" tvg-logo="studio-universal.png" group-title="Entretenimiento",Studio Universal
+http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Sony HD" tvg-name="Sony_HD" tvg-logo="sony.png" group-title="Entretenimiento",Sony HD
+http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Comedy Central HD" tvg-name="Comedy_Central_HD" tvg-logo="comedy-central-hd.png" group-title="Entretenimiento",Comedy Central HD
+http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_FX HD" tvg-name="FX_HD" tvg-logo="fx-hd.png" group-title="Entretenimiento",FX HD
+http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_AXN HD" tvg-name="AXN_HD" tvg-logo="axn-hd.png" group-title="Entretenimiento",AXN HD
+http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Space" tvg-name="Space" tvg-logo="space.png" group-title="Entretenimiento",Space
+http://200.76.77.237/LIVE/H01/CANAL491/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Space HD" tvg-name="Space_HD" tvg-logo="space-hd.png" group-title="Entretenimiento",Space HD
+http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Investigación Discovery" tvg-name="Investigación_Discovery" tvg-logo="Investigacion-Discovery.png" group-title="Entretenimiento",Investigación Discovery
+http://200.76.77.237/LIVE/H01/CANAL263/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_E! Entertainment Television" tvg-name="E!_Entertainment_Television" tvg-logo="!e.png" group-title="Entretenimiento",E! Entertainment Television
+http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Home and Health" tvg-name="Home_and_Health" tvg-logo="home-and-health.png" group-title="Entretenimiento",Home and Health
+http://200.76.77.237/LIVE/H01/CANAL374/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_TLC" tvg-name="TLC" tvg-logo="tlc.png" group-title="Entretenimiento",TLC
+http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_ae" tvg-name="A&E" tvg-logo="a&e.png" group-title="Entretenimiento",A&E HD
+http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_El Gourmet" tvg-name="El_Gourmet" tvg-logo="el-gourmet.png" group-title="Entretenimiento",El Gourmet
+http://200.76.77.237/LIVE/H01/CANAL268/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_TVE" tvg-name="TVE" tvg-logo="tve.png" group-title="Entretenimiento",TVE
+http://200.76.77.237/LIVE/H01/CANAL651/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_I.Sat" tvg-name="I.Sat" tvg-logo="i.sat.png" group-title="Entretenimiento",I.Sat
+http://200.76.77.237/LIVE/H01/CANAL495/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Distrito Comedia" tvg-name="Distrito_Comedia" tvg-logo="distrito-comedia.png" group-title="Entretenimiento",Distrito Comedia
+http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_TNT Series" tvg-name="TNT Series" tvg-logo="TNT_Serie.png" group-title="Entretenimiento",TNT Series HD
+http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Lifetime" tvg-name="Lifetime" tvg-logo="lifetime.png" group-title="Entretenimiento",Lifetime
+http://200.76.77.237/LIVE/H01/CANAL379/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Fox Life" tvg-name="Fox_Life" tvg-logo="fox-life.png" group-title="Entretenimiento",Fox Life HD
+http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Glitz" tvg-name="Glitz" tvg-logo="glitz.png" group-title="Entretenimiento",Glitz
+http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_TBS" tvg-name="TBS" tvg-logo="tbs.png" group-title="Entretenimiento",TBS
+http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_SyFy" tvg-name="SyFy" tvg-logo="syfy.png" group-title="Entretenimiento",SyFy
+http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_truTV HD" tvg-name="TruTV_HD" tvg-logo="trutv-hd.png" group-title="Entretenimiento",TruTV HD
+http://200.76.77.237/LIVE/H01/CANAL215/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_hmx" tvg-name="logo=hmx" tvg-logo="hmx.png" group-title="Entretenimiento",HMX
+http://200.76.77.237/LIVE/H01/CANAL169/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Casa Club" tvg-name="Casa_Club" tvg-logo="casa-club.png" group-title="Entretenimiento",Casa Club
+http://200.76.77.237/LIVE/H01/CANAL274/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_azteca novelas" tvg-name="azteca_novelas" tvg-logo="azteca-novelas.png" group-title="Entretenimiento",Az Corazón HD
+http://200.76.77.237/LIVE/H01/CANAL45/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Garage TV" tvg-name="Garage_TV" tvg-logo="Garage-TV.png" group-title="Entretenimiento",Garage TV
+http://200.76.77.237/LIVE/H01/CANAL269/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_RT" tvg-name="RT" tvg-logo="rt.png" group-title="Entretenimiento",RT ES HD
+http://rt-a.akamaihd.net/ch_02@325606/master.m3u8
+
+#EXTINF:-1 tvg-id="TV Guia_DW" tvg-name="DW" tvg-logo="dw.png" group-title="Entretenimiento",DW ES HD
+http://www.metafilegenerator.de:80/DWelle/tv-latinoamerica/ios/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="TV Guia_CBeebies" tvg-name="CBeebies" tvg-logo="cbeebies.png" group-title="Infantiles",CBeebies HD
+http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Baby TV" tvg-name="Baby TV" tvg-logo="Baby-TV.png" group-title="Infantiles",Baby TV
+http://public.tuiptv.biz/public/PlayList.php?id=0b8143cc-4e4e-416c-a6d7-2222be2fd705&channel=33
+
+#EXTINF:-1 tvg-id="TV Guia_Baby First TV" tvg-name="Baby First TV" tvg-logo="baby-first.png" group-title="Infantiles",Baby First TV HD
+http://public.tuiptv.biz/public/PlayList.php?id=0b8143cc-4e4e-416c-a6d7-2222be2fd705&channel=1
+
+#EXTINF:-1 tvg-id="TV Guia_Nick Jr" tvg-name="Nick_Jr" tvg-logo="nick-jr.png" group-title="Infantiles",Nick Jr
+http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Discovery Kids" tvg-name="Discovery_Kids" tvg-logo="discovery-kids.png" group-title="Infantiles",Discovery Kids
+http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Disney Jr" tvg-name="Disney_Jr" tvg-logo="disney-jr.png" group-title="Infantiles",Disney Jr
+http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Cartoon Network" tvg-name="Cartoon_Network" tvg-logo="cartoon-network.png" group-title="Infantiles",Cartoon Network HD
+http://201.161.59.6/cartoonnetwork.isml/QualityLevels(1253000)/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1 tvg-id="TV Guia_Boomerang" tvg-name="Boomerang" tvg-logo="boomerang.png" group-title="Infantiles",Boomerang
+http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Nickelodeon (Nick)" tvg-name="Nick" tvg-logo="nickelodeon.png" group-title="Infantiles",Nickelodeon
+http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Nick HD" tvg-name="Nick_HD" tvg-logo="nick-hd.png" group-title="Infantiles",Nick HD
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_TIIN" tvg-name="TIIN" tvg-logo="tiin.png" group-title="Infantiles",TIIN
+http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Disney Channel" tvg-name="Disney_Channel" tvg-logo="disney-channel.png" group-title="Infantiles",Disney Channel
+http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Disney XD" tvg-name="Disney_XD" tvg-logo="disney-xd.png" group-title="Infantiles",Disney XD
+http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_nicktoons" tvg-name=nicktoons" tvg-logo="nicktoons.png" group-title="Infantiles",NickToons
+http://200.76.77.237/LIVE/H01/CANAL314/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Tooncast" tvg-name="Tooncast" tvg-logo="tooncast.png" group-title="Infantiles",Tooncast
+http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_TaTeTi" tvg-name=TaTeTi" tvg-logo="TaTeTi.png" group-title="Infantiles",TaTeTi
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
+
+#EXTINF:-1 tvg-id="TV Guia_Discovery Channel" tvg-name="Discovery_Channel" tvg-logo="discovery-channel.png" group-title="Culturales",Discovery Channel
+http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Animal Planet" tvg-name="Animal_Planet" tvg-logo="animalplanet.png" group-title="Culturales",Animal Planet
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_NatGeo" tvg-name="NatGeo" tvg-logo="natgeo.png" group-title="Culturales",NatGeo
+http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_NatGeo Wild HD" tvg-name="NatGeo_Wild_HD" tvg-logo="natgeo-wild-hd.png" group-title="Culturales",NatGeo Wild HD
+http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_History Channel HD" tvg-name="History_HD" tvg-logo="history-hd.png" group-title="Culturales",History HD
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_H2" tvg-name="H2" tvg-logo="h2.png" group-title="Culturales",H2
+http://public.tuiptv.biz/public/PlayList.php?id=116da423-39c5-48a5-9a3d-2d311a3d76ac&channel=11
+
+#EXTINF:-1 tvg-id="TV Guia_Discovery Civilization" tvg-name="Discovery_Civilization" tvg-logo="discovery-civilization.png" group-title="Culturales",Discovery Civilization
+http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Discovery Science" tvg-name="Discovery_Science" tvg-logo="discovery-science.png" group-title="Culturales",Discovery Science
+http://200.76.77.237/LIVE/H01/CANAL381/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Discovery World HD" tvg-name="Discovery_World_HD" tvg-logo="discovery-world-hd.png" group-title="Culturales",Discovery World HD
+http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_WOBI TV" tvg-name="WOBI_TV" tvg-logo="wobi-tv.png" group-title="Culturales",WOBI TV
+http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Discovery Turbo" tvg-name="Discovery_Turbo" tvg-logo="discovery-turbo.png" group-title="Culturales",Discovery Turbo
+http://200.76.77.237/LIVE/H01/CANAL383/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_HD Theater" tvg-name="HD_Theater" tvg-logo="hd-theater.png" group-title="Culturales",Discovery Theater HD
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_De Película HD" tvg-name="De_Película_HD" tvg-logo="de-pelicula-hd.png" group-title="Peliculas",De Película HD
+http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_AZ Cinema" tvg-name="AZ_Cinema" tvg-logo="AZ-Cinema.png" group-title="Peliculas",AZ Cinema HD
+http://iptvcanales.com/xw/cable.php?canal=85&player=playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Guia_Golden HD" tvg-name="Golden_HD" tvg-logo="golden.png" group-title="Peliculas",Golden HD
+http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Golden Edge" tvg-name="Golden_Edge" tvg-logo="golden-edge.png" group-title="Peliculas",Golden Edge
+http://200.76.77.237/LIVE/H01/CANAL484/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_TNT" tvg-name="TNT" tvg-logo="tnt.png" group-title="Peliculas",TNT
+http://200.76.77.237/LIVE/H01/CANAL482/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_TNT HD" tvg-name="TNT_HD" tvg-logo="tnt-hd.png" group-title="Peliculas",TNT HD
+http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_AMC HD" tvg-name="AMC_HD" tvg-logo="amchd.png" group-title="Peliculas",AMC HD
+http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Universal Channel" tvg-name="Universal_Channel" tvg-logo="universal-channel.png" group-title="Peliculas",Universal Channel
+http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Universal HD" tvg-name="Universal_HD" tvg-logo="universal-channel.png" group-title="Peliculas",Universal HD
+http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_The Film Zone HD" tvg-name="The_Film_Zone_HD" tvg-logo="the-film-zone-hd.png" group-title="Peliculas",The Film Zone HD
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_TCM" tvg-name="TCM" tvg-logo="tcm.png" group-title="Peliculas",TCM
+http://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Cine Latino" tvg-name="Cine_Latino" tvg-logo="cinelatino.png" group-title="Peliculas",Cine Latino HD
+http://201.161.59.4/cinelatino.isml/manifest(format=m3u8-aapl).m3u8 
+
+#EXTINF:-1 tvg-id="TV Guia_Cinemax" tvg-name="Cinemax" tvg-logo="cinemax-(w).png" group-title="Peliculas",Cinemax
+http://200.76.77.237/LIVE/H01/CANAL481/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Cinecanal" tvg-name="Cinecanal" tvg-logo="cinecanal-(W).png" group-title="Peliculas",Cinecanal
+http://200.76.77.237/LIVE/H01/CANAL480/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Cinecanal +" tvg-name="Cinecanal_HD" tvg-logo="cinecanal-hd.png" group-title="Peliculas",Cinecanal + HD
+http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_paramount" tvg-name=Paramount" tvg-logo="paramount.png"" group-title="Peliculas",Paramount Channel HD
+http://iptvcanales.com/xw/cable.php?canal=16&player=playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Guia_multicinema" tvg-name="multicinema" tvg-logo="MC_logotipo.png" group-title="Peliculas",Multicinema HD
+http://iptvcanales.com/xw/cable.php?canal=22&player=playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV Guia_CANAL DHE" tvg-name="CANAL_DHE" tvg-logo="Canal_DHE.jpg" group-title="Peliculas",CANAL DHE HD
+http://201.161.59.7/dhe.isml/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1 tvg-id="TV Guia_HBO (W)" tvg-name="HBO (W)" tvg-logo="hbo.png" group-title="Peliculas",HBO
+http://public.tuiptv.biz/public/PlayList.php?id=0b8143cc-4e4e-416c-a6d7-2222be2fd705&channel=55
+
+#EXTINF:-1 tvg-id="TV Guia_MAX" tvg-name="MAX" tvg-logo="max.png" group-title="Peliculas",MAX
+http://public.tuiptv.biz/public/PlayList.php?id=116da423-39c5-48a5-9a3d-2d311a3d76ac&channel=56
+
+#EXTINF:-1 tvg-id="TV Guia_Golden Premier 2" tvg-name="Golden Premier 2" tvg-logo="Golden-Premier-2.png" group-title="Peliculas",Golden Premier 2
+http://public.tuiptv.biz/public/PlayList.php?id=0b8143cc-4e4e-416c-a6d7-2222be2fd705&channel=58
+
+#EXTINF:-1 tvg-id="TV Guia_Fox 1 HD" tvg-name="Fox_1_HD" tvg-logo="fox-1-hd.png" group-title="Peliculas",Fox 1 HD
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Fox Action HD" tvg-name="Fox_Action_HD" tvg-logo="fox-action.png" group-title="Peliculas",Fox Action HD
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Fox Family (W)" tvg-name="Fox_Family_(W)" tvg-logo="fox-family.png" group-title="Peliculas",Fox Family
+http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Fox Cinéma" tvg-name="Fox_Cinéma" tvg-logo="fox-cinema.png" group-title="Peliculas",Fox Cinéma
+http://200.76.77.237/LIVE/H01/CANAL421/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Fox Movies HD" tvg-name="Fox_Movies_HD" tvg-logo="fox-movies-HD.png" group-title="Peliculas",Fox Movies HD
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Fox Classics" tvg-name="Fox_Classics" tvg-logo="fox-classics.png" group-title="Peliculas",Fox Classics
+http://200.76.77.237/LIVE/H01/CANAL424/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_TDN" tvg-name="TDN" tvg-logo="tdn-mx.png" group-title="Deportes",TDN HD
+http://public.tuiptv.biz/public/PlayList.php?id=0b8143cc-4e4e-416c-a6d7-2222be2fd705&channel=15
+
+#EXTINF:-1 tvg-id="TV Guia_Univision TDN" tvg-name="Univision TDN" tvg-logo="univision-tdn.png" group-title="Deportes",Univision TDN HD
+http://201.161.59.3/utdn.isml/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1 tvg-id="TV Guia_Fox Sports HD" tvg-name="Fox_Sports_HD" tvg-logo="fox-sports-hd.png" group-title="Deportes",Fox Sports HD
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Fox Sports 2 HD" tvg-name="Fox_Sports_2_HD" tvg-logo="fox-sports-2-hd.png" group-title="Deportes",Fox Sports 2 HD
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_ESPN" tvg-name="ESPN_HD" tvg-logo="espn-hd.png" group-title="Deportes",ESPN HD
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_ESPN 2" tvg-name="ESPN_2_HD" tvg-logo="espn-2.png" group-title="Deportes",ESPN 2 HD
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_ESPN 3" tvg-name="ESPN_3_HD" tvg-logo="espn-3-hd.png" group-title="Deportes",ESPN 3 HD
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_ESPN +" tvg-name="ESPN_+_HD" tvg-logo="Espn +.png" group-title="Deportes",ESPN + HD
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_AyM Sports" tvg-name="AyM_Sports" tvg-logo="aym-sports.png" group-title="Deportes",AyM Sports
+http://200.76.77.237/LIVE/H01/CANAL576/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_TVC Sports" tvg-name="TYC" tvg-logo="tyc-sports.png" group-title="Deportes",tyc Sports HD
+http://201.161.59.4/tycdeportes.isml/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1 tvg-id="TV Guia_Bein Sports Ñ" tvg-name="Bein_Sports_Ñ" tvg-logo="beins.png" group-title="Deportes",Bein Sports Ñ HD
+http://yiptv5-live.hls.adaptive.level3.net:80/yiptv5/beinespgov/02.m3u8
+
+
+#EXTINF:-1 tvg-id="TV Guia_NFL Network" tvg-name="NFL Network" tvg-logo="nfl.png" group-title="Deportes",NFL Network HD
+http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8
+
+#EXTINF:-1 tvg-id="TV Guia_F1 Latino" tvg-name="F1 Latino" tvg-logo="f1.png" group-title="Deportes",F1 Latino HD
+http://200.76.77.230/LIVE/H01/CANAL511/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Moto GP Español" tvg-name="Moto GP Español" tvg-logo="moto gp.png" group-title="Deportes",Moto GP Español HD
+rtmp://31.220.0.206/pull/motgepe?keys=CEEpsAyNohpF03XfwT97tw&keyt=1443272493 swfUrl=http://files.leton.tv/jwplayer.flash.swf live=1 pageUrl=http://leton.tv/
+
+#EXTINF:-1 tvg-id="TV Guia_Box Nation" tvg-name="Box Nation" tvg-logo="boxnation.png" group-title="Deportes",Box Nation HD
+http://public.tuiptv.biz/public/PlayList.php?id=0b8143cc-4e4e-416c-a6d7-2222be2fd705&channel=72
+
+#EXTINF:-1 tvg-id="TV Guia_Canal UFC Network Latino" tvg-name="Canal UFC Network Latino" tvg-logo="UFC Network Latinoamerica.png" group-title="Deportes",UFC Network ES HD
+http://ufc.carlosjerson.tk/playlist.m3u8?token=d099eaa38bd581c34f33e5c67a
+
+#EXTINF:-1 tvg-id="TV Guia_PX" tvg-name="PX" tvg-logo="px.png" group-title="Deportes",PX HD
+http://200.76.77.237/LIVE/H01/CANAL528/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Milenio TV" tvg-name="Milenio_TV" tvg-logo="milenio-tv.png" group-title="Informativos",Milenio TV HD
+http://200.76.77.237/LIVE/H01/CANAL603/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_EfektoTV" tvg-name="EfektoTV" tvg-logo="Efekto.png" group-title="Informativos",EfektoTV
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
+
+
+#EXTINF:-1 tvg-id="TV Guia_TeleFórmula" tvg-name="TeleFórmula" tvg-logo="teleformula.png" group-title="Informativos",TeleFórmula
+http://200.76.77.237/LIVE/H01/CANAL161/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+
+#EXTINF:-1 tvg-id="TV Guia_azteca internacional" tvg-name="azteca_internacional" tvg-logo="Az Noticias.png" group-title="Informativos",Azteca Noticias
+http://200.76.77.237/LIVE/H01/CANAL2/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Euronews" tvg-name="EURONEWS_ES" tvg-logo="Euronews.png" group-title="Informativos",Euronews ES HD
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
+
+#EXTINF:-1 tvg-id="TV Guia_bloomberg" tvg-name="bloomberg" tvg-logo="bloomberg.png" group-title="Informativos",Bloomberg HD
+http://200.76.77.237/LIVE/H01/CANAL610/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Telehit HD" tvg-name="Telehit_HD" tvg-logo="telehit-hd.png" group-title="Musica",Telehit HD
+http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_VH1 HD" tvg-name="VH1_HD" tvg-logo="vh1-hd.png" group-title="Musica",VH1 HD
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_MTV" tvg-name="MTV" tvg-logo="mtv.png" group-title="Musica",MTV
+http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Bandamax" tvg-name="Bandamax" tvg-logo="bandamax.png" group-title="Musica",Bandamax
+http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_CANTINAZO TV" tvg-name="CANTINAZO_TV" tvg-logo="Cantinazo Tv.png" group-title="Musica",Cantinazo TV HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
+
+#EXTINF:-1 tvg-id="TV Guia_Ritmoson Latino" tvg-name="Ritmoson_Latino" tvg-logo="ritmoson-latino.png" group-title="Musica",Ritmoson Latino
+http://200.76.77.237/LIVE/H01/CANAL731/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_HTV" tvg-name="HTV" tvg-logo="htv.png" group-title="Musica",HTV
+http://latinochannels.2fh.co/canales/hls/htv.m3u8
+
+#EXTINF:-1 tvg-id="TV Guia_VH1 Classic" tvg-name="VH1_Classic" tvg-logo="vh1-classisc.png" group-title="Musica",VH1 Classisc
+http://200.76.77.237/LIVE/H01/CANAL728/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_mtv hits" tvg-name="mtv_hits" tvg-logo="mtv-hits.png" group-title="Musica",MTV Hits
+http://200.76.77.237/LIVE/H01/CANAL727/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_MTV Live HD" tvg-name="MTV_Live_HD" tvg-logo="mtv-live-hd.png" group-title="Musica",MTV Live HD
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Kiss tv" tvg-name="Kiss_tv" tvg-logo="kiss-tv.png" group-title="Musica",Kiss TV HD
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
+
+#EXTINF:-1 tvg-id="TV Guia_VIRGIN TV" tvg-name="VIRGIN_TV" tvg-logo="Virgin tv.png" group-title="Musica",Virgin TV HD
+http://wow01.105.net/live/virgin1/.m3u8
+
+#EXTINF:-1 tvg-id="TV Guia_Vevo TV," tvg-name="Vevo_TV" tvg-logo="vevo.png" group-title="Musica",Vevo TV HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
