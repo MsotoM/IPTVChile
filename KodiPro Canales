@@ -1,0 +1,543 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DTV-USA_I441.33652.schedulesdirect.org" tvg-name="AZTECAE441_AZTECAE441Azteca_America_Network" tvg-logo="azteca-internacional.png" group-title="Español",Azteca Internacional
+http://200.76.77.237/LIVE/H01/CANAL2/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Azteca 7" tvg-name="Azteca_7" tvg-logo="azteca-7.png" group-title="Español",Azteca 7
+http://200.76.77.237/LIVE/H01/CANAL7/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_El Trece" tvg-name="El_Trece" tvg-logo="el-trece.png" group-title="Español",El Trece
+http://200.76.77.237/LIVE/H01/CANAL13/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Proyecto 40" tvg-name="Proyecto_40" tvg-logo="proyecto-40.png" group-title="Español",Proyecto 40
+http://200.76.77.237/LIVE/H01/CANAL40/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Az Corazón" tvg-name="Az_Corazón" tvg-logo="azteca-novelas.png" group-title="Español",Az Corazón
+http://200.76.77.237/LIVE/H01/CANAL45/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Canal 2 HD" tvg-name="Canal_2_HD" tvg-logo="canal-2-HD.png" group-title="Español",Canal 2 HD
+http://200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Foro TV" tvg-name="Foro_TV" tvg-logo="foro-tv-HD.png" group-title="Español",Foro TV
+http://200.76.77.237/LIVE/H01/CANAL104/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Canal 5 HD" tvg-name="Canal_5_HD" tvg-logo="canal-5-HD.png" group-title="Español",Canal 5 HD
+http://200.76.77.237/LIVE/H01/CANAL105/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Gala TV" tvg-name="Gala_TV" tvg-logo="gala-tv-hd.png" group-title="Español",Gala TV
+http://200.76.77.237/LIVE/H01/CANAL109/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Once TV" tvg-name="Once_TV" tvg-logo="once-tv.png" group-title="Español",Once TV
+http://200.76.77.237/LIVE/H01/CANAL111/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Cadena 3" tvg-name="Cadena_3" tvg-logo="cadena-3.png" group-title="Español",Cadena 3
+http://200.76.77.237/LIVE/H01/CANAL143/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_TeleFórmula" tvg-name="TeleFórmula" tvg-logo="teleformula.png" group-title="Español",TeleFórmula
+http://200.76.77.237/LIVE/H01/CANAL161/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Multimedios Monterrey" tvg-name="Multimedios_Monterrey" tvg-logo="multimedios-monterrey.png" group-title="Español",Multimedios Monterrey
+http://200.76.77.237/LIVE/H01/CANAL167/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="CV-MX_I181.91350.schedulesdirect.org" tvg-name="HMXTV181_HMXTV181HMX_TV" tvg-logo="hmx.png" group-title="Español",HMX
+http://200.76.77.237/LIVE/H01/CANAL169/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Fox" tvg-name="Fox" tvg-logo="fox.png" group-title="Español",Fox
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Sony HD" tvg-name="Sony_HD" tvg-logo="sony.png" group-title="Español",Sony HD
+http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Warner HD" tvg-name="Warner_HD" tvg-logo="warner-hd.png" group-title="Español",Warner HD
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Universal HD" tvg-name="Universal_HD" tvg-logo="universal-channel.png" group-title="Español",Universal HD
+http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_FX HD" tvg-name="FX_HD" tvg-logo="fx-hd.png" group-title="Español",FX HD
+http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_AE" tvg-name="A&E" tvg-logo="a&e.png" group-title="Español",A&E
+http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_AXN HD" tvg-name="AXN_HD" tvg-logo="axn-hd.png" group-title="Español",AXN HD
+http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_TruTV HD" tvg-name="TruTV_HD" tvg-logo="trutv-hd.png" group-title="Español",TruTV HD
+http://200.76.77.237/LIVE/H01/CANAL215/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Comedy Central HD" tvg-name="Comedy_Central_HD" tvg-logo="comedy-central-hd.png" group-title="Español",Comedy Central HD
+http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Unicable" tvg-name="Unicable" tvg-logo="unicable.png" group-title="Español",Unicable
+http://200.76.77.237/LIVE/H01/CANAL218/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_BBC Entertainment" tvg-name="BBC_Entertainment" tvg-logo="bbc-entertainment.png" group-title="Español",BBC Entertainment
+http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_E! Entertainment Television" tvg-name="E!_Entertainment_Television" tvg-logo="!e.png" group-title="Español",E! Entertainment Television
+http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Universal Channel" tvg-name="Universal_Channel" tvg-logo="universal-channel.png" group-title="Español",Universal Channel
+http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_SyFy" tvg-name="SyFy" tvg-logo="syfy.png" group-title="Español",SyFy
+http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_FX" tvg-name="FX" tvg-logo="fx.png" group-title="Español",FX
+http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_El Gourmet" tvg-name="El_Gourmet" tvg-logo="el-gourmet.png" group-title="Español",El Gourmet
+http://200.76.77.237/LIVE/H01/CANAL268/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Glitz" tvg-name="Glitz" tvg-logo="glitz.png" group-title="Español",Glitz
+http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Fox Life" tvg-name="Fox_Life" tvg-logo="fox-life.png" group-title="Español",Fox Life
+http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Distrito Comedia" tvg-name="Distrito_Comedia" tvg-logo="distrito-comedia.png" group-title="Español",Distrito Comedia
+http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_TBS" tvg-name="TBS" tvg-logo="tbs.png" group-title="Español",TBS
+http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Casa Club" tvg-name="Casa_Club" tvg-logo="casa-club.png" group-title="Español",Casa Club
+http://200.76.77.237/LIVE/H01/CANAL274/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Tlnovelas" tvg-name="Tlnovelas" tvg-logo="tlnovelas.png" group-title="Español",Tlnovelas
+http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Discovery Kids" tvg-name="Discovery_Kids" tvg-logo="discovery-kids.png" group-title="Español",Discovery Kids
+http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_CBeebies" tvg-name="CBeebies" tvg-logo="cbeebies.png" group-title="Español",CBeebies
+http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Disney Jr" tvg-name="Disney_Jr" tvg-logo="disney-jr.png" group-title="Español",Disney Jr
+http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Nick Jr" tvg-name="Nick_Jr" tvg-logo="nick-jr.png" group-title="Español",Nick Jr
+http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Disney Channel" tvg-name="Disney_Channel" tvg-logo="disney-channel.png" group-title="Español",Disney Channel
+http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="CV-MX_I321.90209.schedulesdirect.org" tvg-name="NICLA321_NICLA321NickToons_Latin_America" tvg-logo="nicktoons.png" group-title="Español",NickToons
+http://200.76.77.237/LIVE/H01/CANAL314/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Nick HD" tvg-name="Nick_HD" tvg-logo="nick-hd.png" group-title="Español",Nick HD
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Nickelodeon (Nick)" tvg-name="Nickelodeon_(Nick)" tvg-logo="nickelodeon-(nick).png" group-title="Español",Nickelodeon
+http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Cartoon Network" tvg-name="Cartoon_Network" tvg-logo="cartoon-network.png" group-title="Español",Cartoon Network
+http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Disney XD" tvg-name="Disney_XD" tvg-logo="disney-xd.png" group-title="Español",Disney XD
+http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Boomerang" tvg-name="Boomerang" tvg-logo="boomerang.png" group-title="Español",Boomerang
+http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_TIIN" tvg-name="TIIN" tvg-logo="tiin.png" group-title="Español",TIIN
+http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Tooncast" tvg-name="Tooncast" tvg-logo="tooncast.png" group-title="Español",Tooncast
+http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Investigación Discovery" tvg-name="Investigación_Discovery" tvg-logo="Investigacion-Discovery.png" group-title="Español",Investigación Discovery
+http://200.76.77.237/LIVE/H01/CANAL263/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_TNT Series" tvg-name="TNT_Series" tvg-logo="TNT_Serie.png" group-title="Español",TNT Series
+http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_HD Theater" tvg-name="Discovery_Theater_HD" tvg-logo="hd-theater.png" group-title="Español",Discovery Theater HD
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_History HD" tvg-name="History_HD" tvg-logo="history-hd.png" group-title="Español",History HD
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_NatGeo Wild HD" tvg-name="NatGeo_Wild_HD" tvg-logo="natgeo-wild-hd.png" group-title="Español",NatGeo Wild HD
+http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_TLC" tvg-name="TLC" tvg-logo="tlc-hd.png" group-title="Español",TLC
+http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Discovery Channel" tvg-name="Discovery_Channel" tvg-logo="discovery-channel.png" group-title="Español",Discovery Channel
+http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Animal Planet" tvg-name="Animal_Planet" tvg-logo="animalplanet.png" group-title="Español",Animal Planet
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Home and Health" tvg-name="Home_and_Health" tvg-logo="home-and-health.png" group-title="Español",Home and Health
+http://200.76.77.237/LIVE/H01/CANAL374/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_NatGeo" tvg-name="NatGeo" tvg-logo="natgeo.png" group-title="Español",NatGeo
+http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_lifetime_latinoamerica" tvg-name="Lifetime" tvg-logo="lifetime.png" group-title="Español",Lifetime
+http://200.76.77.237/LIVE/H01/CANAL379/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Discovery Science" tvg-name="Discovery_Science" tvg-logo="discovery-science.png" group-title="Español",Discovery Science
+http://200.76.77.237/LIVE/H01/CANAL381/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Discovery Civilization" tvg-name="Discovery_Civilization" tvg-logo="discovery-civilization.png" group-title="Español",Discovery Civilization
+http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Discovery Turbo" tvg-name="Discovery_Turbo" tvg-logo="discovery-turbo.png" group-title="Español",Discovery Turbo
+http://200.76.77.237/LIVE/H01/CANAL383/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_TLC" tvg-name="TLC" tvg-logo="tlc.png" group-title="Español",TLC
+http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_WOBI TV" tvg-name="WOBI_TV" tvg-logo="wobi-tv.png" group-title="Español",WOBI TV
+http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Fox 1 HD" tvg-name="Fox_1_HD" tvg-logo="fox-1-hd.png" group-title="Español",Fox 1 HD
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Fox Action HD" tvg-name="Fox_Action_HD" tvg-logo="fox-action.png" group-title="Español",Fox Action
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Fox Movies HD" tvg-name="Fox_Movies_HD" tvg-logo="fox-movies-HD.png" group-title="Español",Fox Movies HD
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Fox Cinéma" tvg-name="Fox_Cinéma" tvg-logo="fox-cinema.png" group-title="Español",Fox Cinéma
+http://200.76.77.237/LIVE/H01/CANAL421/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Fox Classics" tvg-name="Fox_Classics" tvg-logo="fox-classics.png" group-title="Español",Fox Classics
+http://200.76.77.237/LIVE/H01/CANAL424/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Cinecanal HD" tvg-name="Cinecanal_HD" tvg-logo="cinecanal-hd.png" group-title="Español",Cinecanal HD
+http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_TNT HD" tvg-name="TNT_HD" tvg-logo="tnt-hd.png" group-title="Español",TNT HD
+http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Golden" tvg-name="Golden" tvg-logo="golden.png" group-title="Español",Golden
+http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_The Film Zone HD" tvg-name="The_Film_Zone_HD" tvg-logo="the-film-zone-hd.png" group-title="Español",The Film Zone HD
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_De Película HD" tvg-name="De_Película_HD" tvg-logo="de-pelicula-hd.png" group-title="Español",De Película HD
+http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_AMC HD" tvg-name="AMC_HD" tvg-logo="amchd.png" group-title="Español",AMC HD
+http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Space HD" tvg-name="Space_HD" tvg-logo="space-hd.png" group-title="Español",Space HD
+http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Fox Family (W)" tvg-name="Fox_Family_(W)" tvg-logo="fox-family.png" group-title="Español",Fox Family
+http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Cinecanal HD" tvg-name="Cinecanal_HD" tvg-logo="cinecanal-(W).png" group-title="Español",Cinecanal
+http://200.76.77.237/LIVE/H01/CANAL480/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Cinemax (W)" tvg-name="Cinemax_(W)" tvg-logo="cinemax-(w).png" group-title="Español",Cinemax
+http://200.76.77.237/LIVE/H01/CANAL481/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_TNT" tvg-name="TNT" tvg-logo="tnt.png" group-title="Español",TNT
+http://200.76.77.237/LIVE/H01/CANAL482/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Golden Edge" tvg-name="Golden_Edge" tvg-logo="golden-edge.png" group-title="Español",Golden Edge
+http://200.76.77.237/LIVE/H01/CANAL484/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Space" tvg-name="Space" tvg-logo="space.png" group-title="Español",Space
+http://200.76.77.237/LIVE/H01/CANAL491/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Studio Universal" tvg-name="Studio_Universal" tvg-logo="studio-universal.png" group-title="Español",Studio Universal
+http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_I.Sat" tvg-name="I.Sat" tvg-logo="i.sat.png" group-title="Español",I.Sat
+http://200.76.77.237/LIVE/H01/CANAL495/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_TCM" tvg-name="TCM" tvg-logo="tcm.png" group-title="Español",TCM
+http://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Fox Sports HD" tvg-name="Fox_Sports_HD" tvg-logo="fox-sports-hd.png" group-title="Español",Fox Sports HD
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Fox Sports 2 HD" tvg-name="Fox_Sports_2_HD" tvg-logo="fox-sports-2-hd.png" group-title="Español",Fox Sports 2 HD
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_ESPN HD" tvg-name="ESPN_HD" tvg-logo="espn-hd.png" group-title="Español",ESPN HD
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_ESPN HD" tvg-name="ESPN_HD" tvg-logo="espn-hd.png" group-title="Español",ESPN HD
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE05.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_ESPN" tvg-name="ESPN" tvg-logo="espn.png" group-title="Español",ESPN
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_ESPN 2" tvg-name="ESPN_2" tvg-logo="espn-2.png" group-title="Español",ESPN 2
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_ESPN 3 HD" tvg-name="ESPN_3_HD" tvg-logo="espn-3-hd.png" group-title="Español",ESPN 3 HD
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_AyM Sports" tvg-name="AyM_Sports" tvg-logo="aym-sports.png" group-title="Español",AyM Sports
+http://200.76.77.237/LIVE/H01/CANAL576/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Milenio TV" tvg-name="Milenio_TV" tvg-logo="milenio-tv.png" group-title="Español",Milenio TV
+http://200.76.77.237/LIVE/H01/CANAL603/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Canal Bloomberg" tvg-name="Bloomberg" tvg-logo="bloomberg.png" group-title="Español",Bloomberg
+http://200.76.77.237/LIVE/H01/CANAL610/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_TVE" tvg-name="TVE" tvg-logo="tve.png" group-title="Español",TVE
+http://200.76.77.237/LIVE/H01/CANAL651/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_MTV Live HD" tvg-name="MTV_Live_HD" tvg-logo="mtv-live-hd.png" group-title="Español",MTV Live HD
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Telehit HD" tvg-name="Telehit_HD" tvg-logo="telehit-hd.png" group-title="Español",Telehit HD
+http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_VH1 HD" tvg-name="VH1_HD" tvg-logo="vh1-hd.png" group-title="Español",VH1 HD
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_MTV" tvg-name="MTV" tvg-logo="mtv.png" group-title="Español",MTV
+http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_MTV Hits" tvg-name="MTV_Hits" tvg-logo="mtv-hits.png" group-title="Español",MTV Hits
+http://200.76.77.237/LIVE/H01/CANAL727/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Canal VH1 Classic" tvg-name="VH1_Classic" tvg-logo="vh1-classisc.png" group-title="Español",VH1 Classisc
+http://200.76.77.237/LIVE/H01/CANAL728/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Ritmoson Latino" tvg-name="Ritmoson_Latino" tvg-logo="ritmoson-latino.png" group-title="Español",Ritmoson Latino
+http://200.76.77.237/LIVE/H01/CANAL731/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="TVGuia_Bandamax" tvg-name="Bandamax" tvg-logo="bandamax.png" group-title="Español",Bandamax
+http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
+#EXTINF:-1 tvg-id="Claro-PR_I2.64835.schedulesdirect.org" tvg-name="CABTELE2_CABTELE2Telemundo_Internacional" tvg-logo="telemundo.png" group-title="information",Telemundo Puerto Rico
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=8469
+#EXTINF:-1 tvg-id="Claro-PR_I20.83262.schedulesdirect.org" tvg-name="MFOXLA20_MFOXLA20Mundo_Fox_Latin_American" tvg-logo="MundoMax.png" group-title="entertainments",Mundo Max Puerto Rico
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=8461
+#EXTINF:-1 tvg-id="Claro-PR_I17.10003.schedulesdirect.org" tvg-name="ABC17_ABC17American_Broadcasting_Company" tvg-logo="ABC5.png" group-title="information",ABC 5 Puerto Rico
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=8574
+#EXTINF:-1 tvg-id="TVGuia-WG_OnDirectv" tvg-name="OnDirectv" tvg-logo="ondirectv.png" group-title="sports",OnDirectv
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=8464
+#EXTINF:-1 tvg-id="TVGuia-WG_AZ Mundo" tvg-name="AZ_Mundo" tvg-logo="az-mundo.png" group-title="information",Az Mundo
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=1999
+#EXTINF:-1 tvg-id="Sky-MX_I1102.45831.schedulesdirect.org" tvg-name="XEWDT1102_XEWDT1102XEWDT_(XEW-DT)" tvg-logo="Canal-de-las-estrellas.png" group-title="information",Canal De Las Estrellas
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=6354
+#EXTINF:-1 tvg-id="TVGuia-WG_Estrella TV" tvg-name="Estrella_TV" tvg-logo="Estrella_tv.png" group-title="information",Estrella TV
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=7112
+#EXTINF:-1 tvg-id="DTV-USA_I402.11118.schedulesdirect.org" tvg-name="UNI402_UNI402Univision_Network" tvg-logo="univision.png" group-title="entertainments",Univision
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=6299
+#EXTINF:-1 tvg-id="DTV-USA_I408.31541.schedulesdirect.org" tvg-name="UNIMWST408_UNIMWST408UniMas_Satellite_Feed_(Pacific)" tvg-logo="unimas.png" group-title="entertainments",UniMas
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=3602
+#EXTINF:-1 tvg-id="Claro-PR_I325.14791.schedulesdirect.org" tvg-name="UNVSO325_UNVSO325NBC_Universo" tvg-logo="nbcuniverso.png" group-title="entertainments",NBC Universo
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=4825
+#EXTINF:-1 tvg-id="Total-MX_I669.39719.schedulesdirect.org" tvg-name="CARAI669_CARAI669CARACOL_INTERNATIONAL" tvg-logo="caracol-internacional.png" group-title="information",Caracol Internacional
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=2051
+#EXTINF:-1 tvg-id="Sky-MX_I187.37233.schedulesdirect.org" tvg-name="TLTICA187_TLTICA187TELETICA_07" tvg-logo="teletica.png" group-title="information",Teletica
+http://k3.usastreams.com:1935/cana7/cana7/playlist.m3u8
+#EXTINF:-1 tvg-id="DTV-USA_I429.60690.schedulesdirect.org" tvg-name="TLCN429_TLCN429Telecentro_TV" tvg-logo="telecentro.png" group-title="information",TeleCentro
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=2017
+#EXTINF:-1 tvg-id="Sky-MX_I109.16466.schedulesdirect.org" tvg-name="XEQ109_XEQ109XEQ_Canal_9_Tres_Padres_(Galavision)" tvg-logo="gala-tv-hd.png" group-title="information",Gala TV
+http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8
+#EXTINF:-1 tvg-id="DTV-USA_I444.61776.schedulesdirect.org" tvg-name="PASNUS444_PASNUS444Pasiones_TV_US" tvg-logo="pasiones.png" group-title="entertainments",Pasiones
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=295
+#EXTINF:-1 tvg-id="DTV-USA_I406.10239.schedulesdirect.org" tvg-name="TELE406_TELE406Telemundo_Television_Network" tvg-logo="telemundo.png" group-title="entertainments",Telemundo
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=4417
+#EXTINF:-1 tvg-id="Sky-MX_I214.64835.schedulesdirect.org" tvg-name="CABTELE214_CABTELE214Telemundo_Internacional" tvg-logo="telemundo-internacional.png" group-title="entertainments",Telemundo Internacional
+http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
+#EXTINF:-1 tvg-id="Sky-MX_I220.37232.schedulesdirect.org" tvg-name="TLNOVEL220_TLNOVEL220TELENOVELAS" tvg-logo="tlnovelas.png" group-title="entertainments",Tlnovelas America
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=1461
+#EXTINF:-1 tvg-id="DTV-USA_I416.33431.schedulesdirect.org" tvg-name="NUESTRT416_NUESTRT416RCN_Nuestra_Tele" tvg-logo="rcn-novelas.png" group-title="entertainments",RCN Novelas
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=1493
+#EXTINF:-1 tvg-id="Sky-MX_I272.16800.schedulesdirect.org" tvg-name="ANT3I272_ANT3I272Antena_3_Internacional" tvg-logo="antena-3.png" group-title="information",Antena 3
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
+#EXTINF:-1 tvg-id="Sky-MX_I271.49124.schedulesdirect.org" tvg-name="TVEA2271_TVEA2271TVE_America_II" tvg-logo="tve.png" group-title="information",TVE Internacional America
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=2123
+#EXTINF:-1 tvg-id="Sky-MX_I273.17672.schedulesdirect.org" tvg-name="GALTV273_GALTV273Galicia_TV" tvg-logo="galicia.png" group-title="information",Galicia TV
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=1499
+#EXTINF:-1 tvg-id="DTV-USA_I2134.21065.schedulesdirect.org" tvg-name="RGTI2134_RGTI2134Rede_Globo_TV_Internacional" tvg-logo="Tv-globo.png" group-title="information",TV Globo Internacional
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=1593
+#EXTINF:-1 tvg-id="Sky-MX_I277.16422.schedulesdirect.org" tvg-name="TV5L277_TV5L277TV5_Latin_America" tvg-logo="tv5monde.png" group-title="information",TV 5 Monde
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
+#EXTINF:-1 tvg-id="Sky-MX_I251.25788.schedulesdirect.org" tvg-name="DISCCH251_DISCCH251Discovery_Channel_Mexico" tvg-logo="discovery-channel.png" group-title="information",Discovery en Español
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=3531
+#EXTINF:-1 tvg-id="Sky-MX_I1251.65940.schedulesdirect.org" tvg-name="DTHLAHD1251_DTHLAHD1251Discovery_Theater_HD" tvg-logo="discovery-theater.png" group-title="information",Discovery Theater
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=3798
+#EXTINF:-1 tvg-id="Sky-MX_I1258.66488.schedulesdirect.org" tvg-name="DWRLDHD1258_DWRLDHD1258Discovery_World_HD_Latin_America" tvg-logo="discovery-world-hd.png" group-title="information",Discovery World
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=3529
+#EXTINF:-1 tvg-id="Sky-MX_I218.59582.schedulesdirect.org" tvg-name="DHEALM218_DHEALM218Discovery_Home_and_Health_Mexico" tvg-logo="home-and-health.png" group-title="entertainments",Discovery Home & Health Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=252
+#EXTINF:-1 tvg-id="CV-MX_I413.80374.schedulesdirect.org" tvg-name="H2LA413_H2LA413H2_-_History_International_Latin_America" tvg-logo="h2.png" group-title="information",H2 Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=297
+#EXTINF:-1 tvg-id="Sky-MX_I253.40137.schedulesdirect.org" tvg-name="HCLM253_HCLM253History_Channel_Mexico" tvg-logo="history.png" group-title="information",History en Español
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=3704
+#EXTINF:-1 tvg-id="Sky-MX_I254.25068.schedulesdirect.org" tvg-name="NGCLA254_NGCLA254National_Geographic_Latin_America" tvg-logo="natgeo.png" group-title="information",National Geographic Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=395
+#EXTINF:-1 tvg-id="Sky-MX_I1254.67590.schedulesdirect.org" tvg-name="NGWLAHD1254_NGWLAHD1254National_Geographic_Wild_Lat_Am_HD" tvg-logo="natgeo-wild.png" group-title="culture",Nat Geo Wild Latino America
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=254
+#EXTINF:-1 tvg-id="Sky-MX_I252.18649.schedulesdirect.org" tvg-name="ANIPL252_ANIPL252Animal_Planet_LatinAm" tvg-logo="animalplanet.png" group-title="information",Animal Planet Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=441
+#EXTINF:-1 tvg-id="Sky-MX_I548.37747.schedulesdirect.org" tvg-name="SESPNI548_SESPNI548SPAN_ESPN_INTL_(9A)" tvg-logo="espn.png" group-title="sports",ESPN Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=2487
+#EXTINF:-1 tvg-id="Sky-MX_I551.67765.schedulesdirect.org" tvg-name="ESPN2M551_ESPN2M551ESPN_Dos_Mexico_(214A)" tvg-logo="espn-2.png" group-title="sports",ESPN 2 Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=301
+#EXTINF:-1 tvg-id="CV-MX_I510.79042.schedulesdirect.org" tvg-name="ESPN3N510_ESPN3N510ESPN_Tres_North" tvg-logo="espn-3.png" group-title="sports",ESPN 3 Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=3806
+#EXTINF:-1 tvg-id="Sky-MX_I553.30262.schedulesdirect.org" tvg-name="FSALA553_FSALA553Fox_Sports_America_Argentina" tvg-logo="FoxSports1.png" group-title="sports",Fox Sports Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=2505
+#EXTINF:-1 tvg-id="Sky-MX_I1555.71328.schedulesdirect.org" tvg-name="FOXSHD21555_FOXSHD21555FOX_SPORTS2_HD" tvg-logo="FoxSports2.png" group-title="sports",Fox Sports 2 Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=475
+#EXTINF:-1 tvg-id="Sky-MX_I559.47374.schedulesdirect.org" tvg-name="FOXS3559_FOXS3559FOX_SPORTS3" tvg-logo="foxsports3.png" group-title="sports",Fox Sports 3 Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=445
+#EXTINF:-1 tvg-id="CV-MX_I517.91995.schedulesdirect.org" tvg-name="F1LA517_F1LA517Fórmula_1_Latin_America" tvg-logo="f1.png" group-title="sports",F1 Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=1695
+#EXTINF:-1 tvg-id="Sky-MX_I571.83162.schedulesdirect.org" tvg-name="UFCNET571_UFCNET571UFC_Network" tvg-logo="ufc-network.png" group-title="sports",UFC Network Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=1047
+#EXTINF:-1 tvg-id="DTV-USA_I467.76943.schedulesdirect.org" tvg-name="BEINSES467_BEINSES467beIN_Sports_En_Español" tvg-logo="beins.png" group-title="sports",BeinSports en Español
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=2527
+#EXTINF:-1 tvg-id="TVGuia-WG_Canal Planeta Futbol (Canal 516)" tvg-name="Planeta_Futbol" tvg-logo="planeta-futbol.png" group-title="sports",Planeta Futbol
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=1477
+#EXTINF:-1 tvg-id="Sky-MX_I547.38683.schedulesdirect.org" tvg-name="TD547_TD547Televisa_Deportes" tvg-logo="tdn-mx.png" group-title="information",TDN Mexico
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=1059
+#EXTINF:-1 tvg-id="CV-MX_I502.75951.schedulesdirect.org" tvg-name="UTDN502_UTDN502Univision_TDN" tvg-logo="univision-tdn.png" group-title="information",Univision TDN
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=1483
+#EXTINF:-1 tvg-id="TVGuia-WG_DXTV" tvg-name="DXTV" tvg-logo="dxtv.png" group-title="information",DXTV
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Sky-MX_I560.61033.schedulesdirect.org" tvg-name="GOLFLA560_GOLFLA560The_Golf_Channel_Latinoamerica" tvg-logo="Golf-Channel.png" group-title="sports",Golf Channel Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=1489
+#EXTINF:-1 tvg-id="Sky-MX_I320.19234.schedulesdirect.org" tvg-name="DISNL320_DISNL320Canal_Disney_LatinAm" tvg-logo="discovery-channel.png" group-title="children's",Disney Channel Norte
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=256
+#EXTINF:-1 tvg-id="Sky-MX_I311.16563.schedulesdirect.org" tvg-name="DISNXD311_DISNXD311Disney_XD_Mexico" tvg-logo="disney-xd.png" group-title="children's",Disney XD Norte
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=499
+#EXTINF:-1 tvg-id="Sky-MX_I331.61311.schedulesdirect.org" tvg-name="DISNJMX331_DISNJMX331Disney_Junior_Mexico" tvg-logo="disney-jr.png" group-title="children's",Disney Junior Norte
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=1455
+#EXTINF:-1 tvg-id="Sky-MX_I307.16707.schedulesdirect.org" tvg-name="NIKL307_NIKL307Nickelodeon_Latin_America" tvg-logo="nickelodeon.png" group-title="children's",Nickelodeon Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=1423
+#EXTINF:-1 tvg-id="Sky-MX_I325.60295.schedulesdirect.org" tvg-name="NICKJLM325_NICKJLM325Nick_Junior_Latin_Am_Mexico" tvg-logo="nick-jr.png" group-title="children's",Nick Jr Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=417
+#EXTINF:-1 tvg-id="Sky-MX_I303.45955.schedulesdirect.org" tvg-name="DKNLM303_DKNLM303Discovery_Kids_Mexico" tvg-logo="discovery-kids.png" group-title="children's",Discovery Kids America Latina
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=309
+#EXTINF:-1 tvg-id="Sky-MX_I315.16141.schedulesdirect.org" tvg-name="TOONL315_TOONL315Cartoon_Network_Mexico" tvg-logo="cartoon-network.png" group-title="children's",Cartoon Network Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=421
+#EXTINF:-1 tvg-id="Sky-MX_I323.55719.schedulesdirect.org" tvg-name="BOOMLM323_BOOMLM323Boomerang_Mexico" tvg-logo="boomerang.png" group-title="children's",Boomerang Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=2507
+#EXTINF:-1 tvg-id="Sky-MX_I329.60755.schedulesdirect.org" tvg-name="CBEETV329_CBEETV329Cbeebies_TV" tvg-logo="cbeebies.png" group-title="children's",CBeebies Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=1029
+#EXTINF:-1 tvg-id="CV-MX_I323.63109.schedulesdirect.org" tvg-name="TOONCST323_TOONCST323TOONCAST_Latin_America" tvg-logo="tooncast.png" group-title="children's",Tooncast
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=443
+#EXTINF:-1 tvg-id="Sky-MX_I324.56036.schedulesdirect.org" tvg-name="BABYTVL324_BABYTVL324Baby_TV_Latin_America" tvg-logo="Baby-TV.png" group-title="children's",Baby TV Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=317
+#EXTINF:-1 tvg-id="Sky-MX_I202.19385.schedulesdirect.org" tvg-name="SETLC202_SETLC202Sony_Ent_TV" tvg-logo="sony.png" group-title="information",Canal Sony
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=2501
+#EXTINF:-1 tvg-id="Sky-MX_I203.62091.schedulesdirect.org" tvg-name="BBCE203_BBCE203BBC_Entertainment" tvg-logo="bbc-entertainment.png" group-title="entertainments",BBC Entertainment Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=1407
+#EXTINF:-1 tvg-id="Sky-MX_I204.16521.schedulesdirect.org" tvg-name="UNIC204_UNIC204Unicable" tvg-logo="unicable.png" group-title="information",Unicable
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=3804
+#EXTINF:-1 tvg-id="Sky-MX_I205.16213.schedulesdirect.org" tvg-name="WBL205_WBL205Warner_Channel_Mexico" tvg-logo="warner.png" group-title="entertainments",Warner Channel Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=2499
+#EXTINF:-1 tvg-id="Sky-MX_I206.30259.schedulesdirect.org" tvg-name="ETVLN206_ETVLN206E!_TV_Latin_America_North_Beam" tvg-logo="e!-entertainment-television.png" group-title="entertainments",E! Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=427
+#EXTINF:-1 tvg-id="Sky-MX_I207.46442.schedulesdirect.org" tvg-name="FXL207_FXL207FX_Latin_America" tvg-logo="fx.png" group-title="entertainments",FX Latino
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=431
+#EXTINF:-1 tvg-id="Sky-MX_I208.16799.schedulesdirect.org" tvg-name="UNVRSLN208_UNVRSLN208Universal_Latin_North" tvg-logo="universal-channel.png" group-title="cinema",Universal Channel America Latina
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=387
+#EXTINF:-1 tvg-id="Sky-MX_I201.15688.schedulesdirect.org" tvg-name="FOXL201_FOXL201CANAL_FOX_MEX" tvg-logo="fox.png" group-title="entertainments",Fox Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=3947
+#EXTINF:-1 tvg-id="Sky-MX_I209.56727.schedulesdirect.org" tvg-name="SYFYLA209_SYFYLA209SyFy_Latin_America" tvg-logo="syfy.png" group-title="entertainments",Syfy Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=447
+#EXTINF:-1 tvg-id="Sky-MX_I212.18955.schedulesdirect.org" tvg-name="AEMX212_AEMX212A&E_MX_West" tvg-logo="a&e.png" group-title="entertainments",A&E Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=258
+#EXTINF:-1 tvg-id="Sky-MX_I210.25793.schedulesdirect.org" tvg-name="IDM210_IDM210Investigacion_Discovery_Mexico" tvg-logo="Investigacion-Discovery.png" group-title="information",Investigation Discovery Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=455
+#EXTINF:-1 tvg-id="Sky-MX_I211.73822.schedulesdirect.org" tvg-name="TLCLASP211_TLCLASP211TLC_Latin_America" tvg-logo="tlc.png" group-title="entertainments",TLC Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=327
+#EXTINF:-1 tvg-id="Sky-MX_I213.17484.schedulesdirect.org" tvg-name="AXNL213_AXNL213AXN_(Mexico_West)" tvg-logo="AXN.png" group-title="entertainments",AXN Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=2493
+#EXTINF:-1 tvg-id="Sky-MX_I215.16574.schedulesdirect.org" tvg-name="EURO215_EURO215Eurochannel" tvg-logo="eurochannel.png" group-title="information",Eurochannel
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=4912
+#EXTINF:-1 tvg-id="Claro-PR_I20.83262.schedulesdirect.org" tvg-name="MFOXLA20_MFOXLA20Mundo_Fox_Latin_American" tvg-logo="MundoMax.png" group-title="information",Mundo Max
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=7114
+#EXTINF:-1 tvg-id="Sky-MX_I217.83262.schedulesdirect.org" tvg-name="MFOXLA217_MFOXLA217Mundo_Fox_Latin_American" tvg-logo="mundofox.png" group-title="entertainments",MundoFox
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=429
+#EXTINF:-1 tvg-id="CV-MX_I242.92090.schedulesdirect.org" tvg-name="TNTSRS242_TNTSRS242TNT_Series_Panamericano" tvg-logo="tnt.png" group-title="entertainments",TNT Series Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=331
+#EXTINF:-1 tvg-id="Sky-MX_I223.45910.schedulesdirect.org" tvg-name="GOURMETN223_GOURMETN223elgourmet.com_North" tvg-logo="el-gourmet.png" group-title="culture",Elgourmet
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=1033
+#EXTINF:-1 tvg-id="Sky-MX_I225.75073.schedulesdirect.org" tvg-name="TBSESLA225_TBSESLA225TBS_Español_Latin_America" tvg-logo="tbs.png" group-title="entertainments",TBS America Latina
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=333
+#EXTINF:-1 tvg-id="Sky-MX_I226.24459.schedulesdirect.org" tvg-name="GLITZ226_GLITZ226Glitz_Latin_America_Panregional" tvg-logo="glitz.png" group-title="entertainments",Glitz Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=1473
+#EXTINF:-1 tvg-id="Sky-MX_I227.49263.schedulesdirect.org" tvg-name="FOXLIFE227_FOXLIFE227Fox_Life_Latin_America" tvg-logo="fox-life.png" group-title="entertainments",FOX Life
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=425
+#EXTINF:-1 tvg-id="Sky-MX_I228.55980.schedulesdirect.org" tvg-name="DISTCOM228_DISTCOM228Distrito_Comedia" tvg-logo="distrito-comedia.png" group-title="entertainments",Distrito Comedia
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=1491
+#EXTINF:-1 tvg-id="Sky-MX_I230.74528.schedulesdirect.org" tvg-name="COMCELA230_COMCELA230Comedy_Central_Latin_America" tvg-logo="comedy-central-hd.png" group-title="entertainments",Comedy Central Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=1037
+#EXTINF:-1 tvg-id="Sky-MX_I232.16496.schedulesdirect.org" tvg-name="TRUTVLA232_TRUTVLA232truTV_Latin_America" tvg-logo="trutv.png" group-title="entertainments",Tru TV America Latina
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=337
+#EXTINF:-1 tvg-id="Sky-MX_I234.63328.schedulesdirect.org" tvg-name="EFEKTO234_EFEKTO234Efekto_TV" tvg-logo="efekto.png" group-title="information",Efekto TV
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=1039
+#EXTINF:-1 tvg-id="TVGuia-WG_Canal Multimedios Plus" tvg-name="Multimedios_Plus" tvg-logo="multimedios-plus.png" group-title="information",Multimedios Plus
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=1459
+#EXTINF:-1 tvg-id="Sky-MX_I222.89214.schedulesdirect.org" tvg-name="LIFELA222_LIFELA222Lifetime_Latin_America_(Argentina)" tvg-logo="lifetime.png" group-title="entertainments",Lifetime Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=423
+#EXTINF:-1 tvg-id="Sky-MX_I627.27773.schedulesdirect.org" tvg-name="CNNLM627_CNNLM627CNN_En_Español_-_Mexico_and_US" tvg-logo="cnn.png" group-title="information",CNN en Español
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=1855
+#EXTINF:-1 tvg-id="Sky-MX_I630.16829.schedulesdirect.org" tvg-name="BLOOMI630_BLOOMI630Bloomberg_TV_Latino_-_English" tvg-logo="bloomberg.png" group-title="information",El Financiero Bloomberg
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=2823
+#EXTINF:-1 tvg-id="DTV-USA_I441.33652.schedulesdirect.org" tvg-name="AZTECAE441_AZTECAE441Azteca_America_Network" tvg-logo="azteca-internacional.png" group-title="information",Azteca Noticias
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+#EXTINF:-1 tvg-id="Total-MX_I635.61988.schedulesdirect.org" tvg-name="NTN24635_NTN24635NTN24_Nuestra_Tele_Noticias_24" tvg-logo="ntn24.png" group-title="information",NTN 24
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=1601
+#EXTINF:-1 tvg-id="DTV-USA_I2148.21063.schedulesdirect.org" tvg-name="RTVINT2148_RTVINT2148RTV_International" tvg-logo="rt.png" group-title="information",RT en Español
+http://rt-a.akamaihd.net/ch_02@325606/720p.m3u8
+#EXTINF:-1 tvg-id="TVGuia-WG_Canal 24 Horas (TVE)" tvg-name="TVE_24" tvg-logo="TVE_24H.png" group-title="information",TVE 24h
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1 tvg-id="Sky-MX_I701.12712.schedulesdirect.org" tvg-name="MTVL701_MTVL701MTV_Latino_Norte" tvg-logo="mtv.png" group-title="music",MTV Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=2491
+#EXTINF:-1 tvg-id="Sky-MX_I702.67787.schedulesdirect.org" tvg-name="MTVHTLA702_MTVHTLA702MTV_Hits_Latin_America" tvg-logo="mtv-hits.png" group-title="music",MTV Hits Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=1495
+#EXTINF:-1 tvg-id="Sky-MX_I703.22561.schedulesdirect.org" tvg-name="VH1CL703_VH1CL703VH1_Classic" tvg-logo="vh1-classisc.png" group-title="entertainments",VH1 Classic Europe
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=415
+#EXTINF:-1 tvg-id="Sky-MX_I706.42567.schedulesdirect.org" tvg-name="VH1L706_VH1L706VH1_Latin_America" tvg-logo="vh1.png" group-title="entertainments",VH1 Latino Norte
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=483
+#EXTINF:-1 tvg-id="TVGuia-WG_Canal K - Music" tvg-name="K_Music" tvg-logo="k-music.png" group-title="music",K Music
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=3467
+#EXTINF:-1 tvg-id="Total-MX_I738.72020.schedulesdirect.org" tvg-name="CNCRT738_CNCRT738Concert_Channel" tvg-logo="concert-channel.png" group-title="music",Concert Channel
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=479
+#EXTINF:-1 tvg-id="Dish-MX_I260.15969.schedulesdirect.org" tvg-name="HIPTV260_HIPTV260HTV_Hispano_Television" tvg-logo="htv.png" group-title="music",HTV
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=341
+#EXTINF:-1 tvg-id="Sky-MX_I711.18101.schedulesdirect.org" tvg-name="BANDA711_BANDA711BandaMax" tvg-logo="bandamax.png" group-title="music",Bandamax
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=1467
+#EXTINF:-1 tvg-id="Sky-MX_I764.19845.schedulesdirect.org" tvg-name="REGMEX764_REGMEX764DMX:_Regional_Mexican" tvg-logo="regional-music.png" group-title="information",Regional Music
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=4805
+#EXTINF:-1 tvg-id="TVGuia-WG_Canal Cinema Dinamita" tvg-name="Cinema_Dinamita" tvg-logo="cinema-dinamita.png" group-title="cinema",Cine Dinamita
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=3465
+#EXTINF:-1 tvg-id="Dish-MX_I606.18169.schedulesdirect.org" tvg-name="MPREL606_MPREL606Multipremier" tvg-logo="multipremier.png" group-title="information",MultiPremier
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=3293
+#EXTINF:-1 tvg-id="Dish-MX_I608.15296.schedulesdirect.org" tvg-name="CINL608_CINL608Cine_Latino" tvg-logo="cinelatino.png" group-title="cinema",CineLatino
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=477
+#EXTINF:-1 tvg-id="Sky-MX_I407.16298.schedulesdirect.org" tvg-name="CGC407_CGC407Cinema_Golden_Choice_1" tvg-logo="golden-multi.png" group-title="cinema",Golden
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=264
+#EXTINF:-1 tvg-id="Sky-MX_I409.16423.schedulesdirect.org" tvg-name="GOLDEDG409_GOLDEDG409Golden_Edge" tvg-logo="golden-edge.png" group-title="cinema",Golden Edge
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=1465
+#EXTINF:-1 tvg-id="Sky-MX_I411.19737.schedulesdirect.org" tvg-name="GOLDM411_GOLDM411Cinema_Golden_Multiplex" tvg-logo="golden_mpx.png" group-title="cinema",Golden Multiplex
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=1035
+#EXTINF:-1 tvg-id="CV-MX_I625.91029.schedulesdirect.org" tvg-name="PARAMNT625_PARAMNT625Paramount_Channel" tvg-logo="paramount.png" group-title="information",Paramount Channel Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=260
+#EXTINF:-1 tvg-id="CV-MX_I626.82755.schedulesdirect.org" tvg-name="DSUN626_DSUN626SundanceTV_Latin_America" tvg-logo="Sundance.png" group-title="cinema",Sundance Channel Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=1041
+#EXTINF:-1 tvg-id="Sky-MX_I415.19384.schedulesdirect.org" tvg-name="TNTLC415_TNTLC415TNT_LatinAm_-_CST_Mexico" tvg-logo="tnt.png" group-title="entertainments",TNT America Latina
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=262
+#EXTINF:-1 tvg-id="Sky-MX_I416.16435.schedulesdirect.org" tvg-name="CCL416_CCL416CineCanal_Mex" tvg-logo="cinecanal-(W).png" group-title="cinema",CineCanal
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=2495
+#EXTINF:-1 tvg-id="Sky-MX_I472.16794.schedulesdirect.org" tvg-name="CINELW472_CINELW472Cinemax_Mexico" tvg-logo="cinemax-(w).png" group-title="cinema",Cinemax Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=343
+#EXTINF:-1 tvg-id="Sky-MX_I418.70351.schedulesdirect.org" tvg-name="SPACES418_SPACES418Space_Latin_Am_South" tvg-logo="space.png" group-title="cinema",SPACE
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=2489
+#EXTINF:-1 tvg-id="CV-MX_I611.90653.schedulesdirect.org" tvg-name="AMCMEX611_AMCMEX611AMC_Mexico" tvg-logo="amc.png" group-title="cinema",AMC
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=485
+#EXTINF:-1 tvg-id="Sky-MX_I420.29017.schedulesdirect.org" tvg-name="STULM420_STULM420Studio_Universal_Mexico" tvg-logo="studio-universal.png" group-title="cinema",Studio Universal
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=345
+#EXTINF:-1 tvg-id="Sky-MX_I421.19246.schedulesdirect.org" tvg-name="TCML421_TCML421TCM_Latin_America_Panregional" tvg-logo="tcm.png" group-title="cinema",TCM America Latina
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=481
+#EXTINF:-1 tvg-id="Sky-MX_I425.16497.schedulesdirect.org" tvg-name="ISAT425_ISAT425I-SAT_LatinAm" tvg-logo="i.sat.png" group-title="cinema",I-Sat
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=1703
+#EXTINF:-1 tvg-id="Sky-MX_I426.27741.schedulesdirect.org" tvg-name="EUROPA426_EUROPA426Europa_Europa" tvg-logo="europa-europa.png" group-title="cinema",Europa Europa
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=1597
+#EXTINF:-1 tvg-id="Sky-MX_I427.88305.schedulesdirect.org" tvg-name="FAMEX427_FAMEX427Film_&_Arts_Mexico" tvg-logo="film-arts.png" group-title="cinema",Film & Arts Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=1599
+#EXTINF:-1 tvg-id="Sky-MX_I428.19787.schedulesdirect.org" tvg-name="TFZL428_TFZL428Film_Zone_Mexico_(Oeste)" tvg-logo="the-film-zone-hd.png" group-title="cinema",Film Zone
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=1055
+#EXTINF:-1 tvg-id="Sky-MX_I431.18812.schedulesdirect.org" tvg-name="FOX1E431_FOX1E431FOX1_East" tvg-logo="fox-1-este.png" group-title="cinema",Fox 1 Este
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=433
+#EXTINF:-1 tvg-id="Sky-MX_I432.17960.schedulesdirect.org" tvg-name="FOX1W432_FOX1W432FOX1_West" tvg-logo="fox1_oeste.png" group-title="cinema",Fox 1 Oeste
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=439
+#EXTINF:-1 tvg-id="Sky-MX_I434.65400.schedulesdirect.org" tvg-name="FOXFAW434_FOXFAW434FOX_Family_West" tvg-logo="fox-family.png" group-title="cinema",Fox Family
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=467
+#EXTINF:-1 tvg-id="CV-MX_I659.90932.schedulesdirect.org" tvg-name="FOXCOMM659_FOXCOMM659Fox_Comedy_Mexico" tvg-logo="fox-comedy.png" group-title="cinema",Fox Comedy
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=461
+#EXTINF:-1 tvg-id="CV-MX_I655.71662.schedulesdirect.org" tvg-name="FOXCI655_FOXCI655FOX_Cinema" tvg-logo="fox-cinema.png" group-title="cinema",Fox Cinema
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=457
+#EXTINF:-1 tvg-id="Sky-MX_I435.58828.schedulesdirect.org" tvg-name="FOXACE435_FOXACE435FOX_Action_East" tvg-logo="fox_action_este.png" group-title="cinema",Fox Action Este
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=435
+#EXTINF:-1 tvg-id="Sky-MX_I436.58835.schedulesdirect.org" tvg-name="FOXACW436_FOXACW436FOX_Action_West" tvg-logo="fox_action_oeste.png" group-title="cinema",Fox Action Oeste
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=437
+#EXTINF:-1 tvg-id="Sky-MX_I440.58833.schedulesdirect.org" tvg-name="FOXMO440_FOXMO440FOX_Movies_East" tvg-logo="Fox_Moxie_Channel.png" group-title="cinema",Fox Movies Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=463
+#EXTINF:-1 tvg-id="Sky-MX_I442.44028.schedulesdirect.org" tvg-name="FOXCL442_FOXCL442FOX_Classics" tvg-logo="fox-classics.png" group-title="cinema",Fox Classics Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=465
+#EXTINF:-1 tvg-id="Sky-MX_I453.16795.schedulesdirect.org" tvg-name="HBOLW453_HBOLW453HBO_Oeste_(LatAm)" tvg-logo="hbo.png" group-title="cinema",HBO Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=385
+#EXTINF:-1 tvg-id="Sky-MX_I458.68140.schedulesdirect.org" tvg-name="HBO2LA458_HBO2LA458HBO2_Latin_America" tvg-logo="hbo2.png" group-title="cinema",HBO 2 Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=365
+#EXTINF:-1 tvg-id="Dish-MX_I651.16797.schedulesdirect.org" tvg-name="HBOPLL651_HBOPLL651HBO_Plus_Panregional" tvg-logo="hbo-plus.png" group-title="cinema",HBO Plus Este
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=453
+#EXTINF:-1 tvg-id="Dish-MX_I652.34725.schedulesdirect.org" tvg-name="HBOPLLW652_HBOPLLW652HBO_Plus_Oeste" tvg-logo="hbo-plus.png" group-title="cinema",HBO Plus Oeste
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=369
+#EXTINF:-1 tvg-id="Sky-MX_I460.34879.schedulesdirect.org" tvg-name="HBOFAM460_HBOFAM460HBO_Family_Latin_America" tvg-logo="hbo-family.png" group-title="cinema",HBO Family Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=449
+#EXTINF:-1 tvg-id="Sky-MX_I462.74450.schedulesdirect.org" tvg-name="HBOSLA462_HBOSLA462HBO_Signature_Latin_America" tvg-logo="hbo-signature.png" group-title="cinema",HBO Signature Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=451
+#EXTINF:-1 tvg-id="Sky-MX_I1472.68301.schedulesdirect.org" tvg-name="MAXUPMX1472_MAXUPMX1472Max_Up_Mexico" tvg-logo="max-up.png" group-title="cinema",Max UP Latinoamerica
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=469
+#EXTINF:-1 tvg-id="Sky-MX_I476.34877.schedulesdirect.org" tvg-name="MPRIME476_MPRIME476Max_Prime_Latin_America_Panregional" tvg-logo="max-prime.png" group-title="cinema",Max Prime Este
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=377
+#EXTINF:-1 tvg-id="Sky-MX_I478.34887.schedulesdirect.org" tvg-name="MPRIMEW478_MPRIMEW478Max_Prime_Latin_America_Mexico" tvg-logo="max-prime.png" group-title="cinema",Max Prime Oeste
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=379
+#EXTINF:-1 tvg-id="Sky-MX_I470.70081.schedulesdirect.org" tvg-name="MAXMEX470_MAXMEX470MAX_Mexico" tvg-logo="max.png" group-title="cinema",MAX
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=381
+#EXTINF:-1 tvg-id="Sky-MX_I481.80804.schedulesdirect.org" tvg-name="GPREMSD481_GPREMSD481Golden_Premier" tvg-logo="golden-premier.png" group-title="cinema",Golden Premier 1
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=4777
+#EXTINF:-1 tvg-id="Sky-MX_I482.80805.schedulesdirect.org" tvg-name="GPRD2SD482_GPRD2SD482Golden_Premier_Delay_-2" tvg-logo="golden-premier.png" group-title="cinema",Golden Premier 2
+http://www.tvguia.tk/ch.php?u=tvguia&p=FD78D5&canal=4772
+#EXTINF:-1 tvg-id="TVGuia-WG_PPV 01 - TV Guia" tvg-name="PPV_01_-_TV_Guia" tvg-logo="ppv.png" group-title="Español",[COLOR yellow]PPV 01[/COLOR] - [COLOR red]TV Guía[/COLOR]
+http://iptvnation.com/101.mp4
+#EXTINF:-1 tvg-id="TVGuia-WG_PPV 02 - TV Guia" tvg-name="PPV_02_-_TV_Guia" tvg-logo="ppv.png" group-title="Español",[COLOR yellow]PPV 02[/COLOR] - [COLOR red]TV Guía[/COLOR]
+http://iptvnation.com/87.mp4
+#EXTINF:-1 tvg-id="TVGuia-WG_PPV 03 - TV Guia" tvg-name="PPV_03_-_TV_Guia" tvg-logo="ppv.png" group-title="Español",[COLOR yellow]PPV 03[/COLOR] - [COLOR red]TV Guía[/COLOR]
+http://iptvnation.com/85.mp4
+#EXTINF:-1 tvg-id="TVGuia-WG_PPV 04 - TV Guia" tvg-name="PPV_04_-_TV_Guia" tvg-logo="ppv.png" group-title="Español",[COLOR yellow]PPV 04[/COLOR] - [COLOR red]TV Guía[/COLOR]
+http://iptvnation.com/88.mp4
+#EXTINF:-1 tvg-id="TVGuia-WG_PPV 05 - TV Guia" tvg-name="PPV_05_-_TV_Guia" tvg-logo="ppv.png" group-title="Español",[COLOR yellow]PPV 05[/COLOR] - [COLOR red]TV Guía[/COLOR]
+http://iptvnation.com/100.mp4
+#EXTINF:-1 tvg-id="TVGuia-WG_PPV 06 - TV Guia" tvg-name="PPV_06_-_TV_Guia" tvg-logo="ppv.png" group-title="Español",[COLOR yellow]PPV 06[/COLOR] - [COLOR red]TV Guía[/COLOR]
+http://iptvnation.com/103.mp4
+#EXTINF:-1 tvg-id="TVGuia-WG_PPV 07 - TV Guia" tvg-name="PPV_07_-_TV_Guia" tvg-logo="ppv.png" group-title="Español",[COLOR yellow]PPV 07[/COLOR] - [COLOR red]TV Guía[/COLOR]
+http://iptvnation.com/93.mp4
+#EXTINF:-1 tvg-id="TVGuia-WG_PPV 08 - TV Guia" tvg-name="PPV_08_-_TV_Guia" tvg-logo="ppv.png" group-title="Español",[COLOR yellow]PPV 08[/COLOR] - [COLOR red]TV Guía[/COLOR]
+http://iptvnation.com/94.mp4
+#EXTINF:-1 tvg-id="TVGuia-WG_PPV 09 - TV Guia" tvg-name="PPV_09_-_TV_Guia" tvg-logo="ppv.png" group-title="Español",[COLOR yellow]PPV 09[/COLOR] - [COLOR red]TV Guía[/COLOR]
+http://iptvnation.com/95.mp4
+#EXTINF:-1 tvg-id="TVGuia-WG_PPV 10 - TV Guia" tvg-name="PPV_10_-_TV_Guia" tvg-logo="ppv.png" group-title="Español",[COLOR yellow]PPV 10[/COLOR] - [COLOR red]TV Guía[/COLOR]
+http://iptvnation.com/86.mp4
+#EXTINF:-1 tvg-id="TVGuia-WG_PPV 11 - TV Guia" tvg-name="PPV_11_-_TV_Guia" tvg-logo="ppv.png" group-title="Español",[COLOR yellow]PPV 11[/COLOR] - [COLOR red]TV Guía[/COLOR]
+http://iptvnation.com/89.mp4
+#EXTINF:-1 tvg-id="TVGuia-WG_PPV 12 - TV Guia" tvg-name="PPV_12_-_TV_Guia" tvg-logo="ppv.png" group-title="Español",[COLOR yellow]PPV 12[/COLOR] - [COLOR red]TV Guía[/COLOR] [COLOR green]New[/COLOR]
+http://iptvnation.com/164.mp4
+#EXTINF:-1 tvg-id="TVGuia-WG_PPV 13 - TV Guia" tvg-name="PPV_13_-_TV_Guia" tvg-logo="ppv.png" group-title="Español",[COLOR yellow]PPV 13[/COLOR] - [COLOR red]TV Guía[/COLOR] [COLOR green]New[/COLOR]
+http://iptvnation.com/162.mp4
+#EXTINF:-1 tvg-id="TVGuia-WG_PPV 14 - TV Guia" tvg-name="PPV_14_-_TV_Guia" tvg-logo="ppv.png" group-title="Español",[COLOR yellow]PPV 14[/COLOR] - [COLOR red]TV Guía[/COLOR] [COLOR green]New[/COLOR]
+http://iptvnation.com/150.mp4
+#EXTINF:-1 tvg-id="TVGuia-WG_PPV 15 - TV Guia" tvg-name="PPV_15_-_TV_Guia" tvg-logo="ppv.png" group-title="Español",[COLOR yellow]PPV 15[/COLOR] - [COLOR red]TV Guía[/COLOR] [COLOR green]New[/COLOR]
+http://iptvnation.com/147.mp4
+#EXTINF:-1 tvg-id="TVGuia-WG_PPV 16 - TV Guia" tvg-name="PPV_16_-_TV_Guia" tvg-logo="ppv.png" group-title="Español",[COLOR yellow]PPV 16[/COLOR] - [COLOR red]TV Guía[/COLOR] [COLOR green]New[/COLOR]
+http://iptvnation.com/148.mp4
+#EXTINF:-1 tvg-id="TVGuia-WG_PPV 17 - TV Guia" tvg-name="PPV_17_-_TV_Guia" tvg-logo="ppv.png" group-title="Español",[COLOR yellow]PPV 17[/COLOR] - [COLOR red]TV Guía[/COLOR] [COLOR green]New[/COLOR]
+http://iptvnation.com/143.mp4
+#EXTINF:-1 tvg-id="TVGuia-WG_PPV 18 - TV Guia" tvg-name="PPV_18_-_TV_Guia" tvg-logo="ppv.png" group-title="Español",[COLOR yellow]PPV 18[/COLOR] - [COLOR red]TV Guía[/COLOR] [COLOR green]New[/COLOR]
+http://iptvnation.com/144.mp4
+#EXTINF:-1 tvg-id="TVGuia-WG_PPV 19 - TV Guia" tvg-name="PPV_19_-_TV_Guia" tvg-logo="ppv.png" group-title="Español",[COLOR yellow]PPV 19[/COLOR] - [COLOR red]TV Guía[/COLOR] [COLOR green]New[/COLOR]
+http://iptvnation.com/115.mp4
+#EXTINF:-1 tvg-id="TVGuia-WG_PPV 20 - TV Guia" tvg-name="PPV_20_-_TV_Guia" tvg-logo="ppv.png" group-title="Español",[COLOR yellow]PPV 20[/COLOR] - [COLOR red]TV Guía[/COLOR] [COLOR green]New[/COLOR]
+http://iptvnation.com/108.mp4
+#EXTINF:-1 tvg-id="TVGuia-WG_PPV 21 - TV Guia" tvg-name="PPV_21_-_TV_Guia" tvg-logo="ppv.png" group-title="Español",[COLOR yellow]PPV 21[/COLOR] - [COLOR red]TV Guía[/COLOR] [COLOR green]New[/COLOR]
+http://iptvnation.com/127.mp4
+#EXTINF:-1 tvg-id="TVGuia-WG_PPV 22 - TV Guia" tvg-name="PPV_22_-_TV_Guia" tvg-logo="ppv.png" group-title="Español",[COLOR yellow]PPV 22[/COLOR] - [COLOR red]TV Guía[/COLOR] [COLOR green]New[/COLOR]
+http://iptvnation.com/126.mp4
+#EXTINF:-1 tvg-id="TVGuia-WG_PPV 23 - TV Guia" tvg-name="PPV_23_-_TV_Guia" tvg-logo="ppv.png" group-title="Español",[COLOR yellow]PPV 23[/COLOR] - [COLOR red]TV Guía[/COLOR] [COLOR green]New[/COLOR]
+http://iptvnation.com/125.mp4
+#EXTINF:-1 tvg-id="TVGuia-WG_PPV 24 - TV Guia" tvg-name="PPV_24_-_TV_Guia" tvg-logo="ppv.png" group-title="Español",[COLOR yellow]PPV 24[/COLOR] - [COLOR red]TV Guía[/COLOR] [COLOR green]New[/COLOR]
+http://iptvnation.com/124.mp4
+#EXTINF:-1 tvg-id="TVGuia-WG_PPV 25 - TV Guia" tvg-name="PPV_25_-_TV_Guia" tvg-logo="ppv.png" group-title="Español",[COLOR yellow]PPV 25[/COLOR] - [COLOR red]TV Guía[/COLOR] [COLOR green]New[/COLOR]
+http://iptvnation.com/123.mp4
+#EXTINF:-1 tvg-id="TVGuia-WG_PPV 26 - TV Guia" tvg-name="PPV_26_-_TV_Guia" tvg-logo="ppv.png" group-title="Español",[COLOR yellow]PPV 26[/COLOR] - [COLOR red]TV Guía[/COLOR] [COLOR green]New[/COLOR]
+http://iptvnation.com/116.mp4
