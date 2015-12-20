@@ -11,57 +11,96 @@ http://sc.digitalproserver.com:9000/infinitabb.aac
 Bio Bio: http://online.laradio.cl:8024/128K
 #EXTINF:-1, Tiempo Fm
 http://sc.digitalproserver.com:9000/fmtiempobb.aac
-
-#EXTINF:-1,Radio Imagina: http://7349.live.str...0/IMAGINAAAC_SC
-#EXTINF:-1,Radio Concierto: http://1071.live.str...CONCIERTOAAC_SC
-#EXTINF:-1,Radio Futuro: http://1071.live.str...80/FUTUROAAC_SC
-#EXTINF:-1,Radio Maria: http://www.radiomari...media/chile.asx
-#EXTINF:-1,Duna FM: http://sc.grupodial.net:8088/ o rtsp://wow1.lax.digitalproserver.com/radio/dunav2/dunav2.stream (VLC/Real)
-#EXTINF:-1,Radio Pudahuel: http://5143.live.str.../PUDAHUELAAC_SC
-#EXTINF:-1,Radio El Conquistador: http://server3.radio...8000/cqstgo.aac
-#EXTINF:-1,ADN Radio Chile: http://7349.live.str...om:80/ADNAAC_SC
-#EXTINF:-1,Radio Agricultura: http://stream.digita...er.com:9000/921
-#EXTINF:-1,Radioactiva: http://7349.live.str...80/ACTIVAAAC_SC
-#EXTINF:-1,Ibiza FM: http://streamchile.com:8660/
-#EXTINF:-1,Radio Cooperativa : http://209.88.205.232:80/ o rtsp://mediaserver1.altavoz.net:80/cooperativaenvivo/cooperativa.stream (VLC/Real)
-#EXTINF:-1,Radio Universo: http://sc.digitalpro.../universobb.aac
-#EXTINF:-1,Rock & Pop: http://7299.live.str...K_AND_POPAAC_SC
-#EXTINF:-1,Radio USACH: http://158.170.20.25...Usach_FM-online
-#EXTINF:-1,Radio Candela: http://www.radiocandelafm.cl/player/ (web)
-#EXTINF:-1,FM Tiempo: http://sc.digitalpro.../fmtiempobb.aac
-#EXTINF:-1,Radio Beethoven: http://sc.grupodial.net:8086/ o rtsp://wow1.lax.digitalproserver.com/radio/beethovenfm/beethovenfm.stream (VLC/Real)
-#EXTINF:-1,Radio Uno: http://5143.live.str...RADIO_UNOAAC_SC
-#EXTINF:-1,Radio Zero: http://sc.grupodial.net:8090 o rtsp://wow1.lax.digitalproserver.com/radio/zero/zero.stream (VLC/Real)
-#EXTINF:-1,FM Dos: http://5143.live.str...:80/FMDOSAAC_SC
-#EXTINF:-1,Radio Carolina: http://sc.grupodial.net:8080 o rtsp://wow1.lax.digitalproserver.com/radio/carolinafm/carolinafm.stream (VLC/Real)
-#EXTINF:-1,Radio Bio-Bio Santiago: http://online.laradio.cl:8024/128K
-#EXTINF:-1,Radio Infinita: http://sc.digitalpro.../infinitabb.aac
-#EXTINF:-1,Play FM: http://radio1.us.med...e.am/playfm.aac
-#EXTINF:-1,Radio Corazon: http://5143.live.str...0/CORAZONAAC_SC
-#EXTINF:-1,Los 40 Principales: http://5143.live.str...S40_CHILEAAC_SC
-#EXTINF:-1,Oasis FM: http://radio1.us.med...re.am/oasis.aac
-#EXTINF:-1,Radio Universidad de Chile: http://stream.radio.uchile.cl:80
-#EXTINF:-1,Top FM: http://radio1.us.mediastre.am/top.aac
+#EXTINF:-1,Radio Imagina 
+http://7349.live.streamtheworld.com/IMAGINAAAC_SC
+#EXTINF:-1,Radio Concierto
+http://1071.live.streamtheworld.com/CONCIERTOAAC_SC
+#EXTINF:-1,Radio Futuro
+http://1071.live.streamtheworld.com/FUTUROAAC_SC
+#EXTINF:-1,Radio Maria
+http://www.radiomaria.org/media/chile.asx
+#EXTINF:-1,Duna FM
+http://sc.grupodial.net:8088/
+#EXTINF:-1,Radio Pudahuel 
+http://5143.live.streamtheworld.com/PUDAHUELAAC_SC
+#EXTINF:-1,Radio El Conquistador
+http://server3.radiostreaming.cl:8000/cqstgo.aac
+#EXTINF:-1,ADN Radio Chile
+http://7349.live.streamtheworld.com/ADNAAC_SC
+#EXTINF:-1,Radio Agricultura
+http://stream.digitalproserver.com:9000/921
+#EXTINF:-1,Radioactiva
+http://7349.live.streamtheworld.com/ACTIVAAAC_SC
+#EXTINF:-1,Ibiza FM
+http://streamchile.com:8660/
+#EXTINF:-1,Radio Cooperativa
+http://209.88.205.232:80/
+#EXTINF:-1,Radio Universo
+http://sc.digitalproserver.com:9000/universobb.aac
+#EXTINF:-1,Rock & Pop
+http://7299.live.streamtheworld.com/ROCK_AND_POPAAC_SC
+#EXTINF:-1,Radio USACH
+http://158.170.20.250/Radio-Usach_FM-online
+#EXTINF:-1,FM Tiempo
+http://sc.digitalproserver.com:9000/fmtiempobb.aac
+#EXTINF:-1,Radio Beethoven
+http://sc.grupodial.net:8086/ 
+#EXTINF:-1,Radio Uno
+http://5143.live.streamtheworld.com/RADIO_UNOAAC_SC
+#EXTINF:-1,Radio Zero
+http://sc.grupodial.net:8090 
+#EXTINF:-1,FM Dos
+http://5143.live.streamtheworld.com/FMDOSAAC_SC
+#EXTINF:-1,Radio Carolina
+http://sc.grupodial.net:8080 
+#EXTINF:-1,Radio Bio-Bio Santiago
+http://online.laradio.cl:8024/128K
+#EXTINF:-1,Radio Infinita
+http://sc.digitalproserver.com:9000/infinitabb.aac
+#EXTINF:-1,Play FM
+http://radio1.us.mediastre.am/playfm.aac
+#EXTINF:-1,Radio Corazon
+http://5143.live.streamtheworld.com/CORAZONAAC_SC
+#EXTINF:-1,Los 40 Principales
+http://5143.live.streamtheworld.com/LOS40_CHILEAAC_SC
+#EXTINF:-1,Oasis FM
+http://radio1.us.mediastre.am/oasis.aac
+#EXTINF:-1,Radio Universidad de Chile
+http://stream.radio.uchile.cl:80
+#EXTINF:-1,Top FM
+http://radio1.us.mediastre.am/top.aac
 #EXTINF:-1,Radio Romantica: http://sc.digitalpro...romanticabb.aac
-#EXTINF:-1,Radio Disney: http://sc.grupodial.net:8084/ o rtsp://wow1.lax.digitalproserver.com/radio/disneycl/disneycl.stream (VLC/Real)
+#EXTINF:-1,Radio Disney
+http://sc.grupodial.net:8084/
 #EXTINF:-1,Sonar FM: http://radio1.us.med....am/sonarfm.aac
-#EXTINF:-1,Radio Armonia: http://encoder.armonia.cl:2032
-#EXTINF:-1,Radio Paula: http://sc.grupodial.net:8082 o rtsp://wow1.lax.digitalproserver.com/radio/paulafm/paulafm.stream (VLC/Real)
- 
-#EXTINF:-1,RadioUC.cl: http://146.155.205.173/;stream.nsv
-#EXTINF:-1,Radio Santiago: http://173.242.117.1...108/;stream.nsv
-#EXTINF:-1,Radio Colo Colo: http://184.107.166.66:8088/live
-#EXTINF:-1,Radio Nuevo Mundo: http://www.radionuev...cl/playlist.asx
-#EXTINF:-1,Radio Portales: http://200.63.96.177:8199/;stream.nsv
-#EXTINF:-1,Radio Volver: http://190.114.252.92:8178/
-#EXTINF:-1,Radio Corporacion AM: http://108.61.53.54:8006
-#EXTINF:-1,Radio Corporacion FM: http://108.61.53.54:8018
- 
-#EXTINF:-1,Radio Horizonte.cl: http://radio1.us.med...m/horizonte.aac
-#EXTINF:-1,Radio Romance Online: http://iw.wolchile.net:8008/
-#EXTINF:-1,El Conquistador Fina Tradicion: http://server4.radio...a.aac?type=.flv
-#EXTINF:-1,Radio USACH Clasica: http://senalclasica....80/RadioClasica
-
+#EXTINF:-1,Radio Armonia
+http://encoder.armonia.cl:2032
+#EXTINF:-1,Radio Paula
+http://sc.grupodial.net:8082
+#EXTINF:-1,RadioUC.cl
+http://146.155.205.173/;stream.nsv
+#EXTINF:-1,Radio Santiago
+http://173.242.117.123:8108/;stream.nsv
+#EXTINF:-1,Radio Colo Colo
+http://184.107.166.66:8088/live
+#EXTINF:-1,Radio Nuevo Mundo
+http://www.radionuevomundo.cl/playlist.asx
+#EXTINF:-1,Radio Portales
+http://200.63.96.177:8199/;stream.nsv
+#EXTINF:-1,Radio Volver
+http://190.114.252.92:8178/
+#EXTINF:-1,Radio Corporacion AM
+http://108.61.53.54:8006
+#EXTINF:-1,Radio Corporacion FM
+http://108.61.53.54:8018
+#EXTINF:-1,Radio Horizonte.cl
+http://radio1.us.mediastre.am/horizonte.aac
+#EXTINF:-1,Radio Romance Online
+http://iw.wolchile.net:8008/
+#EXTINF:-1,El Conquistador Fina Tradicion
+http://server4.radiostreaming.cl:8000/cqfina.aac?type=.flv
+#EXTINF:-1,Radio USACH Clasica
+http://senalclasica.radiousach.cl:8080/RadioClasica
 #EXTINF:-1,Bio-Bio Valparaiso
 http://online.laradio.cl:8008/64K
 #EXTINF:-1,Bio-Bio Concepcion
@@ -76,7 +115,6 @@ http://online.laradio.cl:8010/32K
 http://online.laradio.cl:8018/32K
 #EXTINF:-1,Bio-Bio Puerto Montt
 http://online.laradio.cl:8006/64K
- 
 #EXTINF:-1,Punto 7 Concepcion
 http://movil.cl.digitalproserver.com/radio/p7conce/p7conce.stream/playlist.m3u8
 #EXTINF:-1,Punto 7 Valparaiso
@@ -91,19 +129,12 @@ http://movil.cl.digitalproserver.com/radio/p7valdi/p7valdi.stream/playlist.m3u8
 http://movil.cl.digitalproserver.com/radio/p7osor/p7osor.stream/playlist.m3u8
 #EXTINF:-1,Punto 7 Puerto Montt
 http://movil.cl.digitalproserver.com/radio/p7ptomontt/p7ptomontt.stream/playlist.m3u8 
-
 #EXTINF:-1,El Conquistador Santiago 
 http://stream5.eltelon.com/el-conquistador-santiago.aac
-#EXTINF:-1,El Conquistador Red Norte: http://server4.radio.../cqrednorte.aac
-#EXTINF:-1,El Conquistador La Serena: http://elconquistado...00/cqserena.aac
-#EXTINF:-1,El Conquistador Concepcion: http://server4.radio...000/cqconce.aac
-#EXTINF:-1,El Conquistador Osorno: 
+#EXTINF:-1,El Conquistador Osorno
 http://stream5.eltelon.com/el-conquistador-osorno.aac
-#EXTINF:-1,El Conquistador Puerto Montt: http://elconquistado...00/cqpmontt.aac
- 
-#EXTINF:-1,Radio Para Ti Puerto Montt: http://server4.radio...8000/parati.aac
- 
- 
+#EXTINF:-1,Radio Para Ti Puerto Montt 
+http://server4.radiostreaming.cl:8000/parati.aac
 #EXTINF:-1,Digital FM
 http://mimix.mercurio.cl:8000/digitalfm
 #EXTINF:-1,Digital FM Arica
