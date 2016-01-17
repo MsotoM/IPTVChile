@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0,group-title="etiquetas",[B][COLOR cyan]Lista IpTv Chile[/COLOR] - [COLOR lightgreen]17/01/2016 - 14:31PM[/COLOR] - [COLOR orange]facebook.com/groups/ListaIptvChile[/COLOR][/B]
 http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:0,group-title="etiquetas",[B]Blog: listaiptvchile.blogspot.cl [/B]
+http://streaming203.radionomy.com:80/City-Dance-Radio
 
 #EXTINF:0 channelId="-1" , Portal Fox Mix Tv (Chile)
 http://mediacp.streamingchilenos.cl:1935/portalfoxmix/portalfoxmix/playlist.m3u8
@@ -20,6 +22,7 @@ http://movilstream.digitalproserver.com/adn/adnvivo/adn.smil/playlist.m3u8
 http://movilstream.digitalproserver.com/coopetv/coopetvvivo/coopetv.smil/playlist.m3u8
 #EXTINF:0 channelId="-1" , Tele13 Radio (Chile)
 http://cdn.ztreaming.com/t13radio/mobile.m3u8
+
 #EXTINF:-1 channelId="-1" group-title="Canales Chile" , RedTV HD
 http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream1/playlist.m3u8
 #EXTINF:-1 channelId="-1" group-title="Canales Chile" , UCV HD
@@ -98,6 +101,8 @@ http://wow2.cl.digitalproserver.com/itv/itvvivo/livestream1/playlist.m3u8
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
 #EXTINF:-1 channelId="-1" group-title="REGIONALES" , Tv Red Punta Arenas
 http://69.164.193.177:1935/live/myStream/playlist.m3u8
+
+
 #EXTINF:-1 channelId="-1" tvg-logo="logotv.png" group-title="Latinos" , ESTRELLAS HD (1080)
 http://200.76.77.237/LIVE/H01/CANAL102/PROFILE05.m3u8?supertvlat=%2F.ts
 #EXTINF:-1 channelId="-1" tvg-logo="logotv.png" group-title="Latinos" , FOROTV HD (1080)
