@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:0,Lista IpTv Chile | ACTUALIZADO > 20/01/2016 - 14:55 (Hora Chile)
+#EXTINF:0 ,Lista IpTv Chile | ACTUALIZADO > 20/01/2016 - 14:55 (Hora Chile)
 http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:0, Mas Info y/o sugerencias en facebook.com/groups/ListaIptvChile
+#EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png", Mas Info y/o sugerencias en facebook.com/groups/ListaIptvChile
 http://streaming203.radionomy.com:80/City-Dance-Radio
 
-#EXTINF:0,-Radios-
+#EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png",-Radios-
 http://streaming203.radionomy.com:80/City-Dance-Radio
 
 #EXTINF:0 channelId="-1" , Radio Carolina (Chile)
@@ -24,7 +24,7 @@ http://movilstream.digitalproserver.com/coopetv/coopetvvivo/coopetv.smil/playlis
 #EXTINF:0 channelId="-1" , Tele13 Radio (Chile)
 http://cdn.ztreaming.com/t13radio/mobile.m3u8
 
-#EXTINF:0,-Nacionales-
+#EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png",-Nacionales-
 http://streaming203.radionomy.com:80/City-Dance-Radio
 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/la_red_cl_zpstevkunxj.png" group-title="NACIONALES",La Red 
@@ -46,7 +46,7 @@ http://13.live.cdn.cl/13hddesktop/13hd-900.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal13_c_cl_zpsoueja6s7.png" group-title="NACIONALES", C13 Cable
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
 
-#EXTINF:0,-Regionales-
+#EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png",-Regionales-
 http://streaming203.radionomy.com:80/City-Dance-Radio
 
 #EXTINF:0 channelId="-1" , UCV Gran Valparaiso
@@ -184,7 +184,7 @@ http://cluster.ztreaming.com:80/tser5/tser5.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/sobe_zpsgqbxhurc.png" group-title="REGIONALES",Soberania TV Magallanes y Antartica Chilena
 http://evo.eltelon.com:443/live/soberania/chunklist_w725687300.m3u8
 
-#EXTINF:0,-Cable Latinos-
+#EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png",-Cable Latinos-
 http://streaming203.radionomy.com:80/City-Dance-Radio
 
 
@@ -599,7 +599,7 @@ http://200.76.77.237/LIVE/H01/CANAL374/PROFILE03.m3u8?-1332/1499-20150816T153535
 #EXTINF:-1 channelId="887" , History Channel
 http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 
-#EXTINF:0,-BETA-
+#EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png",-BETA-
 http://streaming203.radionomy.com:80/City-Dance-Radio
 
 #EXTINF:-1 tvg-logo="tvultimate.png",Peliculas 24 HRS
