@@ -1,9 +1,11 @@
 #EXTM3U
-#EXTINF:0,Lista IpTv Chile ACTUALIZADO > 17/01/2016 - 14:31PM
+#EXTINF:0,Lista IpTv Chile | ACTUALIZADO > 20/01/2016 - 14:55 (Hora Chile)
 http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:0, Mas Info en facebook.com/groups/ListaIptvChile
+#EXTINF:0, Mas Info y/o sugerencias en facebook.com/groups/ListaIptvChile
 http://streaming203.radionomy.com:80/City-Dance-Radio
 
+#EXTINF:0,-Radios-
+http://streaming203.radionomy.com:80/City-Dance-Radio
 
 #EXTINF:0 channelId="-1" , Radio Carolina (Chile)
 http://unlimited5-cl.dps.live/freakytv/freakytv.smil/freakytv5-hls/livestream2/chunks.m3u8
@@ -23,6 +25,7 @@ http://movilstream.digitalproserver.com/coopetv/coopetvvivo/coopetv.smil/playlis
 http://cdn.ztreaming.com/t13radio/mobile.m3u8
 
 #EXTINF:0,-Nacionales-
+http://streaming203.radionomy.com:80/City-Dance-Radio
 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/la_red_cl_zpstevkunxj.png" group-title="NACIONALES",La Red 
 http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream2/playlist.m3u8
@@ -44,6 +47,7 @@ http://13.live.cdn.cl/13hddesktop/13hd-900.m3u8
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
 
 #EXTINF:0,-Regionales-
+http://streaming203.radionomy.com:80/City-Dance-Radio
 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/vemastv_zpsyhmymsvg.png" group-title="REGIONALES", Mas Tv Arica 
 http://186.67.39.227:1935/Mastv/myStream/playlist.m3u8?
@@ -177,6 +181,9 @@ http://69.164.193.177:1935/live/myStream/playlist.m3u8?
 http://cluster.ztreaming.com:80/tser5/tser5.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/sobe_zpsgqbxhurc.png" group-title="REGIONALES",Soberania TV Magallanes y Antartica Chilena
 http://evo.eltelon.com:443/live/soberania/chunklist_w725687300.m3u8
+
+#EXTINF:0,-Cable Latinos-
+http://streaming203.radionomy.com:80/City-Dance-Radio
 
 
 #EXTINF:-1 channelId="-1" tvg-logo="logotv.png" group-title="Latinos" , ESTRELLAS HD (1080)
@@ -590,3 +597,34 @@ http://200.76.77.237/LIVE/H01/CANAL374/PROFILE03.m3u8?-1332/1499-20150816T153535
 #EXTINF:-1 channelId="887" , History Channel
 http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
 
+#EXTINF:0,-BETA-
+http://streaming203.radionomy.com:80/City-Dance-Radio
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Peliculas 24 HRS
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
+#EXTINF: -1 Grupo-title = "Serie", Dos hombres y medio TLC
+http://iptvnation.com/two.mp4
+#EXTINF: -1 Grupo-title = "Serie", Cómo conocí a vuestra madre TLC
+http://iptvnation.com/how.mp4
+#EXTINF: -1 Grupo-title = "Serie", The Big Bang Theory TLC
+http://iptvnation.com/big.mp4
+#EXTINF: -1 Grupo-title = "Serie", El Mentalista TLC
+http://iptvnation.com/mentalist.mp4
+#EXTINF: -1 Grupo-title = "Serie", Flecha TLC
+http://iptvnation.com/arrow.mp4
+#EXTINF: -1 Grupo-title = "Serie", The Grimm TLC
+http://iptvnation.com/grimm.mp4
+#EXTINF: -1 Grupo-title = "Serie", Bones TLC
+http://iptvnation.com/bones.mp4
+#EXTINF: -1 Grupo-title = "Serie", Criminal Minds TLC
+http://iptvnation.com/criminal.mp4
+#EXTINF: -1 Grupo-title = "Serie", CSI: Miami TLC
+http://iptvnation.com/csimiami.mp4
+#EXTINF: -1 Grupo-title = "Serie", Los Simpson: ES
+http://iptvnation.com/simpsons.mp4
+#EXTINF: -1 Grupo-title = "Serie", South Park TLC
+http://iptvnation.com/southpark.mp4
+#EXTINF: -1 Grupo-title = "Serie", Family Guy TLC
+http://iptvnation.com/familyguy.mp4
+#EXTINF: -1 Grupo-title = "Serie", Bobs Hamburguesas TLC
+http://iptvnation.com/bobs.mp4
