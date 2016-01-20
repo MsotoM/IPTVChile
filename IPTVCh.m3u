@@ -120,7 +120,7 @@ http://movilstream.digitalproserver.com/puranoti/puranotivivo/puranoti.smil/play
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Liv_TV_logo.svg_zpscpvmqxop.png" group-title="REGIONALES",Liv Tv Santiago
 http://cdn.ztreaming.com/tustreaming/live2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logo1_zpskeh6nk1u.png" group-title="REGIONALES", Fm Hot Tv Santiago
-http://190.107.176.167:1935/live/fm-hot-tv/playlist.m3u8
+rtmp://evo.eltelon.com:1935/live/fm-hot-tv
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/32679_zpskreromvk.png" group-title="REGIONALES",PortalFoxMix Tv Santiago
 http://mediacp.streamingchilenos.cl:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logo_head_zps7e04gkdx.png" group-title="REGIONALES", NIU Tv Santiago
