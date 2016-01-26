@@ -7,7 +7,7 @@ http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png",Radios Chilenas
 http://streaming203.radionomy.com:80/City-Dance-Radio
 
-#EXTINF:0 channelId="-1" , Radio Carolina (Chile)
+#EXTINF:0 channelId="-1" tvg-logo="http://static.tumblr.com/473271a1eccb10bee4b9b8f67b719b11/tkcf9vx/V3ymryozu/tumblr_static_logo_carolina_cl", Radio Carolina (Chile)
 http://unlimited5-cl.dps.live/freakytv/freakytv.smil/freakytv5-hls/livestream2/chunks.m3u8
 #EXTINF:0 channelId="-1" , Radio Tiempo (Chile)
 http://movilstream.digitalproserver.com/tiempotv/tiempotvvivo/tiempotv.smil/playlist.m3u8
