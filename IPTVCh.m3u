@@ -4,7 +4,7 @@ http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png", Mas Info y/o sugerencias en facebook.com/groups/ListaIptvChile
 http://streaming203.radionomy.com:80/City-Dance-Radio
 
-#EXTINF:0 Cdf En Vivo beta solo partidos
+#EXTINF:0, Cdf En Vivo beta solo partidos
 http://video-cdn.streamup.com/app/lalalongo5s-stream/chunklist.m3u8
 
 
