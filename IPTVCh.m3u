@@ -4,10 +4,10 @@ http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png", Mas Info y/o sugerencias en bit.ly/FbListaIptvChile
 http://streaming203.radionomy.com:80/City-Dance-Radio
 
-#EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png", B E T A
+#EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png", SERIES & PELICULAS (BETA)
 http://streaming203.radionomy.com:80/City-Dance-Radio
 
-#EXTINF:-1 tvg-logo="tvultimate.png",Peliculas 24 HRS
+#EXTINF:-1 ,Peliculas 24 HRS
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
 #EXTINF: -1 Grupo-title = "Serie", Dos hombres y medio TLC
 http://iptvnation.com/two.mp4
@@ -35,14 +35,13 @@ http://iptvnation.com/southpark.mp4
 http://iptvnation.com/familyguy.mp4
 #EXTINF: -1 Grupo-title = "Serie", Bobs Hamburguesas TLC
 http://iptvnation.com/bobs.mp4
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Anime 24H" tvg-name="Anime 24H" tvg-logo="Anime-logo-square.png" group-title="OTROS CANALES",Anime
+#EXTINF:-1  tvg-name="Anime 24H" tvg-logo="" group-title="OTROS CANALES",Anime
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8 
-#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="Anime-logo-square.png" group-title="OTROS CANALES",Anime 2
+#EXTINF:-1 tvg-name="q" tvg-logo="" group-title="OTROS CANALES",Anime 2
 http://iphone-streaming.ustream.tv/uhls/15883775/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="logo (1).png" group-title="OTROS CANALES",Los Simpsons
 http://iptvnation.com/simpsonslat.mp4
-#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="logo (1).png" group-title="OTROS CANALES",The Simpsons USA
-http://iptvnation.com/simpsons.mp4 
+
 
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png",Eventos En Vivo
 http://streaming203.radionomy.com:80/City-Dance-Radio
@@ -94,7 +93,7 @@ http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png",Canales Regionales
 http://streaming203.radionomy.com:80/City-Dance-Radio
 
-#EXTINF:0 channelId="-1" , UCV Gran Valparaiso
+#EXTINF:0 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/ucv_tv_cl_zpsquly9vvk.png" , UCV Gran Valparaiso
 http://movilstream.digitalproserver.com/ucvtv2/ucvtv2vivo/ucvtv2.smil/chunklist-b1248000.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/vemastv_zpsyhmymsvg.png" group-title="REGIONALES", Mas Tv Arica 
 http://186.67.39.227:1935/Mastv/myStream/playlist.m3u8?
