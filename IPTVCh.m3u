@@ -4,49 +4,10 @@ http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png", Mas Info y/o sugerencias en bit.ly/FbListaIptvChile
 http://streaming203.radionomy.com:80/City-Dance-Radio
 
-#EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png", SERIES & PELICULAS (BETA)
-http://streaming203.radionomy.com:80/City-Dance-Radio
-
-#EXTINF:-1 ,Peliculas 24 HRS
-http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
-#EXTINF: -1 Grupo-title = "Serie", Dos hombres y medio TLC
-http://iptvnation.com/two.mp4
-#EXTINF: -1 Grupo-title = "Serie", Cómo conocí a vuestra madre TLC
-http://iptvnation.com/how.mp4
-#EXTINF: -1 Grupo-title = "Serie", The Big Bang Theory TLC
-http://iptvnation.com/big.mp4
-#EXTINF: -1 Grupo-title = "Serie", El Mentalista TLC
-http://iptvnation.com/mentalist.mp4
-#EXTINF: -1 Grupo-title = "Serie", Flecha TLC
-http://iptvnation.com/arrow.mp4
-#EXTINF: -1 Grupo-title = "Serie", The Grimm TLC
-http://iptvnation.com/grimm.mp4
-#EXTINF: -1 Grupo-title = "Serie", Bones TLC
-http://iptvnation.com/bones.mp4
-#EXTINF: -1 Grupo-title = "Serie", Criminal Minds TLC
-http://iptvnation.com/criminal.mp4
-#EXTINF: -1 Grupo-title = "Serie", CSI: Miami TLC
-http://iptvnation.com/csimiami.mp4
-#EXTINF: -1 Grupo-title = "Serie", Los Simpson: ES
-http://iptvnation.com/simpsons.mp4
-#EXTINF: -1 Grupo-title = "Serie", South Park TLC
-http://iptvnation.com/southpark.mp4
-#EXTINF: -1 Grupo-title = "Serie", Family Guy TLC
-http://iptvnation.com/familyguy.mp4
-#EXTINF: -1 Grupo-title = "Serie", Bobs Hamburguesas TLC
-http://iptvnation.com/bobs.mp4
-#EXTINF:-1  tvg-name="Anime 24H" tvg-logo="" group-title="OTROS CANALES",Anime
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8 
-#EXTINF:-1 tvg-name="q" tvg-logo="" group-title="OTROS CANALES",Anime 2
-http://iphone-streaming.ustream.tv/uhls/15883775/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="logo (1).png" group-title="OTROS CANALES",Los Simpsons
-http://iptvnation.com/simpsonslat.mp4
-
-
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png",Eventos En Vivo
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:0 tvg-logo="http://s3.amazonaws.com/design_images/images/1743/v.png?1347471596", Canal Web del futbol (solo partidos en vivo)
-http://video-cdn.streamup.com/app/lalalongo5s-stream/chunklist.m3u8
+http://video-cdn.streamup.com/app/lalolanda778s-stream/chunklist.m3u8
 
 
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png",Radios Chilenas
@@ -228,8 +189,42 @@ http://cluster.ztreaming.com:80/tser5/tser5.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/sobe_zpsgqbxhurc.png" group-title="REGIONALES",Soberania TV Magallanes y Antartica Chilena
 http://evo.eltelon.com:443/live/soberania/chunklist_w725687300.m3u8
 
-#EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png",Canales de Cable Latinos Ordenados
+#EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png", SERIES & PELICULAS LAS 24 HRS V.O.D (BETA)
 http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 ,Peliculas 24 HRS
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
+#EXTINF: -1 Grupo-title = "Serie", Dos hombres y medio TLC
+http://iptvnation.com/two.mp4
+#EXTINF: -1 Grupo-title = "Serie", Cómo conocí a vuestra madre TLC
+http://iptvnation.com/how.mp4
+#EXTINF: -1 Grupo-title = "Serie", The Big Bang Theory TLC
+http://iptvnation.com/big.mp4
+#EXTINF: -1 Grupo-title = "Serie", El Mentalista TLC
+http://iptvnation.com/mentalist.mp4
+#EXTINF: -1 Grupo-title = "Serie", Flecha TLC
+http://iptvnation.com/arrow.mp4
+#EXTINF: -1 Grupo-title = "Serie", The Grimm TLC
+http://iptvnation.com/grimm.mp4
+#EXTINF: -1 Grupo-title = "Serie", Bones TLC
+http://iptvnation.com/bones.mp4
+#EXTINF: -1 Grupo-title = "Serie", Criminal Minds TLC
+http://iptvnation.com/criminal.mp4
+#EXTINF: -1 Grupo-title = "Serie", CSI: Miami TLC
+http://iptvnation.com/csimiami.mp4
+#EXTINF: -1 Grupo-title = "Serie", Los Simpson: ES
+http://iptvnation.com/simpsons.mp4
+#EXTINF: -1 Grupo-title = "Serie", South Park TLC
+http://iptvnation.com/southpark.mp4
+#EXTINF: -1 Grupo-title = "Serie", Family Guy TLC
+http://iptvnation.com/familyguy.mp4
+#EXTINF: -1 Grupo-title = "Serie", Bobs Hamburguesas TLC
+http://iptvnation.com/bobs.mp4
+#EXTINF:-1  tvg-name="Anime 24H" tvg-logo="" group-title="OTROS CANALES",Anime
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8 
+#EXTINF:-1 tvg-name="q" tvg-logo="" group-title="OTROS CANALES",Anime 2
+http://iphone-streaming.ustream.tv/uhls/15883775/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="logo (1).png" group-title="OTROS CANALES",Los Simpsons
+http://iptvnation.com/simpsonslat.mp4
 
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png", << ENTRETENIMIENTO >>
 http://streaming203.radionomy.com:80/City-Dance-Radio
