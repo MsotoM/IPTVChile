@@ -1,32 +1,35 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png",Lista IpTv Chile | ACTUALIZADO > 30/01/2016 - 14:18 (Hora Chile)
+#EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png",Lista IPTV Chile | ACTUALIZADO > 30/01/2016 - 14:18 (Hora Chile) PROHIBIDA SU VENTA
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png", Mas Info y/o sugerencias en bit.ly/FbListaIptvChile
 http://streaming203.radionomy.com:80/City-Dance-Radio
 
-#EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png",Eventos En Vivo
+#EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png", Eventos En Vivo (BETA)
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:0 tvg-logo="http://s3.amazonaws.com/design_images/images/1743/v.png?1347471596", Canal Web del futbol (solo partidos en vivo)
 http://video-cdn.streamup.com/app/lalolanda778s-stream/chunklist.m3u8
-
+#EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-R4DAdR38jSY/VBNXo0-w4eI/AAAAAAAAAAk/4W_c9dzGG6E/s1600/chilexdtvbanne.jpg", Canal CHILEXD TV (solo partidos en vivo)
+http://109.123.114.162/streamnadresfrrut/playlist.m3u8?id=400&pk=3deb8a5c3e33ca27688cc0bb8e7ec162a58b4a742cd90818c63467a72cb5e213
+#EXTINF:0 tvg-logo="http://www.tarjetarojaonline.me/wp-content/themes/BlackTarjeRoja/images/logo.png", Canal TarjetaRojaOnline.Me (solo partidos en vivo)
+http://nl.iguide.to/iguiden9e5loihnrz57vs/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png",Radios Chilenas
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:0 channelId="-1" tvg-logo="http://static.tumblr.com/473271a1eccb10bee4b9b8f67b719b11/tkcf9vx/V3ymryozu/tumblr_static_logo_carolina_cl", Radio Carolina (Chile)
 http://unlimited5-cl.dps.live/freakytv/freakytv.smil/freakytv5-hls/livestream2/chunks.m3u8
-#EXTINF:0 channelId="-1" , Radio Tiempo (Chile)
+#EXTINF:0 channelId="-1" tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/s98741q_zps0vnfywxj.png"  , Radio Tiempo (Chile)
 http://movilstream.digitalproserver.com/tiempotv/tiempotvvivo/tiempotv.smil/playlist.m3u8
-#EXTINF:0 channelId="-1" , Radio Duna (Chile)
+#EXTINF:0 channelId="-1" tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/84184_zpsd0gzhp6h.png" , Radio Duna (Chile)
 http://wow1.dallas.digitalproserver.com/dunatv/dunatvvivo/dunatv.smil/playlist.m3u8
-#EXTINF:0 channelId="-1" , Radio Zero (Chile)
+#EXTINF:0 channelId="-1" tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logo-zero-light_zpstwvtq006.png", Radio Zero (Chile)
 http://movilstream.digitalproserver.com/zerotv/zerotvvivo/zerotv.smil/playlist.m3u8
-#EXTINF:0 channelId="-1" , Radio La Clave (Chile)
+#EXTINF:0 channelId="-1" tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mqdefault_zpsdijxexti.jpg", Radio La Clave (Chile)
 http://movilstream.digitalproserver.com/laclavetv/laclavetvvivo/laclavetv.smil/playlist.m3u8
-#EXTINF:0 channelId="-1" , Radio ADN (Chile)
+#EXTINF:0 channelId="-1" tvg-logo="http://www.adnradio.cl/im/logo100.gif" , Radio ADN (Chile)
 http://movilstream.digitalproserver.com/adn/adnvivo/adn.smil/playlist.m3u8
-#EXTINF:0 channelId="-1" , Radio Cooperativa (Chile)
+#EXTINF:0 channelId="-1" tvg-logo="http://files.csvrenca.webnode.cl/200001127-92f9593f5c/Radio-Cooperativa.jpg" , Radio Cooperativa (Chile)
 http://movilstream.digitalproserver.com/coopetv/coopetvvivo/coopetv.smil/playlist.m3u8
-#EXTINF:0 channelId="-1" , Tele13 Radio (Chile)
+#EXTINF:0 channelId="-1"  tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Tele13_Radio_zpspn4m8raf.png", Tele13 Radio (Chile)
 http://cdn.ztreaming.com/t13radio/mobile.m3u8
 
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png", Canales Nacionales
@@ -193,37 +196,37 @@ http://evo.eltelon.com:443/live/soberania/chunklist_w725687300.m3u8
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 ,Peliculas 24 HRS
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
-#EXTINF: -1 Grupo-title = "Serie", Dos hombres y medio TLC
+#EXTINF: -1 Grupo-title = "Serie" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png", Dos hombres y medio TLC
 http://iptvnation.com/two.mp4
-#EXTINF: -1 Grupo-title = "Serie", Cómo conocí a vuestra madre TLC
+#EXTINF: -1 Grupo-title = "Serie" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png", Cómo conocí a vuestra madre TLC
 http://iptvnation.com/how.mp4
-#EXTINF: -1 Grupo-title = "Serie", The Big Bang Theory TLC
+#EXTINF: -1 Grupo-title = "Serie" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png", The Big Bang Theory TLC
 http://iptvnation.com/big.mp4
-#EXTINF: -1 Grupo-title = "Serie", El Mentalista TLC
+#EXTINF: -1 Grupo-title = "Serie"tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png", El Mentalista TLC
 http://iptvnation.com/mentalist.mp4
-#EXTINF: -1 Grupo-title = "Serie", Flecha TLC
+#EXTINF: -1 Grupo-title = "Serie" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png", Flecha TLC
 http://iptvnation.com/arrow.mp4
-#EXTINF: -1 Grupo-title = "Serie", The Grimm TLC
+#EXTINF: -1 Grupo-title = "Serie" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png", The Grimm TLC
 http://iptvnation.com/grimm.mp4
-#EXTINF: -1 Grupo-title = "Serie", Bones TLC
+#EXTINF: -1 Grupo-title = "Serie" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png", Bones TLC
 http://iptvnation.com/bones.mp4
-#EXTINF: -1 Grupo-title = "Serie", Criminal Minds TLC
+#EXTINF: -1 Grupo-title = "Serie" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png", Criminal Minds TLC
 http://iptvnation.com/criminal.mp4
-#EXTINF: -1 Grupo-title = "Serie", CSI: Miami TLC
+#EXTINF: -1 Grupo-title = "Serie" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png", CSI: Miami TLC
 http://iptvnation.com/csimiami.mp4
-#EXTINF: -1 Grupo-title = "Serie", Los Simpson: ES
+#EXTINF: -1 Grupo-title = "Serie" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png", Los Simpson: ES
 http://iptvnation.com/simpsons.mp4
-#EXTINF: -1 Grupo-title = "Serie", South Park TLC
+#EXTINF: -1 Grupo-title = "Serie" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png", South Park TLC
 http://iptvnation.com/southpark.mp4
-#EXTINF: -1 Grupo-title = "Serie", Family Guy TLC
+#EXTINF: -1 Grupo-title = "Serie" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png", Family Guy TLC
 http://iptvnation.com/familyguy.mp4
-#EXTINF: -1 Grupo-title = "Serie", Bobs Hamburguesas TLC
+#EXTINF: -1 Grupo-title = "Serie" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png", Bobs Hamburguesas TLC
 http://iptvnation.com/bobs.mp4
-#EXTINF:-1  tvg-name="Anime 24H" tvg-logo="" group-title="OTROS CANALES",Anime
+#EXTINF:-1  tvg-name="Anime 24H" group-title="OTROS CANALES" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png",Anime
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8 
-#EXTINF:-1 tvg-name="q" tvg-logo="" group-title="OTROS CANALES",Anime 2
+#EXTINF:-1 tvg-name="q" group-title="OTROS CANALES" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png",Anime 2
 http://iphone-streaming.ustream.tv/uhls/15883775/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="logo (1).png" group-title="OTROS CANALES",Los Simpsons
+#EXTINF:-1  tvg-name="q"  group-title="OTROS CANALES" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png",Los Simpsons Latino
 http://iptvnation.com/simpsonslat.mp4
 
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png", << ENTRETENIMIENTO >>
