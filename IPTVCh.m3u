@@ -8,10 +8,6 @@ http://streaming203.radionomy.com:80/City-Dance-Radio
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:0 tvg-logo="http://s3.amazonaws.com/design_images/images/1743/v.png?1347471596", Canal Web del futbol (solo partidos en vivo)
 http://video-cdn.streamup.com/app/lalolanda778s-stream/chunklist.m3u8
-#EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-R4DAdR38jSY/VBNXo0-w4eI/AAAAAAAAAAk/4W_c9dzGG6E/s1600/chilexdtvbanne.jpg", Canal CHILEXD TV (solo partidos en vivo)
-http://109.123.114.162/streamnadresfrrut/playlist.m3u8?id=400&pk=3deb8a5c3e33ca27688cc0bb8e7ec162a58b4a742cd90818c63467a72cb5e213
-#EXTINF:0 tvg-logo="http://www.tarjetarojaonline.me/wp-content/themes/BlackTarjeRoja/images/logo.png", Canal TarjetaRojaOnline.Me (solo partidos en vivo)
-http://nl.iguide.to/iguiden9e5loihnrz57vs/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png",Radios Chilenas
 http://streaming203.radionomy.com:80/City-Dance-Radio
