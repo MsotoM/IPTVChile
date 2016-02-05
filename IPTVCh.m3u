@@ -13,7 +13,7 @@ https://video02-atl.streamup.com/app/futbolchile-net3s-channel/playlist.m3u8
 #EXTINF:0 tvg-logo="http://s3.amazonaws.com" , Canal webdel.futbol 2 (sólo partidos en vivo)
 http://video-cdn.streamup.com/app/chapalapachala44s-stream/chunklist.m3u8
 #EXTINF:0 , Cine Exclusivo de Lista IPTV Chile (BETA)
-https://raw.githubusercontent.com/teran91/IPTV-Chile/master/cine.m3u
+https://raw.githubusercontent.com/teran91/IPTV-Chile/master/cine.m3u8
 
 
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png",Radios Chilenas
