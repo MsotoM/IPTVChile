@@ -232,10 +232,93 @@ http://iptvnation.com/simpsonslat.mp4
 
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png", << ENTRETENIMIENTO NO OPERATIVA>>
 http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-id="Lista PLAY-KODI A&E HD" tvg-name="A&E HD" tvg-logo="A&E" group-title="ENTRETENIMIENTO",A&E
+http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 tvg-id="Lista PLAY-KODI AXN" tvg-name="AXN" tvg-logo="AXN" group-title="ENTRETENIMIENTO",AXN
+http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal ¡Hola! TV" tvg-name="Canal ¡Hola! TV" tvg-logo="¡Hola! TV" group-title="ENTRETENIMIENTO",¡Hola! TV
+http://200.76.77.237/LIVE/H01/CANAL219/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Antena 3 Internacional" tvg-name="Antena 3 Internacional" tvg-logo="Antena 3 Internacional" group-title="ENTRETENIMIENTO",Antena 3 Internacional
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Az Clic" tvg-name="Az Clic" tvg-logo="Az Clic" group-title="ENTRETENIMIENTO",Az Clic
+http://200.76.77.237/LIVE/H01/CANAL725/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Az Corazón" tvg-name="Az Corazón" tvg-logo="Az Corazón" group-title="ENTRETENIMIENTO",Az Corazón
+http://200.76.77.237/LIVE/H01/CANAL250/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 tvg-id="Lista PLAY-KODI BBC Entertainment" tvg-name="BBC Entertainment" tvg-logo="BBC Entertainment" group-title="ENTRETENIMIENTO",BBC Entertainment
+http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal de las Estrellas Latinoamérica" tvg-name="Canal de las Estrellas Latinoamérica" tvg-logo="Canal de las Estrellas Latinoamérica" group-title="ENTRETENIMIENTO",Canal de las Estrellas Latinoamérica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Comedy Central" tvg-name="Comedy Central" tvg-logo="Comedy Central" group-title="ENTRETENIMIENTO",Comedy Central
+http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Home and Health" tvg-name="Home and Health" tvg-logo="Discovery Home & Health" group-title="ENTRETENIMIENTO",Discovery Home & Health
+http://200.76.77.237/LIVE/H01/CANAL374/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Distrito Comedia" tvg-name="Distrito Comedia" tvg-logo="Distrito Comedia" group-title="ENTRETENIMIENTO",Distrito Comedia
+http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 tvg-id="Lista PLAY-KODI E! Entertainment Television" tvg-name="E! Entertainment Television" tvg-logo="E! Entertainment Television" group-title="ENTRETENIMIENTO",E! Entertainment Television
+http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 tvg-id="Lista PLAY-KODI El Gourmet" tvg-name="El Gourmet" tvg-logo="El Gourmet" group-title="ENTRETENIMIENTO",El Gourmet
+http://200.76.77.237/LIVE/H01/CANAL268/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 tvg-id="Lista PLAY-KODI UK Fashion TV (FTV)" tvg-name="UK Fashion TV (FTV)" tvg-logo="Fashion TV" group-title="ENTRETENIMIENTO",Fashion TV
+http://200.76.77.237/LIVE/H01/CANAL220/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Fox" tvg-name="Fox" tvg-logo="Fox" group-title="ENTRETENIMIENTO",Fox
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Fox Life" tvg-name="Fox Life" tvg-logo="Fox Life" group-title="ENTRETENIMIENTO",Fox Life
+http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 tvg-id="Lista PLAY-KODI FX" tvg-name="FX" tvg-logo="FX" group-title="ENTRETENIMIENTO",FX
+http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Garage TV" tvg-name="Garage TV" tvg-logo="Garage TV" group-title="ENTRETENIMIENTO",Garage TV
+http://200.76.77.237/LIVE/H01/CANAL269/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Glitz" tvg-name="Glitz" tvg-logo="Glitz" group-title="ENTRETENIMIENTO",Glitz
+http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Lifetime" tvg-name="Lifetime" tvg-logo="Lifetime" group-title="ENTRETENIMIENTO",Lifetime
+http://200.76.77.237/LIVE/H01/CANAL379/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Sony" tvg-name="Sony" tvg-logo="Sony" group-title="ENTRETENIMIENTO",Sony
+http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 tvg-id="Lista PLAY-KODI SyFy" tvg-name="SyFy" tvg-logo="SyFy" group-title="ENTRETENIMIENTO",SyFy
+http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 tvg-id="Lista PLAY-KODI TBS" tvg-name="TBS" tvg-logo="TBS Very Funny" group-title="ENTRETENIMIENTO",TBS Very Funny
+http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="-" group-title="ENTRETENIMIENTO",Telemundo 33
+http://5.189.152.43:11757/live/PlayKodi-3PKS/token-8923ejijfs28uehi92iiw8kdlckeywofhso4ow8eid/182.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Tlnovelas" tvg-name="Tlnovelas" tvg-logo="Tlnovelas" group-title="ENTRETENIMIENTO",Tlnovelas
+http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="trendy-400x400-logo.png" group-title="ENTRETENIMIENTO",Trendy
+http://200.76.77.237/LIVE/H01/CANAL279/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 tvg-id="Lista PLAY-KODI TruTV" tvg-name="TruTV" tvg-logo="TruTV" group-title="ENTRETENIMIENTO",TruTV
+http://200.76.77.237/LIVE/H01/CANAL215/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal TV5MONDE" tvg-name="Canal TV5MONDE" tvg-logo="TV5Monde" group-title="ENTRETENIMIENTO",TV5Monde
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Unicable" tvg-name="Unicable" tvg-logo="Unicable" group-title="ENTRETENIMIENTO",Unicable
+http://200.76.77.237/LIVE/H01/CANAL218/PROFILE03.m3u8?playkodi=%2F.ts
 
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png", << INFANTILES NO OPERATIVA >>
 http://streaming203.radionomy.com:80/City-Dance-Radio
-
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Boomerang" tvg-name="Boomerang" tvg-logo="Boomerang" group-title="INFANTILES",Boomerang
+http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Cartoon Network" tvg-name="Cartoon Network" tvg-logo="Cartoon Network" group-title="INFANTILES",Cartoon Network
+http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 tvg-id="Lista PLAY-KODI CBeebies" tvg-name="CBeebies" tvg-logo="CBeebies" group-title="INFANTILES",CBeebies
+http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Discovery Kids" tvg-name="Discovery Kids" tvg-logo="Discovery Kids" group-title="INFANTILES",Discovery Kids
+http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Disney Channel" tvg-name="Disney Channel" tvg-logo="Disney Channel" group-title="INFANTILES",Disney Channel
+http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Disney Jr" tvg-name="Disney Jr" tvg-logo="Disney Jr" group-title="INFANTILES",Disney Jr
+http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Disney XD" tvg-name="Disney XD" tvg-logo="Disney XD" group-title="INFANTILES",Disney XD
+http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Nick HD" tvg-name="Nick HD" tvg-logo="Nick HD" group-title="INFANTILES",Nick HD
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Nick Jr" tvg-name="Nick Jr" tvg-logo="Nick Jr" group-title="INFANTILES",Nick Jr
+http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal Nickelodeon" tvg-name="Canal Nickelodeon" tvg-logo="Nickelodeon (Nick)" group-title="INFANTILES",Nickelodeon (Nick)
+http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 tvg-id="Lista PLAY-KODI NickToons" tvg-name="NickToons" tvg-logo="NickToons" group-title="INFANTILES",NickToons
+http://200.76.77.237/LIVE/H01/CANAL314/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 tvg-id="Lista PLAY-KODI TIIN" tvg-name="TIIN" tvg-logo="TIIN" group-title="INFANTILES",TIIN
+http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 tvg-id="Lista PLAY-KODI Tooncast" tvg-name="Tooncast" tvg-logo="Tooncast" group-title="INFANTILES",Tooncast
+http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?playkodi=%2F.ts
 
 #EXTINF:0tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png", << PELÍCULAS-SERIES >>
 http://streaming203.radionomy.com:80/City-Dance-Radio
