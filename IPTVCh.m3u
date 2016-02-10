@@ -244,15 +244,15 @@ http://iptvnation.com/90.mp4
 
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png", << ENTRETENIMIENTO NO OPERATIVA>>
 http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 tvg-id="Lista PLAY-KODI A&E HD" tvg-name="A&E HD" tvg-logo="A&E" group-title="ENTRETENIMIENTO",A&E
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="A&E" group-title="ENTRETENIMIENTO",A&E
 http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?playkodi=%2F.ts
-#EXTINF:-1 tvg-id="Lista PLAY-KODI AXN" tvg-name="AXN" tvg-logo="AXN" group-title="ENTRETENIMIENTO",AXN
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="AXN" group-title="ENTRETENIMIENTO",AXN
 http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?playkodi=%2F.ts
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal ¡Hola! TV" tvg-name="Canal ¡Hola! TV" tvg-logo="¡Hola! TV" group-title="ENTRETENIMIENTO",¡Hola! TV
+#EXTINF:-1 tvg-id="Canal ¡Hola! TV" tvg-name="Canal ¡Hola! TV" tvg-logo="¡Hola! TV" group-title="ENTRETENIMIENTO",¡Hola! TV
 http://200.76.77.237/LIVE/H01/CANAL219/PROFILE03.m3u8?playkodi=%2F.ts
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Antena 3 Internacional" tvg-name="Antena 3 Internacional" tvg-logo="Antena 3 Internacional" group-title="ENTRETENIMIENTO",Antena 3 Internacional
+#EXTINF:-1 tvg-id="Antena 3 Internacional" tvg-name="Antena 3 Internacional" tvg-logo="Antena 3 Internacional" group-title="ENTRETENIMIENTO",Antena 3 Internacional
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Az Clic" tvg-name="Az Clic" tvg-logo="Az Clic" group-title="ENTRETENIMIENTO",Az Clic
+#EXTINF:-1 tvg-id="Az Clic" tvg-name="Az Clic" tvg-logo="Az Clic" group-title="ENTRETENIMIENTO",Az Clic
 http://200.76.77.237/LIVE/H01/CANAL725/PROFILE03.m3u8?playkodi=%2F.ts
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Az Corazón" tvg-name="Az Corazón" tvg-logo="Az Corazón" group-title="ENTRETENIMIENTO",Az Corazón
 http://200.76.77.237/LIVE/H01/CANAL250/PROFILE03.m3u8?playkodi=%2F.ts
@@ -270,10 +270,10 @@ http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?playkodi=%2F.ts
 http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?playkodi=%2F.ts
 #EXTINF:-1 tvg-id="Lista PLAY-KODI El Gourmet" tvg-name="El Gourmet" tvg-logo="El Gourmet" group-title="ENTRETENIMIENTO",El Gourmet
 http://200.76.77.237/LIVE/H01/CANAL268/PROFILE03.m3u8?playkodi=%2F.ts
-#EXTINF:-1 tvg-id="Lista PLAY-KODI UK Fashion TV (FTV)" tvg-name="UK Fashion TV (FTV)" tvg-logo="Fashion TV" group-title="ENTRETENIMIENTO",Fashion TV
+#EXTINF:-1 tvg-id="UK Fashion TV (FTV)" tvg-name="UK Fashion TV (FTV)" tvg-logo="Fashion TV" group-title="ENTRETENIMIENTO",Fashion TV
 http://200.76.77.237/LIVE/H01/CANAL220/PROFILE03.m3u8?playkodi=%2F.ts
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Fox" tvg-name="Fox" tvg-logo="Fox" group-title="ENTRETENIMIENTO",Fox
-http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 tvg-id="Fox" tvg-name="Fox" tvg-logo="Fox" group-title="ENTRETENIMIENTO",Fox
+http://latino-webtv.ml/mariocs.php?ch=201&cl=03
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Fox Life" tvg-name="Fox Life" tvg-logo="Fox Life" group-title="ENTRETENIMIENTO",Fox Life
 http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?playkodi=%2F.ts
 #EXTINF:-1 tvg-id="Lista PLAY-KODI FX" tvg-name="FX" tvg-logo="FX" group-title="ENTRETENIMIENTO",FX
