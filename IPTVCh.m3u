@@ -12,7 +12,7 @@ http://video-cdn.streamup.com/app/lalalongo8s-stream/chunklist.m3u8
 https://video06-atl.streamup.com/app/chapalapachala53s-stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-fQjf9xuHS1E/Vm-hBpsFJnI/AAAAAAAAAA0/og7MvcJuEgI/s1600/futbol_chile.png", Canal FutbolChile.net (solo partidos en vivo)
 https://video02-atl.streamup.com/app/futbolchile-net3s-channel/playlist.m3u8
-#EXTINF:0 , Cine Exclusivo de Lista IPTV Chile (BETA)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", Cine Exclusivo de Lista IPTV Chile (BETA)
 https://raw.githubusercontent.com/teran91/IPTV-Chile/master/cine.m3u
 
 
@@ -199,38 +199,48 @@ http://evo.eltelon.com:443/live/soberania/chunklist_w725687300.m3u8
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 ,Peliculas 24 HRS
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
-#EXTINF: -1 Grupo-title = "Serie" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png", Dos hombres y medio TLC
+#EXTINF: -1 Grupo-title = "Serie" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png", Dos hombres y medio (ingles)
 http://iptvnation.com/two.mp4
-#EXTINF: -1 Grupo-title = "Serie" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png", Cómo conocí a vuestra madre TLC
+#EXTINF: -1 Grupo-title = "Serie" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png", Cómo conocí a vuestra madre (ingles)
 http://iptvnation.com/how.mp4
-#EXTINF: -1 Grupo-title = "Serie" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png", The Big Bang Theory TLC
+#EXTINF: -1 Grupo-title = "Serie" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png", The Big Bang Theory (ingles)
 http://iptvnation.com/big.mp4
-#EXTINF: -1 Grupo-title = "Serie"tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png", El Mentalista TLC
+#EXTINF: -1 Grupo-title = "Serie"tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png", El Mentalista (ingles)
 http://iptvnation.com/mentalist.mp4
-#EXTINF: -1 Grupo-title = "Serie" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png", Flecha TLC
+#EXTINF: -1 Grupo-title = "Serie" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png", Flecha (ingles)
 http://iptvnation.com/arrow.mp4
-#EXTINF: -1 Grupo-title = "Serie" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png", The Grimm TLC
+#EXTINF: -1 Grupo-title = "Serie" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png", The Grimm (ingles)
 http://iptvnation.com/grimm.mp4
-#EXTINF: -1 Grupo-title = "Serie" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png", Bones TLC
+#EXTINF: -1 Grupo-title = "Serie" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png", Bones (ingles)
 http://iptvnation.com/bones.mp4
-#EXTINF: -1 Grupo-title = "Serie" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png", Criminal Minds TLC
+#EXTINF: -1 Grupo-title = "Serie" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png", Criminal Minds (ingles)
 http://iptvnation.com/criminal.mp4
-#EXTINF: -1 Grupo-title = "Serie" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png", CSI: Miami TLC
+#EXTINF: -1 Grupo-title = "Serie" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png", CSI: Miami (ingles)
 http://iptvnation.com/csimiami.mp4
-#EXTINF: -1 Grupo-title = "Serie" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png", Los Simpson: ES
+#EXTINF: -1 Grupo-title = "Serie" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png", Los Simpson: (ingles)
 http://iptvnation.com/simpsons.mp4
-#EXTINF: -1 Grupo-title = "Serie" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png", South Park TLC
+#EXTINF: -1 Grupo-title = "Serie" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png", South Park (ingles)
 http://iptvnation.com/southpark.mp4
-#EXTINF: -1 Grupo-title = "Serie" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png", Family Guy TLC
+#EXTINF: -1 Grupo-title = "Serie" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png", Family Guy (ingles)
 http://iptvnation.com/familyguy.mp4
-#EXTINF: -1 Grupo-title = "Serie" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png", Bobs Hamburguesas TLC
+#EXTINF: -1 Grupo-title = "Serie" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png", Bobs Hamburguesas (ingles)
 http://iptvnation.com/bobs.mp4
 #EXTINF:-1  tvg-name="Anime 24H" group-title="OTROS CANALES" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png",Anime
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8 
 #EXTINF:-1 tvg-name="q" group-title="OTROS CANALES" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png",Anime 2
 http://iphone-streaming.ustream.tv/uhls/15883775/streams/live/iphone/playlist.m3u8
-#EXTINF:-1  tvg-name="q"  group-title="OTROS CANALES" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png",Los Simpsons Latino
+#EXTINF:-1 tvg-id="973" tvg-name="Los Simpsons (ES)" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/2944.png" group-title="Series", Los Simpsons (ES)
 http://iptvnation.com/simpsonslat.mp4
+#EXTINF:-1 tvg-id="974" tvg-name="South Park (ES)" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/2946.png" group-title="Series", South Park (ES)
+http://iptvnation.com/southparklat.mp4
+#EXTINF:-1 tvg-id="975" tvg-name="Modern Family (ES)?" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/2949.png" group-title="Series", Modern Family (ES
+http://iptvnation.com/modernlat.mp4
+#EXTINF:-1 tvg-id="976" tvg-name="Grimm (ES)" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/2951.png" group-title="Series", Grimm (ES)
+http://iptvnation.com/grimmlat.mp4
+#EXTINF:-1 tvg-id="977" tvg-name="Arrow (ES)" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/2954.png" group-title="Series", Arrow (ES)
+http://iptvnation.com/arrowlat.mp4
+#EXTINF:-1 tvg-id="978" tvg-name="CSI: Las Vegas (ES)" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/2959.png" group-title="Series", CSI: Las Vegas (ES)
+http://iptvnation.com/90.mp4
 
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png", << ENTRETENIMIENTO NO OPERATIVA>>
 http://streaming203.radionomy.com:80/City-Dance-Radio
