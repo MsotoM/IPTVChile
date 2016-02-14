@@ -568,7 +568,7 @@ http://st02.brn03.iptv.czechbone.net:8083/rel/pc/1/244/0.k.m3u8
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Ritmoson Latino" tvg-name="Ritmoson Latino" tvg-logo="Ritmoson Latino" group-title="MÚSICA",Ritmoson Latino
 http://201.161.59.4/ritmoson.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Telehit HD" tvg-name="Telehit HD" tvg-logo="Telehit" group-title="MÚSICA",Telehit
-http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?playkodi=%2F.ts
+http://dl.oneplay.tv/OMGPower:c0a311d30ffab4c907910b5513a2404d/ejdwV3dGZmdiNDNQUzUyczFITkJKUjZKc2xYaU1tUXRyRXNneTh3UFlWa0Fxb0EyeGU0Z3RVQlA0VHFCSTBmSWFLT1EwaXpPQjByZ1lTMzh3K2Z3Z0RXemRiZnJqdkVYY0kzOWJoTlhWdU1HOXk3VUwzQzJvbm1LVlVBalVLNUg=.ts
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Telehit HD" tvg-name="Telehit HD" tvg-logo="Telehit HD (1080p)" group-title="MÚSICA",Telehit HD (1080p)
 http://200.76.77.237/LIVE/H01/CANAL702/PROFILE05.m3u8?playkodi=%2F.ts
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Vevo HD 1" tvg-name="Vevo HD 1" tvg-logo="Vevo HD 1" group-title="MÚSICA",Vevo HD 1
