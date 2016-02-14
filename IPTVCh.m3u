@@ -245,9 +245,9 @@ http://iptvnation.com/90.mp4
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png", << ENTRETENIMIENTO NO OPERATIVA>>
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="A&E" group-title="ENTRETENIMIENTO",A&E
-http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?playkodi=%2F.ts
+https://r1---sn-25jp4pjv-jj2e.googlevideo.com/videoplayback?ipbits=0&initcwndbps=1217500&sparams=dur%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cupn%2Cexpire&mime=video%2Fmp4&fexp=9407059%2C9420452%2C9422596%2C9423661%2C9426402&signature=8227830C963F10A8E6FBBE46DEB03D3C1C66810F.4FC8FAAB5DB755C4E5016CD61EFB3AE927720813&key=yt6&requiressl=yes&source=youtube&dur=11.958&lmt=1455241867260154&ratebypass=yes&upn=Kv04kduYAUY&expire=1455431287&sver=3&itag=18&mm=31&mn=sn-25jp4pjv-jj2e&id=o-AOAWDGGw_sUXaeZORZ6aRimtg9xqR8-6el6e0K5f8HOT&ip=190.5.48.38&pl=24&mt=1455409566&mv=m&ms=au&cpn=UiMEeD2kXc9hakMi
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="AXN" group-title="ENTRETENIMIENTO",AXN
-http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?playkodi=%2F.ts
+https://r1---sn-25jp4pjv-jj2e.googlevideo.com/videoplayback?ipbits=0&initcwndbps=1217500&sparams=dur%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cupn%2Cexpire&mime=video%2Fmp4&fexp=9407059%2C9420452%2C9422596%2C9423661%2C9426402&signature=8227830C963F10A8E6FBBE46DEB03D3C1C66810F.4FC8FAAB5DB755C4E5016CD61EFB3AE927720813&key=yt6&requiressl=yes&source=youtube&dur=11.958&lmt=1455241867260154&ratebypass=yes&upn=Kv04kduYAUY&expire=1455431287&sver=3&itag=18&mm=31&mn=sn-25jp4pjv-jj2e&id=o-AOAWDGGw_sUXaeZORZ6aRimtg9xqR8-6el6e0K5f8HOT&ip=190.5.48.38&pl=24&mt=1455409566&mv=m&ms=au&cpn=UiMEeD2kXc9hakMi
 #EXTINF:-1 tvg-id="Canal ¡Hola! TV" tvg-name="Canal ¡Hola! TV" tvg-logo="¡Hola! TV" group-title="ENTRETENIMIENTO",¡Hola! TV
 http://200.76.77.237/LIVE/H01/CANAL219/PROFILE03.m3u8?playkodi=%2F.ts
 #EXTINF:-1 tvg-id="Antena 3 Internacional" tvg-name="Antena 3 Internacional" tvg-logo="Antena 3 Internacional" group-title="ENTRETENIMIENTO",Antena 3 Internacional
@@ -517,9 +517,29 @@ http://5.189.152.43:11757/live/PlayKodi-1PKS/token-902u32h4he3d923oujsu3s8738us1
 
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png", << MÚSICA >>
 http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Bandamax" tvg-name="Bandamax" tvg-logo="Bandamax" group-title="MÚSICA",Bandamax
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/CTV_LOGO.png/245px-CTV_LOGO.png" ,CANTINAZO
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="http://www.tigomusic.co/sites/music.co/files/logo_music.png",TIGO MUSIC
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+#EXTINF:-1,TRENDY MUSICA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales de Musica", Dream
+http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales de Musica", Best Music TV 
+rtmp://stream.smcloud.net/live2/best/best_720p
+#EXTINF:-1 tvg-logo="" group-title="Canales de Musica", Ibiza
+http://www.djing.com/tv/ibiza.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales de Musica", Film on TV
+http://204.107.26.252:1935/live/691.high.stream/HasBahCa.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales de Musica", SI TV
+http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales de Musica", Virgin TV
+http://wow01.105.net/live/virgin1/.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales de Musica", Heavy Metal TV
+http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="Bandamax" tvg-name="Bandamax" tvg-logo="Bandamax" group-title="MÚSICA",Bandamax
 http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?playkodi=%2F.ts
-#EXTINF:-1 tvg-id="Lista PLAY-KODI MTV" tvg-name="MTV" tvg-logo="MTV" group-title="MÚSICA",MTV
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="MTV" group-title="MÚSICA",MTV
 http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?playkodi=%2F.ts
 #EXTINF:-1 tvg-id="Lista PLAY-KODI CAPITAL TV" tvg-name="CAPITAL TV" tvg-logo="Capital_TV_logo.png" group-title="MÚSICA",Capital TV (UK)
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
@@ -534,17 +554,17 @@ http://5.189.152.43:11757/live/PlayKodi-7PKS/token-o723894m2ymbzvzmvlrei397ydhsi
 #EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="unnamed.png" group-title="MÚSICA",Melody Channel
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 #EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="channels-page-_mi-musica.png" group-title="MÚSICA",Mi Musica HD
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u9
-#EXTINF:-1 tvg-id="Lista PLAY-KODI UK MTV Dance" tvg-name="UK MTV Dance" tvg-logo="MTV Dance" group-title="MÚSICA",MTV Dance
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+#EXTINF:-1 tvg-id="UK MTV Dance" tvg-name="UK MTV Dance" tvg-logo="MTV Dance" group-title="MÚSICA",MTV Dance
 http://217.147.40.118:8080/udp/233.97.20.154:1234
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal MTV Hits" tvg-name="Canal MTV Hits" tvg-logo="MTV Hits" group-title="MÚSICA",MTV Hits
-http://200.76.77.237/LIVE/H01/CANAL727/PROFILE03.m3u8?playkodi=%2F.ts
+#EXTINF:-1 tvg-id="Canal MTV Hits" tvg-name="Canal MTV Hits" tvg-logo="MTV Hits" group-title="MÚSICA",MTV Hits
+http://st02.brn03.iptv.czechbone.net:8083/rel/pc/1/247/0.k.m3u8
 #EXTINF:-1 tvg-id="Lista PLAY-KODI MTV Live HD" tvg-name="MTV Live HD" tvg-logo="MTV Live" group-title="MÚSICA",MTV Live
 http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?playkodi=%2F.ts
 #EXTINF:-1 tvg-id="Lista PLAY-KODI MTV Live HD" tvg-name="MTV Live HD" tvg-logo="MTV Live HD (1080p)" group-title="MÚSICA",MTV Live HD (1080p)
 http://200.76.77.237/LIVE/H01/CANAL701/PROFILE05.m3u8?playkodi=%2F.ts
 #EXTINF:-1 tvg-id="Lista PLAY-KODI UK MTV Rocks" tvg-name="UK MTV Rocks" tvg-logo="MTV Rocks" group-title="MÚSICA",MTV Rocks
-http://217.147.40.118:8080/udp/233.97.20.155:1234
+http://st02.brn03.iptv.czechbone.net:8083/rel/pc/1/244/0.k.m3u8
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Ritmoson Latino" tvg-name="Ritmoson Latino" tvg-logo="Ritmoson Latino" group-title="MÚSICA",Ritmoson Latino
 http://201.161.59.4/ritmoson.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Telehit HD" tvg-name="Telehit HD" tvg-logo="Telehit" group-title="MÚSICA",Telehit
