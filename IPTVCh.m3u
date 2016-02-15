@@ -14,8 +14,6 @@ https://video06-atl.streamup.com/app/chapalapachala53s-stream/playlist.m3u8
 https://video02-atl.streamup.com/app/futbolchile-net3s-channel/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", Cine Exclusivo de Lista IPTV Chile (BETA)
 https://raw.githubusercontent.com/teran91/IPTV-Chile/master/cine.m3u
-#EXTINF:0 , FutbolChile.net señal Youtube
-https://www.youtube.com/watch?feature=youtu.be&v=YGZ7mvC6rV0&app=desktop
 
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png",Radios Chilenas
 http://streaming203.radionomy.com:80/City-Dance-Radio
