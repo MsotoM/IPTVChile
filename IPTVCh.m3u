@@ -8,16 +8,10 @@ http://streaming203.radionomy.com:80/City-Dance-Radio
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:0 tvg-logo="http://s3.amazonaws.com/design_images/images/1743/v.png?1347471596", Canal Webdel.futbol (solo partidos en vivo)
 http://video06-atl.streamup.com/app/lalolanda556s-stream/chunklist.m3u8
-#EXTINF:0 tvg-logo="http://s3.amazonaws.com/design_images/images/1743/v.png?1347471596", Canal Webdel.futbol (solo partidos en vivo)
-http://38.102.162.238/flv/56c8d62f0ba8f/testat123.flv
 #EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-fQjf9xuHS1E/Vm-hBpsFJnI/AAAAAAAAAA0/og7MvcJuEgI/s1600/futbol_chile.png", Canal FutbolChile.net (solo partidos en vivo)
 https://video02-atl.streamup.com/app/futbolchile-net3s-channel/playlist.m3u8
-#EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-fQjf9xuHS1E/Vm-hBpsFJnI/AAAAAAAAAA0/og7MvcJuEgI/s1600/futbol_chile.png", Canal FutbolChile.net 2 (solo partidos en vivo)
-http://cdn540.xyz:1935/live/64810093a98134389631/playlist.m3u8?v&Token=c2VydmVyX3RpbWU9MTQ1NTk5ODU2MiZoYXNoX3ZhbHVlPTNiNGFiYTBhZGY4NGY1ZjUwM2M5YzZlNWYzYTBlMTQwJnZhbGlkbWludXRlcz0zMCZpcD1DTCY%3D&wowzasessionid=2004535210
-#EXTINF:0 , Canal MojaLaCamiseta.con
+#EXTINF:0 , Canal MojaLaCamiseta.com (solo partidos en vivo)
 https://www.youtube.com/embed/hcvtB2ozl84?rel=0&autoplay=1
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", Cine Exclusivo de Lista IPTV Chile (BETA)
-https://raw.githubusercontent.com/teran91/IPTV-Chile/master/cine.m3u
 
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png",Radios Chilenas
 http://streaming203.radionomy.com:80/City-Dance-Radio
@@ -59,12 +53,13 @@ http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 http://13.live.cdn.cl/13hddesktop/13hd-900.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal13_c_cl_zpsoueja6s7.png" group-title="NACIONALES", C13 Cable
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
+#EXTINF:-1 tvg-logo="htt://elpi.co/iptv/logos/cdo.png" group-title="NACIONALES", CDO HD (480p)
+http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
 
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png",Canales Regionales
 http://streaming203.radionomy.com:80/City-Dance-Radio
 
-#EXTINF:0 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/ucv_tv_cl_zpsquly9vvk.png" , UCV Gran Valparaiso
-http://movilstream.digitalproserver.com/ucvtv2/ucvtv2vivo/ucvtv2.smil/chunklist-b1248000.m3u8
+
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/vemastv_zpsyhmymsvg.png" group-title="REGIONALES", Mas Tv Arica 
 http://186.67.39.227:1935/Mastv/myStream/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/morrovision_zpsgualkdpl.png" group-title="REGIONALES", Morro Visión Arica 
@@ -111,6 +106,8 @@ rtsp://video.crearchile.com:8080/live/canal2.mp4
 http://camara.ztreaming.com:80/camara8/streamcam8.sdp/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/sporting_zpsbqeg5in1.png" group-title="REGIONALES", Sporting Tv Valparaiso
 http://movilstream.digitalproserver.com/sportinghd/sportinghdvivo/mp4:livestream2/playlist.m3u8?
+#EXTINF:0 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/ucv_tv_cl_zpsquly9vvk.png" , UCV Gran Valparaiso
+http://movilstream.digitalproserver.com/ucvtv2/ucvtv2vivo/ucvtv2.smil/chunklist-b1248000.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/vtv_zpspdx6gfwt.png" group-title="REGIONALES",VTV Valparaiso y VIña del Mar
 http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/sexta_zpssstx7vmz.png" group-title="REGIONALES",SextaVision Rancagua
@@ -200,6 +197,8 @@ http://evo.eltelon.com:443/live/soberania/chunklist_w725687300.m3u8
 
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png", SERIES & PELICULAS LAS 24 HRS V.O.D (BETA)
 http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", Cine Exclusivo de Lista IPTV Chile
+https://raw.githubusercontent.com/teran91/IPTV-Chile/master/cine.m3u
 #EXTINF:-1 ,Peliculas 24 HRS
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
 #EXTINF: -1 Grupo-title = "Serie" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png", Dos hombres y medio (ingles)
