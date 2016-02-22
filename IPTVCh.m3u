@@ -310,41 +310,41 @@ http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="Boomerang" group-title="INFANTILES",Boomerang
 http://exabytetv.ddns.net/stream/exabytetvplus.m3u8?can=boomerang&cal=2&tk=auth9ejnr4fd
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="Cartoon Network" group-title="INFANTILES",Cartoon Network
-http://exabytetv.ddns.net/stream/exabytetvplus.m3u8?can=cartoonnetwork&cal=2&tk=auth9ejnr4fd
+http://5.189.181.82/canales.php?cm=421&f=.m3u8
 #EXTINF:-1 tvg-id="CBeebies" tvg-name="CBeebies" tvg-logo="CBeebies" group-title="INFANTILES",CBeebies
 http://104.131.117.246:8081/chuy/76/014-Cbeebies/playlist.m3u8
 #EXTINF:-1 tvg-id="Disneyery Kids" tvg-name="Discovery Kids" tvg-logo="Discovery Kids" group-title="INFANTILES",Discovery Kids
 http://exabytetv.ddns.net/stream/exabytetvplus.m3u8?can=discoverykids&cal=2&tk=auth9ejnr4fd
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="Disney Channel" group-title="INFANTILES",Disney Channel
 http://exabytetv.ddns.net/stream/exabytetvplus.m3u8?can=disneychannel&cal=2&tk=auth9ejnr4fd
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Disney Jr" tvg-name="Disney Jr" tvg-logo="Disney Jr" group-title="INFANTILES",Disney Jr
+#EXTINF:-1 tvg-id="Disney Jr" tvg-name="Disney Jr" tvg-logo="Disney Jr" group-title="INFANTILES",Disney Jr
 http://exabytetv.ddns.net/stream/exabytetvplus.m3u8?can=disneyjunior&cal=2&tk=auth9ejnr4fd
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Disney XD" tvg-name="Disney XD" tvg-logo="Disney XD" group-title="INFANTILES",Disney XD
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="Disney XD" group-title="INFANTILES",Disney XD
 http://exabytetv.ddns.net/stream/exabytetvplus.m3u8?can=disneyxd&cal=2&tk=auth9ejnr4fd
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Nick HD" tvg-name="Nick HD" tvg-logo="Nick HD" group-title="INFANTILES",Nick HD
+#EXTINF:-1 tvg-id="Nick HD" tvg-name="Nick HD" tvg-logo="Nick HD" group-title="INFANTILES",Nick HD
 http://exabytetv.ddns.net/stream/exabytetvplus.m3u8?can=nickhd&cal=2&tk=auth9ejnr4fd
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Nick Jr" tvg-name="Nick Jr" tvg-logo="Nick Jr" group-title="INFANTILES",Nick Jr
+#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="Nick Jr" group-title="INFANTILES",Nick Jr
 http://exabytetv.ddns.net/stream/exabytetvplus.m3u8?can=nickjr&cal=2&tk=auth9ejnr4fd
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Canal Nickelodeon" tvg-name="Canal Nickelodeon" tvg-logo="Nickelodeon (Nick)" group-title="INFANTILES",Nickelodeon (Nick)
+#EXTINF:-1 tvg-id="Canal Nickelodeon" tvg-name="Canal Nickelodeon" tvg-logo="Nickelodeon (Nick)" group-title="INFANTILES",Nickelodeon (Nick)
 http://exabytetv.ddns.net/stream/exabytetvplus.m3u8?can=nickelodeon&cal=2&tk=auth9ejnr4fd
-#EXTINF:-1 tvg-id="Lista PLAY-KODI NickToons" tvg-name="NickToons" tvg-logo="NickToons" group-title="INFANTILES",NickToons
+#EXTINF:-1 tvg-id="NickToons" tvg-name="NickToons" tvg-logo="NickToons" group-title="INFANTILES",NickToons
 http://exabytetv.ddns.net/stream/exabytetvplus.m3u8?can=nicktoons&cal=2&tk=auth9ejnr4fd
-#EXTINF:-1 tvg-id="Lista PLAY-KODI TIIN" tvg-name="TIIN" tvg-logo="TIIN" group-title="INFANTILES",TIIN
+#EXTINF:-1 tvg-id="TIIN" tvg-name="TIIN" tvg-logo="TIIN" group-title="INFANTILES",TIIN
 http://104.131.117.246:8081/chuy/76/2154-Tiin/playlist.m3u8
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Tooncast" tvg-name="Tooncast" tvg-logo="Tooncast" group-title="INFANTILES",Tooncast
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="Tooncast" group-title="INFANTILES",Tooncast
 http://exabytetv.ddns.net/stream/exabytetvplus.m3u8?can=tooncast&cal=2&tk=auth9ejnr4fd
 
 #EXTINF:0tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png", << PELÍCULAS-SERIES >>
 http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 tvg-id="Lista PLAY-KODI AMC HD" tvg-name="AMC HD" tvg-logo="AMC HD" group-title="PELÍCULAS-SERIES",AMC HD
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="AMC HD" group-title="PELÍCULAS-SERIES",AMC HD
 http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?playkodi=%2F.ts
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Az Cinema" tvg-name="Az Cinema" tvg-logo="Az Cinema" group-title="PELÍCULAS-SERIES",Az Cinema
+#EXTINF:-1 tvg-id="Az Cinema" tvg-name="Az Cinema" tvg-logo="Az Cinema" group-title="PELÍCULAS-SERIES",Az Cinema
 http://200.76.77.237/LIVE/H01/CANAL425/PROFILE03.m3u8?playkodi=%2F.ts
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Cinecanal (W)" tvg-name="Cinecanal (W)" tvg-logo="Cinecanal" group-title="PELÍCULAS-SERIES",Cinecanal
+#EXTINF:-1 tvg-id="Cinecanal (W)" tvg-name="Cinecanal (W)" tvg-logo="Cinecanal" group-title="PELÍCULAS-SERIES",Cinecanal
 http://200.76.77.237/LIVE/H01/CANAL480/PROFILE03.m3u8?playkodi=%2F.ts
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Cinecanal HD" tvg-name="Cinecanal HD" tvg-logo="Cinecanal Plus" group-title="PELÍCULAS-SERIES",Cinecanal Plus
+#EXTINF:-1 tvg-id="Cinecanal HD" tvg-name="Cinecanal HD" tvg-logo="Cinecanal Plus" group-title="PELÍCULAS-SERIES",Cinecanal Plus
 http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?playkodi=%2F.ts
-#EXTINF:-1 tvg-id="Lista PLAY-KODI Cinemax (O)" tvg-name="Cinemax (O)" tvg-logo="Cinemax" group-title="PELÍCULAS-SERIES",Cinemax
+#EXTINF:-1 tvg-id="Cinemax (O)" tvg-name="Cinemax (O)" tvg-logo="Cinemax" group-title="PELÍCULAS-SERIES",Cinemax
 http://200.76.77.237/LIVE/H01/CANAL481/PROFILE03.m3u8?playkodi=%2F.ts
 #EXTINF:-1 tvg-id="Lista PLAY-KODI De Película HD" tvg-name="De Película HD" tvg-logo="De Película HD" group-title="PELÍCULAS-SERIES",De Película HD
 http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?playkodi=%2F.ts
@@ -519,6 +519,8 @@ http://5.189.152.43:11757/live/PlayKodi-1PKS/token-902u32h4he3d923oujsu3s8738us1
 
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png", << MÚSICA >>
 http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1, Vorterix
+http://prepublish.f.qaotic.net/epa2/ngrp:vorterix_video1-20057_all/Playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/CTV_LOGO.png/245px-CTV_LOGO.png" ,CANTINAZO
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="http://www.tigomusic.co/sites/music.co/files/logo_music.png",TIGO MUSIC
