@@ -542,7 +542,7 @@ http://wow01.105.net/live/virgin1/.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canales de Musica", Heavy Metal TV
 http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="Bandamax" tvg-name="Bandamax" tvg-logo="Bandamax" group-title="MÚSICA",Bandamax
-http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?playkodi=%2F.ts
+http://live.tutvgratis.tv/ch/449.m3u8?token=ppb6VOK9wexie6NE8FWRoRVcEsnUdVG90HryF3kq3J1ZlZXhrduBDGPxa05kXOjPLXF1TgL6v0XIGEANbiJyNYO69+sFeLCcItoLgYZvSV0XrcwBkQ94YnpYe4ppiKwOy7TIBHhVWyJ6EkA5GJg8q4NAdORCEcciDoMlfoQ1uss=|VWUW8eToGhZiq2LL7DzJ4x014IHClojoxaWu8ZIBoK4=.m3u8
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="MTV" group-title="MÚSICA",MTV
 http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?playkodi=%2F.ts
 #EXTINF:-1 tvg-id="Lista PLAY-KODI CAPITAL TV" tvg-name="CAPITAL TV" tvg-logo="Capital_TV_logo.png" group-title="MÚSICA",Capital TV (UK)
