@@ -397,11 +397,11 @@ http://169.45.89.106:1935/app/bein1frlsh58/playlist.m3u8
 http://169.45.89.106:1935/app/bein2frlsh/playlist.m3u8
 #EXTINF:-1 tvg-id="Lista PLAY-KODI FR beIN Sports 3" tvg-name="FR beIN Sports 3" tvg-logo="Bein Sports 3 Francia" group-title="DEPORTES",Bein Sports 3 Francia
 http://evolive-tv.com:8000/live/genio/genio/67.m3u8
-#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="Combate" group-title="DEPORTES",Combate
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="Combate" group-title="DEPORTES",Combate
 http://server1.livestreaming.ninja:1935/live/combate755/livestream.m3u8
-#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="z" group-title="DEPORTES",Comcast SportsNet CSN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="z" group-title="DEPORTES",Comcast SportsNet CSN
 http://104.236.132.67:9191/live/PlayKodi-8PKS/token-klnjn87rh4fefdfcwdi4u3o8eu3uhdbnecwdjnec/184.m3u8
-#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="Dubai Sports" group-title="DEPORTES",Dubai Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="Dubai Sports" group-title="DEPORTES",Dubai Sports
 http://104.236.132.67:9191/live/PlayKodi-9PKS/token-8mdki3738qprfkskdnff4r89289ywhydjoiwdnefref43/11.m3u8
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Canal ESPN+ Latinoamérica" tvg-name="Canal ESPN+ Latinoamérica" tvg-logo="ESPN + México" group-title="DEPORTES",ESPN + México
 http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?playkodi=%2F.ts
@@ -435,17 +435,17 @@ http://200.76.77.237/LIVE/H01/CANAL527/PROFILE05.m3u8?playkodi=%2F.ts
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?playkodi=%2F.ts
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Fox Sports HD" tvg-name="Fox Sports HD" tvg-logo="Fox Sports México (1080p)" group-title="DEPORTES",Fox Sports México (1080p)
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE05.m3u8?playkodi=%2F.ts
-#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="motors-tv-fr.png" group-title="DEPORTES",Motors TV UK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="motors-tv-fr.png" group-title="DEPORTES",Motors TV UK
 http://104.236.132.67:9191/live/PlayKodi-10PKS/token-i839fkewieu83eujejdn2wnsn98ehd9823dwkdk/22.m3u8
-#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="golf_channel_logo_detail.png" group-title="DEPORTES",NBC Golf
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="golf_channel_logo_detail.png" group-title="DEPORTES",NBC Golf
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="nfl_now_logo.jpg" group-title="DEPORTES",NFL Now
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="nfl_now_logo.jpg" group-title="DEPORTES",NFL Now
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
 #EXTINF:-1 tvg-id="Lista PLAY-KODI PX" tvg-name="PX" tvg-logo="px.jpg" group-title="DEPORTES",PX TV
 http://200.76.77.237/LIVE/H01/CANAL528/PROFILE03.m3u8?playkodi=%2F.ts
 #EXTINF:-1 tvg-id="Lista PLAY-KODI ES Real Madrid TV" tvg-name="ES Real Madrid TV" tvg-logo="Real Madrid TV" group-title="DEPORTES",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="redbulltv.jpg" group-title="DEPORTES",Redbull TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="redbulltv.jpg" group-title="DEPORTES",Redbull TV
 http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Canal TyC Sports" tvg-name="Canal TyC Sports" tvg-logo="TyC Deportes" group-title="DEPORTES",TyC Deportes
 http://201.161.59.4/tycdeportes.isml/manifest(format=m3u8-aapl).m3u8
@@ -486,35 +486,35 @@ http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?playkodi=%2F.ts
 http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?playkodi=%2F.ts
 #EXTINF:-1 tvg-id="Lista PLAY-KODI WOBI TV" tvg-name="WOBI TV" tvg-logo="WOBI" group-title="CULTURA-DOCUMENTAL",WOBI
 http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?playkodi=%2F.ts
-#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="Positive Channel" group-title="CULTURA-DOCUMENTAL",Positive Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="Positive Channel" group-title="CULTURA-DOCUMENTAL",Positive Channel
 http://104.131.200.207/genius/playkodi.php?lib=3284994
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Canal EWTN en Español" tvg-name="Canal EWTN en Español" tvg-logo="EWTN" group-title="CULTURA-DOCUMENTAL",EWTN
 http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/playlist.m3u8
 #EXTINF:-1 tvg-id="Lista PLAY-KODI Canal María Visión" tvg-name="Canal María Visión" tvg-logo="Maria Visión" group-title="CULTURA-DOCUMENTAL",Maria Visión
 http://74.63.97.188:1935/mariavision1/videomariavision1/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="f2fR91hPfRRhf19Pf1bd9.jpg" group-title="CULTURA-DOCUMENTAL",DW Latinoamérica
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="f2fR91hPfRRhf19Pf1bd9.jpg" group-title="CULTURA-DOCUMENTAL",DW Latinoamérica
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
-#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="z" group-title="CULTURA-DOCUMENTAL",Alcance TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="z" group-title="CULTURA-DOCUMENTAL",Alcance TV
 http://5.189.152.43:11757/live/PlayKodi-1PKS/token-902u32h4he3d923oujsu3s8738us1iksp3oex2djiod4uj9/158.m3u8
-#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="z" group-title="CULTURA-DOCUMENTAL",Enlace
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="z" group-title="CULTURA-DOCUMENTAL",Enlace
 http://5.189.152.43:11757/live/PlayKodi-2PKS/token-kdkkw893jsksndioei802e89e3uehu3e39ju3ido3j/159.m3u8
-#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="z" group-title="CULTURA-DOCUMENTAL",Enlace Juvenil
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="z" group-title="CULTURA-DOCUMENTAL",Enlace Juvenil
 http://5.189.152.43:11757/live/PlayKodi-3PKS/token-8923ejijfs28uehi92iiw8kdlckeywofhso4ow8eid/160.m3u8
-#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="z" group-title="CULTURA-DOCUMENTAL",Cristo Visión
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="z" group-title="CULTURA-DOCUMENTAL",Cristo Visión
 http://5.189.152.43:11757/live/PlayKodi-4PKS/token-kkep3994euhsldmmldwwe9ei3893j398jkslwkndedm84ol2/161.m3u8
-#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="z" group-title="CULTURA-DOCUMENTAL",Mírame TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="z" group-title="CULTURA-DOCUMENTAL",Mírame TV
 http://5.189.152.43:11757/live/PlayKodi-5PKS/token-i4idsjwje939ejdrro99dkglxmzbir983052kddncmgoie83uyfjk/162.m3u8
-#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="z" group-title="CULTURA-DOCUMENTAL",Ondaluz Sierra
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="z" group-title="CULTURA-DOCUMENTAL",Ondaluz Sierra
 http://5.189.152.43:11757/live/PlayKodi-6PKS/token-iuh9fh84mx384m7c84fxh0m8fh94hx734fpzd2389fh24o/163.m3u8
-#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="z" group-title="CULTURA-DOCUMENTAL",Ceuta TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="z" group-title="CULTURA-DOCUMENTAL",Ceuta TV
 http://5.189.152.43:11757/live/PlayKodi-7PKS/token-o723894m2ymbzvzmvlrei397ydhsi2d34kmnajswkjdo4iufd/164.m3u8
-#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="z" group-title="CULTURA-DOCUMENTAL",Esperanza TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="z" group-title="CULTURA-DOCUMENTAL",Esperanza TV
 http://5.189.152.43:11757/live/PlayKodi-8PKS/token-klnjn87rh4fefdfcwdi4u3o8eu3uhdbnecwdjnec/165.m3u8
-#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="z" group-title="CULTURA-DOCUMENTAL",Almavisión
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="z" group-title="CULTURA-DOCUMENTAL",Almavisión
 http://5.189.152.43:11757/live/PlayKodi-9PKS/token-8mdki3738qprfkskdnff4r89289ywhydjoiwdnefref43/166.m3u8
-#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="z" group-title="CULTURA-DOCUMENTAL",Familia TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="z" group-title="CULTURA-DOCUMENTAL",Familia TV
 http://5.189.152.43:11757/live/PlayKodi-10PKS/token-i839fkewieu83eujejdn2wnsn98ehd9823dwkdk/167.m3u8
-#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="Z" group-title="CULTURA-DOCUMENTAL",Condavisión
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="Z" group-title="CULTURA-DOCUMENTAL",Condavisión
 http://5.189.152.43:11757/live/PlayKodi-1PKS/token-902u32h4he3d923oujsu3s8738us1iksp3oex2djiod4uj9/168.m3u8
 
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png", << MÚSICA >>
@@ -555,9 +555,9 @@ http://5.189.152.43:11757/live/PlayKodi-4PKS/token-kkep3994euhsldmmldwwe9ei3893j
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="Kiss-Tv.jpg" group-title="MÚSICA",Kiss TV
 http://5.189.152.43:11757/live/PlayKodi-7PKS/token-o723894m2ymbzvzmvlrei397ydhsi2d34kmnajswkjdo4iufd/152.m3u8
-#EXTINF:-1 tvg-id="Lista PLAY-KODI z" tvg-name="z" tvg-logo="unnamed.png" group-title="MÚSICA",Melody Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="unnamed.png" group-title="MÚSICA",Melody Channel
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
-#EXTINF:-1 tvg-id="Lista PLAY-KODI q" tvg-name="q" tvg-logo="channels-page-_mi-musica.png" group-title="MÚSICA",Mi Musica HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="channels-page-_mi-musica.png" group-title="MÚSICA",Mi Musica HD
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
 #EXTINF:-1 tvg-id="UK MTV Dance" tvg-name="UK MTV Dance" tvg-logo="MTV Dance" group-title="MÚSICA",MTV Dance
 http://217.147.40.118:8080/udp/233.97.20.154:1234
