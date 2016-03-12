@@ -497,13 +497,13 @@ http://74.63.97.188:1935/mariavision1/videomariavision1/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="f2fR91hPfRRhf19Pf1bd9.jpg" group-title="CULTURA-DOCUMENTAL",DW Latinoamérica
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CULTURA-DOCUMENTAL",Alcance TV
-http://5.189.152.43:11757/live/PlayKodi-1PKS/token-902u32h4he3d923oujsu3s8738us1iksp3oex2djiod4uj9/158.m3u8
+http://hd.worldkast.com/8232/smil:8232.smil/chunklist_w1000670092_b250000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CULTURA-DOCUMENTAL",Enlace
-http://5.189.152.43:11757/live/PlayKodi-2PKS/token-kdkkw893jsksndioei802e89e3uehu3e39ju3ido3j/159.m3u8
+http://player-api.new.livestream.com/accounts/2675843/events/1839332/broadcasts/115190376.m3u8?dw=100&hdnea=st=1457744744~exp=1457746544~acl=/i/2675843_1839332_09d7e623_1@348382/*~hmac=4376f37a0acca7f5e5f30a86201a98533e8a6395fcf97fde6877baa36349d156
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CULTURA-DOCUMENTAL",Enlace Juvenil
-http://5.189.152.43:11757/live/PlayKodi-3PKS/token-8923ejijfs28uehi92iiw8kdlckeywofhso4ow8eid/160.m3u8
+http://player-api.new.livestream.com/accounts/4885740/events/2294538/broadcasts/115218932.m3u8?dw=100&hdnea=st=1457745007~exp=1457746807~acl=/i/4885740_2294538_9ac2d543_1@133448/*~hmac=b9dea611143c4e8e35072273458908573b9e7a7d2c1b528d0da4db50b2f733f0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CULTURA-DOCUMENTAL",Cristo Visión
-http://5.189.152.43:11757/live/PlayKodi-4PKS/token-kkep3994euhsldmmldwwe9ei3893j398jkslwkndedm84ol2/161.m3u8
+http://cdns840stu1010.multistream.net/cristovisionlive/amlst:live/playlist_b500000.abst
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CULTURA-DOCUMENTAL",Mírame TV
 http://5.189.152.43:11757/live/PlayKodi-5PKS/token-i4idsjwje939ejdrro99dkglxmzbir983052kddncmgoie83uyfjk/162.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CULTURA-DOCUMENTAL",Ondaluz Sierra
