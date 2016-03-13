@@ -499,9 +499,9 @@ http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CULTURA-DOCUMENTAL",Alcance TV
 http://hd.worldkast.com/8232/smil:8232.smil/chunklist_w1000670092_b250000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CULTURA-DOCUMENTAL",Enlace
-http://player-api.new.livestream.com/accounts/2675843/events/1839332/broadcasts/115190376.m3u8?dw=100&hdnea=st=1457744744~exp=1457746544~acl=/i/2675843_1839332_09d7e623_1@348382/*~hmac=4376f37a0acca7f5e5f30a86201a98533e8a6395fcf97fde6877baa36349d156
+rtsp://212-133.livestream.com:8080/livestreamiphone/2675843_1839332_26d2dcb8_1_446@348382
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CULTURA-DOCUMENTAL",Enlace Juvenil
-http://player-api.new.livestream.com/accounts/4885740/events/2294538/broadcasts/115218932.m3u8?dw=100&hdnea=st=1457745007~exp=1457746807~acl=/i/4885740_2294538_9ac2d543_1@133448/*~hmac=b9dea611143c4e8e35072273458908573b9e7a7d2c1b528d0da4db50b2f733f0
+rtsp://212-123.livestream.com:8080/livestreamiphone/4885740_2294538_8541f201_1_446@133448
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CULTURA-DOCUMENTAL",Cristo Visión
 http://cdns840stu1010.multistream.net/cristovisionlive/amlst:live/playlist_b500000.abst
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CULTURA-DOCUMENTAL",Mírame TV
@@ -521,8 +521,6 @@ http://5.189.152.43:11757/live/PlayKodi-1PKS/token-902u32h4he3d923oujsu3s8738us1
 
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png", << MÚSICA >>
 http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1, Vorterix
-http://prepublish.f.qaotic.net/epa2/ngrp:vorterix_video1-20057_all/Playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/CTV_LOGO.png/245px-CTV_LOGO.png" ,CANTINAZO
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="http://www.tigomusic.co/sites/music.co/files/logo_music.png",TIGO MUSIC
