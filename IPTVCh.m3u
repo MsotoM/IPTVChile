@@ -6,14 +6,13 @@ http://streaming203.radionomy.com:80/City-Dance-Radio
 
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png", Agenda Deportiva En Vivo (solo partidos)
 http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:0 tvg-logo="http://s3.amazonaws.com/design_images/images/1743/v.png?1347471596", Canal Webdel.futbol (solo partidos en vivo)
+#EXTINF:0 tvg-logo="http://s3.amazonaws.com/design_images/images/1743/v.png?1347471596", Canal Webdel.futbol 1
 http://video10-lax.streamup.com/app/lalolanda559s-stream_aac/chunklist.m3u8
-#EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-fQjf9xuHS1E/Vm-hBpsFJnI/AAAAAAAAAA0/og7MvcJuEgI/s1600/futbol_chile.png", Canal FutbolChile.net (solo partidos en vivo)
+#EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-fQjf9xuHS1E/Vm-hBpsFJnI/AAAAAAAAAA0/og7MvcJuEgI/s1600/futbol_chile.png", Canal FutbolChile.net YOUTUBE
 https://www.youtube.com/embed/D68eWDM5LoI?rel=0&autoplay=1
-#EXTINF:0 , Canal MojaLaCamiseta.com (solo partidos en vivo)
+#EXTINF:0 , Canal MojaLaCamiseta.com YOUTUBE
 https://www.youtube.com/embed/hcvtB2ozl84?rel=0&autoplay=1
-#EXTINF:0 , Canal Prueba
-http://38.68.131.140/flv/56d33955ebd8f/testat123.flv
+
 
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png",Radios Chilenas
 http://streaming203.radionomy.com:80/City-Dance-Radio
