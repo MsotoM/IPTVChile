@@ -225,8 +225,6 @@ http://iptvnation.com/familyguy.mp4
 http://iptvnation.com/bobs.mp4
 #EXTINF:-1  tvg-name="Anime 24H" group-title="OTROS CANALES" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png",Anime
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8 
-#EXTINF:-1 tvg-name="" group-title="OTROS CANALES" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png",Anime 2
-http://iphone-streaming.ustream.tv/uhls/15883775/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-id="973" tvg-name="Los Simpsons (ES)" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/2944.png" group-title="Series", Los Simpsons (ES)
 http://iptvnation.com/simpsonslat.mp4
 #EXTINF:-1 tvg-id="974" tvg-name="South Park (ES)" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/2946.png" group-title="Series", South Park (ES)
