@@ -196,7 +196,7 @@ http://evo.eltelon.com:443/live/soberania/chunklist_w725687300.m3u8
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png", SERIES & PELICULAS LAS 24 HRS V.O.D (BETA)
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", Cine Exclusivo de Lista IPTV Chile
-https://raw.githubusercontent.com/teran91/IPTV-Chile/master/cine.m3u
+https://raw.githubusercontent.com/teran91/IPTV-Chile/master/cine.m3u8
 #EXTINF:-1 ,Peliculas 24 HRS
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
 #EXTINF: -1 Grupo-title = "Serie" tvg-logo="http://4.bp.blogspot.com/-HP9ocm36Yp0/VMusNmDEg-I/AAAAAAAAAfY/AlbjGmBI-iU/s1600/icon.175x175-75.png", Dos hombres y medio (ingles)
