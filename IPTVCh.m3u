@@ -18,8 +18,8 @@ http://video10-lax.streamup.com/app/lalolanda559s-stream_aac/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://s3.amazonaws.com/design_images/images/1743/v.png?1347471596", Canal Webdel.futbol 2
 http://video10-lax.streamup.com/app/lalalongo22s-stream_aac/playlist.m3u8
 #EXTINF:0 tvg-logo="http://s3.amazonaws.com/design_images/images/1743/v.png?1347471596", Canal Webdel.futbol 3
-http://veetle.com/index.php/hls/streamMbrFast/56d33955ebd8f_05a865b9b156189034ad68f8f966cc2f/stream.m3u8
-#EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-fQjf9xuHS1E/Vm-hBpsFJnI/AAAAAAAAAA0/og7MvcJuEgI/s1600/futbol_chile.png", Canal FutbolChile.net YOUTUBE
+http://video07-lax.streamup.com/app/lalolanda558s-stream_aac/chunklist.m3u8
+#EXTINF:0 tvglogo="http://2.bp.blogspot.com/-fQjf9xuHS1E/Vm-hBpsFJnI/AAAAAAAAAA0/og7MvcJuEgI/s1600/futbol_chile.png", Canal FutbolChile.net YOUTUBE
 https://www.youtube.com/embed/w6tHbXVi2As?rel=0&autoplay=1
 #EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-fQjf9xuHS1E/Vm-hBpsFJnI/AAAAAAAAAA0/og7MvcJuEgI/s1600/futbol_chile.png", Canal FutbolChile.net 2
 https://video07-atl.streamup.com/app/futbolchile-net3s-channel_aac/playlist.m3u8
