@@ -4,12 +4,6 @@ http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png", EN MANTENCION. Mas Info y/o sugerencias en bit.ly/FbListaIptvChile
 http://streaming203.radionomy.com:80/City-Dance-Radio
 
-#EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png", Eventos En Vivo
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:0 tvg-logo="https://yt3.ggpht.com/-GtpN9rNpPhs/AAAAAAAAAAI/AAAAAAAAAAA/kWSWt7Hgiq4/s900-c-k-no/photo.jpg" , Lollapalooza señal 1
-http://lollamobilehls-lh.akamaihd.net/i/lollamob_ch1@315725/master.m3u8
-#EXTINF:0 tvg-logo="https://yt3.ggpht.com/-GtpN9rNpPhs/AAAAAAAAAAI/AAAAAAAAAAA/kWSWt7Hgiq4/s900-c-k-no/photo.jpg", Lollapalooza señal 2
-http://lollamobilehls-lh.akamaihd.net/i/lollamob_ch2@315725/master.m3u8
 
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png", Agenda Deportiva En Vivo (solo partidos)
 http://streaming203.radionomy.com:80/City-Dance-Radio
