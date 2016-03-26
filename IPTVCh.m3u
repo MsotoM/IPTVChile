@@ -15,6 +15,8 @@ http://video10-lax.streamup.com/app/lalalongo22s-stream_aac/playlist.m3u8
 http://video07-lax.streamup.com/app/lalolanda558s-stream_aac/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://s3.amazonaws.com/design_images/images/1743/v.png?1347471596", Canal Webdel.futbol 4 (flash)
 http://38.102.162.242/flv/56d33955ebd8f/testat123.flv
+#EXTINF:0 tvg-logo="http://s3.amazonaws.com/design_images/images/1743/v.png?1347471596", Canal Webdel.futbol 5
+http://video07-lax.streamup.com/app/lalolanda557s-stream_aac/playlist.m3u8
 #EXTINF:0 tvglogo="http://2.bp.blogspot.com/-fQjf9xuHS1E/Vm-hBpsFJnI/AAAAAAAAAA0/og7MvcJuEgI/s1600/futbol_chile.png", Canal FutbolChile.net YOUTUBE
 https://www.youtube.com/embed/xEhslAhfKkg?rel=0&autoplay=1
 #EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-fQjf9xuHS1E/Vm-hBpsFJnI/AAAAAAAAAA0/og7MvcJuEgI/s1600/futbol_chile.png", Canal FutbolChile.net 2
