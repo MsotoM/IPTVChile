@@ -482,7 +482,7 @@ http://unoredrtmp.tulix.tv:1935/alientovision/stream/master.m3u8
 http://f.dc.edge.2.christianworldmedia.com:1935/teledunamis/mp4:teledunamis/playlist.m3u8?
 
 
-#EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png", << MÃƒÅ¡SICA >>
+#EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png", << MUSICA >>
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/CTV_LOGO.png/245px-CTV_LOGO.png" ,CANTINAZO
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
@@ -504,45 +504,45 @@ http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
 http://wow01.105.net/live/virgin1/.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canales de Musica", Heavy Metal TV
 http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="Bandamax" tvg-name="Bandamax" tvg-logo="Bandamax" group-title="MÃƒÅ¡SICA",Bandamax
-http://live.tutvgratis.tv/ch/449.m3u8?token=ppb6VOK9wexie6NE8FWRoRVcEsnUdVG90HryF3kq3J1ZlZXhrduBDGPxa05kXOjPLXF1TgL6v0XIGEANbiJyNYO69+sFeLCcItoLgYZvSV0XrcwBkQ94YnpYe4ppiKwOy7TIBHhVWyJ6EkA5GJg8q4NAdORCEcciDoMlfoQ1uss=|VWUW8eToGhZiq2LL7DzJ4x014IHClojoxaWu8ZIBoK4=.m3u8
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="MTV" group-title="MÃƒÅ¡SICA",MTV
+#EXTINF:-1 tvg-id="Bandamax" tvg-name="Bandamax" tvg-logo="Bandamax" group-title="MUSICA",Bandamax
+http://tvultimate.mx/stream/prueba.php?id=1732&f=.m3u8
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="MTV" group-title="MUSICA",MTV
 http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="  CAPITAL TV" tvg-name="CAPITAL TV" tvg-logo="Capital_TV_logo.png" group-title="MÃƒÅ¡SICA",Capital TV (UK)
+#EXTINF:-1 tvg-id="  CAPITAL TV" tvg-name="CAPITAL TV" tvg-logo="Capital_TV_logo.png" group-title="MUSICA",Capital TV (UK)
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="  z" tvg-name="" tvg-logo="eska-best-music-online-ao-vivo-gratis-55e1e0e65df98.jpeg" group-title="MÃƒÅ¡SICA",Eska Best Music TV
+#EXTINF:-1 tvg-id="  z" tvg-name="" tvg-logo="eska-best-music-online-ao-vivo-gratis-55e1e0e65df98.jpeg" group-title="MUSICA",Eska Best Music TV
 http://5.189.152.43:11757/live/PlayKodi-3PKS/token-8923ejijfs28uehi92iiw8kdlckeywofhso4ow8eid/148.m3u8
-#EXTINF:-1 tvg-id="  z" tvg-name="" tvg-logo="images.jpg" group-title="MÃƒÅ¡SICA",Eska Rock TV
+#EXTINF:-1 tvg-id="  z" tvg-name="" tvg-logo="images.jpg" group-title="MUSICA",Eska Rock TV
 http://5.189.152.43:11757/live/PlayKodi-4PKS/token-kkep3994euhsldmmldwwe9ei3893j398jkslwkndedm84ol2/149.m3u8
-#EXTINF:-1 tvg-id="  Heart TV" tvg-name="Heart TV" tvg-logo="heart_logo.jpg" group-title="MÃƒÅ¡SICA",Heart TV (UK)
+#EXTINF:-1 tvg-id="  Heart TV" tvg-name="Heart TV" tvg-logo="heart_logo.jpg" group-title="MUSICA",Heart TV (UK)
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="  z" tvg-name="" tvg-logo="Kiss-Tv.jpg" group-title="MÃƒÅ¡SICA",Kiss TV
+#EXTINF:-1 tvg-id="  z" tvg-name="" tvg-logo="Kiss-Tv.jpg" group-title="MUSICA",Kiss TV
 http://5.189.152.43:11757/live/PlayKodi-7PKS/token-o723894m2ymbzvzmvlrei397ydhsi2d34kmnajswkjdo4iufd/152.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="unnamed.png" group-title="MÃƒÅ¡SICA",Melody Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="unnamed.png" group-title="MUSICA",Melody Channel
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="channels-page-_mi-musica.png" group-title="MÃƒÅ¡SICA",Mi Musica HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="channels-page-_mi-musica.png" group-title="MUSICA",Mi Musica HD
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
-#EXTINF:-1 tvg-id="UK MTV Dance" tvg-name="UK MTV Dance" tvg-logo="MTV Dance" group-title="MÃƒÅ¡SICA",MTV Dance
+#EXTINF:-1 tvg-id="UK MTV Dance" tvg-name="UK MTV Dance" tvg-logo="MTV Dance" group-title="MUSICA",MTV Dance
 http://217.147.40.118:8080/udp/233.97.20.154:1234
-#EXTINF:-1 tvg-id="Canal MTV Hits" tvg-name="Canal MTV Hits" tvg-logo="MTV Hits" group-title="MÃƒÅ¡SICA",MTV Hits
-http://st02.brn03.iptv.czechbone.net:8083/rel/pc/1/247/0.k.m3u8
-#EXTINF:-1 tvg-id="  MTV Live HD" tvg-name="MTV Live HD" tvg-logo="MTV Live" group-title="MÃƒÅ¡SICA",MTV Live
-http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="  UK MTV Rocks" tvg-name="UK MTV Rocks" tvg-logo="MTV Rocks" group-title="MÃƒÅ¡SICA",MTV Rocks
+#EXTINF:-1 tvg-id="Canal MTV Hits" tvg-name="Canal MTV Hits" tvg-logo="MTV Hits" group-title="MUSICA",MTV Hits
+http://tvultimate.mx/stream/prueba.php?id=1720&f=.m3u8
+#EXTINF:-1 tvg-id="  MTV Live HD" tvg-name="MTV Live HD" tvg-logo="MTV Live" group-title="MUSICA",MTV Live
+http://tvultimate.mx/stream/prueba.php?id=1699&f=.m3u8
+#EXTINF:-1 tvg-id="  UK MTV Rocks" tvg-name="UK MTV Rocks" tvg-logo="MTV Rocks" group-title="MUSICA",MTV Rocks
 http://st02.brn03.iptv.czechbone.net:8083/rel/pc/1/244/0.k.m3u8
-#EXTINF:-1 tvg-id="  Ritmoson Latino" tvg-name="Ritmoson Latino" tvg-logo="Ritmoson Latino" group-title="MÃƒÅ¡SICA",Ritmoson Latino
-http://201.161.59.4/ritmoson.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 tvg-id="  Telehit HD" tvg-name="Telehit HD" tvg-logo="Telehit" group-title="MÃƒÅ¡SICA",Telehit
+#EXTINF:-1 tvg-id="  Ritmoson Latino" tvg-name="Ritmoson Latino" tvg-logo="Ritmoson Latino" group-title="MUSICA",Ritmoson Latino
+http://tvultimate.mx/stream/prueba.php?id=1728&f=.m3u8
+#EXTINF:-1 tvg-id="  Telehit HD" tvg-name="Telehit HD" tvg-logo="Telehit" group-title="MUSICA",Telehit
 http://tvultimate.mx/stream/prueba.php?id=1703&f=.m3u8
-#EXTINF:-1 tvg-id="  Vevo HD 1" tvg-name="Vevo HD 1" tvg-logo="Vevo HD 1" group-title="MÃƒÅ¡SICA",Vevo HD 1
+#EXTINF:-1 tvg-id="  Vevo HD 1" tvg-name="Vevo HD 1" tvg-logo="Vevo HD 1" group-title="MUSICA",Vevo HD 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-#EXTINF:-1 tvg-id="  Vevo HD 2" tvg-name="Vevo HD 2" tvg-logo="Vevo HD 2" group-title="MÃƒÅ¡SICA",Vevo HD 2
+#EXTINF:-1 tvg-id="  Vevo HD 2" tvg-name="Vevo HD 2" tvg-logo="Vevo HD 2" group-title="MUSICA",Vevo HD 2
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-#EXTINF:-1 tvg-id="  Vevo HD 3" tvg-name="Vevo HD 3" tvg-logo="Vevo HD 3" group-title="MÃƒÅ¡SICA",Vevo HD 3
+#EXTINF:-1 tvg-id="  Vevo HD 3" tvg-name="Vevo HD 3" tvg-logo="Vevo HD 3" group-title="MUSICA",Vevo HD 3
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:-1 tvg-id="  ES VH1 Classic" tvg-name="ES VH1 Classic" tvg-logo="VH1 Classic" group-title="MÃƒÅ¡SICA",VH1 Classic
+#EXTINF:-1 tvg-id="  ES VH1 Classic" tvg-name="ES VH1 Classic" tvg-logo="VH1 Classic" group-title="MUSICA",VH1 Classic
 http://200.76.77.237/LIVE/H01/CANAL728/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="  VH1 HD" tvg-name="VH1 HD" tvg-logo="VH1 HD" group-title="MÃƒÅ¡SICA",VH1 HD
+#EXTINF:-1 tvg-id="  VH1 HD" tvg-name="VH1 HD" tvg-logo="VH1 HD" group-title="MUSICA",VH1 HD
 http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?
 
 
