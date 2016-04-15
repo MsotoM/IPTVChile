@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://listaiptvchile.hol.es/logos/logo%20iptv%20chile.png ",Lista IPTV Chile | ACTUALIZACION EN DESARROLLO (13/04/2016) - PROHIBIDA SU VENTA
+#EXTINF:0 tvg-logo="http://listaiptvchile.hol.es/logos/logo%20iptv%20chile.png ",Lista IPTV Chile | EN MANTENCION (13/04/2016) - PROHIBIDA SU VENTA
 http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:0 tvg-logo="http://listaiptvchile.hol.es/logos/logo%20iptv%20chile.png", Mas Info y/o sugerencias en bit.ly/FbListaIptvChile
+#EXTINF:0 tvg-logo="http://listaiptvchile.hol.es/logos/logo%20iptv%20chile.png", Mas informacion en listaiptvchile.hol.es
 http://streaming203.radionomy.com:80/City-Dance-Radio
 
 
@@ -51,7 +51,7 @@ http://cdn.ztreaming.com/t13radio/mobile.m3u8
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png", Canales Nacionales
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-logo="http://listaiptvchile.hol.es/tvlogo/Lared.png" group-title="NACIONALES",La Red 
-http://live-lared.cdn.nedmedia.io/lared/smil:lared.smil/playlist.m3u8
+http://live-lared.cdn.nedmedia.io/lared/smil:lared.smil/chunklist_b1398304.m3u8
 #EXTINF:-1 tvg-logo="http://listaiptvchile.hol.es/tvlogo/UCV_HD_2014.png" group-title="NACIONALES",UCV 
 http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
 #EXTINF:-1 tvg-logo="http://listaiptvchile.hol.es/tvlogo/TvnHD.png" group-title="NACIONALES",TVN 
