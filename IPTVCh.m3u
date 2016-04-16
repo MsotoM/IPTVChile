@@ -23,6 +23,8 @@ http://video11-lax.streamup.com/app/lalalongo29s-stream_aac/playlist.m3u8
 http://video02-lax.streamup.com/app/lalolanda446s-stream_aac/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://s3.amazonaws.com/design_images/images/1743/v.png?1347471596", Canal Webdel.futbol 8
 https://video11-lax.streamup.com/app/lalalongo31s-stream_aac/playlist.m3u8
+#EXTINF:0 tvg-logo="http://s3.amazonaws.com/design_images/images/1743/v.png?1347471596", Canal Webdel.futbol 9
+http://video11-lax.streamup.com/app/lalalongo34s-stream_aac/playlist.m3u8
 #EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-fQjf9xuHS1E/Vm-hBpsFJnI/AAAAAAAAAA0/og7MvcJuEgI/s1600/futbol_chile.png", Canal FutbolChile.net 1
 https://video07-atl.streamup.com/app/futbolchile-net3s-channel_aac/playlist.m3u8
 #EXTINF:0 , Canal MojaLaCamiseta.com YOUTUBE
