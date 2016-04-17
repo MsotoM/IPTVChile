@@ -27,6 +27,10 @@ https://video11-lax.streamup.com/app/lalalongo31s-stream_aac/playlist.m3u8
 http://video11-lax.streamup.com/app/lalalongo34s-stream_aac/playlist.m3u8
 #EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-fQjf9xuHS1E/Vm-hBpsFJnI/AAAAAAAAAA0/og7MvcJuEgI/s1600/futbol_chile.png", Canal FutbolChile.net 1
 https://video07-atl.streamup.com/app/futbolchile-net3s-channel_aac/playlist.m3u8
+#EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-fQjf9xuHS1E/Vm-hBpsFJnI/AAAAAAAAAA0/og7MvcJuEgI/s1600/futbol_chile.png", Canal FutbolChile.net 2
+https://video09-atl.streamup.com/app/netresultcopyrights-stream_aac/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-fQjf9xuHS1E/Vm-hBpsFJnI/AAAAAAAAAA0/og7MvcJuEgI/s1600/futbol_chile.png", Canal FutbolChile.net 3
+https://video11-lax.streamup.com/app/judasfcns-stream_aac/playlist.m3u8
 #EXTINF:0 , Canal MojaLaCamiseta.com YOUTUBE
 https://www.youtube.com/embed/a6_s7UixD68?rel=0&autoplay=1
 
