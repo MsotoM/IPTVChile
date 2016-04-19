@@ -1,0 +1,1039 @@
+﻿#EXTM3U
+
+
+
+
+#EXTINF:-1 channelId="1310" , SUN CHANNEL
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
+#EXTINF:-1 channelId="2112" tvg-logo="uan_logo.png" group-title="M XICO" , Canal 2 (Tepic - Nayarit)
+http://canal2tepic-lh.akamaihd.net/i/ch_1@325632/master.m3u8
+#EXTINF:-1,SPORTS FUTBOL EUROPA 
+http://en356.edem.tv/iptv/CHYZL7L72HZMWV/530/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/cinecanal-w.gif",CINECANAL
+http://209.126.106.202:8080/cinecanal/index.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/big/the-film-zone-hd.gif",FILMZONE
+http://104.131.117.246:8081/chuy/76/033-FilmZone/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif", ESPN
+http://158.69.52.53:8081/live/espndepo/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://video.cableondasports.com/site/templates/images/logo.png", CABLE ONDA SPORTS
+http://live.cableondasports.com/cos/cos.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/cbeebies.gif", CBEEBIES
+http://209.126.106.202:8080/cbee/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/24.png",MULTIMEDIOS SERVER 2
+http://multimedioshls-i.akamaihd.net/hls/live/223741/57828478001-3/master.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://ahoramismoeditorial.files.wordpress.com/2016/01/nup_170986_0001.jpg",Gran Hermano C1
+http://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_1@308083/index_2500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://ahoramismoeditorial.files.wordpress.com/2016/01/nup_170986_0001.jpg",Gran Hermano Gran Hermano C2
+http://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_2@308084/index_2500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://ahoramismoeditorial.files.wordpress.com/2016/01/nup_170986_0001.jpg",Gran Hermano C3
+http://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_3@308085/index_2500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://ahoramismoeditorial.files.wordpress.com/2016/01/nup_170986_0001.jpg",Gran Hermano Gran Hermano C4
+http://tlmdhd-lh.akamaihd.net/i/tlmdpremios1_4@308086/index_2500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="NACIONALES" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/telemundo.gif", Telemundo 
+http://iphone-streaming.ustream.tv/ustreamVideo/22243668/streams/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/86/b2/86b25cd6be7a61b94a08469bffb6e722.jpg",TELEMUNDO 39
+http://video06-atl.streamup.com/app/pacific1s-stream_aac/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2014/07/15/univision.png",153.UNIVISION HD
+http://video06-atl.streamup.com/app/univision2chivas_69s-stream_aac/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2014/07/15/univision.png",153.UNIVISION 
+http://iphone-streaming.ustream.tv/uhls/21680354/streams/live/iphone/playlist.m3u8?
+#EXTINF:-1 tvg-logo="http://www.canalrcn.com/sites/default/files/logo-rcn_10_1_0.png",RCN HD
+http://lv13msssopsccc.4cloud.co/livercn/AppSenalRcn/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/unicable.gif",1.UNICABLE CALIDAD(BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzYyJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u85
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/unicable.gif",1.UNICABLE CALIDAD(SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzYzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/unicable.gif",1.UNICABLE CALIDAD(1080 HD)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzY0Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://tutvgratis.tv/media/uploads/2015/01/40610ece47b4e8668210055af4381d.gif",1.Canal de las Estrellas CALIDAD(BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDk4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://tutvgratis.tv/media/uploads/2015/01/40610ece47b4e8668210055af4381d.gif",1. Canal de las Estrellas hd CALIDAD(SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDk5Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/canal-2-hd.gif", Canal de las Estrellas hd CALIDAD(1080 HD)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMTAwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas_latinoamerica-mediano.png",CANAL DE LAS ESTRELLAS latinoamerica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/canal-2.gif", CANAL 2
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://tutvgratis.tv/media/uploads/2015/01/20e612bec361214fdd9915817823d2.gif",3. CANAL 5 CALIDAD(BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMTk4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://tutvgratis.tv/media/uploads/2015/01/20e612bec361214fdd9915817823d2.gif",3. CANAL 5 CALIDAD(SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMTk5Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://tutvgratis.tv/media/uploads/2015/01/20e612bec361214fdd9915817823d2.gif",3. CANAL 5 hd CALIDAD(1080 HD)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMjAwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/gala-tv.gif",57. Gala TV CALIDAD(BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMjU0Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/gala-tv.gif",57. Gala TV CALIDAD(SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMjU1Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/gala-tv.gif",57. Gala TV hd CALIDAD(1080 HD)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMjU2Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://imagenes.gatotv.com/logos/canales/hola_tv-mediano.png",HOLA TV
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzY3Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/once-tv.gif", CANAL ONCE (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMjU4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/once-tv.gif",CANAL ONCE CALIDAD(SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMjU5Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/once-tv.gif",CANAL ONCE CALIDAD(1080 HD)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMjYwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://imagenes.gatotv.com/logos/canales/once_tv_mexico_xeipn-tv-mediano.png",Canal Once TV - México (XEIPN-TV)
+http://www.oncetvmexicolive.tv:1935/livepkgr2/int.smil/.m3u8
+#EXTINF:-1 tvg-logo="http://tutvgratis.tv/media/uploads/2015/01/e30099db13c17be23292fe75d30cc5.gif",EL TRECE  CALIDAD(BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDQ2Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://tutvgratis.tv/media/uploads/2015/01/e30099db13c17be23292fe75d30cc5.gif", EL TRECE CALIDAD(SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDQ3Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://tutvgratis.tv/media/uploads/2015/01/e30099db13c17be23292fe75d30cc5.gif",EL TRECE CALIDAD(1080 HD)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDQ4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/el-trece.gif",EL TRECE server 2
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8
+#EXTINF:-1 tvg-logo="http://tutvgratis.tv/media/uploads/2015/01/6cac19815d8f8cc93f8038597f2624.gif",4. AZTECA7 CANAL 07 (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDEwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://tutvgratis.tv/media/uploads/2015/01/6cac19815d8f8cc93f8038597f2624.gif",8. AZTECA 7 CANAL 17 CALIDAD(SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDExJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://tutvgratis.tv/media/uploads/2015/01/6cac19815d8f8cc93f8038597f2624.gif",8. AZTECA 7 CANAL 17 CALIDAD(1080 HD)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDEyJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/azteca-7.png", AZTECA 7 SERVER 2
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-ODR_lynO0WE/U_pS411QJ4I/AAAAAAAAnYU/5xLzPiMnnzw/s1600/tv-azteca-paga5.gif", Azteca Corazon CALIDAD(BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzc4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-ODR_lynO0WE/U_pS411QJ4I/AAAAAAAAnYU/5xLzPiMnnzw/s1600/tv-azteca-paga5.gif", Azteca Corazon CALIDAD(SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzc5Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-ODR_lynO0WE/U_pS411QJ4I/AAAAAAAAnYU/5xLzPiMnnzw/s1600/tv-azteca-paga5.gif", Azteca Corazon CALIDAD(1080 HD)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzgwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/az-mundo.gif",AZMUNDO  CALIDAD(BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDQyJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/az-mundo.gif", AZMUNDO CALIDAD(SD )
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDQzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/az-mundo.gif", AZMUNDO (1080 HD)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDQ0Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/az-clic.gif",AZCLIC CALIDAD(BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMTAyJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/az-clic.gif",AZCLIC CALIDAD(SD )
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMTAzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/az-clic.gif",AZCLIC (1080 HD)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMTA0Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://tutvgratis.tv/media/uploads/2015/01/59f897bbdc14a1d2b1f6e3304ebcdc.gif",11. azteca noticias CALIDAD(BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDA2Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://tutvgratis.tv/media/uploads/2015/01/59f897bbdc14a1d2b1f6e3304ebcdc.gif",11. azteca noticias CALIDAD(SD )
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDA3Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://tutvgratis.tv/media/uploads/2015/01/59f897bbdc14a1d2b1f6e3304ebcdc.gif",11. azteca noticias CALIDAD(1080 HD)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDA4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/aztecanoticias.jpg",AZTECA NOTICIAS SERVER 2
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://tutvgratis.tv/media/uploads/2015/01/92e6d8e2c0c99f95632127cc4591e0.gif",9. PROYECTO 40 HD CALIDAD(BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMjk4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://tutvgratis.tv/media/uploads/2015/01/92e6d8e2c0c99f95632127cc4591e0.gif",9. PROYECTO 40 HD CALIDAD(SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMjk5Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/proyecto-40.gif",21.proyecto 40 HD CALIDAD(1080 HD)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzAwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/proyecto-40.gif",PROYECTO 40 SERVER 2
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/24.png",4. MULTIMEDIOS TV CALIDAD(BAJA
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzE4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/24.png",4. MULTIMEDIOS TV CALIDAD(SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzE5Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/24.png",4. MULTIMEDIOS TV CALIDAD(1080 HD)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzIwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2014/11/25/mvsno.png",4. MVS NOTICIAS (mexico)
+http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
+#EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2015/04/07/euronews.png",Euronews Español
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/es_vidan750_rtp.sdp
+#EXTINF:0 tvg-logo=http://img-youpeliculas.com/images/2015/05/25/cb24.png", CB24 Noticias
+http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8??
+#EXTINF:0  tvg-logo="http://img-youpeliculas.com/images/2015/02/27/24h.png",24 Horas (Latino)
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8?
+#EXTINF:-1 tvg-logo="http://tutvgratis.tv/media/uploads/2015/01/59f3bf39ced65c2db4a3f3733fb76f.gif",2.foro tv CALIDAD(BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMTA2Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://tutvgratis.tv/media/uploads/2015/01/59f3bf39ced65c2db4a3f3733fb76f.gif",2.foro tv CALIDAD(SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMTA3Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://tutvgratis.tv/media/uploads/2015/01/59f3bf39ced65c2db4a3f3733fb76f.gif",2.foro tv CALIDAD(1080 HD)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMTA4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/foro_tv.png",FORO TV SERVER 2
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/big/milenio-tv.gif",417. Milenio CALIDAD(BAJA
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjgyJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/big/milenio-tv.gif",417. Milenio CALIDAD(SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjgzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/big/milenio-tv.gif",417. Milenio CALIDAD(1080 HD)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjg0Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/efektotv.png",Efekto TV
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/master.m3u8
+#EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2015/02/27/rtc.png",  Noticias Rt TV (Latino)
+http://rt-lh.akamaihd.net/i/ch_02@325606/index_720p_av-p.m3u8??sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://www.fullcolorimagen.com/webcast/images/tv_en_linea_over_20.jpg",42.  cd obregon
+http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w387103843.m3u8
+#EXTINF:-1 tvg-logo="http://www.fullcolorimagen.com/webcast/images/tv_en_linea_over_28.jpg",42.  mazatlan 
+http://74.63.97.188:1935/gpacifico4/videogpacifico4/playlist.m3u8?pcmaster=%2F.ts
+#EXTINF:-1 tvg-logo="http://www.fullcolorimagen.com/webcast/images/tv_en_linea_over_26.jpg",42. los mochis
+http://74.63.97.188:1935/gpacifico2/videogpacifico2/playlist.m3u8?
+#EXTINF:-1 tvg-logo="http://www.fullcolorimagen.com/webcast/images/tv_en_linea_over_28.jpg",42. canal 3 de culiacan sinaloa
+http://74.63.97.188:1935/gpacifico1/videogpacifico1/chunklist_w190946758_DVR.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvpacifico.com.mx/tvenlinea/images/banners/btn_mazatlan_over.jpg",CANAL 7 HD
+http://74.63.97.188:1935/gpacifico4/videogpacifico4/live.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/canal-capital-21.gif",Capital 21 México
+http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
+#EXTINF:-1 tvg-logo="http://www.hidef.com.mx/wp-content/themes/hidef/thumb.php?src=http://www.hidef.com.mx/wp-content/uploads/2008/11/hd_hdtv_logo.jpg",CANAL 4 HD
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/livestream.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/television-mexiquense.gif",TV Mexiquense
+http://75.126.65.232/lv_tvmexiquense/_definst_/broadcast1/chunklist_w561315673.m3u8?
+#EXTINF:-1 tvg-logo="http://www.tvgratisya.com/wp-content/uploads/2010/04/Ocho-TV.jpg",OCHO TV 
+http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8?
+
+#EXTINF:-1 tvg-logo="http://www.rtv.org.mx/wp-content/themes/rtv_v2/images/TVMas.png",TVMas VERACRUZ (Mex)
+http://50.7.98.234:1935/rtv/videortv//playlist.m3u8??
+#EXTINF:-1 tvg-id="TVN Chile" tvg-name="TV Chile" tvg-logo="tvn.png" group-title="Variedades - Latinos",TVN 
+http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b500000.m3u8?
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/125px-La_Sexta_%28A3M%29.svg.png",La Sexta tv HD
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8?
+#EXTINF:-0 tvg-name="" tvg-logo="http://www.biefec.com/img/logo-antena3.png" group-title="Televisión Digital Terreste",ANTENA 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?hd=10&rebase=on
+#EXTINF:-1 tvg-logo=http://www.vertdtgratis.es/c3.gif", Antena 3 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="http://www.omicrono.com/wp-content/uploads/2015/11/atresseries-a3.jpg", A3 Series
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/tv3.png",TV3 (geo)
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/.m3u8
+#EXTINF:-1 tvg-logo="http://www.irtve.es/css/rtve.commons/rtve.multisign2014/custom/CTV_LA2/i/mosca_CTV_LA2.png",LA 2 HD (SPAIN)
+http://iphonelive.rtve.es/LA2_LV3_IPH/LA2_LV3_IPH.m3u8
+#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/hispantv.png",HispanTV 
+http://presstv-ch04.level3.hls.live.cdn.overon.es/livehigh/.m3u8
+#EXTINF:1 tvg-logo="http://img-youpeliculas.com/images/2015/04/11/rpc.png", RPCTV
+http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/LOGO-VMASTV.jpeg", vmas tv
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2015/02/27/hchh.png", HCH
+http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/506483696065449984/BATn-jAe_400x400.png",T--HD
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/master.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/teleformula.gif", teleformula (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzE0Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/teleformula.gif", teleformula (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzE1Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/teleformula.gif", teleformula (ALTA )
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzE2Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://tutvgratis.tv/media/uploads/2015/01/0c50166692aac3985822e1b2778bc0.gif", FOX  (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzI2Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://tutvgratis.tv/media/uploads/2015/01/0c50166692aac3985822e1b2778bc0.gif", FOX  (MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzI3Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://tutvgratis.tv/media/uploads/2015/01/0c50166692aac3985822e1b2778bc0.gif", FOX  (HD 1080)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzI4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://tutvgratis.tv/media/uploads/2015/01/b50891d873f9cbaa74acc7efb6d44e.gif", SONY (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzMwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://tutvgratis.tv/media/uploads/2015/01/b50891d873f9cbaa74acc7efb6d44e.gif",SONY (MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzMxJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://tutvgratis.tv/media/uploads/2015/01/b50891d873f9cbaa74acc7efb6d44e.gif",SONY (HD 1080)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzMyJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://tutvgratis.tv/media/uploads/2015/01/79415545eed2532b70c33bbc6ac8b6.gif",15. WARNER (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzM0Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://tutvgratis.tv/media/uploads/2015/01/79415545eed2532b70c33bbc6ac8b6.gif",15. WARNER (MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzM1Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://tutvgratis.tv/media/uploads/2015/01/79415545eed2532b70c33bbc6ac8b6.gif",15. WARNER (HD 1080)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzM2Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://i2.cdnds.net/14/23/300x225/ustv-life-time-logo.jpg", LIfetime (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTM0Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://i2.cdnds.net/14/23/300x225/ustv-life-time-logo.jpg", LIfetime (MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTM1Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://i2.cdnds.net/14/23/300x225/ustv-life-time-logo.jpg", LIfetime (ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTM2Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://tutvgratis.tv/media/uploads/2015/01/d9963e5da3ba858f4c0a8ac88ca5c6.gif", COMEDY CENTRAL (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzU4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://tutvgratis.tv/media/uploads/2015/01/d9963e5da3ba858f4c0a8ac88ca5c6.gif", COMEDY CENTRAL (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzU5Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://tutvgratis.tv/media/uploads/2015/01/d9963e5da3ba858f4c0a8ac88ca5c6.gif", COMEDY CENTRAL (HD 1080)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzYwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/bbc-entertainment.gif", BBC Entertainment (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzg2Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/bbc-entertainment.gif", BBC Entertainment (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzg3Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/bbc-entertainment.gif", BBC Entertainment (SOLO ALTA )
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzg4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/e-entertainment-television.gif", E! (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzkwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/e-entertainment-television.gif", E! (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzkxJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/e-entertainment-television.gif", E! (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzkyJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/syfy.gif", SyFy (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzk4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/syfy.gif", SyFy (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzk5Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/syfy.gif", SyFy (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDAwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/home-and-health.gif", H&H discovery (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTI2Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/home-and-health.gif", H&H discovery (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTI3Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/home-and-health.gif", H&H discovery (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTI4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/el-gourmet.gif", El Gourment (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDE0Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/el-gourmet.gif", El Gourment (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDE1Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/el-gourmet.gif", El Gourment (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDE2Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj11Y2JvMGYxM2sxbXZ0anc=f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/glitz.gif", Glitz (BAJA) 
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDIyJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/glitz.gif", Glitz (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDIzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/glitz.gif", Glitz (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDI0Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/fox-life.gif", Fox Life (BAJA) 
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDI2Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/fox-life.gif", Fox Life (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDI3Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/fox-life.gif",3 Fox Life (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDI4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-18 group-title="NACIONALES" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/distrito-comedia.gif",DISTRITO COMEDIA (BAJA) 
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDMyJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-18 group-title="NACIONALES" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/distrito-comedia.gif",DISTRITO COMEDIA (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDMxJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-18 group-title="NACIONALES" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/distrito-comedia.gif",DISTRITO COMEDIA (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDMwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/tbs.gif",TBS  (BAJA) 
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDM0Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/tbs.gif",TBS (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDM1Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/tbs.gif",TBS (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDM2Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/tlnovelas.gif", Tlnovelas  (BAJA)
+http://200.76.77.230/LIVE/H01/CANAL275/PROFILE02.m3u8?pcmaster=%2F.ts
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/tlnovelas.gif", Tlnovelas (SD MEDIA)
+http://200.76.77.230/LIVE/H01/CANAL275/PROFILE03.m3u8?pcmaster=%2F.ts
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/tlnovelas.gif",Tlnovelas (SOLO ALTA)
+http://200.76.77.230/LIVE/H01/CANAL275/PROFILE05.m3u8?pcmaster=%2F.ts
+
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/discovery-kids.gif", Discovery Kids (BAJA)
+http://200.76.77.230/LIVE/H01/CANAL303/PROFILE02.m3u8?pcmaster=%2F.ts
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/discovery-kids.gif", Discovery Kids (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDUxJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/discovery-kids.gif", Discovery Kids (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDUwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/cbeebies.gif", CBeebies (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDU0Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/cbeebies.gif", CBeebies (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDU1Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/cbeebies.gif", CBeebies (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDU2Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-jr.gif",37. Disney Junior (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDU4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-jr.gif",37. Disney Junior (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDU4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-jr.gif",37. Disney Junior (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDYwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-channel.gif", Disney Channel (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDY4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-channel.gif", Disney Channel (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDY3Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/disney-channel.gif", Disney Channel (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDY2Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/nick-jr.gif",Nick Jr (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDYyJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/nick-jr.gif",Nick Jr (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDYzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/nick-jr.gif", Nick Jr (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDY0Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/big/nick-hd.gif", Nick HD(BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDc0Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/big/nick-hd.gif",Nick HD(SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDc1Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/big/nick-hd.gif",Nick HD(HD 1080)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDc2Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/big/nickelodeon-nick.gif", Nick (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDc4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/big/nickelodeon-nick.gif", Nick(SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDc5Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/big/nickelodeon-nick.gif",Nick (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDgwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKSMzpXEttzKeZb_h2848SfdoSf55BH91qnfEQzsZwqZ3Mmiy3", Nick Toons  (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDcwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKSMzpXEttzKeZb_h2848SfdoSf55BH91qnfEQzsZwqZ3Mmiy3", Nick Toons  (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDcxJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKSMzpXEttzKeZb_h2848SfdoSf55BH91qnfEQzsZwqZ3Mmiy3", Nick Toons (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDcyJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/cartoon-network.gif", Cartoon Network (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDgyJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/cartoon-network.gif", Cartoon Network (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDgzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/cartoon-network.gif", Cartoon Network (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDg0Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/big/disney-xd.gif",Disney XD (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDg2Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/big/disney-xd.gif",Disney XD (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDg3Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/big/disney-xd.gif",Disney XD (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDg4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/boomerang.gif", Boomberang (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDkwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/boomerang.gif", Boomberang (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDkxJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/boomerang.gif",Boomberang (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDkyJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/tooncast.gif", Tooncast (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDk4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/tooncast.gif", Tooncast (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDk5Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/tooncast.gif", Tooncast (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTAwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/big/tiin.gif", TIIN (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDk0Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/big/tiin.gif", TIIN (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDk1Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/big/tiin.gif", TIIN (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDk2Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-id="TATETI" tvg-name="TATETI" tvg-logo="tateti.png" group-title="Infantil",Ta Te Ti 
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8??sd=10&rebase=on
+#EXTINF:-1 tvg-logo="animetv.png" tvg-logo="http://www.fullcanales.com/video/img_videos/animetv_logo.jpg" group-title="Infantiles",Anime TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8??monclovacaliente.m3u8?
+
+#EXTINF:-1 tvg-logo="http://www.bus-k.me/file/pic/listing/2012/10/7938baff99dfdcacafaf0ee8c8cecbe5.png",SouthPark
+http://veetle.com/index.php/hls/streamMbrFast/541c316fe8423_/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/big/tlc.gif", TLC (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTUwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/big/tlc.gif", TLC (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTUxJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/big/tlc.gif", TLC (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTUyJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/trutv.gif",113. Tru TV HD (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzU0Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/trutv.gif",113. Tru TV HD (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzU1Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/trutv.gif",113. Tru TV HD (HD 1080)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzU2Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://tutvgratis.tv/media/uploads/2015/01/c95adc167498a1cf803ffa16bc013a.gif", A AND E (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzQ2Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://tutvgratis.tv/media/uploads/2015/01/c95adc167498a1cf803ffa16bc013a.gif", A AND E (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzQ3Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://tutvgratis.tv/media/uploads/2015/01/c95adc167498a1cf803ffa16bc013a.gif", A AND E (HD 1080)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzQ4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/tnt-series.gif", TNT SERIES (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDEwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/tnt-series.gif", TNT SERIES (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDExJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/tnt-series.gif", TNT SERIES (HD)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDEyJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+
+#EXTINF:-81 group-title="DOCUMENTALES" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/history-channel.gif", HISTORY (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTA2Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-81 group-title="DOCUMENTALES" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/history-channel.gif", HISTORY (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTA3Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-81 group-title="DOCUMENTALES" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/history-channel.gif", HISTORY (HD 1080)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTA4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/animal-planet.gif", Animal Planet (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTIyJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/animal-planet.gif", Animal Planet (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTIzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/animal-planet.gif", Animal Planet (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTI0Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/big/natgeo-wild.gif", NatGeo Wild (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTEwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/big/natgeo-wild.gif", NatGeo Wild (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTExJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/big/natgeo-wild.gif", NatGeo Wild (HD 1080)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTEyJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo.gif", National Geographic Channel (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTMwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo.gif",National Geographic Channel (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTMxJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/natgeo.gif", National Geographic Channel (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTMyJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/discovery-world-hd.gif", world discovery  (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTE0Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/discovery-world-hd.gif", world discovery (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTE1Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/discovery-world-hd.gif", world discovery (HD 1080)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTE2Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-channel.gif", Discovery CHANEL (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTE4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-channel.gif", Discovery CHANEL (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTE5Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-channel.gif",Discovery CHANEL (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTIwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-channel.gif",Discovery CHANEL SERVER 2
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-turbo.gif", Discovery Turbo (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTQ2Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-turbo.gif", Discovery Turbo (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTQ3Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-turbo.gif",Discovery Turbo (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTQ4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-science.gif", Discovery Science (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTM4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-science.gif", Discovery Science (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTM5Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-science.gif",Discovery Science (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTQwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/discovery-theater-hd.gif",Discovery Theather 
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTAyJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/discovery-theater-hd.gif",Discovery Theather HD SD
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTAzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/discovery-theater-hd.gif",Discovery Theather HD 1080
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTA0Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-civilization.gif", Discovery Civilization (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTQyJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-civilization.gif", Discovery Civilization  (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTQzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/discovery-civilization.gif", Discovery Civilization (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTQ0Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/investigacion-discovery.gif", Investigation Discovery (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDA2Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/investigacion-discovery.gif", Investigation Discovery (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDA3Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/investigacion-discovery.gif", Investigation Discovery (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDA4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/wobi-tv.gif", Wobi (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTU0Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/wobi-tv.gif", Wobi (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTU1Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8?
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/wobi-tv.gif", Wobi (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTU2Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/125px-Deutsche_Welle_symbol_2012.svg.png",DW LATINO
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8?
+
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/de-pelicula-hd.gif", De pelicula HD (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTk4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/de-pelicula-hd.gif",De pelicula HD (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTk5Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/de-pelicula-hd.gif", De pelicula HD (HD 1080)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjAwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://static.azteca.com/portal/tvpagahome/images/tv/cinema_n.png",AZCINEMA BAJA
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTc4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://static.azteca.com/portal/tvpagahome/images/tv/cinema_n.png",AZCINEMA MEDIA
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTc5Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://static.azteca.com/portal/tvpagahome/images/tv/cinema_n.png",AZCINEMA HD
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTgwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/fx-hd.gif" , FX-HD sd (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzQyJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/fx-hd.gif" , FX HD sd (MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzQzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/fx-hd.gif" , FX-HD (HD 1080)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzQ0Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/big/fox-1-hd.gif",Fox 1 HD (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTU4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/big/fox-1-hd.gif", Fox 1 HD (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTU5Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/big/fox-1-hd.gif",Fox 1 HD (HD 1080)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTYwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-action-hd.gif",Fox Action HD (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTYyJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-action-hd.gif",Fox Action HD (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTYzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-action-hd.gif",Fox Action HD (HD 1080)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTY0Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-movies-hd.gif",Fox Movies HD (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTY2Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-movies-hd.gif",Fox Movies HD (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTY3Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-movies-hd.gif",Fox Movies HD (HD 1080)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTY4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/big/fox-cinema.gif",Fox Cinema (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTcwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/big/fox-cinema.gif",Fox Cinema (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTcxJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/big/fox-cinema.gif",Fox Cinema (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTcyJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-classics.gif", Fox Classics (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTc0Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-classics.gif", Fox Classics (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTc1Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-classics.gif",Fox Classics (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTc2Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/big/the-film-zone-hd.gif", Film Zone HD (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTk0Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/big/the-film-zone-hd.gif",Film Zone HD (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTk1Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/big/the-film-zone-hd.gif", Film Zone HD (HD 1080)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTk2Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/space.gif", Space (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjA2Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/space.gif", Space (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjA3Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/space-hd.gif", Space (HD 1080)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjA4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/cinecanal-w.gif",Cinecanal (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjEwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/cinecanal-w.gif", Cinecanal (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjExJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/cinecanal-w.gif", Cinecanal (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjEyJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/cinecanal-hd.gif", Cinecanal + (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTg0Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/cinecanal-hd.gif", Cinecanal + (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTgzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/medium/cinecanal-hd.gif", Cinecanal + (HD 1080)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTgyJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/tnt.gif", TNT (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjE4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/tnt.gif",TNT (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjE5Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/tnt.gif", TNT (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjIwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/tnt-hd.gif", TNT HD (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTg2Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/tnt-hd.gif", TNT HD (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTg3Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/tnt-hd.gif", TNT HD (1080)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTg4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1  tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-edge.gif", golden Edge (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjIyJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1  tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-edge.gif", golden Edge (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjIzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1  tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-edge.gif", golden Edge (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjI0Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-hd.gif",Golden HD (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTkwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-hd.gif", Golden HD (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTkxJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/golden-hd.gif", Golden HD (1080)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNTkyJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/big/amc.gif", AMC (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjAyJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/big/amc.gif", AMC (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjAzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/big/amc.gif",AMC (HD)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjA0Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://tutvgratis.tv/media/uploads/2015/01/20754e992763cdb200b0af2d780162.gif", AXN HD (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzUwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://tutvgratis.tv/media/uploads/2015/01/20754e992763cdb200b0af2d780162.gif",AXN HD (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzUxJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://tutvgratis.tv/media/uploads/2015/01/20754e992763cdb200b0af2d780162.gif", AXN HD  HD (1080)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzUyJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/studio-universal.gif", Studio Universal (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjM0Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/studio-universal.gif", Studio Universal (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjM1Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/studio-universal.gif", Studio Universal (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjM2Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/universal-channel.gif", Universal Channel (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzk0Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/universal-channel.gif", Universal Channel (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzk1Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/universal-channel.gif", Universal Channel (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzk2Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://tutvgratis.tv/media/uploads/2015/01/78cd39d31a66bea6387e5591d278cd.gif", UNIVERSAL HD (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzM4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://tutvgratis.tv/media/uploads/2015/01/78cd39d31a66bea6387e5591d278cd.gif",UNIVERSAL HD (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzM5Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://tutvgratis.tv/media/uploads/2015/01/78cd39d31a66bea6387e5591d278cd.gif",UNIVERSAL HD (1080)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzQwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-40 group-title="PELICULAS" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/cinemax-o.gif",CINEMAX (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjE0Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-40 group-title="PELICULAS" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/cinemax-o.gif", CINEMAX SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjE1Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-40 group-title="PELICULAS" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/cinemax-o.gif", CINEMAX (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjE2Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/tcm.gif", TCM (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjQyJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/tcm.gif", TCM (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjQzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/tcm.gif", TCM (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjQ0Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.axtel.mx/sites/default/files/ico-csat-logo_0.png", Csat (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjM4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://www.axtel.mx/sites/default/files/ico-csat-logo_0.png",Csat (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjM5Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://www.axtel.mx/sites/default/files/ico-csat-logo_0.png", Csat (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjQwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2014/06/17/peliculas-3gp.jpg",extrem tv movies
+http://iphone-streaming.ustream.tv/uhls/20555006/streams/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2014/06/17/peliculas-3gp.jpg", 24/7 peliculas
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?=-1
+#EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2014/06/17/peliculas-3gp.jpg",24/7 Movies 
+http://veetle.com/index.php/hls/streamMbrfast/5671e2e7788c9/stream.m3u8  
+#EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2014/06/17/peliculas-3gp.jpg",24/7  Movies HD
+http://veetle.com/index.php/hls/streamMbrfast/5405f6c50cc88/stream.m3u8
+#EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2014/06/17/peliculas-3gp.jpg",24/7 Blue Movies
+http://veetle.com/index.php/hls/streamMbrfast/5686b8c31b2b2/stream.m3u8
+#EXTINF:-1 tvg-logo="http://imagenes.gatotv.com/logos/canales/tyc_sports-mediano.png",TYC SPORT 
+http://live.vodgc.com:1935/kLive/smil:0_a5h483eu_all.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-sports.gif",Fox Sports (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjU4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-sports.gif", Fox Sports (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjU5Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-sports.gif",Fox Sports (HD 1080)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjYwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-2.gif", Fox Sports 2 (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjYyJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-2.gif",Fox Sports 2 (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjYzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-2.gif", Fox Sports 2 (HD 1080)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjY0Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif", Espn (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjcwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif", Espn (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjcxJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn.gif", Espn (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjcyJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/espn-2.gif", Espn 2 (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjc0Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/espn-2.gif", Espn 2 (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjc1Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/espn-2.gif", Espn 2 (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjc2Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/espn-3-hd.gif",ESPN 3 HD (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjU0Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/espn-3-hd.gif",ESPN 3 HD (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjU1Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/espn-3-hd.gif",ESPN 3 HD (HD 1080)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjU2Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/big/espn-hd.gif", ESPN HD (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjUwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/big/espn-hd.gif", ESPN HD (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjUxJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/big/espn-hd.gif",ESPN HD (HD 1080)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjUyJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/medium/aym-sports.gif",AYM SPORTS
+http://200.76.77.230/LIVE/H01/CANAL576/PROFILE05.m3u8?pcmaster=%2F.ts
+#EXTINF:-1 tvg-logo="http://canalf1latinamerica.com/wp-content/uploads/2015/02/logo-canal-f1-latin-america250-opac.png",F1 BAJA
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjQ2Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://canalf1latinamerica.com/wp-content/uploads/2015/02/logo-canal-f1-latin-america250-opac.png",F1 SD
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjQ4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://canalf1latinamerica.com/wp-content/uploads/2015/02/logo-canal-f1-latin-america250-opac.png",F1 HD 1080
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjQ3Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-y0Y-qCgQkaI/VPjLP5UvTlI/AAAAAAAADZ4/naHLiZ5833Q/s1600/%D0%91%D0%BE%D0%B5%D1%86.JPG",Боец - FIGHTER
+http://origin4.samara.ertelecom.ru/content/private/s147213/d3720264/r965004sd2000000/13f00c501ad563f633ed3f544ae6cce912a21aea/track_2_1200/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/076tooxqnmhme0p/hmx.gif",473. Hmx (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzIyJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/076tooxqnmhme0p/hmx.gif",473. Hmx hd (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzIzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/076tooxqnmhme0p/hmx.gif",473. Hmx hd (ALTA 1080)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzI0Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://alter-nativeways.com/images/elgarage.jpg",42.GARAGE TV (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDE4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://alter-nativeways.com/images/elgarage.jpg",42.GARAGE TV (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDE5Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://alter-nativeways.com/images/elgarage.jpg",42.GARAGE TV (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDIwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2014/10/19/pxtvhd.png",42. pxtv (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjY2Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2014/10/19/pxtvhd.png",42. pxtv (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjY3Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2014/10/19/pxtvhd.png",42. pxtv (HD 1080)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjY4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/mtv.gif",441. MTV (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzE0Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/mtv.gif",441. MTV (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzE1Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/mtv.gif",441. MTV (HD 1080)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzE2Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-live-hd.gif",429. MTV Live HD (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjk4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-live-hd.gif",429. MTV Live HD (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjk5Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/mtv-live-hd.gif",429. MTV Live HD (HD 1080)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzAwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1813177034/mtv-hits.gif",476. MTV Hits (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzE4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1813177034/mtv-hits.gif",476. MTV Hits (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzE5Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1813177034/mtv-hits.gif",476. MTV Hits (HD 1080)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzIwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/telehit-hd.gif",434. Telehit HD (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzAyJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/telehit-hd.gif",434. Telehit HD (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzAzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/telehit-hd.gif",434. Telehit HD (HD 1080)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzA0Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://imagenes.gatotv.com/logos/canales/vh1.png", VH1 HD (BAJA)
+http://200.76.77.230/LIVE/H01/CANAL703/PROFILE02.m3u8?pcmaster=%2F.ts
+#EXTINF:-1 tvg-logo="http://imagenes.gatotv.com/logos/canales/vh1.png", VH1 HD (SD MEDIA)
+http://200.76.77.230/LIVE/H01/CANAL703/PROFILE03.m3u8?pcmaster=%2F.ts
+#EXTINF:-1 tvg-logo="http://imagenes.gatotv.com/logos/canales/vh1.png",437. VH1 HD (HD 1080)
+http://200.76.77.230/LIVE/H01/CANAL703/PROFILE05.m3u8?pcmaster=%2F.ts
+
+
+
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/bandamax.gif",449. Bandamax (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzMwJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/bandamax.gif",449. Bandamax (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzMxJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/bandamax.gif",449. Bandamax (HD 1080)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzMyJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.mtvbase.com/gsp/images/News/vh1-classic-281x211.jpg", Classics (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzIyJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://www.mtvbase.com/gsp/images/News/vh1-classic-281x211.jpg", Classics (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzIzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:-1 tvg-logo="http://www.mtvbase.com/gsp/images/News/vh1-classic-281x211.jpg",1 Classics (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzI0Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+
+ 
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/ritmoson-latino.gif",446. Ritmoson  (BAJA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzIyJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/ritmoson-latino.gif",446. Ritmoson (SD MEDIA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzI3Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/ritmoson-latino.gif",446. Ritmoson (SOLO ALTA)
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzI4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TC_LOGO.png/245px-TC_LOGO.png",TRENDY BAJA
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDQ2Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TC_LOGO.png/245px-TC_LOGO.png",TRENDY SD
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDQ3Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TC_LOGO.png/245px-TC_LOGO.png",TRENDY ALTA
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNDQ4Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1nMHN5NGxuczFuc2k2d3YmbGFuPTI=&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2013/12/header-paises.png",41. MiMusica TV (Latino)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cantinazo_tv_co.jpg",41.cantinazo tv
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Telem%C3%BAsica.gif",TELE MUSICA
+http://186.155.200.118:1935/live/telemusica/master.m3u8?sd=10&rebase;=on
+
+
+#EXTINF:-1 tvg-logo="http://www.tubefilter.com/wp-content/uploads/2014/05/vevo-newfronts.jpg",VEVO 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8?
+#EXTINF:-1 tvg-logo="http://www.tubefilter.com/wp-content/uploads/2014/05/vevo-newfronts.jpg",VEVO 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8?
+#EXTINF:-1 tvg-logo="http://www.tubefilter.com/wp-content/uploads/2014/05/vevo-newfronts.jpg",VEVO 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8?
+#EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2015/07/01/telesecundaria11.png",TELESECUNDARIA
+http://dl-dgtve.xsn.com.mx/dgtve/canal11dgtve.mp4/playlist.m3u8?
+#EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2015/04/28/teledocencia.png",TELEDOSENCIA
+http://dl-dgtve.xsn.com.mx/dgtve/canal12dgtve.mp4/playlist.m3u8?
+#EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2015/04/28/telebach.png",TELEBACHILLERATO
+http://dl-dgtve.xsn.com.mx/dgtve/canal17dgtve.mp4/playlist.m3u8?
+#EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2015/04/28/telemex.png",TELEMEX
+http://dl-dgtve.xsn.com.mx/dgtve/canal21dgtve.mp4/playlist.m3u8?
+#EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2015/04/28/teleuniv.png",TV UNIVERSIDAD
+http://dl-dgtve.xsn.com.mx/dgtve/canal22dgtve.mp4/playlist.m3u8?
+#EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2015/04/28/aprende.png",APRENDE
+http://dl-dgtve.xsn.com.mx/dgtve/canal24dgtve.mp4/playlist.m3u8?
+#EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2015/04/28/telesecundariamas.png",TELESECUNDARIA MAS
+http://dl-dgtve.xsn.com.mx/dgtve/canal27dgtve.mp4/playlist.m3u8?
+#EXTINF:-1 tvg-logo="http://img-youpeliculas.com/images/2015/04/28/ingenio.png",INGENIO TV
+http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8?
+#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/nasa.png",NASA (Estados Unidos)
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/miamitv.png",Miami TV Life España
+http://k4.usastreams.com:1935/miamitvlife/miamitvlife/.m3u8
+#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/cnn.png",CNN (Estados Unidos)
+http://edge1.everyon.tv/etv1sb/pld16/.m3u8
+#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/nbc.png",CNBC (Estados Unidos)
+http://origin2.live.web.tv.streamprovider.net/streams/3bc166ba3776c04e987eb242710e75c0/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/photocall/tv/images/abc.png",ABC News (Estados Unidos)
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+
+
+#EXTINF:-1,HBO
+http://xmiolive.e14538a7.viettel-cdn.vn/hbo.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-logo="http://www.mexicotravelchannel.com.mx/assets/images/logo.png",TRAVEL CHANNEL
+http://cdns840stu1010.multistream.net/mtchlive/amlst:live/livestream.m3u8
+#EXTINF:-1 tvg-logo="http://imagenes.gatotv.com/logos/canales/oscuros/bein_sport_en_espanol.png",BEIN SPORTS ESPAÑOL
+http://iptvbox.noip.us:9998/live/atik/atik/847.m3u8
+#EXTINF:-1 tvg-logo="http://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/header_logo.png",REAL MADRID CHANNEL
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
