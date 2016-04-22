@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://listaiptvchile.hol.es/logos/logo%20iptv%20chile.png ",Lista IPTV Chile | EN MANTENCION (13/04/2016) Hora 23:02 - PROHIBIDA SU VENTA
+#EXTINF:0 tvg-logo="http://listaiptvchile.hol.es/logos/logo%20iptv%20chile.png ",Lista IPTV Chile | EN MANTENCION (21/04/2016) Hora 22:09 - PROHIBIDA SU VENTA
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:0 tvg-logo="http://listaiptvchile.hol.es/logos/logo%20iptv%20chile.png", Mas informacion en listaiptvchile.hol.es
 http://streaming203.radionomy.com:80/City-Dance-Radio
@@ -248,7 +248,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="Comedy Central" group-title="ENTRETENIMIENTO",Comedy Central
 http://tvultimate.mx/stream/prueba.php?id=1359&f=.m3u8
 #EXTINF:-1 tvg-id="Home and Health" tvg-name="Home and Health" tvg-logo="Discovery Home & Health" group-title="ENTRETENIMIENTO",Discovery Home & Health
-http://exabytetv.ddns.net/stream/exabytetvplus.m3u8?can=discoveryhh&cal=2&tk=auth9ejnr4fd
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="Distrito Comedia" tvg-logo="Distrito Comedia" group-title="ENTRETENIMIENTO",Distrito Comedia
 http://tvultimate.mx/stream/prueba.php?id=1431&f=.m3u8
 #EXTINF:-1 tvg-id="E! Entertainment Television" tvg-name="E! Entertainment Television" tvg-logo="E! Entertainment Television" group-title="ENTRETENIMIENTO",E! Entertainment Television
@@ -268,7 +268,7 @@ http://tvultimate.mx/stream/prueba.php?id=1420&f=.m3u8
 #EXTINF:-1 tvg-id="Glitz" tvg-name="Glitz" tvg-logo="Glitz" group-title="ENTRETENIMIENTO",Glitz
 http://tvultimate.mx/stream/prueba.php?id=1424&f=.m3u8
 #EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="Lifetime" group-title="ENTRETENIMIENTO",Lifetime
-http://exabytetv.ddns.net/stream/exabytetvplus.m3u8?can=lifetime&cal=2&tk=auth9ejnr4fd
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="Sony" tvg-name="Sony" tvg-logo="Sony" group-title="ENTRETENIMIENTO",Sony
 http://tvultimate.mx/stream/prueba.php?id=1331&f=.m3u8
 #EXTINF:-1 tvg-id="SyFy" tvg-name="SyFy" tvg-logo="SyFy" group-title="ENTRETENIMIENTO",SyFy
@@ -423,37 +423,37 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png", << CULTURA & DOCUMENTALES >>
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="  Animal Planet" tvg-name="Animal Planet" tvg-logo="Animal Planet" group-title="CULTURA-DOCUMENTAL",Animal Planet
-http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="  Discovery Channel" tvg-name="Discovery Channel" tvg-logo="Discovery Channel" group-title="CULTURA-DOCUMENTAL",Discovery Channel
-http://tvultimate.mx/stream/prueba.php?id=1503&f=.m3u8
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="  Discovery Civilization" tvg-name="Discovery Civilization" tvg-logo="Discovery Civilization" group-title="CULTURA-DOCUMENTAL",Discovery Civilization
-http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="  Discovery MAX" tvg-name="Discovery MAX" tvg-logo="Discovery Max" group-title="CULTURA-DOCUMENTAL",Discovery Max
 http://5.189.152.43:11757/live/PlayKodi-8PKS/token-klnjn87rh4fefdfcwdi4u3o8eu3uhdbnecwdjnec/155.m3u8
 #EXTINF:-1 tvg-id="  Discovery Science" tvg-name="Discovery Science" tvg-logo="Discovery Science" group-title="CULTURA-DOCUMENTAL",Discovery Science
-http://200.76.77.237/LIVE/H01/CANAL381/PROFILE03.m3u8?
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="  Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="Discovery Turbo" group-title="CULTURA-DOCUMENTAL",Discovery Turbo
-http://200.76.77.237/LIVE/H01/CANAL383/PROFILE03.m3u8?
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL383/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="  Discovery World HD" tvg-name="Discovery World HD" tvg-logo="Discovery World" group-title="CULTURA-DOCUMENTAL",Discovery World
-http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="  Discovery Theater HD" tvg-name="Discovery Theater HD" tvg-logo="Discovery Theater" group-title="CULTURA-DOCUMENTAL",Discovery Theater
-http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="  Historia" tvg-name="Historia" tvg-logo="Historia" group-title="CULTURA-DOCUMENTAL",Historia
 http://5.189.152.43:11757/live/PlayKodi-10PKS/token-i839fkewieu83eujejdn2wnsn98ehd9823dwkdk/157.m3u8
 #EXTINF:-1 tvg-id="  History HD" tvg-name="History HD" tvg-logo="History Channel" group-title="CULTURA-DOCUMENTAL",History Channel
-http://tvultimate.mx/stream/prueba.php?id=1507&f=.m3u8
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="  Canal Ingenio TV (Mexico)" tvg-name="Canal Ingenio TV (Mexico)" tvg-logo="Ingenio TV" group-title="CULTURA-DOCUMENTAL",Ingenio TV
 http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8?
 #EXTINF:-1 tvg-id="  Investigacion Discovery" tvg-name="Investigacion Discovery" tvg-logo="Investigacion Discovery" group-title="CULTURA-DOCUMENTAL",Investigacion Discovery
 http://tvultimate.mx/stream/prueba.php?id=1407&f=.m3u8
 #EXTINF:-1 tvg-id="  NatGeo" tvg-name="NatGeo" tvg-logo="NatGeo" group-title="CULTURA-DOCUMENTAL",NatGeo
-http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="  NatGeo Wild HD" tvg-name="NatGeo Wild HD" tvg-logo="NatGeo Wild" group-title="CULTURA-DOCUMENTAL",NatGeo Wild
 http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?
 #EXTINF:-1 tvg-id="  TLC" tvg-name="TLC" tvg-logo="TLC" group-title="CULTURA-DOCUMENTAL",TLC
-http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL386/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="  WOBI TV" tvg-name="WOBI TV" tvg-logo="WOBI" group-title="CULTURA-DOCUMENTAL",WOBI
-http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL387/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="Positive Channel" group-title="CULTURA-DOCUMENTAL",Positive Channel
 http://104.131.200.207/genius/playkodi.php?lib=3284994
 #EXTINF:-1 tvg-id="  Canal EWTN en Español" tvg-name="Canal EWTN en Español" tvg-logo="EWTN" group-title="CULTURA-DOCUMENTAL",EWTN
@@ -517,9 +517,9 @@ http://wow01.105.net/live/virgin1/.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canales de Musica", Heavy Metal TV
 http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="Bandamax" tvg-name="Bandamax" tvg-logo="Bandamax" group-title="MUSICA",Bandamax
-http://tvultimate.mx/stream/prueba.php?id=1732&f=.m3u8
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="MTV" group-title="MUSICA",MTV
-http://tvultimate.mx/stream/prueba.php?id=1716&f=.m3u8
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="  CAPITAL TV" tvg-name="CAPITAL TV" tvg-logo="Capital_TV_logo.png" group-title="MUSICA",Capital TV (UK)
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="  z" tvg-name="" tvg-logo="eska-best-music-online-ao-vivo-gratis-55e1e0e65df98.jpeg" group-title="MUSICA",Eska Best Music TV
@@ -537,15 +537,15 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
 #EXTINF:-1 tvg-id="UK MTV Dance" tvg-name="UK MTV Dance" tvg-logo="MTV Dance" group-title="MUSICA",MTV Dance
 http://217.147.40.118:8080/udp/233.97.20.154:1234
 #EXTINF:-1 tvg-id="Canal MTV Hits" tvg-name="Canal MTV Hits" tvg-logo="MTV Hits" group-title="MUSICA",MTV Hits
-http://tvultimate.mx/stream/prueba.php?id=1720&f=.m3u8
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="  MTV Live HD" tvg-name="MTV Live HD" tvg-logo="MTV Live" group-title="MUSICA",MTV Live
-http://tvultimate.mx/stream/prueba.php?id=1699&f=.m3u8
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL701/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="  UK MTV Rocks" tvg-name="UK MTV Rocks" tvg-logo="MTV Rocks" group-title="MUSICA",MTV Rocks
 http://st02.brn03.iptv.czechbone.net:8083/rel/pc/1/244/0.k.m3u8
 #EXTINF:-1 tvg-id="  Ritmoson Latino" tvg-name="Ritmoson Latino" tvg-logo="Ritmoson Latino" group-title="MUSICA",Ritmoson Latino
-http://tvultimate.mx/stream/prueba.php?id=1728&f=.m3u8
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL731/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="  Telehit HD" tvg-name="Telehit HD" tvg-logo="Telehit" group-title="MUSICA",Telehit
-http://tvultimate.mx/stream/prueba.php?id=1703&f=.m3u8
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL702/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="  Vevo HD 1" tvg-name="Vevo HD 1" tvg-logo="Vevo HD 1" group-title="MUSICA",Vevo HD 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 #EXTINF:-1 tvg-id="  Vevo HD 2" tvg-name="Vevo HD 2" tvg-logo="Vevo HD 2" group-title="MUSICA",Vevo HD 2
@@ -553,9 +553,9 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 #EXTINF:-1 tvg-id="  Vevo HD 3" tvg-name="Vevo HD 3" tvg-logo="Vevo HD 3" group-title="MUSICA",Vevo HD 3
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 #EXTINF:-1 tvg-id="  ES VH1 Classic" tvg-name="ES VH1 Classic" tvg-logo="VH1 Classic" group-title="MUSICA",VH1 Classic
-http://tvultimate.mx/stream/prueba.php?id=1724&f=.m3u8
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE05.m3u8
 #EXTINF:-1 tvg-id="  VH1 HD" tvg-name="VH1 HD" tvg-logo="VH1 HD" group-title="MUSICA",VH1 HD
-http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL703/PROFILE05.m3u8
 
 
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png", << NOTICIAS >>
@@ -573,9 +573,9 @@ http://200.76.77.237/LIVE/H01/CANAL161/PROFILE03.m3u8?
 #EXTINF:-1 tvg-id="  Canal AZ Noticias" tvg-name="Canal AZ Noticias" tvg-logo="Az Noticias" group-title="NOTICIAS",Az Noticias
 http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="  Milenio TV" tvg-name="Milenio TV" tvg-logo="Milenio TV" group-title="NOTICIAS",Milenio TV
-http://200.76.77.237/LIVE/H01/CANAL603/PROFILE03.m3u8?
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL603/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="  Canal El Financiero - Bloomberg" tvg-name="Canal El Financiero - Bloomberg" tvg-logo="El Financiero Bloomberg" group-title="NOTICIAS",El Financiero Bloomberg
-http://200.76.77.237/LIVE/H01/CANAL610/PROFILE03.m3u8?
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL610/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="  Euronews" tvg-name="Euronews" tvg-logo="Euronews Español" group-title="NOTICIAS",Euronews Español
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/es_vidan750_rtp.sdp
 #EXTINF:-1 tvg-id="  z" tvg-name="" tvg-logo="" group-title="NOTICIAS",France 24
