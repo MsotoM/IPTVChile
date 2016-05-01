@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-fQjf9xuHS1E/Vm-hBpsFJnI/AAAAAAAAAA0/og7MvcJuEgI/s1600/futbol_chile.png", Canal FutbolChile.net 1
+https://video07-atl.streamup.com/app/futbolchile-net3s-channel_aac/playlist.m3u8
+#EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-fQjf9xuHS1E/Vm-hBpsFJnI/AAAAAAAAAA0/og7MvcJuEgI/s1600/futbol_chile.png", Canal FutbolChile.net 2
+https://video09-atl.streamup.com/app/netresultcopyrights-stream_aac/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-fQjf9xuHS1E/Vm-hBpsFJnI/AAAAAAAAAA0/og7MvcJuEgI/s1600/futbol_chile.png", Canal FutbolChile.net 3
+https://video11-lax.streamup.com/app/judasfcns-stream_aac/playlist.m3u8
+#EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-fQjf9xuHS1E/Vm-hBpsFJnI/AAAAAAAAAA0/og7MvcJuEgI/s1600/futbol_chile.png", Canal FutbolChile.net 4
+https://video09-atl.streamup.com/app/cdfnetresults-stream_aac/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-fQjf9xuHS1E/Vm-hBpsFJnI/AAAAAAAAAA0/og7MvcJuEgI/s1600/futbol_chile.png", Canal FutbolChile.net 5
+https://video11-lax.streamup.com/app/cdfnetresult1s-stream_aac/playlist.m3u8
+#EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-fQjf9xuHS1E/Vm-hBpsFJnI/AAAAAAAAAA0/og7MvcJuEgI/s1600/futbol_chile.png", Canal FutbolChile.net 6
+https://video07-lax.streamup.com/app/cdfnetresult1s-stream_aac/chunklist.m3u8

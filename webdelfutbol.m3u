@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="http://s3.amazonaws.com/design_images/images/1743/v.png?1347471596", Canal Webdel.futbol 1
+http://video10-lax.streamup.com/app/lalolanda559s-stream_aac/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://s3.amazonaws.com/design_images/images/1743/v.png?1347471596", Canal Webdel.futbol 2
+http://video10-lax.streamup.com/app/lalalongo22s-stream_aac/playlist.m3u8
+#EXTINF:0 tvg-logo="http://s3.amazonaws.com/design_images/images/1743/v.png?1347471596", Canal Webdel.futbol 3
+http://video07-lax.streamup.com/app/lalolanda558s-stream_aac/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://s3.amazonaws.com/design_images/images/1743/v.png?1347471596", Canal Webdel.futbol 4
+http://video07-lax.streamup.com/app/lalolanda557s-stream_aac/playlist.m3u8
+#EXTINF:0 tvg-logo="http://s3.amazonaws.com/design_images/images/1743/v.png?1347471596", Canal Webdel.futbol 5
+http://video11-lax.streamup.com/app/lalalongo31s-stream_aac/playlist.m3u8
+#EXTINF:0 tvg-logo="http://s3.amazonaws.com/design_images/images/1743/v.png?1347471596", Canal Webdel.futbol 6
+http://video11-lax.streamup.com/app/lalalongo29s-stream_aac/playlist.m3u8
+#EXTINF:0 tvg-logo="http://s3.amazonaws.com/design_images/images/1743/v.png?1347471596", Canal Webdel.futbol 7
+http://video02-lax.streamup.com/app/lalolanda446s-stream_aac/chunklist.m3u8
+#EXTINF:0 tvg-logo="http://s3.amazonaws.com/design_images/images/1743/v.png?1347471596", Canal Webdel.futbol 8
+http://video11-lax.streamup.com/app/lalalongo36s-stream_aac/playlist.m3u8
+#EXTINF:0 tvg-logo="http://s3.amazonaws.com/design_images/images/1743/v.png?1347471596", Canal Webdel.futbol 9
+https://video11-lax.streamup.com/app/lalalongo31s-stream_aac/playlist.m3u8
+#EXTINF:0 tvg-logo="http://s3.amazonaws.com/design_images/images/1743/v.png?1347471596", Canal Webdel.futbol 10
+http://video11-lax.streamup.com/app/lalalongo34s-stream_aac/playlist.m3u8
