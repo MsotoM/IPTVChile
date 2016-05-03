@@ -352,7 +352,7 @@ https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
 
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png", << DEPORTES >>
 http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 tvg-id="UFC Network"  tvg-name= "UFC Network" tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/logo-baja.png" group-title="DEPORTES",
+#EXTINF:-1 tvg-id="UFC Network"  tvg-name= "UFC Network" tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/logo-baja.png" group-title="DEPORTES", UFC Network
 http://199.180.114.174:88/files/ufc972.m3u8
 #EXTINF:-1 , RAI Sport 1
 http://httpstream1.rai.it/Italy/raisport1.isml/QualityLevels(1896000)/manifest(format=m3u8-aapl).m3u8
