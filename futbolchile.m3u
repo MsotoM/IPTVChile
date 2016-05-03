@@ -11,3 +11,7 @@ https://video09-atl.streamup.com/app/cdfnetresults-stream_aac/chunklist.m3u8
 https://video11-lax.streamup.com/app/cdfnetresult1s-stream_aac/playlist.m3u8
 #EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-fQjf9xuHS1E/Vm-hBpsFJnI/AAAAAAAAAA0/og7MvcJuEgI/s1600/futbol_chile.png", Canal FutbolChile.net 6
 https://video07-lax.streamup.com/app/cdfnetresult1s-stream_aac/chunklist.m3u8
+
+
+#EXTINF:0, No Disponible
+https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
