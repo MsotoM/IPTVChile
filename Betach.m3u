@@ -1,45 +1,50 @@
 #EXTM3U
 #EXTINF:-1, telefe
-http://latino-webtv.ml/live/telefe.m3u8 
+http://latino-webtv.ml/live/telefe.m3u8?
 #EXTINF:-1, directv
-http://latino-webtv.ml/live/directv.m3u8 
+http://latino-webtv.ml/live/directv.m3u8?
 #EXTINF:-1, univision
-http://latino-webtv.ml/live/univision.m3u8 
+http://latino-webtv.ml/live/univision.m3u8?
 #EXTINF:-1, telemundo
-http://latino-webtv.ml/live/telemundo.m3u8 
+http://latino-webtv.ml/live/telemundo.m3u8?
 #EXTINF:-1, america tv
-http://latino-webtv.ml/live/americatv.m3u8 
+http://latino-webtv.ml/live/americatv.m3u8?
 #EXTINF:-1, caracol
-http://latino-webtv.ml/live/caracol.m3u8 
+http://latino-webtv.ml/live/caracol.m3u8?
 #EXTINF:-1, rcn
-http://latino-webtv.ml/live/rcn.m3u8 
+http://latino-webtv.ml/live/rcn.m3u8?
 #EXTINF:-1, rcn hd
-http://latino-webtv.ml/live/rcnhd2.m3u8 
+http://latino-webtv.ml/live/rcnhd2.m3u8?
 #EXTINF:-1, win
-http://latino-webtv.ml/live/win.m3u8
+http://latino-webtv.ml/live/win.m3u8?
 #EXTINF:-1, los simpsons
-http://latino-webtv.ml/live/simpsons.m3u8 
+http://latino-webtv.ml/live/simpsons.m3u8?
 #EXTINF:-1, Big Bang
-http://latino-webtv.ml/live/big_bang.m3u8 
+http://latino-webtv.ml/live/big_bang.m3u8?
 #EXTINF:-1, El Chavo
-http://latino-webtv.ml/live/chavo.m3u8 
+http://latino-webtv.ml/live/chavo.m3u8?
 #EXTINF:-1, Dragon Ball
-http://latino-webtv.ml/live/dragonball.m3u8 
+http://latino-webtv.ml/live/dragonball.m3u8?
 #EXTINF:-1, Futurama
-http://latino-webtv.ml/live/futurama.m3u8 
+http://latino-webtv.ml/live/futurama.m3u8?
 #EXTINF:-1, Mega Movies
-http://latino-webtv.ml/live/mega_movies.m3u8 
+http://latino-webtv.ml/live/mega_movies.m3u8?
 #EXTINF:-1, Naruto
-http://latino-webtv.ml/live/naruto.m3u8 
+http://latino-webtv.ml/live/naruto.m3u8? 
 #EXTINF:-1, Peliculas accion
-http://latino-webtv.ml/live/pelis_accion.m3u8 
+http://latino-webtv.ml/live/pelis_accion.m3u8?
 #EXTINF:-1, peliculas cristianas
-http://latino-webtv.ml/live/pelis_cristianas.m3u8 
-#EXTINF:-1, pwliculas infantiles
-http://latino-webtv.ml/live/pelis_infantiles.m3u8 
+http://latino-webtv.ml/live/pelis_cristianas.m3u8?
+#EXTINF:-1, peliculas infantiles
+http://latino-webtv.ml/live/pelis_infantiles.m3u8?
 #EXTINF:-1, peliculas Terror
-http://latino-webtv.ml/live/pelis_terror.m3u8 
+http://latino-webtv.ml/live/pelis_terror.m3u8?
 #EXTINF:-1, South Park
 http://latino-webtv.ml/live/southpark.m3u8 
 #EXTINF:-1, Universal.Movies
 http://latino-webtv.ml/live/universal_movies.m3u8
+#EXTINF:-1,BATMAN VS SUPERMAN (Subtitulado)
+http://www.spruto.tv/get_file/4/9c84a6016de4228f2e9514973477b8b5/188000/188756/188756.mp4
+#EXTINF:-1, Capitan America Civil War (Latino)
+http://www.spruto.tv/get_file/4/8bccf1f5c47b15dc5d10887a7bed3fc5/188000/188916/188916.mp4
+
