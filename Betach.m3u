@@ -40,9 +40,11 @@ http://latino-webtv.ml/live/pelis_infantiles.m3u8?
 #EXTINF:-1, peliculas Terror
 http://latino-webtv.ml/live/pelis_terror.m3u8?
 #EXTINF:-1, South Park
-http://latino-webtv.ml/live/southpark.m3u8 
+http://latino-webtv.ml/live/southpark.m3u8? 
 #EXTINF:-1, Universal.Movies
-http://latino-webtv.ml/live/universal_movies.m3u8
+http://latino-webtv.ml/live/universal_movies.m3u8?
+#EXTINF:-1, Canal Panda
+http://212.121.224.243:9981/stream/channel/86be25a10ff688ebc9ae1cf2b5245a1d?ticket=F6B57FF2194A862698645FECB2ED4BF215FCF0C6
 #EXTINF:-1,BATMAN VS SUPERMAN (Subtitulado)
 http://www.spruto.tv/get_file/4/9c84a6016de4228f2e9514973477b8b5/188000/188756/188756.mp4
 #EXTINF:-1, Capitan America Civil War (Latino)
