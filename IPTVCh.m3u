@@ -295,7 +295,7 @@ http://tvultimate.mx/live/samsung.php?id=1495&f=.m3u8
 #EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="Tooncast" group-title="INFANTILES",Tooncast
 http://tvultimate.mx/live/samsung.php?id=1499&f=.m3u8
 #EXTINF:-1, Canal Panda
-http://212.121.224.243:9981/stream/channel/86be25a10ff688ebc9ae1cf2b5245a1d?ticket=F6B57FF2194A862698645FECB2ED4BF215FCF0C6.m3u8?
+http://212.121.224.243:9981/stream/channel/86be25a10ff688ebc9ae1cf2b5245a1d?ticket=F6B57FF2194A862698645FECB2ED4BF215FCF0C6
 
 #EXTINF:0tvg-logo="http://4.bp.blogspot.com/-_bDaaA4YBr8/Vp_XTe1rnuI/AAAAAAAADME/v2YypexEF40/s320/logo%2Biptv%2Bchile.png", << PELICULAS-SERIES >>
 http://streaming203.radionomy.com:80/City-Dance-Radio
