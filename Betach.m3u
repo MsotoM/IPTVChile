@@ -49,4 +49,8 @@ http://212.121.224.243:9981/stream/channel/86be25a10ff688ebc9ae1cf2b5245a1d?tick
 http://www.spruto.tv/get_file/4/9c84a6016de4228f2e9514973477b8b5/188000/188756/188756.mp4
 #EXTINF:-1, Capitan America Civil War (Latino)
 http://www.spruto.tv/get_file/4/8bccf1f5c47b15dc5d10887a7bed3fc5/188000/188916/188916.mp4
+#EXTINF:-1, f1
+http://cdn.sstream.pw/live/formula1_aqz9n68/chunklist.m3u8
+#EXTINF:-1, f1
+http://cdn.sstream.pw/live/formula1_aqz9n68/media-u74iyp0vu_1707.ts
 
