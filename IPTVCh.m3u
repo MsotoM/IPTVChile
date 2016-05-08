@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png",Lista IPTV Chile | EN MANTENCION (7/05/2016) Hora 23:59 - PROHIBIDA SU VENTA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png",Lista IPTV Chile | EN MANTENCION (6/05/2016) Hora 22:34 - PROHIBIDA SU VENTA
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", Mas informacion en listaiptvchile.hol.es
 http://streaming203.radionomy.com:80/City-Dance-Radio
@@ -75,7 +75,7 @@ http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/chunklist_w949479730_b2
 http://190.107.176.167:1935/live/am-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/cmds_zpss1x4t0fg.png" group-title="REGIONALES", CMDS Antofagasta 
 http://190.107.176.167:1935/live/corporacion-antofagasta/playlist.m3u8?
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/Calamatvjpg" group-title="REGIONALES", Calama Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/Calamatv.jpg" group-title="REGIONALES", Calama Tv
 http://iphone-streaming.ustream.tv/ustreamVideo/10819022/streams/live/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/cl-reg-holvoet_zpsox7uxnwt.png" group-title="REGIONALES",Holvoet Copiapo 
 http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunklist-b1248000.m3u8
@@ -181,7 +181,7 @@ http://iphone-streaming.ustream.tv/ustreamVideo/16911585/streams/live/playlist.m
 http://streamradiohd.com:1935/8188/8188/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/rocco_zpsjjszbdd5.png" group-title="REGIONALES",Rocco Tv Coyhaique
 http://evo.eltelon.com:443/live/rocco-tv/chunklist_w1957411020.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/santamariatv.jpg" group-title="REGIONALES", Santa Maria Tv Coyhaique
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/santamariatv.png" group-title="REGIONALES", Santa Maria Tv Coyhaique
 http://v1.tustreaming.cl:1935/santamaria/santamaria/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/itv_patagonia_cl_zps3yvz2vwm.png" group-title="REGIONALES",ITV Punta Arenas 
 http://wow2.cl.digitalproserver.com/itv/itvvivo/livestream1/playlist.m3u8
@@ -358,8 +358,6 @@ https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", << DEPORTES >>
 http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1, HBO PPV
-http://173.233.68.138/hls/ppv_sd/index.m3u8
 #EXTINF:-1 tvg-id="UFC Network"  tvg-name= "UFC Network" tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/logo-baja.png" group-title="DEPORTES", UFC Network
 http://199.180.114.174:88/files/ufc972.m3u8
 #EXTINF:-1 tvg-id="  AyM Sports" tvg-name="AyM Sports" tvg-logo="AyM Sports" group-title="DEPORTES",AyM Sports
