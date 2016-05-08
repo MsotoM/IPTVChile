@@ -75,7 +75,7 @@ http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/chunklist_w949479730_b2
 http://190.107.176.167:1935/live/am-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/cmds_zpss1x4t0fg.png" group-title="REGIONALES", CMDS Antofagasta 
 http://190.107.176.167:1935/live/corporacion-antofagasta/playlist.m3u8?
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/calama%20televison_zpstiwjmawd.png" group-title="REGIONALES", Calama Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/Calamatvjpg" group-title="REGIONALES", Calama Tv
 http://iphone-streaming.ustream.tv/ustreamVideo/10819022/streams/live/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/cl-reg-holvoet_zpsox7uxnwt.png" group-title="REGIONALES",Holvoet Copiapo 
 http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunklist-b1248000.m3u8
@@ -83,7 +83,7 @@ http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunkli
 http://192.186.154.195:80/mcopiapo/tdq7m.sdp/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/choapa_zpsxqzh3jpt.png" group-title="REGIONALES", Choapa Tv Canal 2 Illapel
 http://wow2.cl.digitalproserver.com/tv2/tv2vivo/tv2.smil/playlist.m3u8?
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/tele%208%20illapel_zpstk0q9pzl.png" group-title="REGIONALES", Tele 8 Illapel 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/Tele8illapel.jpg" group-title="REGIONALES", Tele 8 Illapel 
 http://wow2.cl.digitalproserver.com/tele8/tele8vivo/tele8.smil/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/ultravision_zpsmgbfcegd.png" group-title="REGIONALES", Ultravision Los Vilos
 http://iphone-streaming.ustream.tv/ustreamVideo/13961215/streams/live/playlist.m3u8?
@@ -99,7 +99,7 @@ http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
 http://wow2.cl.digitalproserver.com/girovisual/girovisualvivomp4:livestream2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/canal2_zpsiwfsrgy0.png" group-title="REGIONALES",Canal 2 San Antonio
 rtsp://video.crearchile.com:8080/live/canal2.mp4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/camara%20dipi_zpsnmwwmqq7.png" group-title="REGIONALES", Camara de Diputados Valparaiso
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/CamaraDiputadosTv.jpg" group-title="REGIONALES", Camara de Diputados Valparaiso
 http://camara.ztreaming.com:80/camara8/streamcam8.sdp/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/sporting_zpsbqeg5in1.png" group-title="REGIONALES", Sporting Tv Valparaiso
 http://movilstream.digitalproserver.com/sportinghd/sportinghdvivo/mp4:livestream2/playlist.m3u8?
@@ -137,7 +137,7 @@ http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist_w224088368_b750000_sle
 http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/estudio_zpsfnlhlrob.png" group-title="REGIONALES",Estudio Tv Santiago
 rtmp://190.107.176.167:1935/live/estudio-tv
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/sentildealuv_zpsyc3mmrcp.png" group-title="REGIONALES", SeÃƒÂ±al Uc Santiago
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/sentildealuv_zpsyc3mmrcp.png" group-title="REGIONALES", Señal Uc Santiago
 http://www.senaluc.cl:80/playlist/stream.m3u8?s=vdmfcom
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/cesfam_zpsniwj8tf4.png" group-title="REGIONALES",Cesfam Santiago
 http://evo.eltelon.com:443/live/cesfamtv/chunklist_w781127916.m3u8
@@ -147,13 +147,13 @@ http://movilstream.digitalproserver.com/tvo/tvovivo/livestream/playlist.m3u8
 http://audio.streaminghd.cl/8014/8014/chunklist_w1154290519.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/campus_zps8hgdc5lg.png" group-title="REGIONALES",Campus Tv Talca
 http://movilstream.digitalproserver.com/campustv/campustvvivo/livestream1/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="REGIONALES", Tv Maule Talca
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/TVMaule.jpg" group-title="REGIONALES", Tv Maule Talca
 http://videostreaming.cl:8080/live/tvmaule.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/contivision_cl_musica_zpsmzgyv5id.png" group-title="REGIONALES",Contivision Constitucion 
 http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/chunklist_w1162159593_b1496000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/contivision_cl_musica_zpsmzgyv5id.png" group-title="REGIONALES", Contivision Musica Constitucion
 http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivomp4:livestream1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/canal%209%20regional_zpsjsxxzhzf.png" group-title="REGIONALES",Canal 9 Bio Bio Concepcion
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/Canal9bbtv.jpg" group-title="REGIONALES",Canal 9 Bio Bio Concepcion
 http://wow1.dallas.digitalproserver.com/c9//c9.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/TVUConcepcionLogo_zpsxkgivlcq.png" group-title="REGIONALES",TVU Concepcion 
 http://movilstream.digitalproserver.com/tvu/tvuvivo/livestream1/playlist.m3u8
@@ -171,7 +171,7 @@ http://wow2.cl.digitalproserver.com/uautonoma/uautonomavivomp4:livestream1/playl
 http://evo.eltelon.com:443/live/tec-tv/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/atv_valdivia_cl_zpsgmzz36y8.png" group-title="REGIONALES",Atv Valdivia 
 http://190.107.176.167:1935/live/atv-valdivia/playlist.m3u8?
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/cool%20tv_zpswzj5wmyk.png" group-title="REGIONALES", Cool Tv Valdivia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/logo-cooltv.jpg" group-title="REGIONALES", Cool Tv Valdivia
 http://iphone-streaming.ustream.tv/uhls/5383481/streams/live/iphone/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/inettv_zpsl8vzhgko.png" group-title="REGIONALES", Inet 2 Tv Osorno 
 http://wow2.cl.digitalproserver.com/inet2/inet2vivo/inet2.smil/playlist.m3u8?
@@ -181,7 +181,7 @@ http://iphone-streaming.ustream.tv/ustreamVideo/16911585/streams/live/playlist.m
 http://streamradiohd.com:1935/8188/8188/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/rocco_zpsjjszbdd5.png" group-title="REGIONALES",Rocco Tv Coyhaique
 http://evo.eltelon.com:443/live/rocco-tv/chunklist_w1957411020.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/santa%20maria_zpsxfn6hfkf.png" group-title="REGIONALES", Santa Maria Tv Coyhaique
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/santamariatv.jpg" group-title="REGIONALES", Santa Maria Tv Coyhaique
 http://v1.tustreaming.cl:1935/santamaria/santamaria/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/itv_patagonia_cl_zps3yvz2vwm.png" group-title="REGIONALES",ITV Punta Arenas 
 http://wow2.cl.digitalproserver.com/itv/itvvivo/livestream1/playlist.m3u8
@@ -303,6 +303,8 @@ http://streaming203.radionomy.com:80/City-Dance-Radio
 http://199.180.114.174:88/files/hbo11.m3u8
 #EXTINF:-1 , HBO 2
 http://199.180.114.174:88/files/hbo222222.m3u8
+#EXTINF:-1, HBO Family
+http://199.180.114.174:88/files/hbofamily453.m3u8
 #EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="AMC HD" group-title="PELICULAS-SERIES",AMC HD
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
 #EXTINF:-1 tvg-id="Az Cinema" tvg-name="Az Cinema" tvg-logo="Az Cinema" group-title="PELICULAS-SERIES",Az Cinema
@@ -360,12 +362,6 @@ http://streaming203.radionomy.com:80/City-Dance-Radio
 http://199.180.114.174:88/files/ufc972.m3u8
 #EXTINF:-1 tvg-id="  AyM Sports" tvg-name="AyM Sports" tvg-logo="AyM Sports" group-title="DEPORTES",AyM Sports
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL576/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="  FR beIN Sports 1" tvg-name="FR beIN Sports 1" tvg-logo="Bein Sports 1 Francia" group-title="DEPORTES",Bein Sports 1 Francia
-http://169.45.89.106:1935/app/bein1frlsh58/playlist.m3u8
-#EXTINF:-1 tvg-id="  FR beIN Sports 2" tvg-name="FR beIN Sports 2" tvg-logo="Bein Sports 2 Francia" group-title="DEPORTES",Bein Sports 2 Francia
-http://169.45.89.106:1935/app/bein2frlsh/playlist.m3u8
-#EXTINF:-1 tvg-id="  FR beIN Sports 3" tvg-name="FR beIN Sports 3" tvg-logo="Bein Sports 3 Francia" group-title="DEPORTES",Bein Sports 3 Francia
-https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
 #EXTINF:-1 tvg-id="  Es beIN Sports " tvg-name=" beIN Sports" tvg-logo="Bein Sports" group-title="DEPORTES",Bein Sports España
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="Combate" group-title="DEPORTES",Combate
@@ -882,6 +878,8 @@ http://xcanalzoomtvx.api.channel.livestream.com/3.0/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", << ARGENTINA >>
 http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 , TV Publica Argentina
+http://sacapunta.eltelon.com/content/tv-publica/playlist.m3u8
 #EXTINF:-1 tvg-id="  C5N" tvg-name="C5N" tvg-logo="C5N" group-title="ARGENTINA",C5N
 rtmp://c5n.stweb.tv:1935/c5n/live
 #EXTINF:-1 tvg-id="  Canal 9 Parana" tvg-name="Canal 9 Parana" tvg-logo="Canal 9 Parana" group-title="ARGENTINA",Canal 9 Parana
