@@ -196,10 +196,6 @@ http://evo.eltelon.com:443/live/soberania/chunklist_w725687300.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png" , ZONA OCIO
 http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", Cine Exclusivo de Lista IPTV Chile
-https://raw.githubusercontent.com/teran91/IPTV-Chile/master/cine.m3u
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/peliculasonlinelogo.png" , Peliculas 24 HRS
-http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/anime.png",CANAL ANIME
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/Sin-título-12.png" , Super Noche de Positiva Fm
@@ -294,8 +290,7 @@ http://tvultimate.mx/live/samsung.php?id=1472&f=.m3u8
 http://tvultimate.mx/live/samsung.php?id=1495&f=.m3u8
 #EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="Tooncast" group-title="INFANTILES",Tooncast
 http://tvultimate.mx/live/samsung.php?id=1499&f=.m3u8
-#EXTINF:-1, Canal Panda
-http://212.121.224.243:9981/stream/channel/86be25a10ff688ebc9ae1cf2b5245a1d?ticket=F6B57FF2194A862698645FECB2ED4BF215FCF0C6
+
 
 #EXTINF:0tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", << PELICULAS-SERIES >>
 http://streaming203.radionomy.com:80/City-Dance-Radio
