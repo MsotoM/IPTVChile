@@ -55,3 +55,6 @@ http://cdn.sstream.pw/live/formula1_aqz9n68/chunklist.m3u8
 http://cdn.sstream.pw/live/formula1_aqz9n68/media-u74iyp0vu_1707.ts
 #EXTINF:-1, NAHUELBUTA FM
 http://sjc-uhls-proxy109.ustream.tv/watch/playlist.m3u8?cid=21419400&appType=11&appVersion=2&locks=97d170e1550eee4afc0af065b78cda302a97674c&geo=null&geocity=Los%20Alamos&userId=&connectionId=sjc-flot-live08_1428870570&ts=1462724839&ip=190.5.48.38&cdn=uhs_akamai&sgn=9cef0d0f0819a0590757648efe7eacecd624007b
+
+#EXTINF:0, CINE PRUEBA
+https://raw.githubusercontent.com/teran91/IPTVChile/master/Cine
