@@ -1,5 +1,7 @@
+IPTVCh.m3u
+
 #EXTM3U
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png",Lista IPTV Chile | EN MANTENCION (11/05/2016) Hora 23:04 - PROHIBIDA SU VENTA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png",Lista IPTV Chile | EN MANTENCION (12/05/2016) Hora 23:52 - PROHIBIDA SU VENTA
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", Mas informacion en listaiptvchile.hol.es
 http://streaming203.radionomy.com:80/City-Dance-Radio
@@ -8,9 +10,9 @@ http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png ", Agenda Deportiva En Vivo (solo partidos)
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:0 tvg-logo="http://s3.amazonaws.com/design_images/images/1743/v.png?1347471596", Canales Webdel.futbol
-http://listaiptvchile.hol.es/webdelfutbol
+https://raw.githubusercontent.com/teran91/IPTVChile/master/webdelfutbol.m3u
 #EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-fQjf9xuHS1E/Vm-hBpsFJnI/AAAAAAAAAA0/og7MvcJuEgI/s1600/futbol_chile.png", Canales FutbolChile.net
-http://listaiptvchile.hol.es/futbolchile
+https://raw.githubusercontent.com/teran91/IPTVChile/master/futbolchile.m3u
 #EXTINF:0 , Canal MojaLaCamiseta.com YOUTUBE
 https://www.youtube.com/embed/a6_s7UixD68?rel=0&autoplay=1
 
@@ -101,6 +103,8 @@ http://wow2.cl.digitalproserver.com/girovisual/girovisualvivomp4:livestream2/pla
 rtsp://video.crearchile.com:8080/live/canal2.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/CamaraDiputadosTv.jpg" group-title="REGIONALES", Camara de Diputados Valparaiso
 http://camara.ztreaming.com:80/camara8/streamcam8.sdp/playlist.m3u8?
+#EXTINF:-1, Tv Senado
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/sporting_zpsbqeg5in1.png" group-title="REGIONALES", Sporting Tv Valparaiso
 http://movilstream.digitalproserver.com/sportinghd/sportinghdvivo/mp4:livestream2/playlist.m3u8?
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/ucv_tv_cl_zpsquly9vvk.png" , UCV Gran Valparaiso
