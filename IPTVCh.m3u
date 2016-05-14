@@ -277,7 +277,7 @@ http://tvultimate.mx/live/samsung.php?id=1483&f=.m3u8
 #EXTINF:-1 tvg-id="CBeebies" tvg-name="CBeebies" tvg-logo="CBeebies" group-title="INFANTILES",CBeebies
 http://tvultimate.mx/live/samsung.php?id=1455&f=.m3u8
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="Discovery Kids" group-title="INFANTILES",Discovery Kids
-http://tvultimate.mx/live/samsung.php?id=1452&f=.m3u8
+http://sicostopo.com/ichi134/view.m3u8?canal=303&f=.m3u8
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="Disney Channel" group-title="INFANTILES",Disney Channel
 http://tvultimate.mx/live/samsung.php?id=1467&f=.m3u8
 #EXTINF:-1 tvg-id="Disney Jr" tvg-name="Disney Jr" tvg-logo="Disney Jr" group-title="INFANTILES",Disney Jr
@@ -303,7 +303,7 @@ http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 , HBO
 http://199.180.114.174:88/files/hbo11.m3u8
 #EXTINF:-1 , HBO 2
-http://199.180.114.174:88/files/hbo222222.m3u8
+http://199.180.114.174:88/files/hbo235.m3u8
 #EXTINF:-1, HBO Family
 http://199.180.114.174:88/files/hbofamily453.m3u8
 #EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="AMC HD" group-title="PELICULAS-SERIES",AMC HD
@@ -364,13 +364,13 @@ http://199.180.114.174:88/files/ufc972.m3u8
 #EXTINF:-1 tvg-id="  AyM Sports" tvg-name="AyM Sports" tvg-logo="AyM Sports" group-title="DEPORTES",AyM Sports
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL576/PROFILE03.m3u8?
 #EXTINF:-1 tvg-id="  Es beIN Sports " tvg-name=" beIN Sports" tvg-logo="Bein Sports" group-title="DEPORTES",Bein Sports España
-https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
+http://d2akrnroe2tvk3.cloudfront.net/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b728000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="Combate" group-title="DEPORTES",Combate
 http://server1.livestreaming.ninja:1935/live/combate755/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",Comcast SportsNet CSN
 http://104.236.132.67:9191/live/PlayKodi-8PKS/token-klnjn87rh4fefdfcwdi4u3o8eu3uhdbnecwdjnec/184.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="Dubai Sports" group-title="DEPORTES",Dubai Sports
-http://104.236.132.67:9191/live/PlayKodi-9PKS/token-8mdki3738qprfkskdnff4r89289ywhydjoiwdnefref43/11.m3u8
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/chunklist_b1200000.m3u8?
 #EXTINF:-1 tvg-id="  Canal ESPN+ LatinoampÂ©rica" tvg-name="Canal ESPN+ LatinoampÂ©rica" tvg-logo="ESPN + Mexico" group-title="DEPORTES",ESPN + Mexico
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:-1 tvg-id="  ESPN 2" tvg-name="ESPN 2" tvg-logo="ESPN 2 Mexico" group-title="DEPORTES",ESPN 2 Mexico
