@@ -38,7 +38,7 @@ http://cdn.ztreaming.com/t13radio/mobile.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", Canales Nacionales
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/Lared.png" group-title="NACIONALES",La Red 
-http://live-lared.cdn.nedmedia.io/lared/smil:lared.smil/chunklist_b1398304.m3u8
+http://live-lared.cdn.nedmedia.io/lared/smil:lared.smil/chunklist_b2129163.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/UCV_HD_2014.png" group-title="NACIONALES",UCV 
 http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/TvnHD.png" group-title="NACIONALES",TVN 
@@ -408,7 +408,18 @@ http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8?
 http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
 #EXTINF:-1, NBA Tv
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
-
+#EXTINF:-1, PAC 12 Network
+http://xrxs.net/video/live-p12netw-1164.m3u8
+#EXTINF:-1, PAC 12 Network Arizona
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+#EXTINF:-1, PAC 12 Network Bay Area
+http://xrxs.net/video/live-p12baya-1164.m3u8
+#EXTINF:-1, PAC 12 Network Los Angeles
+http://xrxs.net/video/live-p12losa-1164.m3u8
+#EXTINF:-1, PAC 12 Network Oregon
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+#EXTINF:-1, PAC 12 Network Washington
+http://xrxs.net/video/live-p12wash-1164.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", << CULTURA & DOCUMENTALES >>
 http://streaming203.radionomy.com:80/City-Dance-Radio
