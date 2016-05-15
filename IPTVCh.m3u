@@ -270,31 +270,31 @@ https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", << INFANTILES >>
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="Boomerang" group-title="INFANTILES",Boomerang
-http://tvultimate.mx/live/samsung.php?id=1491&f=.m3u8
+http://sicostopo.com/ichi134/view.m3u8?canal=324&f=.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="Cartoon Network" group-title="INFANTILES",Cartoon Network
-http://tvultimate.mx/live/samsung.php?id=1483&f=.m3u8
+http://sicostopo.com/ichi134/view.m3u8?canal=320&f=.m3u8
 #EXTINF:-1 tvg-id="CBeebies" tvg-name="CBeebies" tvg-logo="CBeebies" group-title="INFANTILES",CBeebies
-http://tvultimate.mx/live/samsung.php?id=1455&f=.m3u8
+http://sicostopo.com/ichi134/view.m3u8?canal=305&f=.m3u8
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="Discovery Kids" group-title="INFANTILES",Discovery Kids
 http://sicostopo.com/ichi134/view.m3u8?canal=303&f=.m3u8
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="Disney Channel" group-title="INFANTILES",Disney Channel
-http://tvultimate.mx/live/samsung.php?id=1467&f=.m3u8
+http://sicostopo.com/ichi134/view.m3u8?canal=312&f=.m3u8
 #EXTINF:-1 tvg-id="Disney Jr" tvg-name="Disney Jr" tvg-logo="Disney Jr" group-title="INFANTILES",Disney Jr
-http://tvultimate.mx/live/samsung.php?id=1460&f=.m3u8
+http://sicostopo.com/ichi134/view.m3u8?canal=308&f=.m3u8
 #EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="Disney XD" group-title="INFANTILES",Disney XD
-http://tvultimate.mx/live/samsung.php?id=1487&f=.m3u8
+http://sicostopo.com/ichi134/view.m3u8?canal=322&f=.m3u8
 #EXTINF:-1 tvg-id="Nick HD" tvg-name="Nick HD" tvg-logo="Nick HD" group-title="INFANTILES",Nick HD
-http://tvultimate.mx/live/samsung.php?id=1475&f=.m3u8
+http://sicostopo.com/ichi134/view.m3u8?canal=315&f=.m3u8
 #EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="Nick Jr" group-title="INFANTILES",Nick Jr
-http://tvultimate.mx/live/samsung.php?id=1463&f=.m3u8
+http://sicostopo.com/ichi134/view.m3u8?canal=310&f=.m3u8
 #EXTINF:-1 tvg-id="Canal Nickelodeon" tvg-name="Canal Nickelodeon" tvg-logo="Nickelodeon (Nick)" group-title="INFANTILES",Nickelodeon (Nick)
-http://tvultimate.mx/live/samsung.php?id=1480&f=.m3u8
+http://sicostopo.com/ichi134/view.m3u8?canal=317&f=.m3u8
 #EXTINF:-1 tvg-id="NickToons" tvg-name="NickToons" tvg-logo="NickToons" group-title="INFANTILES",NickToons
-http://tvultimate.mx/live/samsung.php?id=1472&f=.m3u8
+http://sicostopo.com/ichi134/view.m3u8?canal=314&f=.m3u8
 #EXTINF:-1 tvg-id="TIIN" tvg-name="TIIN" tvg-logo="TIIN" group-title="INFANTILES",TIIN
-http://tvultimate.mx/live/samsung.php?id=1495&f=.m3u8
+http://sicostopo.com/ichi134/view.m3u8?canal=325&f=.m3u8
 #EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="Tooncast" group-title="INFANTILES",Tooncast
-http://tvultimate.mx/live/samsung.php?id=1499&f=.m3u8
+http://sicostopo.com/ichi134/view.m3u8?canal=328&f=.m3u8
 
 
 #EXTINF:0tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", << PELICULAS-SERIES >>
