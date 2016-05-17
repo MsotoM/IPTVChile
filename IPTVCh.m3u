@@ -1,6 +1,6 @@
 IPTVCh.m3u
 #EXTM3U
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png",Lista IPTV Chile | EN MANTENCION (15/05/2016) Hora 00:08 - PROHIBIDA SU VENTA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png",Lista IPTV Chile | EN MANTENCION (17/05/2016) Hora 14:28 - PROHIBIDA SU VENTA
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", Mas informacion en listaiptvchile.hol.es
 http://streaming203.radionomy.com:80/City-Dance-Radio
@@ -102,8 +102,6 @@ http://wow2.cl.digitalproserver.com/girovisual/girovisualvivomp4:livestream2/pla
 rtsp://video.crearchile.com:8080/live/canal2.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/CamaraDiputadosTv.jpg" group-title="REGIONALES", Camara de Diputados Valparaiso
 http://camara.ztreaming.com:80/camara8/streamcam8.sdp/playlist.m3u8?
-#EXTINF:-1, Tv Senado
-http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/sporting_zpsbqeg5in1.png" group-title="REGIONALES", Sporting Tv Valparaiso
 http://movilstream.digitalproserver.com/sportinghd/sportinghdvivo/mp4:livestream2/playlist.m3u8?
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/ucv_tv_cl_zpsquly9vvk.png" , UCV Gran Valparaiso
@@ -598,7 +596,7 @@ http://5.189.152.43:11757/live/PlayKodi-8PKS/token-klnjn87rh4fefdfcwdi4u3o8eu3uh
 #EXTINF:-1 tvg-id="  UK EuroNews" tvg-name="UK EuroNews" tvg-logo="Euronews UK" group-title="NOTICIAS",Euronews UK
 http://5.189.152.43:11757/live/PlayKodi-9PKS/token-8mdki3738qprfkskdnff4r89289ywhydjoiwdnefref43/145.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="cnn" tvg-logo="cnn" group-title="NOTICIAS",CNN Internacional
-http://5.189.152.43:11757/live/PlayKodi-10PKS/token-i839fkewieu83eujejdn2wnsn98ehd9823dwkdk/146.m3u8
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_150.sdp/media_7419.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png" , << MEXICO >>
 http://streaming203.radionomy.com:80/City-Dance-Radio
