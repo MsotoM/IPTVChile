@@ -74,7 +74,7 @@ http://evo.eltelon.com:443/live/dch-tv/playlist.m3u8?MegaIPTVArgentina
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/antofagasta_tv_cl_zps9q2wlmjw.png" group-title="REGIONALES",Antofagasta Tv Antofagasta
 http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/chunklist_w949479730_b2200000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/am_zpslbw9inor.png" group-title="REGIONALES",Am Antofagasta
-http://190.107.176.167:1935/live/am-tv/playlist.m3u8
+http://190.107.176.55:1935/live/am-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/cmds_zpss1x4t0fg.png" group-title="REGIONALES", CMDS Antofagasta 
 http://190.107.176.167:1935/live/corporacion-antofagasta/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/Calamatv.jpg" group-title="REGIONALES", Calama Tv
@@ -204,6 +204,8 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacal
 http://tv.portalfoxmix.club:1935/8042/8042/playlist.m3u8
 #EXTINF:0, Los Simpsons 24/7
 rtmp://198.255.17.34:1935/live?gDHSoED7OR83ArPFDFfaKxRCcIDsJydx/live_mega_simpson
+#EXTINF:0, Cinema Tv Play
+http://servicioamerica.net:1935/cinematvplays/cinematvplays/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", << ENTRETENIMIENTO >>
 http://streaming.megatopradio.com:8100/megatopradio
