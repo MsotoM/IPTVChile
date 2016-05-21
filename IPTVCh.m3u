@@ -1,13 +1,13 @@
 IPTVCh.m3u
 #EXTM3U
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png",Lista IPTV Chile | EN MANTENCION (15/05/2016) Hora 00:08 - PROHIBIDA SU VENTA
-https://raw.githubusercontent.com/teran91/IPTVChile/master/master.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png",Lista IPTV Chile | EN MANTENCION (20/05/2016) Hora 22:48 - PROHIBIDA SU VENTA
+http://streaming.megatopradio.com:8100/megatopradio
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", Mas informacion en listaiptvchile.hol.es
-https://raw.githubusercontent.com/teran91/IPTVChile/master/master.m3u8
+http://streaming.megatopradio.com:8100/megatopradio
 
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png ", Agenda Deportiva En Vivo (solo partidos)
-https://raw.githubusercontent.com/teran91/IPTVChile/master/master.m3u8
+http://streaming.megatopradio.com:8100/megatopradio
 #EXTINF:0 tvg-logo="http://s3.amazonaws.com/design_images/images/1743/v.png?1347471596", Canales Webdel.futbol
 https://raw.githubusercontent.com/teran91/IPTVChile/master/webdelfutbol.m3u
 #EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-fQjf9xuHS1E/Vm-hBpsFJnI/AAAAAAAAAA0/og7MvcJuEgI/s1600/futbol_chile.png", Canales FutbolChile.net
@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/teran91/IPTVChile/master/futbolchile.m3u
 
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png",Radios Chilenas
-https://raw.githubusercontent.com/teran91/IPTVChile/master/master.m3u8
+http://streaming.megatopradio.com:8100/megatopradio
 #EXTINF:0 channelId="-1" tvg-logo="http://static.tumblr.com/473271a1eccb10bee4b9b8f67b719b11/tkcf9vx/V3ymryozu/tumblr_static_logo_carolina_cl", Radio Carolina (Chile)
 http://unlimited5-cl.dps.live/freakytv/freakytv.smil/freakytv5-hls/livestream2/chunks.m3u8
 #EXTINF:0 channelId="-1" tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/s98741q_zps0vnfywxj.png"  , Radio Tiempo (Chile)
@@ -35,7 +35,7 @@ http://movilstream.digitalproserver.com/coopetv/coopetvvivo/coopetv.smil/playlis
 http://cdn.ztreaming.com/t13radio/mobile.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", Canales Nacionales
-http://streaming203.radionomy.com:80/City-Dance-Radio
+http://streaming.megatopradio.com:8100/megatopradio
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/Lared.png" group-title="NACIONALES",La Red 
 http://live-lared.cdn.nedmedia.io/lared/smil:lared.smil/chunklist_b2129163.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/UCV_HD_2014.png" group-title="NACIONALES",UCV 
@@ -54,9 +54,11 @@ http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/logocdo.png"  group-title="NACIONALES", CDO HD
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/24_Horas_TVN_corto.png/150px-24_Horas_TVN_corto.png" group-title="NACIONALES",24 Horas
+http://edge-101-cl.edge.mdstrm.com/tvn-live/_definst_/smil:afb76bb126ed1661821563583d2c23f3/chunklist_b800000.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png",Canales Regionales
-http://streaming203.radionomy.com:80/City-Dance-Radio
+http://streaming.megatopradio.com:8100/megatopradio
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/vemastv_zpsyhmymsvg.png" group-title="REGIONALES", Mas Tv Arica 
 http://201.218.145.21:1935/Mastv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/morrovision_zpsgualkdpl.png" group-title="REGIONALES", Morro Vision Arica 
@@ -195,7 +197,7 @@ http://cluster.ztreaming.com:80/tser5/tser5.sdp/playlist.m3u8
 http://evo.eltelon.com:443/live/soberania/chunklist_w725687300.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png" , ZONA OCIO
-http://streaming203.radionomy.com:80/City-Dance-Radio
+http://streaming.megatopradio.com:8100/megatopradio
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/MsotoM/canal/master/anime.png",CANAL ANIME
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/Sin-título-12.png" , Super Noche de Positiva Fm
@@ -204,7 +206,7 @@ http://tv.portalfoxmix.club:1935/8042/8042/playlist.m3u8
 rtmp://198.255.17.34:1935/live?gDHSoED7OR83ArPFDFfaKxRCcIDsJydx/live_mega_simpson
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", << ENTRETENIMIENTO >>
-http://streaming203.radionomy.com:80/City-Dance-Radio
+http://streaming.megatopradio.com:8100/megatopradio
 #EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="A&E" group-title="ENTRETENIMIENTO",A&E
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="AXN" group-title="ENTRETENIMIENTO",AXN
@@ -265,7 +267,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", << INFANTILES >>
-http://streaming203.radionomy.com:80/City-Dance-Radio
+http://streaming.megatopradio.com:8100/megatopradio
 #EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="Boomerang" group-title="INFANTILES",Boomerang
 http://sicostopo.com/ichi134/view.m3u8?canal=324&f=.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="Cartoon Network" group-title="INFANTILES",Cartoon Network
@@ -295,7 +297,7 @@ http://sicostopo.com/ichi134/view.m3u8?canal=328&f=.m3u8
 
 
 #EXTINF:0tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", << PELICULAS-SERIES >>
-http://streaming203.radionomy.com:80/City-Dance-Radio
+http://streaming.megatopradio.com:8100/megatopradio
 #EXTINF:-1 , HBO
 http://199.180.114.174:88/files/hbo11.m3u8
 #EXTINF:-1 , HBO 2
@@ -354,7 +356,7 @@ https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", << DEPORTES >>
-http://streaming203.radionomy.com:80/City-Dance-Radio
+http://streaming.megatopradio.com:8100/megatopradio
 #EXTINF:-1 tvg-id="UFC Network"  tvg-name= "UFC Network" tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/logo-baja.png" group-title="DEPORTES", UFC Network
 http://199.180.114.174:88/files/ufc972.m3u8
 #EXTINF:-1, Claro Sports
@@ -419,7 +421,7 @@ http://xrxs.net/video/live-p12oreg-1164.m3u8
 http://xrxs.net/video/live-p12wash-1164.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", << CULTURA & DOCUMENTALES >>
-http://streaming203.radionomy.com:80/City-Dance-Radio
+http://streaming.megatopradio.com:8100/megatopradio
 #EXTINF:-1 tvg-id="  Animal Planet" tvg-name="Animal Planet" tvg-logo="Animal Planet" group-title="CULTURA-DOCUMENTAL",Animal Planet
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE03.m3u8
 #EXTINF:-1 tvg-id="  Discovery Channel" tvg-name="Discovery Channel" tvg-logo="Discovery Channel" group-title="CULTURA-DOCUMENTAL",Discovery Channel
@@ -493,7 +495,7 @@ http://f.dc.edge.2.christianworldmedia.com:1935/teledunamis/mp4:teledunamis/play
 
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", << MUSICA >>
-http://streaming203.radionomy.com:80/City-Dance-Radio
+http://streaming.megatopradio.com:8100/megatopradio
 #EXTINF:-1, Q Musica
 mms://streamqm.uigc.net/qmusica
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/CTV_LOGO.png/245px-CTV_LOGO.png" ,CANTINAZO
@@ -571,7 +573,7 @@ http://tst.es.flash.glb.ipercast.net/tst.es-live/live/.m3u8
 
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", << NOTICIAS >>
-http://streaming203.radionomy.com:80/City-Dance-Radio
+http://streaming.megatopradio.com:8100/megatopradio
 #EXTINF:-1 tvg-id="  Canal NHK World" tvg-name="Canal NHK World" tvg-logo="NHK World" group-title="NOTICIAS",NHK World
 http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
 #EXTINF:-1 tvg-id="  Russia Today (North America) (RT)" tvg-name="Russia Today (North America) (RT)" tvg-logo="Russia_Today_3.PNG" group-title="NOTICIAS",RT Russia Today
@@ -598,7 +600,7 @@ http://5.189.152.43:11757/live/PlayKodi-9PKS/token-8mdki3738qprfkskdnff4r89289yw
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_150.sdp/media_7419.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png" , << MEXICO >>
-http://streaming203.radionomy.com:80/City-Dance-Radio
+http://streaming.megatopradio.com:8100/megatopradio
 #EXTINF:-1 tvg-id="  Az Corazon" tvg-name="Az Corazon" tvg-logo="Az Corazon" group-title="MEXICO",Az Corazon
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL45/PROFILE03.m3u8?
 #EXTINF:-1 tvg-id="  Azteca 7" tvg-name="Azteca 7" tvg-logo="Azteca 7" group-title="MEXICO",Azteca 7
@@ -689,7 +691,7 @@ rtmp://200.52.193.57:1935/live/unique/live_2650
 http://74.222.3.185:1935/live/ngrp:trecevision_all/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", << EUA (USA) >>
-http://streaming203.radionomy.com:80/City-Dance-Radio
+http://streaming.megatopradio.com:8100/megatopradio
 #EXTINF:-1 tvg-id="  Consumer News & Business Channel (CNBC)" tvg-name="Consumer News & Business Channel (CNBC)" tvg-logo="cnbc_logo.jpg" group-title="EUA (USA)",CNBC
 http://c004.p124.edgesuite.net/i/c004/cnbc_1@137788/index_1300_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="  z" tvg-name="" tvg-logo="4a01ea7476db9f0320dfc05db27854c4.png" group-title="EUA (USA)",ABC News
@@ -726,7 +728,7 @@ http://208.86.20.109:8081/live/2400.stream/playlist.m3u8
 http://bcoveliveios-i.akamaihd.net/hls/live/207141/268012959001/WFTV_EVENTLIVE1/WFTV_EVENTLIVE1_800.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png" , << ESPAÑA >>
-http://streaming203.radionomy.com:80/City-Dance-Radio
+http://streaming.megatopradio.com:8100/megatopradio
 #EXTINF:-1 tvg-id="  ES Atres Series" tvg-name="ES Atres Series" tvg-logo="A3S" group-title="ESPAÑA",A3S
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 #EXTINF:-1 tvg-id="  Andalucpa TV" tvg-name="Andalucpa TV" tvg-logo="Andalucpa TV" group-title="ESPAÑA",Andalucpa TV
@@ -777,7 +779,7 @@ http://5.189.152.43:11757/live/PlayKodi-4PKS/token-kkep3994euhsldmmldwwe9ei3893j
 http://iphonelive.rtve.es/24H_LV3_IPH/24H_LV3_IPH.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", << CANADA >>
-http://streaming203.radionomy.com:80/City-Dance-Radio
+http://streaming.megatopradio.com:8100/megatopradio
 #EXTINF:-1 tvg-id="  z" tvg-name="" tvg-logo="498px-CBC-Television-Logo.png" group-title="CANADA",CBC
 http://192.99.201.121:1935/eu2/cbc.stream/default.m3u8
 #EXTINF:-1 tvg-id="  z" tvg-name="" tvg-logo="commercial-6 (1).png" group-title="CANADA",TVA Montreal
@@ -792,7 +794,7 @@ https://glblvestu-f.akamaihd.net/i/glblvPSTu_1@80128/master.m3u8?__b__=900&hdnea
 https://glblvestu-f.akamaihd.net/i/glblvestu_1@78149/master.m3u8?__b__=900&hdnea=ip=99.18.68.202~st=1434303944~exp=1434304544~acl=/i/*~id=3f0edb02-c4e5-4596-8950-4331b8ce1baf~hmac=4acbecb511f7c3beaf085123ab9097c7a6acbd5d857fd4cefbfdfb733b666f57
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", << PERU >>
-http://streaming203.radionomy.com:80/City-Dance-Radio
+http://streaming.megatopradio.com:8100/megatopradio
 #EXTINF:-1 tvg-id="  AmpÂ©rica TV" tvg-name="AmpÂ©rica TV" tvg-logo="AmpÂ©rica TV" group-title="PERU",AmpÂ©rica TV
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
 #EXTINF:-1 tvg-id="  ATV" tvg-name="ATV" tvg-logo="ATV" group-title="PERU",ATV
@@ -827,7 +829,7 @@ http://5.189.152.43:11757/live/PlayKodi-6PKS/token-iuh9fh84mx384m7c84fxh0m8fh94h
 http://5.189.152.43:11757/live/PlayKodi-7PKS/token-o723894m2ymbzvzmvlrei397ydhsi2d34kmnajswkjdo4iufd/200.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", << COLOMBIA >>
-http://streaming203.radionomy.com:80/City-Dance-Radio
+http://streaming.megatopradio.com:8100/megatopradio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="F72G3GEW.jpeg" group-title="COLOMBIA",Cable Noticias
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="400x400-logo.png" group-title="COLOMBIA",Canal Antiestres
@@ -843,7 +845,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="0cdcf2642b0477806ce6f4d1e0a21d4c.jpeg" group-title="COLOMBIA",Cantinazo
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="COLOMBIA",Caracol
-http://5.189.152.43:11757/live/PlayKodi-8PKS/token-klnjn87rh4fefdfcwdi4u3o8eu3uhdbnecwdjnec/4.m3u8
+http://latino-webtv.ml/live/caracol.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="imagen_id_5272.jpg" group-title="COLOMBIA",Cosmovision
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="El Tiempo" group-title="COLOMBIA",El Tiempo
@@ -855,7 +857,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="channels-page-_mi-musica.png" group-title="COLOMBIA",Mi Musica HD
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u9
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="rcn.png" group-title="COLOMBIA",RCN
-http://5.189.152.43:11757/live/PlayKodi-9PKS/token-8mdki3738qprfkskdnff4r89289ywhydjoiwdnefref43/202.m3u8
+http://latino-webtv.ml/live/rcn.m3u8?
 #EXTINF:-1 tvg-id="  Canal RCN Novelas" tvg-name="Canal RCN Novelas" tvg-logo="RCN Novelas" group-title="COLOMBIA",RCN Novelas
 http://5.189.152.43:11757/live/PlayKodi-10PKS/token-i839fkewieu83eujejdn2wnsn98ehd9823dwkdk/207.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="KYQBZ.png" group-title="COLOMBIA",Tele Amiga
@@ -887,7 +889,7 @@ http://xcanalzoomtvx.api.channel.livestream.com/3.0/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", << ARGENTINA >>
-http://streaming203.radionomy.com:80/City-Dance-Radio
+http://streaming.megatopradio.com:8100/megatopradio
 #EXTINF:-1 , TV Publica Argentina
 http://sacapunta.eltelon.com/content/tv-publica/playlist.m3u8
 #EXTINF:-1 tvg-id="  C5N" tvg-name="C5N" tvg-logo="C5N" group-title="ARGENTINA",C5N
@@ -946,7 +948,7 @@ http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
 http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u9
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png" , << HONDURAS >>
-http://streaming203.radionomy.com:80/City-Dance-Radio
+http://streaming.megatopradio.com:8100/megatopradio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="images (2).jpg" group-title="HONDURAS",Globo TV
 http://162.212.176.83:8080/globotv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="Logo-Sulavision.png" group-title="HONDURAS",Sulavision
@@ -979,7 +981,7 @@ rtmp://4.31.30.140:1935/live/ playpath=mundotv swfUrl=http://static2.sawlive.tv/
 rtmp://hd.worldkast.com:1935/8506/ playpath=8506 swfUrl=http://control.worldkast.com/system/misc/jwplayer6/jwplayer.flash.swf live=1 pageUrl=http://www.telecatracha.com/2012/02/jbn-tv-internacional-honduras.html
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", << PUERTO RICO >>
-http://streaming203.radionomy.com:80/City-Dance-Radio
+http://streaming.megatopradio.com:8100/megatopradio
 #EXTINF:-1 tvg-id="  Canal WAPA-TV" tvg-name="Canal WAPA-TV" tvg-logo="Wapa" group-title="PUERTO RICO",Wapa
 http://5.189.152.43:11757/live/PlayKodi-4PKS/token-kkep3994euhsldmmldwwe9ei3893j398jkslwkndedm84ol2/209.m3u8
 #EXTINF:-1 tvg-id="  Canal WAPA 2 Deportes" tvg-name="Canal WAPA 2 Deportes" tvg-logo="Wapa 2" group-title="PUERTO RICO",Wapa 2
@@ -998,7 +1000,7 @@ http://5.189.152.43:11757/live/PlayKodi-10PKS/token-i839fkewieu83eujejdn2wnsn98e
 http://5.189.152.43:11757/live/PlayKodi-1PKS/token-902u32h4he3d923oujsu3s8738us1iksp3oex2djiod4uj9/214.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", << REPUBLICA DOMINICANA >>
-http://streaming203.radionomy.com:80/City-Dance-Radio
+http://streaming.megatopradio.com:8100/megatopradio
 #EXTINF:-1 tvg-id="  Canal 7 de Antena Latina (ReppÂºblica Dominicana)" tvg-name="Canal 7 de Antena Latina (ReppÂºblica Dominicana)" tvg-logo="Antena Latina" group-title="REP. DOMINICANA",Antena Latina
 http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
 #EXTINF:-1 tvg-id="  Canal 15 (Digital Quince Telemicro) (ReppÂºblica Dominicana)" tvg-name="Canal 15 (Digital Quince Telemicro) (ReppÂºblica Dominicana)" tvg-logo="Digital 15" group-title="REP. DOMINICANA",Digital 15
@@ -1033,7 +1035,7 @@ https://5315e9fe566ea.streamlock.net/live5/telemicro0505_2_96/playlist.m3u8
 http://5.189.152.43:11757/live/PlayKodi-2PKS/token-kdkkw893jsksndioei802e89e3uehu3e39ju3ido3j/190.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", << GUATEMALA >>
-http://streaming203.radionomy.com:80/City-Dance-Radio
+http://streaming.megatopradio.com:8100/megatopradio
 #EXTINF:-1 tvg-id="  Canal 7 de Guatemala (Televisiete)" tvg-name="Canal 7 de Guatemala (Televisiete)" tvg-logo="" group-title="GUATEMALA",Canal 7 Televesiete
 http://72.46.226.61/live01/canal71/playlist.m3u8
 #EXTINF:-1 tvg-id="  Canal 3 de Guatemala (El Super Canal)" tvg-name="Canal 3 de Guatemala (El Super Canal)" tvg-logo="" group-title="GUATEMALA",Canal 3 El Super Canal
@@ -1046,7 +1048,7 @@ http://iphone-streaming.ustream.tv/ustreamVideo/9556054/streams/live/playlist.m3
 http://162.220.219.35:8081/live/stream1.sdp/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", << EL SALVADOR >>
-http://streaming203.radionomy.com:80/City-Dance-Radio
+http://streaming.megatopradio.com:8100/megatopradio
 #EXTINF:-1 tvg-id="  Canal 12 de El Salvador" tvg-name="Canal 12 de El Salvador" tvg-logo="" group-title="EL SALVADOR",Canal 12
 http://streamup.global.ssl.fastly.net/app/tsltvs-channel/playlist.m3u9
 #EXTINF:-1 tvg-id="  Canal 6 de El Salvador" tvg-name="Canal 6 de El Salvador" tvg-logo="" group-title="EL SALVADOR",Canal 6
@@ -1063,7 +1065,7 @@ http://xtrvnuestasenalx.api.channel.livestream.com/3.0/playlist.m3u8
 http://streamup.global.ssl.fastly.net/app/canal402ess-stream/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", << COSTA RICA >>
-http://streaming203.radionomy.com:80/City-Dance-Radio
+http://streaming.megatopradio.com:8100/megatopradio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="cr.gif" group-title="COSTA RICA",27 TV
 http://cdn.siscompnetwork.com:1935/app/canal27.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="  Canal 11 de Costa Rica" tvg-name="Canal 11 de Costa Rica" tvg-logo="Canal 11" group-title="COSTA RICA",Canal 11
@@ -1090,7 +1092,7 @@ http://k3.usastreams.com:1935/tv33/tv33/playlist.m3u8
 http://199.217.118.90:1935/smotv/stream/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", << ECUADOR >>
-http://streaming203.radionomy.com:80/City-Dance-Radio
+http://streaming.megatopradio.com:8100/megatopradio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="Rts_logo.png" group-title="ECUADOR",RTS Ecuador
 http://d2rcb4pdmqg3cg.cloudfront.net/liverts/smil:liverts.smil/chunklist_b899152.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="Television Nacional" group-title="ECUADOR",Television Nacional
@@ -1101,14 +1103,14 @@ rtmp://ecuastream.net:1935/UCSGHQ/UCSGHQ
 http://5.189.152.43:11757/live/PlayKodi-3PKS/token-8923ejijfs28uehi92iiw8kdlckeywofhso4ow8eid/219.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", << URUGUAY >>
-http://streaming203.radionomy.com:80/City-Dance-Radio
+http://streaming.megatopradio.com:8100/megatopradio
 #EXTINF:-1 tvg-id="  Canal U" tvg-name="Canal U" tvg-logo="Canal U" group-title="URUGUAY",Canal U
 http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 tvg-id="  Canal Once" tvg-name="Canal Once" tvg-logo="Canal Once" group-title="URUGUAY",Canal Once
 http://q.gs/9830047/onceuuruguaytodokodim3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", << PANAMpÂ >>
-http://streaming203.radionomy.com:80/City-Dance-Radio
+http://streaming.megatopradio.com:8100/megatopradio
 #EXTINF:-1 tvg-id=" tvg-name="" tvg-logo="SerTV-Panama-Logo.jpg" group-title="PANAMpÂ",Ser TV
 rtmp://216.224.177.132/live/sertv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="rpc.jpg" group-title="PANAMpÂ",RPC
@@ -1136,7 +1138,7 @@ http://www.streaming507.com:1935/TVBlast/TVBlast/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", << ADULTOS >>
-http://streaming203.radionomy.com:80/City-Dance-Radio
+http://streaming.megatopradio.com:8100/megatopradio
 #EXTINF:-1 tvg-id="  z" tvg-name="" tvg-logo="" group-title="ADULTOS",Passion XXX
 http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
 #EXTINF:-1 tvg-id="  z" tvg-name="" tvg-logo="" group-title="ADULTOS",Private
@@ -1198,4 +1200,4 @@ http://178.33.126.213:1935/cellcast/encoder32/.m3u8
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", Esto es todo... Gracias por preferir la Lista IPTV Chile
-https://github.com/teran91/IPTVChile/raw/master/Coldplay%20-%20Adventure%20Of%20A%20Lifetime
+http://streaming.megatopradio.com:8100/megatopradio
