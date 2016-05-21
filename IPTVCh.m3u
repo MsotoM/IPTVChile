@@ -202,9 +202,9 @@ http://streaming.megatopradio.com:8100/megatopradio
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/Sin-título-12.png" , Super Noche de Positiva Fm
 http://tv.portalfoxmix.club:1935/8042/8042/playlist.m3u8
-#EXTINF:0, Los Simpsons 24/7
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/C-SimpFamily.png", Los Simpsons 24/7
 rtmp://198.255.17.34:1935/live?gDHSoED7OR83ArPFDFfaKxRCcIDsJydx/live_mega_simpson
-#EXTINF:0, Cinema Tv Play
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/CinemaTvPlay.png", Cinema Tv Play
 http://servicioamerica.net:1935/cinematvplays/cinematvplays/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", << ENTRETENIMIENTO >>
