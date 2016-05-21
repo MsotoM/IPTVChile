@@ -132,7 +132,7 @@ http://cdn.ztreaming.com/tustreaming/live2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/logo1_zpskeh6nk1u.png" group-title="REGIONALES", Fm Hot Tv Santiago
 rtmp://evo.eltelon.com:1935/live/fm-hot-tv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/32679_zpskreromvk.png" group-title="REGIONALES",PortalFoxMix Tv Santiago
-http://mediacp.streamingchilenos.cl:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/logo_head_zps7e04gkdx.png" group-title="REGIONALES", NIU Tv Santiago
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist_w224088368_b750000_slesp.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/uestv_zps6rhz9hno.png" group-title="REGIONALES",Uestv Santiago
