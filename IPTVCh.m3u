@@ -110,7 +110,7 @@ http://movilstream.digitalproserver.com/ucvtv2/ucvtv2vivo/ucvtv2.smil/chunklist-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/vtv_zpspdx6gfwt.png" group-title="REGIONALES",VTV Valparaiso y VIÃ±a del Mar
 http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/sexta_zpssstx7vmz.png" group-title="REGIONALES",SextaVision Rancagua
-http://scl.streaminghd.cl/8028/8028/chunklist_w1777070189.m3u8
+http://play.streaminghd.cl/carlos172/carlos172/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/tumblr_inline_mmsyp4OxUu1qz4rgp_zpsas2q2vil.png" group-title="REGIONALES",Fail Army Santiago
 http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/agro_zpszhznrscr.png" group-title="REGIONALES", Agro Tv Santiago
