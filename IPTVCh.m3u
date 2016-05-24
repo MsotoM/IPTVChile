@@ -500,8 +500,6 @@ http://f.dc.edge.2.christianworldmedia.com:1935/teledunamis/mp4:teledunamis/play
 http://streaming.megatopradio.com:8100/megatopradio
 #EXTINF:-1, Q Musica
 mms://streamqm.uigc.net/qmusica
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/CTV_LOGO.png/245px-CTV_LOGO.png" ,CANTINAZO
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="http://www.tigomusic.co/sites/music.co/files/logo_music.png",TIGO MUSIC
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
 #EXTINF:-1,TRENDY MUSICA
