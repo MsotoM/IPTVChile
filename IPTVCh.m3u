@@ -797,6 +797,8 @@ https://glblvestu-f.akamaihd.net/i/glblvestu_1@78149/master.m3u8?__b__=900&hdnea
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", << PERU >>
 http://streaming.megatopradio.com:8100/megatopradio
+#EXTINF:0, TV Peru
+http://iphone-streaming.ustream.tv/uhls/17419715/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 tvg-id="  AmpÂ©rica TV" tvg-name="AmpÂ©rica TV" tvg-logo="AmpÂ©rica TV" group-title="PERU",AmpÂ©rica TV
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
 #EXTINF:-1 tvg-id="  ATV" tvg-name="ATV" tvg-logo="ATV" group-title="PERU",ATV
