@@ -500,8 +500,6 @@ http://f.dc.edge.2.christianworldmedia.com:1935/teledunamis/mp4:teledunamis/play
 http://streaming.megatopradio.com:8100/megatopradio
 #EXTINF:-1, Q Musica
 mms://streamqm.uigc.net/qmusica
-#EXTINF:-1 tvg-logo="http://www.tigomusic.co/sites/music.co/files/logo_music.png",TIGO MUSIC
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
 #EXTINF:-1,TRENDY MUSICA
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canales de Musica", Dream
@@ -512,8 +510,6 @@ rtmp://stream.smcloud.net/live2/best/best_720p
 http://www.djing.com/tv/ibiza.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canales de Musica", Film on TV
 http://204.107.26.252:1935/live/691.high.stream/HasBahCa.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales de Musica", SI TV
-http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canales de Musica", Virgin TV
 http://wow01.105.net/live/virgin1/.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canales de Musica", Heavy Metal TV
@@ -857,7 +853,7 @@ http://xhogartvx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="Lifedesign" group-title="COLOMBIA",Lifedesign
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="channels-page-_mi-musica.png" group-title="COLOMBIA",Mi Musica HD
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u9
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8mkm
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="rcn.png" group-title="COLOMBIA",RCN
 http://latino-webtv.ml/live/rcn.m3u8?
 #EXTINF:-1 tvg-id="  Canal RCN Novelas" tvg-name="Canal RCN Novelas" tvg-logo="RCN Novelas" group-title="COLOMBIA",RCN Novelas
@@ -892,8 +888,6 @@ http://xcanalzoomtvx.api.channel.livestream.com/3.0/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", << ARGENTINA >>
 http://streaming.megatopradio.com:8100/megatopradio
-#EXTINF:-1 , TV Publica Argentina
-http://sacapunta.eltelon.com/content/tv-publica/playlist.m3u8
 #EXTINF:-1 tvg-id="  C5N" tvg-name="C5N" tvg-logo="C5N" group-title="ARGENTINA",C5N
 rtmp://c5n.stweb.tv:1935/c5n/live
 #EXTINF:-1 tvg-id="  Canal 9 Parana" tvg-name="Canal 9 Parana" tvg-logo="Canal 9 Parana" group-title="ARGENTINA",Canal 9 Parana
@@ -972,7 +966,7 @@ rtmp://live.audiotvserver.com:1935/livemedia/ playpath=canal21 swfUrl=http://sta
 #EXTINF:-1 tvg-id="  z" tvg-name="" tvg-logo="Cholusat Sur" group-title="HONDURAS",Cholusat Sur
 rtmp://live.audiotvserver.com:1935/livemedia playpath=cholusat swfUrl=http://www.honduras504.com/ayv/player.swf live=1 pageUrl=http://www.honduras504.com/tv/36/CholusatSur
 #EXTINF:-1 tvg-id="  z" tvg-name="" tvg-logo="Si TV" group-title="HONDURAS",Si TV
-rtmp://hd.worldkast.com:1935/8436/ playpath=8436 swfUrl=http://static2.sawlive.tv/player.swf? live=1 pageUrl=http://www.lempiratv.com/si-tv.html
+http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
 #EXTINF:-1 tvg-id="  z" tvg-name="" tvg-logo="Ten Canal 10" group-title="HONDURAS",Ten Canal 10
 rtmp://control1.worldkast.com:1935/canal10/ playpath=canal10 swfUrl=http://www.honduras504.com/ayv/player.swf live=1 pageUrl=http://www.
 #EXTINF:-1 tvg-id="  z" tvg-name="" tvg-logo="Ebenezer" group-title="HONDURAS",Ebenezer
@@ -1113,7 +1107,7 @@ http://q.gs/9830047/onceuuruguaytodokodim3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", << PANAMpÂ >>
 http://streaming.megatopradio.com:8100/megatopradio
-#EXTINF:-1 tvg-id=" tvg-name="" tvg-logo="SerTV-Panama-Logo.jpg" group-title="PANAMpÂ",Ser TV
+#EXTINF:-1 tvg-id=" tvg-name="" tvg-logo="SerTV-Panama-Logo.jpg" group-title="PANAMpÂ", Ser TV
 rtmp://216.224.177.132/live/sertv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="rpc.jpg" group-title="PANAMpÂ",RPC
 http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
