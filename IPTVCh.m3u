@@ -17,21 +17,21 @@ https://raw.githubusercontent.com/teran91/IPTVChile/master/futbolchile.m3u
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png",Radios Chilenas
 http://streaming.megatopradio.com:8100/megatopradio
-#EXTINF:0 channelId="-1" tvg-logo="http://static.tumblr.com/473271a1eccb10bee4b9b8f67b719b11/tkcf9vx/V3ymryozu/tumblr_static_logo_carolina_cl", Radio Carolina (Chile)
+#EXTINF:0  tvg-logo="http://static.tumblr.com/473271a1eccb10bee4b9b8f67b719b11/tkcf9vx/V3ymryozu/tumblr_static_logo_carolina_cl", Radio Carolina (Chile)
 http://unlimited5-cl.dps.live/freakytv/freakytv.smil/freakytv5-hls/livestream2/chunks.m3u8
-#EXTINF:0 channelId="-1" tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/s98741q_zps0vnfywxj.png"  , Radio Tiempo (Chile)
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/s98741q_zps0vnfywxj.png"  , Radio Tiempo (Chile)
 http://movilstream.digitalproserver.com/tiempotv/tiempotvvivo/tiempotv.smil/playlist.m3u8
-#EXTINF:0 channelId="-1" tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/84184_zpsd0gzhp6h.png" , Radio Duna (Chile)
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/84184_zpsd0gzhp6h.png" , Radio Duna (Chile)
 http://wow1.dallas.digitalproserver.com/dunatv/dunatvvivo/dunatv.smil/playlist.m3u8
-#EXTINF:0 channelId="-1" tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/logo-zero-light_zpstwvtq006.png", Radio Zero (Chile)
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/logo-zero-light_zpstwvtq006.png", Radio Zero (Chile)
 http://movilstream.digitalproserver.com/zerotv/zerotvvivo/zerotv.smil/playlist.m3u8
-#EXTINF:0 channelId="-1" tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/mqdefault_zpsdijxexti.jpg", Radio La Clave (Chile)
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/mqdefault_zpsdijxexti.jpg", Radio La Clave (Chile)
 http://movilstream.digitalproserver.com/laclavetv/laclavetvvivo/laclavetv.smil/playlist.m3u8
-#EXTINF:0 channelId="-1" tvg-logo="http://www.adnradio.cl/im/logo100.gif" , Radio ADN (Chile)
+#EXTINF:0 tvg-logo="http://www.adnradio.cl/im/logo100.gif" , Radio ADN (Chile)
 http://movilstream.digitalproserver.com/adn/adnvivo/adn.smil/playlist.m3u8
-#EXTINF:0 channelId="-1" tvg-logo="http://files.csvrenca.webnode.cl/200001127-92f9593f5c/Radio-Cooperativa.jpg" , Radio Cooperativa (Chile)
+#EXTINF:0 tvg-logo="http://files.csvrenca.webnode.cl/200001127-92f9593f5c/Radio-Cooperativa.jpg" , Radio Cooperativa (Chile)
 http://movilstream.digitalproserver.com/coopetv/coopetvvivo/coopetv.smil/playlist.m3u8
-#EXTINF:0 channelId="-1"  tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/Tele13_Radio_zpspn4m8raf.png", Tele13 Radio (Chile)
+#EXTINF:0  tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/Tele13_Radio_zpspn4m8raf.png", Tele13 Radio (Chile)
 http://cdn.ztreaming.com/t13radio/mobile.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", Canales Nacionales
@@ -180,7 +180,7 @@ http://wow2.cl.digitalproserver.com/inet2/inet2vivo/inet2.smil/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/canal5_zpsy1rplyz7.png" group-title="REGIONALES",Canal 5 Puerto Montt
 http://iphone-streaming.ustream.tv/ustreamVideo/16911585/streams/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/550353471044464640/HUBCULy7.jpeg" group-title="REGIONALES",RTV Canal 2 Castro
-http://streamradiohd.com:1935/8188/8188/playlist.m3u8
+http://servers10.com:1935/8280/8280/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/rocco_zpsjjszbdd5.png" group-title="REGIONALES",Rocco Tv Coyhaique
 http://evo.eltelon.com:443/live/rocco-tv/chunklist_w1957411020.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/santamariatv.png" group-title="REGIONALES", Santa Maria Tv Coyhaique
@@ -209,15 +209,15 @@ http://servicioamerica.net:1935/cinematvplays/cinematvplays/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", << ENTRETENIMIENTO >>
 http://streaming.megatopradio.com:8100/megatopradio
-#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="A&E" group-title="ENTRETENIMIENTO",A&E
+#EXTINF:-1 tvg-name="A&E HD" tvg-logo="A&E" group-title="ENTRETENIMIENTO",A&E
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="AXN" group-title="ENTRETENIMIENTO",AXN
+#EXTINF:-1 tvg-name="AXN" tvg-logo="AXN" group-title="ENTRETENIMIENTO",AXN
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-id="Canal ¡Hola! TV" tvg-name="Canal ¡Hola! TV" tvg-logo="¡Hola! TV" group-title="ENTRETENIMIENTO", ¡Hola! TV
+#EXTINF:-1 tvg-name="Canal ¡Hola! TV" tvg-logo="¡Hola! TV" group-title="ENTRETENIMIENTO", ¡Hola! TV
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-id="Antena 3 Internacional" tvg-name="Antena 3 Internacional" tvg-logo="Antena 3 Internacional" group-title="ENTRETENIMIENTO",Antena 3 Internacional
+#EXTINF:-1 tvg-name="Antena 3 Internacional" tvg-logo="Antena 3 Internacional" group-title="ENTRETENIMIENTO",Antena 3 Internacional
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
-#EXTINF:-1 tvg-id="Az Clic" tvg-name="Az Clic" tvg-logo="Az Clic" group-title="ENTRETENIMIENTO",Az Clic 
+#EXTINF:-1  tvg-name="Az Clic" tvg-logo="Az Clic" group-title="ENTRETENIMIENTO",Az Clic 
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL725/PROFILE03.m3u8?
 #EXTINF:-1 tvg-id="Az Corazon" tvg-name="Az Corazon" tvg-logo="Az Corazon" group-title="ENTRETENIMIENTO",Az Corazon
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL250/PROFILE03.m3u8?
@@ -298,7 +298,7 @@ http://sicostopo.com/ichi134/view.m3u8?canal=325&f=.m3u8
 http://sicostopo.com/ichi134/view.m3u8?canal=328&f=.m3u8
 
 
-#EXTINF:0tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", << PELICULAS-SERIES >>
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", << PELICULAS-SERIES >>
 http://streaming.megatopradio.com:8100/megatopradio
 #EXTINF:-1 , HBO
 http://199.180.114.174:88/files/hbo11.m3u8
@@ -690,7 +690,7 @@ http://c004.p124.edgesuite.net/i/c004/cnbc_1@137788/index_1300_av-p.m3u8?sd=10&r
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
 #EXTINF:-1 tvg-id="  z" tvg-name="" tvg-logo="" group-title="EUA (USA)",America TevpÂ© Miami
 http://livestream-f.akamaihd.net/5730046_1190477_4b5c773a_1_1756@82498?v=3.6.0&fp=WIN%2020,0,0,267&r=HVYJU&g=LUQFQPRQNDFN
-#EXTINF:-1 tvg-id="  Cartoon Network (East) (TOON)" tvg-name="Cartoon Network (East) (TOON)" tvg-logo="CARTOON_NETWORK_logo_2012.png" group-title="EUA (USA)",Cartoon Network USA
+#EXTINF:-1 tvg-name="Cartoon Network (East) (TOON)" tvg-logo="CARTOON_NETWORK_logo_2012.png" group-title="EUA (USA)",Cartoon Network USA
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="  Classic Arts Showcase - Boston" tvg-name="Classic Arts Showcase - Boston" tvg-logo="Classic-Arts-Showcase.jpg" group-title="EUA (USA)",Classic Arts Showcase - Boston
 rtmp://streaming.cityofboston.gov/live/cable?b?b*t$
