@@ -100,7 +100,7 @@ http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/LOGO_GIROVISUAL.jpg" group-title="REGIONALES",Giro Visual Quinta Region
 http://wow2.cl.digitalproserver.com/girovisual/girovisualvivomp4:livestream2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/canal2_zpsiwfsrgy0.png" group-title="REGIONALES",Canal 2 San Antonio
-rtsp://video.crearchile.com:8080/live/canal2.mp4
+rtsp://videostreaming.cl:8080/live/canal2.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/CamaraDiputadosTv.jpg" group-title="REGIONALES", Camara de Diputados Valparaiso
 http://camara.ztreaming.com:80/camara8/streamcam8.sdp/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/sporting_zpsbqeg5in1.png" group-title="REGIONALES", Sporting Tv Valparaiso
@@ -114,7 +114,7 @@ http://play.streaminghd.cl/carlos172/carlos172/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/tumblr_inline_mmsyp4OxUu1qz4rgp_zpsas2q2vil.png" group-title="REGIONALES",Fail Army Santiago
 http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/agro_zpszhznrscr.png" group-title="REGIONALES", Agro Tv Santiago
-http://v2movil.tustreaming.cl/tustreaming/live4/playlist.m3u8?
+http://v1.streaminglatinoamerica.com:1935/agrotvweb/agrotvweb/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/maipu_zpsh675y8t4.png" group-title="REGIONALES", Maipu Television
 http://movilstream.digitalproserver.com:1935/maipu/maipuvivo/mp4:livestream2/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/inde_zpsxkru671e.png" group-title="REGIONALES",Independencia Tv Santiago
@@ -138,7 +138,7 @@ http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist_w224088368_b750000_sle
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/uestv_zps6rhz9hno.png" group-title="REGIONALES",Uestv Santiago
 http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/estudio_zpsfnlhlrob.png" group-title="REGIONALES",Estudio Tv Santiago
-rtmp://190.107.176.167:1935/live/estudio-tv
+http://190.107.176.55:1935/live/estudio-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/sentildealuv_zpsyc3mmrcp.png" group-title="REGIONALES", Señal Uc Santiago
 http://www.senaluc.cl:80/playlist/stream.m3u8?s=vdmfcom
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/cesfam_zpsniwj8tf4.png" group-title="REGIONALES",Cesfam Santiago
@@ -1125,21 +1125,21 @@ http://live.cableondasports.com/cos2/media.smil/playlist.m3u8
 http://live.ecotvpanama.com/ecotv/media.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="  z" tvg-name="" tvg-logo="091305d9-a49e-46a0-9bcb-d234ce00452e.png" group-title="PANAMpÂ",Nex TV
 http://190.102.61.118:1935/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="  z" tvg-name="" tvg-logo="TV Blast" group-title="PANAMpÂ",TV Blast
+#EXTINF:-1 tvg-logo="TV Blast" group-title="PANAMpÂ",TV Blast
 http://www.streaming507.com:1935/TVBlast/TVBlast/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", << ADULTOS >>
 http://streaming.megatopradio.com:8100/megatopradio
-#EXTINF:-1 tvg-id="  z" tvg-name="" tvg-logo="" group-title="ADULTOS",Passion XXX
+#EXTINF:-1 tvg-logo="" group-title="Adultos",Passion XXX
 http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
-#EXTINF:-1 tvg-id="  z" tvg-name="" tvg-logo="" group-title="ADULTOS",Private
+#EXTINF:-1 tvg-logo="" group-title="Adultos",Private
 http://publish.thewebstream.co:1935/leved/_definst_/privateCom/playlist.m3u8
-#EXTINF:-1 tvg-id="  z" tvg-name="" tvg-logo="" group-title="ADULTOS",Brazzers TV
+#EXTINF:-1 tvg-logo="" group-title="Adultos",Brazzers TV
 http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
-#EXTINF:-1 tvg-id="  z" tvg-name="" tvg-logo="" group-title="ADULTOS",Korea XXX
+#EXTINF:-1 tvg-logo="" group-title="Adultos",Korea XXX
 rtmp://edge2.everyon.tv/etv2/pld1003
-#EXTINF:-1 tvg-id="  z" tvg-name="" tvg-logo="" group-title="ADULTOS",Olala
+#EXTINF:-1 tvg-logo="" group-title="ADULTOS",Olala
 http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/play_zps6mp3huks.png" group-title="Adultos",Pasiones 
 http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
