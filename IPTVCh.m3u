@@ -1,9 +1,9 @@
 IPTVCh.m3u
 #EXTM3U
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png",Lista IPTV Chile | EN MANTENCION (20/05/2016) Hora 22:48 - PROHIBIDA SU VENTA
-http://streaming.megatopradio.com:8100/megatopradio
+https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/listaiptvchileSD.mp4
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", Mas informacion en listaiptvchile.hol.es
-http://streaming.megatopradio.com:8100/megatopradio
+https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/listaiptvchileSD.mp4
 
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png ", Agenda Deportiva En Vivo (solo partidos)
@@ -12,7 +12,8 @@ http://streaming.megatopradio.com:8100/megatopradio
 https://raw.githubusercontent.com/teran91/IPTVChile/master/webdelfutbol.m3u
 #EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-fQjf9xuHS1E/Vm-hBpsFJnI/AAAAAAAAAA0/og7MvcJuEgI/s1600/futbol_chile.png", Canales FutbolChile.net
 https://raw.githubusercontent.com/teran91/IPTVChile/master/futbolchile.m3u
-
+#EXTINF:0, Evento Deportivo
+https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/EventosdeportivoSD.mp4
 
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png",Radios Chilenas
@@ -1188,8 +1189,8 @@ http://46.105.116.159:1935/cellcast/encoder72/.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/play_zps6mp3huks.png" group-title="Adultos",Babestation Blue
 http://178.33.126.213:1935/cellcast/encoder32/.m3u8
 
-#EXTINF:0, No Disponible Video
-https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
+#EXTINF:0, No Disponible Video 
+https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/NoDisponibleSD.mp4
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", Esto es todo... Gracias por preferir la Lista IPTV Chile
-http://streaming.megatopradio.com:8100/megatopradio
+https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/listaiptvchileSD.mp4
