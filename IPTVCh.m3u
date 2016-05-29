@@ -38,7 +38,7 @@ http://cdn.ztreaming.com/t13radio/mobile.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", Canales Nacionales
 http://streaming.megatopradio.com:8100/megatopradio
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/Lared.png" group-title="NACIONALES",La Red 
-http://live-lared.cdn.nedmedia.io/lared/smil:lared.smil/chunklist_b2129163.m3u8
+http://d21x6rlkgtztws.cloudfront.net/lared/smil:lared.smil/chunklist_b829163.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/UCV_HD_2014.png" group-title="NACIONALES",UCV 
 http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/TvnHD.png" group-title="NACIONALES",TVN 
@@ -68,6 +68,8 @@ http://video.crearchile.com:8080/live/mp4:morrovision.mp4/playlist.m3u8?
 http://scl.streaminghd.cl/8032/8032/chunklist_w1970467867.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/arica_zpssvguoat9.png" group-title="REGIONALES",Arica Tv
 http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8?
+#EXTINF:0, Antofagasta Tv Escolar
+http://evo.eltelon.com:1935/live/corporacion-antofagasta/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/vive_zpsb7x15dmx.png" group-title="REGIONALES", Vive Chile Antofagasta 
 http://190.107.176.167:1935/live/vive-chile-antofagasta/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/dch_tv_cl_zpsekztvb2k.png" group-title="REGIONALES",Digital Channel Tv Antofagasta 
@@ -205,6 +207,9 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacal
 http://tv.portalfoxmix.club:1935/8042/8042/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/CinemaTvPlay.png", Cinema Tv Play
 http://servicioamerica.net:1935/cinematvplays/cinematvplays/playlist.m3u8
+#EXTINF:0, GoPRO TV
+http://sacapunta.eltelon.com/channels/goprotv/mid.m3u8
+
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", << ENTRETENIMIENTO >>
 http://streaming.megatopradio.com:8100/megatopradio
@@ -587,8 +592,6 @@ http://5.189.152.43:11757/live/PlayKodi-8PKS/token-klnjn87rh4fefdfcwdi4u3o8eu3uh
 http://5.189.152.43:11757/live/PlayKodi-9PKS/token-8mdki3738qprfkskdnff4r89289ywhydjoiwdnefref43/145.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="cnn" tvg-logo="cnn" group-title="NOTICIAS",CNN Internacional
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_150.sdp/media_7419.m3u8
-#EXTINF:0, CNN en español
-http://199.180.114.174:8000/live/nueba/nueba/835.ts
 
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png" , << MEXICO >>
@@ -1190,6 +1193,11 @@ http://178.33.126.213:1935/cellcast/encoder32/.m3u8
 
 #EXTINF:0, No Disponible Video 
 https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/NoDisponibleSD.mp4
-
+#EXTINF:0,eventos
+http://s36.copiapop.com/download?e=lbI3GxDqYwzQvf9RRp6l7_dGBodq1BopVfg6V6jwcr6Bw8S6POx-VPhNI3tA-0dyC6epfNGOQj3mvoFsScfoSzFQMe6MJ9bYPT6JuW1xTafzChQq265uE3MQb4aCU-roXn5GEx3d-nm_UEW0JLyVscOKuCKgZWm5LWFhtjzQVFYtHheXmgINQFgb6AZSiGoGwaEdRX47qmSJkJ6KODBOKQ
+#EXTINF:0,no disponible
+http://s35.copiapop.com/download?e=hVOa6eXd30XuYy5xsfufMNDqn9SKFK6k-CUxbU880MXjCNtvjHtGtlpC0Ixtba7tx_Y23jrwC8-I9RZA6W4L9aYEOfQb0GzI1ObXVz8999aun2JthdeQduuUMtbiXXyS8yYhYE6xlD58qXr0DfQPk1-N_uv_cCG3WBDrvbh1_k87NJWHuIcbDUphUA1x1Ul8VmiOA2Kxmi_Hi-l6pYJC9w
+#EXTINF:0,lista
+http://s37.copiapop.com/download?e=CztvNEvzLsYyPx-m6LJe7ZTdZ-tbHzdXCJa_l4k1CMJFF36uota70GmvcS3MNaSlulUj110WCBfMrqe7J3I1bnAXRiV7GBZvASCJmkmGBAhKCR_woTdnIi--uHMepJK7maal-_y97TTUS-V85orCIIsybvPsfpTy_DjzSx3ZFBUHrcpcxYpP7xU2wNq0teqQVFe9euYcfbh5piFqOPkIsw
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", Esto es todo... Gracias por preferir la Lista IPTV Chile
 https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/listaiptvchileSD.mp4
