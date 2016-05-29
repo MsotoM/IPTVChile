@@ -1,6 +1,6 @@
 IPTVCh.m3u
 #EXTM3U
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png",Lista IPTV Chile | EN MANTENCION (20/05/2016) Hora 22:48 - PROHIBIDA SU VENTA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png",Lista IPTV Chile | EN MANTENCION (28/05/2016) Hora 19:00 - PROHIBIDA SU VENTA
 https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/listaiptvchileSD.mp4
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", Mas informacion en listaiptvchile.hol.es
 https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/listaiptvchileSD.mp4
@@ -203,99 +203,97 @@ http://streaming.megatopradio.com:8100/megatopradio
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/Sin-título-12.png" , Super Noche de Positiva Fm
 http://tv.portalfoxmix.club:1935/8042/8042/playlist.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/C-SimpFamily.png", Los Simpsons 24/7 ingles
-http://veetle.com/index.php/hls/streamMbrfast/52dada61bdf13_/stream.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/CinemaTvPlay.png", Cinema Tv Play
 http://servicioamerica.net:1935/cinematvplays/cinematvplays/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", << ENTRETENIMIENTO >>
 http://streaming.megatopradio.com:8100/megatopradio
-#EXTINF:-1 tvg-name="A&E HD" tvg-logo="A&E" group-title="ENTRETENIMIENTO",A&E
+#EXTINF:-1 group-title="ENTRETENIMIENTO",A&E
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-name="AXN" tvg-logo="AXN" group-title="ENTRETENIMIENTO",AXN
+#EXTINF:-1 group-title="ENTRETENIMIENTO",AXN
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-name="Canal ¡Hola! TV" tvg-logo="¡Hola! TV" group-title="ENTRETENIMIENTO", ¡Hola! TV
+#EXTINF:-1 group-title="ENTRETENIMIENTO", ¡Hola! TV
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-name="Antena 3 Internacional" tvg-logo="Antena 3 Internacional" group-title="ENTRETENIMIENTO",Antena 3 Internacional
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Antena 3 Internacional
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
-#EXTINF:-1  tvg-name="Az Clic" tvg-logo="Az Clic" group-title="ENTRETENIMIENTO",Az Clic 
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Az Clic 
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL725/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Az Corazon" tvg-name="Az Corazon" tvg-logo="Az Corazon" group-title="ENTRETENIMIENTO",Az Corazon
+#EXTINF:-1 tvg-logo="Az Corazon" group-title="ENTRETENIMIENTO",Az Corazon
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL250/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="BBC Entertainment" tvg-name="BBC Entertainment" tvg-logo="BBC Entertainment" group-title="ENTRETENIMIENTO",BBC Entertainment
+#EXTINF:-1 tvg-logo="BBC Entertainment" group-title="ENTRETENIMIENTO",BBC Entertainment
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-id="Canal de las Estrellas LatinoampÂ©rica" tvg-name="Canal de las Estrellas Latinoamerica" tvg-logo="Canal de las Estrellas Latinoamerica" group-title="ENTRETENIMIENTO",Canal de las Estrellas Latinoamerica
+#EXTINF:-1 tvg-logo="Canal de las Estrellas Latinoamerica" group-title="ENTRETENIMIENTO",Canal de las Estrellas Latinoamerica
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
-#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="Comedy Central" group-title="ENTRETENIMIENTO",Comedy Central
+#EXTINF:-1 tvg-logo="Comedy Central" group-title="ENTRETENIMIENTO",Comedy Central
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-id="Home and Health" tvg-name="Home and Health" tvg-logo="Discovery Home & Health" group-title="ENTRETENIMIENTO",Discovery Home & Health
+#EXTINF:-1 tvg-logo="Discovery Home & Health" group-title="ENTRETENIMIENTO",Discovery Home & Health
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="Distrito Comedia" tvg-logo="Distrito Comedia" group-title="ENTRETENIMIENTO",Distrito Comedia
+#EXTINF:-1 tvg-logo="Distrito Comedia" group-title="ENTRETENIMIENTO",Distrito Comedia
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-id="E! Entertainment Television" tvg-name="E! Entertainment Television" tvg-logo="E! Entertainment Television" group-title="ENTRETENIMIENTO",E! Entertainment Television
+#EXTINF:-1 tvg-logo="E! Entertainment Television" group-title="ENTRETENIMIENTO",E! Entertainment Television
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-id="El Gourmet" tvg-name="El Gourmet" tvg-logo="El Gourmet" group-title="ENTRETENIMIENTO",El Gourmet
+#EXTINF:-1 tvg-logo="El Gourmet" group-title="ENTRETENIMIENTO",El Gourmet
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-id="UK Fashion TV (FTV)" tvg-name="UK Fashion TV (FTV)" tvg-logo="Fashion TV" group-title="ENTRETENIMIENTO",Fashion TV
+#EXTINF:-1 tvg-logo="Fashion TV" group-title="ENTRETENIMIENTO",Fashion TV
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-id="Fox" tvg-name="Fox" tvg-logo="Fox" group-title="ENTRETENIMIENTO",Fox
+#EXTINF:-1 tvg-logo="Fox" group-title="ENTRETENIMIENTO",Fox
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox Life" tvg-logo="Fox Life" group-title="ENTRETENIMIENTO",Fox Life
+#EXTINF:-1 tvg-logo="Fox Life" group-title="ENTRETENIMIENTO",Fox Life
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="FX" group-title="ENTRETENIMIENTO",FX
+#EXTINF:-1 tvg-logo="FX" group-title="ENTRETENIMIENTO",FX
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-id="Garage TV" tvg-name="Garage TV" tvg-logo="Garage TV" group-title="ENTRETENIMIENTO",Garage TV
+#EXTINF:-1 tvg-logo="Garage TV" group-title="ENTRETENIMIENTO",Garage TV
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-id="Glitz" tvg-name="Glitz" tvg-logo="Glitz" group-title="ENTRETENIMIENTO",Glitz
+#EXTINF:-1 tvg-logo="Glitz" group-title="ENTRETENIMIENTO",Glitz
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="Lifetime" group-title="ENTRETENIMIENTO",Lifetime
+#EXTINF:-1 tvg-logo="Lifetime" group-title="ENTRETENIMIENTO",Lifetime
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="Sony" tvg-name="Sony" tvg-logo="Sony" group-title="ENTRETENIMIENTO",Sony
+#EXTINF:-1 tvg-logo="Sony" group-title="ENTRETENIMIENTO",Sony
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-id="SyFy" tvg-name="SyFy" tvg-logo="SyFy" group-title="ENTRETENIMIENTO",SyFy
+#EXTINF:-1 tvg-logo="SyFy" group-title="ENTRETENIMIENTO",SyFy
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="TBS Very Funny" group-title="ENTRETENIMIENTO",TBS Very Funny
+#EXTINF:-1 tvg-logo="TBS Very Funny" group-title="ENTRETENIMIENTO",TBS Very Funny
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-id="Telemundo" tvg-name="" tvg-logo="" group-title="ENTRETENIMIENTO",Telemundo 33
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",Telemundo 33
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-id="Tlnovelas" tvg-name="Tlnovelas" tvg-logo="Tlnovelas" group-title="ENTRETENIMIENTO",Tlnovelas
+#EXTINF:-1 tvg-logo="Tlnovelas" group-title="ENTRETENIMIENTO",Tlnovelas
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-id="Trendy" tvg-name="" tvg-logo="trendy-400x400-logo.png" group-title="ENTRETENIMIENTO",Trendy
+#EXTINF:-1 tvg-logo="trendy-400x400-logo.png" group-title="ENTRETENIMIENTO",Trendy
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL279/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="TruTV" tvg-name="TruTV" tvg-logo="TruTV" group-title="ENTRETENIMIENTO",TruTV
+#EXTINF:-1 tvg-logo="TruTV" group-title="ENTRETENIMIENTO",TruTV
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-id="Canal TV5MONDE" tvg-name="Canal TV5MONDE" tvg-logo="TV5Monde" group-title="ENTRETENIMIENTO",TV5Monde
+#EXTINF:-1 tvg-logo="TV5Monde" group-title="ENTRETENIMIENTO",TV5Monde
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
-#EXTINF:-1 tvg-id="Unicable" tvg-name="Unicable" tvg-logo="Unicable" group-title="ENTRETENIMIENTO",Unicable
+#EXTINF:-1 tvg-logo="Unicable" group-title="ENTRETENIMIENTO",Unicable
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", << INFANTILES >>
 http://streaming.megatopradio.com:8100/megatopradio
-#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="Boomerang" group-title="INFANTILES",Boomerang
+#EXTINF:-1 tvg-logo="Boomerang" group-title="INFANTILES",Boomerang
 http://sicostopo.com/ichi134/view.m3u8?canal=324&f=.m3u8
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="Cartoon Network" group-title="INFANTILES",Cartoon Network
+#EXTINF:-1 tvg-logo="Cartoon Network" group-title="INFANTILES",Cartoon Network
 http://sicostopo.com/ichi134/view.m3u8?canal=320&f=.m3u8
-#EXTINF:-1 tvg-id="CBeebies" tvg-name="CBeebies" tvg-logo="CBeebies" group-title="INFANTILES",CBeebies
+#EXTINF:-1 tvg-logo="CBeebies" group-title="INFANTILES",CBeebies
 http://sicostopo.com/ichi134/view.m3u8?canal=305&f=.m3u8
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="Discovery Kids" group-title="INFANTILES",Discovery Kids
+#EXTINF:-1 tvg-logo="Discovery Kids" group-title="INFANTILES",Discovery Kids
 http://sicostopo.com/ichi134/view.m3u8?canal=303&f=.m3u8
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="Disney Channel" group-title="INFANTILES",Disney Channel
+#EXTINF:-1 tvg-logo="Disney Channel" group-title="INFANTILES",Disney Channel
 http://sicostopo.com/ichi134/view.m3u8?canal=312&f=.m3u8
-#EXTINF:-1 tvg-id="Disney Jr" tvg-name="Disney Jr" tvg-logo="Disney Jr" group-title="INFANTILES",Disney Jr
+#EXTINF:-1 tvg-logo="Disney Jr" group-title="INFANTILES",Disney Jr
 http://sicostopo.com/ichi134/view.m3u8?canal=308&f=.m3u8
-#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="Disney XD" group-title="INFANTILES",Disney XD
+#EXTINF:-1 tvg-logo="Disney XD" group-title="INFANTILES",Disney XD
 http://sicostopo.com/ichi134/view.m3u8?canal=322&f=.m3u8
-#EXTINF:-1 tvg-id="Nick HD" tvg-name="Nick HD" tvg-logo="Nick HD" group-title="INFANTILES",Nick HD
+#EXTINF:-1 tvg-logo="Nick HD" group-title="INFANTILES",Nick HD
 http://sicostopo.com/ichi134/view.m3u8?canal=315&f=.m3u8
-#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="Nick Jr" group-title="INFANTILES",Nick Jr
+#EXTINF:-1 tvg-logo="Nick Jr" group-title="INFANTILES",Nick Jr
 http://sicostopo.com/ichi134/view.m3u8?canal=310&f=.m3u8
-#EXTINF:-1 tvg-id="Canal Nickelodeon" tvg-name="Canal Nickelodeon" tvg-logo="Nickelodeon (Nick)" group-title="INFANTILES",Nickelodeon (Nick)
+#EXTINF:-1 tvg-logo="Nickelodeon (Nick)" group-title="INFANTILES",Nickelodeon (Nick)
 http://sicostopo.com/ichi134/view.m3u8?canal=317&f=.m3u8
-#EXTINF:-1 tvg-id="NickToons" tvg-name="NickToons" tvg-logo="NickToons" group-title="INFANTILES",NickToons
+#EXTINF:-1 tvg-logo="NickToons" group-title="INFANTILES",NickToons
 http://sicostopo.com/ichi134/view.m3u8?canal=314&f=.m3u8
-#EXTINF:-1 tvg-id="TIIN" tvg-name="TIIN" tvg-logo="TIIN" group-title="INFANTILES",TIIN
+#EXTINF:-1 group-title="INFANTILES",TIIN
 http://sicostopo.com/ichi134/view.m3u8?canal=325&f=.m3u8
-#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="Tooncast" group-title="INFANTILES",Tooncast
+#EXTINF:-1 tvg-logo="Tooncast" group-title="INFANTILES",Tooncast
 http://sicostopo.com/ichi134/view.m3u8?canal=328&f=.m3u8
 
 
@@ -307,102 +305,102 @@ http://199.180.114.174:88/files/hbo11.m3u8
 http://199.180.114.174:88/files/hbo235.m3u8
 #EXTINF:-1, HBO Family
 http://199.180.114.174:88/files/hbofamily453.m3u8
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="AMC HD" group-title="PELICULAS-SERIES",AMC HD
+#EXTINF:-1 tvg-logo="AMC HD" group-title="PELICULAS-SERIES",AMC HD
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-id="Az Cinema" tvg-name="Az Cinema" tvg-logo="Az Cinema" group-title="PELICULAS-SERIES",Az Cinema
+#EXTINF:-1 tvg-logo="Az Cinema" group-title="PELICULAS-SERIES",Az Cinema
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL425/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="Cinecanal (W)" tvg-name="Cinecanal (W)" tvg-logo="Cinecanal" group-title="PELICULAS-SERIES",Cinecanal
+#EXTINF:-1 tvg-logo="Cinecanal" group-title="PELICULAS-SERIES",Cinecanal
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-id="Cinecanal HD" tvg-name="Cinecanal HD" tvg-logo="Cinecanal Plus" group-title="PELICULAS-SERIES",Cinecanal Plus
+#EXTINF:-1 tvg-logo="Cinecanal Plus" group-title="PELICULAS-SERIES",Cinecanal Plus
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-id="Cinemax (O)" tvg-name="Cinemax (O)" tvg-logo="Cinemax" group-title="PELICULAS-SERIES",Cinemax
+#EXTINF:-1 tvg-logo="Cinemax" group-title="PELICULAS-SERIES",Cinemax
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-id="  De Pelpcula HD" tvg-name="De Pelpcula HD" tvg-logo="De Pelpcula HD" group-title="PELICULAS-SERIES",De Pelicula HD
+#EXTINF:-1 tvg-logo="De Pelpcula HD" group-title="PELICULAS-SERIES",De Pelicula HD
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-id="  DHE" tvg-name="DHE" tvg-logo="Canal-DHE-549x345.jpg" group-title="PELICULAS-SERIES",DHE
+#EXTINF:-1 tvg-logo="Canal-DHE-549x345.jpg" group-title="PELICULAS-SERIES",DHE
 http://201.161.59.7/dhe.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 tvg-id="  Fox 1 HD" tvg-name="Fox 1 HD" tvg-logo="Fox 1" group-title="PELICULAS-SERIES",Fox 1
+#EXTINF:-1 tvg-logo="Fox 1" group-title="PELICULAS-SERIES",Fox 1
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL415/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="  Fox Action HD" tvg-name="Fox Action HD" tvg-logo="Fox Action" group-title="PELICULAS-SERIES",Fox Action
+#EXTINF:-1 tvg-logo="Fox Action" group-title="PELICULAS-SERIES",Fox Action
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="  Fox CinpÂ©ma" tvg-name="Fox CinpÂ©ma" tvg-logo="Fox CinpÂ©ma" group-title="PELICULAS-SERIES",Fox Cinema
+#EXTINF:-1 tvg-logo="Fox CinpÂ©ma" group-title="PELICULAS-SERIES",Fox Cinema
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL421/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="  Fox Classics" tvg-name="Fox Classics" tvg-logo="Fox Classics" group-title="PELICULAS-SERIES",Fox Classics
+#EXTINF:-1 tvg-logo="Fox Classics" group-title="PELICULAS-SERIES",Fox Classics
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL424/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="  Fox Movies HD" tvg-name="Fox Movies HD" tvg-logo="Fox Movies" group-title="PELICULAS-SERIES",Fox Movies
+#EXTINF:-1 tvg-logo="Fox Movies" group-title="PELICULAS-SERIES",Fox Movies
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="  Golden HD" tvg-name="Golden HD" tvg-logo="Golden" group-title="PELICULAS-SERIES",Golden
+#EXTINF:-1 tvg-logo="Golden" group-title="PELICULAS-SERIES",Golden
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-id="  Golden Edge" tvg-name="Golden Edge" tvg-logo="Golden Edge" group-title="PELICULAS-SERIES",Golden Edge
+#EXTINF:-1 tvg-logo="Golden Edge" group-title="PELICULAS-SERIES",Golden Edge
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-id="  I.Sat" tvg-name="I.Sat" tvg-logo="I.Sat" group-title="PELICULAS-SERIES",I.Sat
+#EXTINF:-1 tvg-logo="I.Sat" group-title="PELICULAS-SERIES",I.Sat
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-id="  Space HD" tvg-name="Space HD" tvg-logo="Space" group-title="PELICULAS-SERIES",Space
+#EXTINF:-1 tvg-logo="Space" group-title="PELICULAS-SERIES",Space
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-id="  Studio Universal" tvg-name="Studio Universal" tvg-logo="Studio Universal" group-title="PELICULAS-SERIES",Studio Universal
+#EXTINF:-1 tvg-logo="Studio Universal" group-title="PELICULAS-SERIES",Studio Universal
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-id="  TCM" tvg-name="TCM" tvg-logo="TCM" group-title="PELICULAS-SERIES",TCM
+#EXTINF:-1 tvg-logo="TCM" group-title="PELICULAS-SERIES",TCM
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL496/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="  The Film Zone HD" tvg-name="The Film Zone HD" tvg-logo="The Film Zone" group-title="PELICULAS-SERIES",The Film Zone
+#EXTINF:-1 tvg-logo="The Film Zone" group-title="PELICULAS-SERIES",The Film Zone
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-id="  TNT" tvg-name="TNT" tvg-logo="TNT" group-title="PELICULAS-SERIES",TNT
+#EXTINF:-1 tvg-logo="TNT" group-title="PELICULAS-SERIES",TNT
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-id="  TNT HD" tvg-name="TNT HD" tvg-logo="TNT HD" group-title="PELICULAS-SERIES",TNT HD
+#EXTINF:-1 tvg-logo="TNT HD" group-title="PELICULAS-SERIES",TNT HD
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-id="  TNT Series" tvg-name="TNT Series" tvg-logo="TNT Series" group-title="PELICULAS-SERIES",TNT Series
+#EXTINF:-1 tvg-logo="TNT Series" group-title="PELICULAS-SERIES",TNT Series
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-id="  Universal Channel" tvg-name="Universal Channel" tvg-logo="Universal Channel" group-title="PELICULAS-SERIES",Universal Channel
+#EXTINF:-1 tvg-logo="Universal Channel" group-title="PELICULAS-SERIES",Universal Channel
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL256/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="  Universal HD" tvg-name="Universal HD" tvg-logo="Universal HD" group-title="PELICULAS-SERIES",Universal HD
+#EXTINF:-1 tvg-logo="Universal HD" group-title="PELICULAS-SERIES",Universal HD
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-id="  Warner Channel" tvg-name="Warner Channel" tvg-logo="Warner HD" group-title="PELICULAS-SERIES",Warner HD
+#EXTINF:-1 tvg-logo="Warner HD" group-title="PELICULAS-SERIES",Warner HD
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", << DEPORTES >>
 http://streaming.megatopradio.com:8100/megatopradio
-#EXTINF:-1 tvg-id="UFC Network"  tvg-name= "UFC Network" tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/logo-baja.png" group-title="DEPORTES", UFC Network
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/logo-baja.png" group-title="DEPORTES", UFC Network
 http://199.180.114.174:88/files/ufc972.m3u8
-#EXTINF:-1 tvg-id="  AyM Sports" tvg-name="AyM Sports" tvg-logo="AyM Sports" group-title="DEPORTES",AyM Sports
+#EXTINF:-1 tvg-logo="AyM Sports" group-title="DEPORTES",AyM Sports
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL576/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="  Es beIN Sports " tvg-name=" beIN Sports" tvg-logo="Bein Sports" group-title="DEPORTES",Bein Sports España
+#EXTINF:-1 tvg-logo="Bein Sports" group-title="DEPORTES",Bein Sports España
 http://d2akrnroe2tvk3.cloudfront.net/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b728000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="Combate" group-title="DEPORTES",Combate
+#EXTINF:-1 tvg-logo="Combate" group-title="DEPORTES",Combate
 http://server1.livestreaming.ninja:1935/live/combate755/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES",Comcast SportsNet CSN
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Comcast SportsNet CSN
 http://104.236.132.67:9191/live/PlayKodi-8PKS/token-klnjn87rh4fefdfcwdi4u3o8eu3uhdbnecwdjnec/184.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="Dubai Sports" group-title="DEPORTES",Dubai Sports
+#EXTINF:-1 tvg-logo="Dubai Sports" group-title="DEPORTES",Dubai Sports
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/chunklist_b1200000.m3u8?
-#EXTINF:-1 tvg-id="  Canal ESPN+ LatinoampÂ©rica" tvg-name="Canal ESPN+ LatinoampÂ©rica" tvg-logo="ESPN + Mexico" group-title="DEPORTES",ESPN + Mexico
+#EXTINF:-1 tvg-logo="ESPN + Mexico" group-title="DEPORTES",ESPN +
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:-1 tvg-id="  ESPN 2" tvg-name="ESPN 2" tvg-logo="ESPN 2 Mexico" group-title="DEPORTES",ESPN 2 Mexico
+#EXTINF:-1 tvg-logo="ESPN 2 Mexico" group-title="DEPORTES",ESPN 2 Mexico
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:-1 tvg-id="  ESPN 3" tvg-name="ESPN 3" tvg-logo="ESPN 3 Mexico" group-title="DEPORTES",ESPN 3 Mexico
+#EXTINF:-1 tvg-logo="ESPN 3 Mexico" group-title="DEPORTES",ESPN 3 Mexico
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:-1 tvg-id="  ESPN HD" tvg-name="ESPN HD" tvg-logo="ESPN HD Mexico" group-title="DEPORTES",ESPN HD Mexico
+#EXTINF:-1 tvg-logo="ESPN HD Mexico" group-title="DEPORTES",ESPN HD Mexico
 http://tvultimate.mx/stream/prueba.php?id=1656&f=.m3u8
-#EXTINF:-1 tvg-id="  ESPN" tvg-name="ESPN" tvg-logo="ESPN Mexico" group-title="DEPORTES",ESPN Mexico
+#EXTINF:-1 tvg-logo="ESPN Mexico" group-title="DEPORTES",ESPN Mexico
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:-1 tvg-id="  Fox Sports 2 HD" tvg-name="Fox Sports 2 HD" tvg-logo="Fox Sports 2 Mexico" group-title="DEPORTES",Fox Sports 2 Mexico
+#EXTINF:-1 tvg-logo="Fox Sports 2 Mexico" group-title="DEPORTES",Fox Sports 2 Mexico
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="  Fox Sports HD" tvg-name="Fox Sports HD" tvg-logo="Fox Sports Mexico" group-title="DEPORTES",Fox Sports Mexico
+#EXTINF:-1 tvg-logo="Fox Sports Mexico" group-title="DEPORTES",Fox Sports Mexico
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="motors-tv-fr.png" group-title="DEPORTES",Motors TV UK
+#EXTINF:-1 tvg-logo="motors-tv-fr.png" group-title="DEPORTES",Motors TV UK
 http://104.236.132.67:9191/live/PlayKodi-10PKS/token-i839fkewieu83eujejdn2wnsn98ehd9823dwkdk/22.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="golf_channel_logo_detail.png" group-title="DEPORTES",NBC Golf
+#EXTINF:-1 tvg-logo="golf_channel_logo_detail.png" group-title="DEPORTES",NBC Golf
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="nfl_now_logo.jpg" group-title="DEPORTES",NFL Now
+#EXTINF:-1 tvg-logo="nfl_now_logo.jpg" group-title="DEPORTES",NFL Now
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
-#EXTINF:-1 tvg-id="PX" tvg-name="PX" tvg-logo="px.jpg" group-title="DEPORTES",PX TV
+#EXTINF:-1 tvg-logo="px.jpg" group-title="DEPORTES",PX TV
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:-1 tvg-id="DX" tvg-name="DX" tvg-logo="px.jpg" group-title="DEPORTES",DX TV
+#EXTINF:-1 tvg-logo="px.jpg" group-title="DEPORTES",DX TV
 http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
-#EXTINF:-1 tvg-id="  ES Real Madrid TV" tvg-name="ES Real Madrid TV" tvg-logo="Real Madrid TV" group-title="DEPORTES",Real Madrid TV
+#EXTINF:-1 tvg-logo="Real Madrid TV" group-title="DEPORTES",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="redbulltv.jpg" group-title="DEPORTES",Redbull TV
+#EXTINF:-1 tvg-logo="redbulltv.jpg" group-title="DEPORTES",Redbull TV
 http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
-#EXTINF:-1 tvg-id="  Canal TyC Sports" tvg-name="Canal TyC Sports" tvg-logo="TyC Deportes" group-title="DEPORTES",TyC Deportes
+#EXTINF:-1 tvg-logo="TyC Deportes" group-title="DEPORTES",TyC Deportes
 http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="  Win Sports" tvg-name="Win Sports" tvg-logo="aj8qwk-1-0x290-win_sports.png" group-title="DEPORTES",Win Sports
+#EXTINF:-1 tvg-logo="aj8qwk-1-0x290-win_sports.png" group-title="DEPORTES",Win Sports
 http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8?
 #EXTINF:-1, 360 Deportes
 http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
@@ -423,67 +421,67 @@ http://xrxs.net/video/live-p12wash-1164.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", << CULTURA & DOCUMENTALES >>
 http://streaming.megatopradio.com:8100/megatopradio
-#EXTINF:-1 tvg-id="  Animal Planet" tvg-name="Animal Planet" tvg-logo="Animal Planet" group-title="CULTURA-DOCUMENTAL",Animal Planet
+#EXTINF:-1 tvg-logo="Animal Planet" group-title="CULTURA-DOCUMENTAL",Animal Planet
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="  Discovery Channel" tvg-name="Discovery Channel" tvg-logo="Discovery Channel" group-title="CULTURA-DOCUMENTAL",Discovery Channel
+#EXTINF:-1 tvg-logo="Discovery Channel" group-title="CULTURA-DOCUMENTAL",Discovery Channel
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="  Discovery Civilization" tvg-name="Discovery Civilization" tvg-logo="Discovery Civilization" group-title="CULTURA-DOCUMENTAL",Discovery Civilization
+#EXTINF:-1 group-title="CULTURA-DOCUMENTAL",Discovery Civilization
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="  Discovery MAX" tvg-name="Discovery MAX" tvg-logo="Discovery Max" group-title="CULTURA-DOCUMENTAL",Discovery Max
+#EXTINF:-1 tvg-logo="Discovery Max" group-title="CULTURA-DOCUMENTAL",Discovery Max
 http://5.189.152.43:11757/live/PlayKodi-8PKS/token-klnjn87rh4fefdfcwdi4u3o8eu3uhdbnecwdjnec/155.m3u8
-#EXTINF:-1 tvg-id="  Discovery Science" tvg-name="Discovery Science" tvg-logo="Discovery Science" group-title="CULTURA-DOCUMENTAL",Discovery Science
+#EXTINF:-1 tvg-logo="Discovery Science" group-title="CULTURA-DOCUMENTAL",Discovery Science
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="  Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="Discovery Turbo" group-title="CULTURA-DOCUMENTAL",Discovery Turbo
+#EXTINF:-1 tvg-logo="Discovery Turbo" group-title="CULTURA-DOCUMENTAL",Discovery Turbo
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL383/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="  Discovery World HD" tvg-name="Discovery World HD" tvg-logo="Discovery World" group-title="CULTURA-DOCUMENTAL",Discovery World
+#EXTINF:-1 tvg-logo="Discovery World" group-title="CULTURA-DOCUMENTAL",Discovery World
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="  Discovery Theater HD" tvg-name="Discovery Theater HD" tvg-logo="Discovery Theater" group-title="CULTURA-DOCUMENTAL",Discovery Theater
+#EXTINF:-1 tvg-logo="Discovery Theater" group-title="CULTURA-DOCUMENTAL",Discovery Theater
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="  Historia" tvg-name="Historia" tvg-logo="Historia" group-title="CULTURA-DOCUMENTAL",Historia
+#EXTINF:-1 tvg-logo="Historia" group-title="CULTURA-DOCUMENTAL",Historia
 http://5.189.152.43:11757/live/PlayKodi-10PKS/token-i839fkewieu83eujejdn2wnsn98ehd9823dwkdk/157.m3u8
-#EXTINF:-1 tvg-id="  History HD" tvg-name="History HD" tvg-logo="History Channel" group-title="CULTURA-DOCUMENTAL",History Channel
+#EXTINF:-1 tvg-logo="History Channel" group-title="CULTURA-DOCUMENTAL",History Channel
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="  Canal Ingenio TV (Mexico)" tvg-name="Canal Ingenio TV (Mexico)" tvg-logo="Ingenio TV" group-title="CULTURA-DOCUMENTAL",Ingenio TV
+#EXTINF:-1 tvg-logo="Ingenio TV" group-title="CULTURA-DOCUMENTAL",Ingenio TV
 http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8?
-#EXTINF:-1 tvg-id="  Investigacion Discovery" tvg-name="Investigacion Discovery" tvg-logo="Investigacion Discovery" group-title="CULTURA-DOCUMENTAL",Investigacion Discovery
+#EXTINF:-1 tvg-logo="Investigacion Discovery" group-title="CULTURA-DOCUMENTAL",Investigacion Discovery
 http://tvultimate.mx/stream/prueba.php?id=1407&f=.m3u8
-#EXTINF:-1 tvg-id="  NatGeo" tvg-name="NatGeo" tvg-logo="NatGeo" group-title="CULTURA-DOCUMENTAL",NatGeo
+#EXTINF:-1 tvg-logo="NatGeo" group-title="CULTURA-DOCUMENTAL",NatGeo
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="  NatGeo Wild HD" tvg-name="NatGeo Wild HD" tvg-logo="NatGeo Wild" group-title="CULTURA-DOCUMENTAL",NatGeo Wild
+#EXTINF:-1 tvg-logo="NatGeo Wild" group-title="CULTURA-DOCUMENTAL",NatGeo Wild
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE03.m3u8?
-#EXTINF:-1 tvg-id="  TLC" tvg-name="TLC" tvg-logo="TLC" group-title="CULTURA-DOCUMENTAL",TLC
+#EXTINF:-1 tvg-logo="TLC" group-title="CULTURA-DOCUMENTAL",TLC
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL386/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="  WOBI TV" tvg-name="WOBI TV" tvg-logo="WOBI" group-title="CULTURA-DOCUMENTAL",WOBI
+#EXTINF:-1 tvg-logo="WOBI" group-title="CULTURA-DOCUMENTAL",WOBI
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL387/PROFILE03.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="Positive Channel" group-title="CULTURA-DOCUMENTAL",Positive Channel
+#EXTINF:-1 tvg-logo="Positive Channel" group-title="CULTURA-DOCUMENTAL",Positive Channel
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-id="  Canal EWTN en EspaÃ±ol" tvg-name="Canal EWTN en EspaÃ±ol" tvg-logo="EWTN" group-title="CULTURA-DOCUMENTAL",EWTN
+#EXTINF:-1 tvg-logo="EWTN" group-title="CULTURA-DOCUMENTAL",EWTN
 http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="  Canal Marpa Vision" tvg-name="Canal Marpa Vision" tvg-logo="Maria Vision" group-title="CULTURA-DOCUMENTAL",Maria Vision
+#EXTINF:-1 tvg-logo="Maria Vision" group-title="CULTURA-DOCUMENTAL",Maria Vision
 http://74.63.97.188:1935/mariavision1/videomariavision1/playlist.m3u8?DVR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="f2fR91hPfRRhf19Pf1bd9.jpg" group-title="CULTURA-DOCUMENTAL",DW Latinoamerica
+#EXTINF:-1 tvg-logo="f2fR91hPfRRhf19Pf1bd9.jpg" group-title="CULTURA-DOCUMENTAL",DW Latinoamerica
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CULTURA-DOCUMENTAL",Alcance TV
+#EXTINF:-1 tvg-logo="" group-title="CULTURA-DOCUMENTAL",Alcance TV
 http://hd.worldkast.com/8232/smil:8232.smil/chunklist_w1000670092_b250000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CULTURA-DOCUMENTAL",Enlace
+#EXTINF:-1 tvg-logo="" group-title="CULTURA-DOCUMENTAL",Enlace
 http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/index_1728_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CULTURA-DOCUMENTAL",Enlace Juvenil
+#EXTINF:-1 tvg-logo="" group-title="CULTURA-DOCUMENTAL",Enlace Juvenil
 http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CULTURA-DOCUMENTAL",Cristo Vision
+#EXTINF:-1 tvg-logo="" group-title="CULTURA-DOCUMENTAL",Cristo Vision
 http://cdns840stu1010.multistream.net/cristovisionlive/amlst:live/chunklist_b300000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CULTURA-DOCUMENTAL",Mirame TV
+#EXTINF:-1 tvg-logo="" group-title="CULTURA-DOCUMENTAL",Mirame TV
 http://5.189.152.43:11757/live/PlayKodi-5PKS/token-i4idsjwje939ejdrro99dkglxmzbir983052kddncmgoie83uyfjk/162.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CULTURA-DOCUMENTAL",Ondaluz Sierra
+#EXTINF:-1 tvg-logo="" group-title="CULTURA-DOCUMENTAL",Ondaluz Sierra
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CULTURA-DOCUMENTAL",Ceuta TV
+#EXTINF:-1 tvg-logo="" group-title="CULTURA-DOCUMENTAL",Ceuta TV
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CULTURA-DOCUMENTAL",Esperanza TV
+#EXTINF:-1 tvg-logo="" group-title="CULTURA-DOCUMENTAL",Esperanza TV
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CULTURA-DOCUMENTAL",Almavision
+#EXTINF:-1 tvg-logo="" group-title="CULTURA-DOCUMENTAL",Almavision
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CULTURA-DOCUMENTAL",Familia TV
+#EXTINF:-1 tvg-logo="" group-title="CULTURA-DOCUMENTAL",Familia TV
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CULTURA-DOCUMENTAL",Condavision
+#EXTINF:-1 tvg-logo="" group-title="CULTURA-DOCUMENTAL",Condavision
 https://raw.githubusercontent.com/teran91/IPTVChile/master/NoDisponibleSD.mp4
 #EXTINF:-1,Alfa TV
 rtsp://streamer1.streamhost.org:1935/salive/GMIalfah
