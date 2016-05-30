@@ -55,8 +55,7 @@ http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/logocdo.png"  group-title="NACIONALES", CDO HD
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/24_Horas_TVN_corto.png/150px-24_Horas_TVN_corto.png" group-title="NACIONALES",24 Horas
-http://edge-101-cl.edge.mdstrm.com/tvn-live/_definst_/smil:afb76bb126ed1661821563583d2c23f3/chunklist_b800000.m3u8
+
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png",Canales Regionales
 http://streaming.megatopradio.com:8100/megatopradio
@@ -1191,13 +1190,6 @@ http://46.105.116.159:1935/cellcast/encoder72/.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/play_zps6mp3huks.png" group-title="Adultos",Babestation Blue
 http://178.33.126.213:1935/cellcast/encoder32/.m3u8
 
-#EXTINF:0, No Disponible Video 
-https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/NoDisponibleSD.mp4
-#EXTINF:0,eventos
-http://s36.copiapop.com/download?e=lbI3GxDqYwzQvf9RRp6l7_dGBodq1BopVfg6V6jwcr6Bw8S6POx-VPhNI3tA-0dyC6epfNGOQj3mvoFsScfoSzFQMe6MJ9bYPT6JuW1xTafzChQq265uE3MQb4aCU-roXn5GEx3d-nm_UEW0JLyVscOKuCKgZWm5LWFhtjzQVFYtHheXmgINQFgb6AZSiGoGwaEdRX47qmSJkJ6KODBOKQ
-#EXTINF:0,no disponible
-http://s35.copiapop.com/download?e=hVOa6eXd30XuYy5xsfufMNDqn9SKFK6k-CUxbU880MXjCNtvjHtGtlpC0Ixtba7tx_Y23jrwC8-I9RZA6W4L9aYEOfQb0GzI1ObXVz8999aun2JthdeQduuUMtbiXXyS8yYhYE6xlD58qXr0DfQPk1-N_uv_cCG3WBDrvbh1_k87NJWHuIcbDUphUA1x1Ul8VmiOA2Kxmi_Hi-l6pYJC9w
-#EXTINF:0,lista
-http://s37.copiapop.com/download?e=CztvNEvzLsYyPx-m6LJe7ZTdZ-tbHzdXCJa_l4k1CMJFF36uota70GmvcS3MNaSlulUj110WCBfMrqe7J3I1bnAXRiV7GBZvASCJmkmGBAhKCR_woTdnIi--uHMepJK7maal-_y97TTUS-V85orCIIsybvPsfpTy_DjzSx3ZFBUHrcpcxYpP7xU2wNq0teqQVFe9euYcfbh5piFqOPkIsw
+
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", Esto es todo... Gracias por preferir la Lista IPTV Chile
 https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/listaiptvchileSD.mp4
