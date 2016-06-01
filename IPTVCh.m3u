@@ -11,7 +11,7 @@ http://streaming.megatopradio.com:8100/megatopradio
 https://raw.githubusercontent.com/teran91/IPTVChile/master/webdelfutbol.m3u
 #EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-fQjf9xuHS1E/Vm-hBpsFJnI/AAAAAAAAAA0/og7MvcJuEgI/s1600/futbol_chile.png" group-title="Agenda Deportiva", Canales FutbolChile.net
 https://raw.githubusercontent.com/teran91/IPTVChile/master/futbolchile.m3u
-#EXTINF:0 tvg-logo="" group-title="Agenda Deportiva", Evento Deportivo
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/eventos-deportivos.png" group-title="Agenda Deportiva", Evento Deportivo
 https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/EventosdeportivoSD.mp4
 
 
@@ -66,7 +66,7 @@ http://video.crearchile.com:8080/live/mp4:morrovision.mp4/playlist.m3u8?
 http://scl.streaminghd.cl/8032/8032/chunklist_w1970467867.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/arica_zpssvguoat9.png" group-title="REGIONALES",Arica Tv
 http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8?
-#EXTINF:0, Antofagasta Tv Escolar
+#EXTINF:0  tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/Tvescolar.jpg" group-title"REGIONAES", Antofagasta Tv Escolar
 http://evo.eltelon.com:1935/live/corporacion-antofagasta/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/vive_zpsb7x15dmx.png" group-title="REGIONALES", Vive Chile Antofagasta 
 http://evo.eltelon.com:1935/live/vive-chile-antofagasta/playlist.m3u8
