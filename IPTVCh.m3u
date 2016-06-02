@@ -205,14 +205,15 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacal
 http://tv.portalfoxmix.club:1935/8042/8042/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/CinemaTvPlay.png" group-title="zona ocio", Cinema Tv Play
 http://servicioamerica.net:1935/cinematvplays/cinematvplays/playlist.m3u8
-#EXTINF:0 tvg-logo"" group-title="zona ocio", GoPRO TV
+#EXTINF:0 tvg-logo" https://raw.githubuserconfetent.com/teran91/IPTVChile/master/TvLogo/GoproTv.jpg" group-title="zona ocio", GoPRO TV
 http://sacapunta.eltelon.com/channels/goprotv/mid.m3u8
-
+#EXTINF:0 tvg-logo="" group-title="zona ocio", Canal TotalPlay
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL1/PROFILE02.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png" group-title="ENTRETENIMIENTO", << ENTRETENIMIENTO >>
 http://streaming.megatopradio.com:8100/megatopradio
 #EXTINF:-1 group-title="ENTRETENIMIENTO",A&E
-https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/NoDisponibleSD.mp4
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE03.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO",AXN
 https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/NoDisponibleSD.mp4
 #EXTINF:-1 group-title="ENTRETENIMIENTO", ¡Hola! TV
