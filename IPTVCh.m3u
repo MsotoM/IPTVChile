@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/Eventosdeporti
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png" group-title="radios chilenas", Radios Chilenas
 http://streaming.megatopradio.com:8100/megatopradio
 #EXTINF:0  tvg-logo="http://static.tumblr.com/473271a1eccb10bee4b9b8f67b719b11/tkcf9vx/V3ymryozu/tumblr_static_logo_carolina_cl" group-title="radios chilenas", Radio Carolina (Chile)
-http://unlimited5-cl.dps.live/freakytv/freakytv.smil/freakytv5-hls/livestream2/chunks.m3u8
+http://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/s98741q_zps0vnfywxj.png" group-title="radios chilenas", Radio Tiempo (Chile)
 http://movilstream.digitalproserver.com/tiempotv/tiempotvvivo/tiempotv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/84184_zpsd0gzhp6h.png" group-title="radios chilenas", Radio Duna (Chile)
