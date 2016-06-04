@@ -37,7 +37,7 @@ http://cdn.ztreaming.com/t13radio/mobile.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png" group-title="NACIONALES", Canales Nacionales
 http://streaming.megatopradio.com:8100/megatopradio
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/Lared.png" group-title="NACIONALES",La Red
-http://d21x6rlkgtztws.cloudfront.net/lared/smil:lared.smil/chunklist_b479163.m3u8
+http://ec2-52-201-28-82.compute-1.amazonaws.com/lared/smil:lared.smil/chunklist_b2129163.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/UCV_HD_2014.png" group-title="NACIONALES",UCV 
 http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/TvnHD.png" group-title="NACIONALES",TVN 
@@ -400,8 +400,6 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE03.m3u8?-1332%2F1499-2015081
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="redbulltv.jpg" group-title="DEPORTES",Redbull TV
 http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
-#EXTINF:-1 tvg-logo="TyC Deportes" group-title="DEPORTES",TyC Deportes
-http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="aj8qwk-1-0x290-win_sports.png" group-title="DEPORTES",Win Sports
 http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8?
 #EXTINF:-1, 360 Deportes
@@ -939,7 +937,7 @@ http://iphone-streaming.ustream.tv/ustreamVideo/18545628/streams/live/playlist.m
 #EXTINF:-1 tvg-logo="DEPORTV---Deporte-para-Todos.png" group-title="ARGENTINA",DeporTV (DXTV)
 http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="DEPORTV---Deporte-para-Todos.png" group-title="ARGENTINA",TyC Sports
-http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u9
+http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png" , << HONDURAS >>
 http://streaming.megatopradio.com:8100/megatopradio
@@ -1112,7 +1110,7 @@ http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="TVN" group-title="PANAMA",TVN
 http://urtmpkal-f.akamaihd.net/i/19wqj1kgf_1@136614/master.m3u8
 #EXTINF:-1 tvg-logo="Telemetro" group-title="PANAMA",Telemetro
-http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8
+http://d1fo6ulhy0hxdc.cloudfront.net/telemetro/livestream.smil/master.m3u8
 #EXTINF:-1 tvg-logo="channels-page-_0001_cb-24.png" group-title="PANAMA",CB24
 http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="WZqGHADX.jpeg" group-title="PANAMA",Cable Onda Sports
