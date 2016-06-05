@@ -1134,6 +1134,8 @@ http://streaming.megatopradio.com:8100/megatopradio
 http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
 #EXTINF:-1, El Venezolano Tv
 http://controlstreams.com:1935/elvenezolano/elvenezolano/playlist.m3u8
+#EXTINF:-1, Venevision
+http://46.28.48.252:8088/stream/venevisionsusy/playlist.m3u8?id=2293&pk=e279d247da4fd966c90af7c725bd754818a5269cfb36b748a2682ccdc4b08d59
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", << ADULTOS >>
 http://streaming.megatopradio.com:8100/megatopradio
