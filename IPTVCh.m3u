@@ -584,7 +584,7 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL610/PROFILE03.m3u8
 #EXTINF:-1 tvg-logo="Euronews EspaÃ±ol" group-title="NOTICIAS",Euronews Español
 rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/es_vidan750_rtp.sdp
 #EXTINF:-1 tvg-logo="" group-title="NOTICIAS",France 24
-http://5.189.152.43:11757/live/PlayKodi-8PKS/token-klnjn87rh4fefdfcwdi4u3o8eu3uhdbnecwdjnec/144.m3u8
+http://static.france24.com/live/F24_EN_LO_HLS/live_ios.m3u8
 #EXTINF:-1 tvg-logo="Euronews UK" group-title="NOTICIAS",Euronews UK
 http://5.189.152.43:11757/live/PlayKodi-9PKS/token-8mdki3738qprfkskdnff4r89289ywhydjoiwdnefref43/145.m3u8
 #EXTINF:-1 tvg-logo="cnn" group-title="NOTICIAS",CNN Internacional
