@@ -205,7 +205,7 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacal
 http://tv.portalfoxmix.club:1935/8042/8042/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/CinemaTvPlay.png" group-title="zona ocio", Cinema Tv Play
 http://servicioamerica.net:1935/cinematvplays/cinematvplays/playlist.m3u8
-#EXTINF:0 tvg-logo" https://raw.githubuserconfetent.com/teran91/IPTVChile/master/TvLogo/GoproTv.jpg" group-title="zona ocio", GoPRO TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/GoproTv.jpg" group-title="zona ocio", GoPRO TV
 http://sacapunta.eltelon.com/channels/goprotv/mid.m3u8
 
 
@@ -261,7 +261,7 @@ http://167.88.124.145:8000/live/Mxliptv/Iptv/77.m3u8
 https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/NoDisponibleSD.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/Logos/tlnovelas.png" group-title="ENTRETENIMIENTO",Tlnovelas
 http://167.88.124.145:8000/live/Mxliptv/Iptv/82.m3u8
-#EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/teran91/IPTVChile/master/Logos/trendy.png" group-title="ENTRETENIMIENTO",Trendy
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/Logos/trendy.png" group-title="ENTRETENIMIENTO",Trendy
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL279/PROFILE03.m3u8?
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/Logos/trutv.png" group-title="ENTRETENIMIENTO",TruTV
 http://167.88.124.145:8000/live/Mxliptv/Iptv/86.m3u8
