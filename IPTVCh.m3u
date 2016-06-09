@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png",Lista IPTV Chile | EN MANTENCION (30/05/2016) Hora 21:56 - PROHIBIDA SU VENTA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png",Lista IPTV Chile | EN MANTENCION (08/06/2016) Hora 23:39 - PROHIBIDA SU VENTA
 https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/listaiptvchileSD.mp4
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png", Mas informacion en listaiptvchile.hol.es
 https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/listaiptvchileSD.mp4
@@ -211,93 +211,93 @@ http://sacapunta.eltelon.com/channels/goprotv/mid.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png" group-title="ENTRETENIMIENTO", << ENTRETENIMIENTO >>
 http://streaming.megatopradio.com:8100/megatopradio
-#EXTINF:-1 group-title="ENTRETENIMIENTO",A&E
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/Logos/a%26e.png" group-title="ENTRETENIMIENTO",A&E
 http://167.88.124.145:8000/live/Mxliptv/Iptv/1.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",AXN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/Logos/AXN.png" group-title="ENTRETENIMIENTO",AXN
 http://167.88.124.145:8000/live/Mxliptv/Iptv/4.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO", ¡Hola! TV
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO", ¡Hola! TV
 https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/NoDisponibleSD.mp4
-#EXTINF:-1 group-title="ENTRETENIMIENTO",Antena 3 Internacional
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/Logos/antena-3.png" group-title="ENTRETENIMIENTO",Antena 3 Internacional
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
-#EXTINF:-1 group-title="ENTRETENIMIENTO",Az Clic 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/Logos/azclic.png" group-title="ENTRETENIMIENTO",Az Clic 
 http://167.88.124.145:8000/live/Mxliptv/Iptv/8.m3u8
 #EXTINF:-1 tvg-logo="Az Corazon" group-title="ENTRETENIMIENTO",Az Corazon
 http://167.88.124.145:8000/live/Mxliptv/Iptv/7.m3u8
-#EXTINF:-1 tvg-logo="BBC Entertainment" group-title="ENTRETENIMIENTO",BBC Entertainment
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/Logos/bbc-entertainment.png" group-title="ENTRETENIMIENTO",BBC Entertainment
 https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/NoDisponibleSD.mp4
 #EXTINF:-1 tvg-logo="Canal de las Estrellas Latinoamerica" group-title="ENTRETENIMIENTO",Canal de las Estrellas Latinoamerica
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
-#EXTINF:-1 tvg-logo="Comedy Central" group-title="ENTRETENIMIENTO",Comedy Central
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/Logos/comedycentralhd.png" group-title="ENTRETENIMIENTO",Comedy Central
 http://167.88.124.145:8000/live/Mxliptv/Iptv/20.m3u8
-#EXTINF:-1 tvg-logo="Discovery Home & Health" group-title="ENTRETENIMIENTO",Discovery Home & Health
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/Logos/home-and-health.png" group-title="ENTRETENIMIENTO",Discovery Home & Health
 http://167.88.124.145:8000/live/Mxliptv/Iptv/24.m3u8
-#EXTINF:-1 tvg-logo="Distrito Comedia" group-title="ENTRETENIMIENTO",Distrito Comedia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/Logos/distrito-comedia.png" group-title="ENTRETENIMIENTO",Distrito Comedia
 http://167.88.124.145:8000/live/Mxliptv/Iptv/33.m3u8
-#EXTINF:-1 tvg-logo="E! Entertainment Television" group-title="ENTRETENIMIENTO",E! Entertainment Television
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/Logos/e!-entertainment-television.png" group-title="ENTRETENIMIENTO",E! Entertainment Television
 http://167.88.124.145:8000/live/Mxliptv/Iptv/34.m3u8
-#EXTINF:-1 tvg-logo="El Gourmet" group-title="ENTRETENIMIENTO",El Gourmet
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/Logos/el-gourmet.png" group-title="ENTRETENIMIENTO",El Gourmet
 http://167.88.124.145:8000/live/Mxliptv/Iptv/35.m3u8
-#EXTINF:-1 tvg-logo="Fashion TV" group-title="ENTRETENIMIENTO",Fashion TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/Logos/fashion.png" group-title="ENTRETENIMIENTO",Fashion TV
 https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-logo="Fox" group-title="ENTRETENIMIENTO",Fox
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/Logos/fox.png" group-title="ENTRETENIMIENTO",Fox
 http://167.88.124.145:8000/live/Mxliptv/Iptv/43.m3u8
-#EXTINF:-1 tvg-logo="Fox Life" group-title="ENTRETENIMIENTO",Fox Life
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/Logos/fox-life.png" group-title="ENTRETENIMIENTO",Fox Life
 http://167.88.124.145:8000/live/Mxliptv/Iptv/48.m3u8
-#EXTINF:-1 tvg-logo="FX" group-title="ENTRETENIMIENTO",FX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/Logos/fx.png" group-title="ENTRETENIMIENTO",FX
 http://167.88.124.145:8000/live/Mxliptv/Iptv/52.m3u8
-#EXTINF:-1 tvg-logo="Garage TV" group-title="ENTRETENIMIENTO",Garage TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/Logos/garage-tv.png" group-title="ENTRETENIMIENTO",Garage TV
 https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-logo="Glitz" group-title="ENTRETENIMIENTO",Glitz
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/Logos/glitz.png" group-title="ENTRETENIMIENTO",Glitz
 http://167.88.124.145:8000/live/Mxliptv/Iptv/54.m3u8
-#EXTINF:-1 tvg-logo="Lifetime" group-title="ENTRETENIMIENTO",Lifetime
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/Logos/lifetime.png" group-title="ENTRETENIMIENTO",Lifetime
 http://167.88.124.145:8000/live/Mxliptv/Iptv/61.m3u8
-#EXTINF:-1 tvg-logo="Sony" group-title="ENTRETENIMIENTO",Sony
+#EXTINF:-1 tvg-logo="Shttps://raw.githubusercontent.com/teran91/IPTVChile/master/Logos/sony.png" group-title="ENTRETENIMIENTO",Sony
 http://167.88.124.145:8000/live/Mxliptv/Iptv/73.m3u8
-#EXTINF:-1 tvg-logo="SyFy" group-title="ENTRETENIMIENTO",SyFy
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/Logos/syfy.png" group-title="ENTRETENIMIENTO",SyFy
 http://167.88.124.145:8000/live/Mxliptv/Iptv/76.m3u8
-#EXTINF:-1 tvg-logo="TBS Very Funny" group-title="ENTRETENIMIENTO",TBS Very Funny
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/Logos/tbs.png" group-title="ENTRETENIMIENTO",TBS Very Funny
 http://167.88.124.145:8000/live/Mxliptv/Iptv/77.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",Telemundo 33
 https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/NoDisponibleSD.mp4
-#EXTINF:-1 tvg-logo="Tlnovelas" group-title="ENTRETENIMIENTO",Tlnovelas
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/Logos/tlnovelas.png" group-title="ENTRETENIMIENTO",Tlnovelas
 http://167.88.124.145:8000/live/Mxliptv/Iptv/82.m3u8
-#EXTINF:-1 tvg-logo="trendy-400x400-logo.png" group-title="ENTRETENIMIENTO",Trendy
+#EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/teran91/IPTVChile/master/Logos/trendy.png" group-title="ENTRETENIMIENTO",Trendy
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL279/PROFILE03.m3u8?
-#EXTINF:-1 tvg-logo="TruTV" group-title="ENTRETENIMIENTO",TruTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/Logos/trutv.png" group-title="ENTRETENIMIENTO",TruTV
 http://167.88.124.145:8000/live/Mxliptv/Iptv/86.m3u8
-#EXTINF:-1 tvg-logo="TV5Monde" group-title="ENTRETENIMIENTO",TV5Monde
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/Logos/tv5monde.png" group-title="ENTRETENIMIENTO",TV5Monde
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
-#EXTINF:-1 tvg-logo="Unicable" group-title="ENTRETENIMIENTO",Unicable
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/Logos/unicable.png" group-title="ENTRETENIMIENTO",Unicable
 http://167.88.124.145:8000/live/Mxliptv/Iptv/88.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png" group-title="INFANTILES", << INFANTILES >>
 http://streaming.megatopradio.com:8100/megatopradio
 #EXTINF:-1 tvg-logo="Boomerang" group-title="INFANTILES",Boomerang
-http://sicostopo.com/ichi134/view.m3u8?canal=324&f=.m3u8
+http://167.88.124.145:8000/live/Mxliptv/Iptv/13.m3u8
 #EXTINF:-1 tvg-logo="Cartoon Network" group-title="INFANTILES",Cartoon Network
-http://sicostopo.com/ichi134/view.m3u8?canal=320&f=.m3u8
+http://167.88.124.145:8000/live/Mxliptv/Iptv/16.m3u8
 #EXTINF:-1 tvg-logo="CBeebies" group-title="INFANTILES",CBeebies
-http://sicostopo.com/ichi134/view.m3u8?canal=305&f=.m3u8
+http://167.88.124.145:8000/live/Mxliptv/Iptv/17.m3u8
 #EXTINF:-1 tvg-logo="Discovery Kids" group-title="INFANTILES",Discovery Kids
-http://sicostopo.com/ichi134/view.m3u8?canal=303&f=.m3u8
+http://167.88.124.145:8000/live/Mxliptv/Iptv/25.m3u8
 #EXTINF:-1 tvg-logo="Disney Channel" group-title="INFANTILES",Disney Channel
-http://sicostopo.com/ichi134/view.m3u8?canal=312&f=.m3u8
+http://167.88.124.145:8000/live/Mxliptv/Iptv/30.m3u8
 #EXTINF:-1 tvg-logo="Disney Jr" group-title="INFANTILES",Disney Jr
-http://sicostopo.com/ichi134/view.m3u8?canal=308&f=.m3u8
+http://167.88.124.145:8000/live/Mxliptv/Iptv/31.m3u8
 #EXTINF:-1 tvg-logo="Disney XD" group-title="INFANTILES",Disney XD
-http://sicostopo.com/ichi134/view.m3u8?canal=322&f=.m3u8
+http://167.88.124.145:8000/live/Mxliptv/Iptv/32.m3u8
 #EXTINF:-1 tvg-logo="Nick HD" group-title="INFANTILES",Nick HD
-http://sicostopo.com/ichi134/view.m3u8?canal=315&f=.m3u8
+http://167.88.124.145:8000/live/Mxliptv/Iptv/69.m3u8
 #EXTINF:-1 tvg-logo="Nick Jr" group-title="INFANTILES",Nick Jr
-http://sicostopo.com/ichi134/view.m3u8?canal=310&f=.m3u8
+http://167.88.124.145:8000/live/Mxliptv/Iptv/70.m3u8
 #EXTINF:-1 tvg-logo="Nickelodeon (Nick)" group-title="INFANTILES",Nickelodeon (Nick)
-http://sicostopo.com/ichi134/view.m3u8?canal=317&f=.m3u8
+http://167.88.124.145:8000/live/Mxliptv/Iptv/72.m3u8
 #EXTINF:-1 tvg-logo="NickToons" group-title="INFANTILES",NickToons
-http://sicostopo.com/ichi134/view.m3u8?canal=314&f=.m3u8
+http://167.88.124.145:8000/live/Mxliptv/Iptv/71.m3u8
 #EXTINF:-1 group-title="INFANTILES",TIIN
-http://sicostopo.com/ichi134/view.m3u8?canal=325&f=.m3u8
+http://167.88.124.145:8000/live/Mxliptv/Iptv/80.m3u8
 #EXTINF:-1 tvg-logo="Tooncast" group-title="INFANTILES",Tooncast
-http://sicostopo.com/ichi134/view.m3u8?canal=328&f=.m3u8
+http://167.88.124.145:8000/live/Mxliptv/Iptv/85.m3u8
 
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png" group-title="PELICULAS-SERIES", << PELICULAS-SERIES >>
@@ -309,149 +309,151 @@ http://199.180.114.174:88/files/hbo235.m3u8
 #EXTINF:-1 group-title="PELICULAS-SERIES", HBO Family
 http://199.180.114.174:88/files/hbofamily453.m3u8
 #EXTINF:-1 tvg-logo="AMC HD" group-title="PELICULAS-SERIES",AMC HD
-https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/NoDisponibleSD.mp4
+http://167.88.124.145:8000/live/Mxliptv/Iptv/2.m3u8
 #EXTINF:-1 tvg-logo="Az Cinema" group-title="PELICULAS-SERIES",Az Cinema
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL425/PROFILE03.m3u8?
+http://167.88.124.145:8000/live/Mxliptv/Iptv/6.m3u8
 #EXTINF:-1 tvg-logo="Cinecanal" group-title="PELICULAS-SERIES",Cinecanal
-https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/NoDisponibleSD.mp4
+http://167.88.124.145:8000/live/Mxliptv/Iptv/18.m3u8
 #EXTINF:-1 tvg-logo="Cinecanal Plus" group-title="PELICULAS-SERIES",Cinecanal Plus
 https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/NoDisponibleSD.mp4
 #EXTINF:-1 tvg-logo="Cinemax" group-title="PELICULAS-SERIES",Cinemax
-https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/NoDisponibleSD.mp4
+http://167.88.124.145:8000/live/Mxliptv/Iptv/19.m3u8
 #EXTINF:-1 tvg-logo="De Pelpcula HD" group-title="PELICULAS-SERIES",De Pelicula HD
-https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/NoDisponibleSD.mp4
+http://167.88.124.145:8000/live/Mxliptv/Iptv/21.m3u8
 #EXTINF:-1 tvg-logo="Canal-DHE-549x345.jpg" group-title="PELICULAS-SERIES",DHE
 http://201.161.59.7/dhe.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-logo="Fox 1" group-title="PELICULAS-SERIES",Fox 1
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL415/PROFILE03.m3u8?
+http://167.88.124.145:8000/live/Mxliptv/Iptv/44.m3u8
 #EXTINF:-1 tvg-logo="Fox Action" group-title="PELICULAS-SERIES",Fox Action
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE03.m3u8?
+http://167.88.124.145:8000/live/Mxliptv/Iptv/45.m3u8
 #EXTINF:-1 tvg-logo="Fox CinpÂ©ma" group-title="PELICULAS-SERIES",Fox Cinema
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL421/PROFILE03.m3u8?
+http://167.88.124.145:8000/live/Mxliptv/Iptv/46.m3u8
 #EXTINF:-1 tvg-logo="Fox Classics" group-title="PELICULAS-SERIES",Fox Classics
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL424/PROFILE03.m3u8?
+http://167.88.124.145:8000/live/Mxliptv/Iptv/47.m3u8
 #EXTINF:-1 tvg-logo="Fox Movies" group-title="PELICULAS-SERIES",Fox Movies
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE03.m3u8?
+http://167.88.124.145:8000/live/Mxliptv/Iptv/49.m3u8
 #EXTINF:-1 tvg-logo="Golden" group-title="PELICULAS-SERIES",Golden
-https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/NoDisponibleSD.mp4
+http://167.88.124.145:8000/live/Mxliptv/Iptv/56.m3u8
 #EXTINF:-1 tvg-logo="Golden Edge" group-title="PELICULAS-SERIES",Golden Edge
-https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/NoDisponibleSD.mp4
+http://167.88.124.145:8000/live/Mxliptv/Iptv/55.m3u8
 #EXTINF:-1 tvg-logo="I.Sat" group-title="PELICULAS-SERIES",I.Sat
-https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/NoDisponibleSD.mp4
+http://167.88.124.145:8000/live/Mxliptv/Iptv/59.m3u8
 #EXTINF:-1 tvg-logo="Space" group-title="PELICULAS-SERIES",Space
-https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/NoDisponibleSD.mp4
+http://167.88.124.145:8000/live/Mxliptv/Iptv/74.m3u8
 #EXTINF:-1 tvg-logo="Studio Universal" group-title="PELICULAS-SERIES",Studio Universal
-https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/NoDisponibleSD.mp4
+http://167.88.124.145:8000/live/Mxliptv/Iptv/75.m3u8
 #EXTINF:-1 tvg-logo="TCM" group-title="PELICULAS-SERIES",TCM
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL496/PROFILE03.m3u8?
+http://167.88.124.145:8000/live/Mxliptv/Iptv/78.m3u8
 #EXTINF:-1 tvg-logo="The Film Zone" group-title="PELICULAS-SERIES",The Film Zone
-https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/NoDisponibleSD.mp4
+http://167.88.124.145:8000/live/Mxliptv/Iptv/41.m3u8
 #EXTINF:-1 tvg-logo="TNT" group-title="PELICULAS-SERIES",TNT
-https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/NoDisponibleSD.mp4
+http://167.88.124.145:8000/live/Mxliptv/Iptv/83.m3u8
 #EXTINF:-1 tvg-logo="TNT HD" group-title="PELICULAS-SERIES",TNT HD
 https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/NoDisponibleSD.mp4
 #EXTINF:-1 tvg-logo="TNT Series" group-title="PELICULAS-SERIES",TNT Series
-https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/NoDisponibleSD.mp4
+http://167.88.124.145:8000/live/Mxliptv/Iptv/84.m3u8
 #EXTINF:-1 tvg-logo="Universal Channel" group-title="PELICULAS-SERIES",Universal Channel
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL256/PROFILE03.m3u8?
+http://167.88.124.145:8000/live/Mxliptv/Iptv/87.m3u8
 #EXTINF:-1 tvg-logo="Universal HD" group-title="PELICULAS-SERIES",Universal HD
 https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/NoDisponibleSD.mp4
 #EXTINF:-1 tvg-logo="Warner HD" group-title="PELICULAS-SERIES",Warner HD
-https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/NoDisponibleSD.mp4
+http://167.88.124.145:8000/live/Mxliptv/Iptv/91.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png" group-title="DEPORTES", << DEPORTES >>
 http://streaming.megatopradio.com:8100/megatopradio
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/logo-baja.png" group-title="DEPORTES", UFC Network
 http://199.180.114.174:88/files/ufc972.m3u8
 #EXTINF:-1 tvg-logo="AyM Sports" group-title="DEPORTES",AyM Sports
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL576/PROFILE03.m3u8?
+http://167.88.124.145:8000/live/Mxliptv/Iptv/5.m3u8
 #EXTINF:-1 tvg-logo="Bein Sports" group-title="DEPORTES",Bein Sports España
-http://d2akrnroe2tvk3.cloudfront.net/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b728000.m3u8
+https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/NoDisponibleSD.mp4
 #EXTINF:-1 tvg-logo="Combate" group-title="DEPORTES",Combate
-http://server1.livestreaming.ninja:1935/live/combate755/livestream.m3u8
+https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/NoDisponibleSD.mp4
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES",Comcast SportsNet CSN
-http://104.236.132.67:9191/live/PlayKodi-8PKS/token-klnjn87rh4fefdfcwdi4u3o8eu3uhdbnecwdjnec/184.m3u8
+https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/NoDisponibleSD.mp4
 #EXTINF:-1 tvg-logo="Dubai Sports" group-title="DEPORTES",Dubai Sports
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/chunklist_b1200000.m3u8?
 #EXTINF:-1 tvg-logo="ESPN + Mexico" group-title="DEPORTES",ESPN +
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+http://167.88.124.145:8000/live/Mxliptv/Iptv/39.m3u8
 #EXTINF:-1 tvg-logo="ESPN 2 Mexico" group-title="DEPORTES",ESPN 2 Mexico
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+http://167.88.124.145:8000/live/Mxliptv/Iptv/37.m3u8
 #EXTINF:-1 tvg-logo="ESPN 3 Mexico" group-title="DEPORTES",ESPN 3 Mexico
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+http://167.88.124.145:8000/live/Mxliptv/Iptv/38.m3u8
 #EXTINF:-1 tvg-logo="ESPN HD Mexico" group-title="DEPORTES",ESPN HD Mexico
-http://tvultimate.mx/stream/prueba.php?id=1656&f=.m3u8
+https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/NoDisponibleSD.mp4
 #EXTINF:-1 tvg-logo="ESPN Mexico" group-title="DEPORTES",ESPN Mexico
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+http://167.88.124.145:8000/live/Mxliptv/Iptv/36.m3u8
 #EXTINF:-1 tvg-logo="Fox Sports 2 Mexico" group-title="DEPORTES",Fox Sports 2 Mexico
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE03.m3u8?
+http://167.88.124.145:8000/live/Mxliptv/Iptv/51.m3u8
 #EXTINF:-1 tvg-logo="Fox Sports Mexico" group-title="DEPORTES",Fox Sports Mexico
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8?
+http://167.88.124.145:8000/live/Mxliptv/Iptv/50.m3u8
 #EXTINF:-1 tvg-logo="motors-tv-fr.png" group-title="DEPORTES",Motors TV UK
-http://104.236.132.67:9191/live/PlayKodi-10PKS/token-i839fkewieu83eujejdn2wnsn98ehd9823dwkdk/22.m3u8
+https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/NoDisponibleSD.mp4
 #EXTINF:-1 tvg-logo="golf_channel_logo_detail.png" group-title="DEPORTES",NBC Golf
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8
+https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/NoDisponibleSD.mp4
 #EXTINF:-1 tvg-logo="nfl_now_logo.jpg" group-title="DEPORTES",NFL Now
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
 #EXTINF:-1 tvg-logo="px.jpg" group-title="DEPORTES",PX TV
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/NoDisponibleSD.mp4
 #EXTINF:-1 tvg-logo="Real Madrid TV" group-title="DEPORTES",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="redbulltv.jpg" group-title="DEPORTES",Redbull TV
 http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="aj8qwk-1-0x290-win_sports.png" group-title="DEPORTES",Win Sports
 http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8?
-#EXTINF:-1, 360 Deportes
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/canal_f1_latin_america_es.png"  group-title="DEPORTES",F1
+http://167.88.124.145:8000/live/Mxliptv/Iptv/40.m3u8
+#EXTINF:-1 group-title="DEPORTES", 360 Deportes
 http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
-#EXTINF:-1, NBA Tv
+#EXTINF:-1 group-title="DEPORTES", NBA Tv
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
-#EXTINF:-1, PAC 12 Network
+#EXTINF:-1 group-title="DEPORTES", PAC 12 Network
 http://xrxs.net/video/live-p12netw-1164.m3u8
-#EXTINF:-1, PAC 12 Network Arizona
+#EXTINF:-1 group-title="DEPORTES", PAC 12 Network Arizona
 http://xrxs.net/video/live-p12ariz-1164.m3u8
-#EXTINF:-1, PAC 12 Network Bay Area
+#EXTINF:-1 group-title="DEPORTES", PAC 12 Network Bay Area
 http://xrxs.net/video/live-p12baya-1164.m3u8
-#EXTINF:-1, PAC 12 Network Los Angeles
+#EXTINF:-1 group-title="DEPORTES", PAC 12 Network Los Angeles
 http://xrxs.net/video/live-p12losa-1164.m3u8
-#EXTINF:-1, PAC 12 Network Oregon
+#EXTINF:-1 group-title="DEPORTES", PAC 12 Network Oregon
 http://xrxs.net/video/live-p12oreg-1164.m3u8
-#EXTINF:-1, PAC 12 Network Washington
+#EXTINF:-1 group-title="DEPORTES", PAC 12 Network Washington
 http://xrxs.net/video/live-p12wash-1164.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png" group-title="CULTURA-DOCUMENTAL", << CULTURA & DOCUMENTALES >>
 http://streaming.megatopradio.com:8100/megatopradio
 #EXTINF:-1 tvg-logo="Animal Planet" group-title="CULTURA-DOCUMENTAL",Animal Planet
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE03.m3u8
+http://167.88.124.145:8000/live/Mxliptv/Iptv/3.m3u8
 #EXTINF:-1 tvg-logo="Discovery Channel" group-title="CULTURA-DOCUMENTAL",Discovery Channel
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE03.m3u8
+http://167.88.124.145:8000/live/Mxliptv/Iptv/22.m3u8
 #EXTINF:-1 group-title="CULTURA-DOCUMENTAL",Discovery Civilization
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE03.m3u8
+http://167.88.124.145:8000/live/Mxliptv/Iptv/23.m3u8
 #EXTINF:-1 tvg-logo="Discovery Max" group-title="CULTURA-DOCUMENTAL",Discovery Max
-http://5.189.152.43:11757/live/PlayKodi-8PKS/token-klnjn87rh4fefdfcwdi4u3o8eu3uhdbnecwdjnec/155.m3u8
+https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/NoDisponibleSD.mp4
 #EXTINF:-1 tvg-logo="Discovery Science" group-title="CULTURA-DOCUMENTAL",Discovery Science
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE03.m3u8
+http://167.88.124.145:8000/live/Mxliptv/Iptv/26.m3u8
 #EXTINF:-1 tvg-logo="Discovery Turbo" group-title="CULTURA-DOCUMENTAL",Discovery Turbo
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL383/PROFILE03.m3u8
+http://167.88.124.145:8000/live/Mxliptv/Iptv/28.m3u8
 #EXTINF:-1 tvg-logo="Discovery World" group-title="CULTURA-DOCUMENTAL",Discovery World
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE03.m3u8
+http://167.88.124.145:8000/live/Mxliptv/Iptv/29.m3u8
 #EXTINF:-1 tvg-logo="Discovery Theater" group-title="CULTURA-DOCUMENTAL",Discovery Theater
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE03.m3u8
+http://167.88.124.145:8000/live/Mxliptv/Iptv/27.m3u8
 #EXTINF:-1 tvg-logo="Historia" group-title="CULTURA-DOCUMENTAL",Historia
 http://5.189.152.43:11757/live/PlayKodi-10PKS/token-i839fkewieu83eujejdn2wnsn98ehd9823dwkdk/157.m3u8
 #EXTINF:-1 tvg-logo="History Channel" group-title="CULTURA-DOCUMENTAL",History Channel
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE03.m3u8
+http://167.88.124.145:8000/live/Mxliptv/Iptv/57.m3u8
 #EXTINF:-1 tvg-logo="Ingenio TV" group-title="CULTURA-DOCUMENTAL",Ingenio TV
 http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8?
 #EXTINF:-1 tvg-logo="Investigacion Discovery" group-title="CULTURA-DOCUMENTAL",Investigacion Discovery
-http://tvultimate.mx/stream/prueba.php?id=1407&f=.m3u8
+http://167.88.124.145:8000/live/Mxliptv/Iptv/60.m3u8
 #EXTINF:-1 tvg-logo="NatGeo" group-title="CULTURA-DOCUMENTAL",NatGeo
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE03.m3u8
+http://167.88.124.145:8000/live/Mxliptv/Iptv/67.m3u8
 #EXTINF:-1 tvg-logo="NatGeo Wild" group-title="CULTURA-DOCUMENTAL",NatGeo Wild
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE03.m3u8?
+http://167.88.124.145:8000/live/Mxliptv/Iptv/68.m3u8
 #EXTINF:-1 tvg-logo="TLC" group-title="CULTURA-DOCUMENTAL",TLC
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL386/PROFILE03.m3u8
+http://167.88.124.145:8000/live/Mxliptv/Iptv/81.m3u8
 #EXTINF:-1 tvg-logo="WOBI" group-title="CULTURA-DOCUMENTAL",WOBI
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL387/PROFILE03.m3u8
+http://167.88.124.145:8000/live/Mxliptv/Iptv/92.m3u8
 #EXTINF:-1 tvg-logo="Positive Channel" group-title="CULTURA-DOCUMENTAL",Positive Channel
 https://raw.githubusercontent.com/teran91/IPTVChile/master/Videos/NoDisponibleSD.mp4
 #EXTINF:-1 tvg-logo="EWTN" group-title="CULTURA-DOCUMENTAL",EWTN
@@ -511,9 +513,9 @@ http://wow01.105.net/live/virgin1/.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA", Heavy Metal TV
 http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="Bandamax" group-title="MUSICA",Bandamax
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE03.m3u8
+http://167.88.124.145:8000/live/Mxliptv/Iptv/12.m3u8
 #EXTINF:-1 tvg-logo="MTV" group-title="MUSICA",MTV
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE03.m3u8
+http://167.88.124.145:8000/live/Mxliptv/Iptv/64.m3u8
 #EXTINF:-1 tvg-logo="Capital_TV_logo.png" group-title="MUSICA",Capital TV (UK)
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="eska-best-music-online-ao-vivo-gratis-55e1e0e65df98.jpeg" group-title="MUSICA",Eska Best Music TV
@@ -529,15 +531,15 @@ http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="MTV Dance" group-title="MUSICA",MTV Dance
 http://217.147.40.118:8080/udp/233.97.20.154:1234
 #EXTINF:-1 tvg-logo="MTV Hits" group-title="MUSICA",MTV Hits
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE03.m3u8
+http://167.88.124.145:8000/live/Mxliptv/Iptv/65.m3u8
 #EXTINF:-1 tvg-logo="MTV Live" group-title="MUSICA",MTV Live
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL701/PROFILE03.m3u8
+http://167.88.124.145:8000/live/Mxliptv/Iptv/66.m3u8
 #EXTINF:-1 tvg-logo="MTV Rocks" group-title="MUSICA",MTV Rocks
 http://st02.brn03.iptv.czechbone.net:8083/rel/pc/1/244/0.k.m3u8
 #EXTINF:-1 tvg-logo="Ritmoson Latino" group-title="MUSICA",Ritmoson Latino
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL731/PROFILE03.m3u8
+http://167.88.124.145:8000/live/Mxliptv/Iptv/90.m3u8
 #EXTINF:-1 tvg-logo="Telehit" group-title="MUSICA",Telehit
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL702/PROFILE03.m3u8
+http://167.88.124.145:8000/live/Mxliptv/Iptv/79.m3u8
 #EXTINF:-1 tvg-logo="Vevo HD 1" group-title="MUSICA",Vevo HD 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 #EXTINF:-1 tvg-logo="Vevo HD 2" group-title="MUSICA",Vevo HD 2
@@ -545,7 +547,7 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 #EXTINF:-1 tvg-logo="Vevo HD 3" group-title="MUSICA",Vevo HD 3
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 #EXTINF:-1 tvg-logo="VH1 Classic" group-title="MUSICA",VH1 Classic
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE03.m3u8
+http://167.88.124.145:8000/live/Mxliptv/Iptv/90.m3u8
 #EXTINF:-1 1tvg-logo="VH1 HD" group-title="MUSICA",VH1 HD
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL703/PROFILE05.m3u8
 #EXTINF:-1, Jaimaican Tv
@@ -571,7 +573,7 @@ http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="RT en espaÃ±ol" group-title="NOTICIAS",RT en español
 http://rt-lh.akamaihd.net/i/ch_02@325606/index_720p_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="Foro TV" group-title="NOTICIAS",Foro TV
-http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-p.m3u8?sd=10&rebase=on
+http://167.88.124.145:8000/live/Mxliptv/Iptv/42.m3u8
 #EXTINF:-1 tvg-logo="TeleFormula" group-title="NOTICIAS",TeleFormula
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL161/PROFILE03.m3u8?
 #EXTINF:-1 tvg-logo="Az Noticias" group-title="NOTICIAS",Az Noticias
@@ -592,10 +594,12 @@ http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_150.sdp/
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png" , << MEXICO >>
 http://streaming.megatopradio.com:8100/megatopradio
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/az_mundo_mx.png",Az Mundo
+http://167.88.124.145:8000/live/Mxliptv/Iptv/9.m3u8
 #EXTINF:-1 tvg-logo="Az Corazon" group-title="MEXICO",Az Corazon
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL45/PROFILE03.m3u8?
 #EXTINF:-1 tvg-logo="Azteca 7" group-title="MEXICO",Azteca 7
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL7/PROFILE03.m3u8?
+http://167.88.124.145:8000/live/Mxliptv/Iptv/10.m3u8
 #EXTINF:-1 tvg-logo="Azteca Internacional" group-title="MEXICO",Azteca Internacional
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL2/PROFILE03.m3u8?
 #EXTINF:-1 tvg-logo="Cadena 3" group-title="MEXICO",Cadena 3
@@ -605,7 +609,7 @@ http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 #EXTINF:-1 tvg-logo="Canal 2 Obregon" group-title="MEXICO",Canal 2 Obregon
 http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8?
 #EXTINF:-1 tvg-logo="Canal 5 HD" group-title="MEXICO",Canal 5 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE03.m3u8?
+http://167.88.124.145:8000/live/Mxliptv/Iptv/15.m3u8
 #EXTINF:-1 tvg-logo="Canal 52MX" group-title="MEXICO",Canal 52MX
 http://201.161.59.4/canal52.isml/QualityLevels(1253000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-logo="Canal 7 Mazatlan" group-title="MEXICO",Canal 7 Mazatlan
@@ -615,21 +619,21 @@ http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u
 #EXTINF:-1 tvg-logo="EfektoTV" group-title="MEXICO",EfektoTV
 http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
 #EXTINF:-1 tvg-logo="El Trece" group-title="MEXICO",El Trece
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL13/PROFILE03.m3u8?
+http://167.88.124.145:8000/live/Mxliptv/Iptv/11.m3u8
 #EXTINF:-1 tvg-logo="Foro TV" group-title="MEXICO",Foro TV
-http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-p.m3u8?sd=10&rebase=on
+http://167.88.124.145:8000/live/Mxliptv/Iptv/42.m3u8
 #EXTINF:-1 tvg-logo="Gala TV" group-title="MEXICO",Gala TV
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE03.m3u8?
+http://167.88.124.145:8000/live/Mxliptv/Iptv/53.m3u8
 #EXTINF:-1 tvg-logo="Gala TV Cancun" group-title="MEXICO",Gala TV Cancun
 http://rightbrainmedia.mpl.miisolutions.net:1935/rightbrainmedia-live-244/GalaTVCancun/livestream.m3u8
 #EXTINF:-1 tvg-logo="logo hmx.png" group-title="MEXICO",HMX
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL169/PROFILE03.m3u8?
+http://167.88.124.145:8000/live/Mxliptv/Iptv/58.m3u8
 #EXTINF:-1 tvg-logo="tv-azteca-noreste.jpg" group-title="MEXICO",Info 7 (Azteca Monterrey)
 http://38.104.228.230:1938/info7/info7_512/chunklist_w934161884.m3u8
 #EXTINF:-1  tvg-logo="Milenio TV" group-title="MEXICO",Milenio TV
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL603/PROFILE03.m3u8?
 #EXTINF:-1 tvg-logo="Multimedios Monterrey" group-title="MEXICO",Multimedios Monterrey
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE03.m3u8?
+http://167.88.124.145:8000/live/Mxliptv/Iptv/63.m3u8
 #EXTINF:-1 tvg-logo="Once TV" group-title="MEXICO",Once TV
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE03.m3u8?
 #EXTINF:-1 tvg-logo="Proyecto 40" group-title="MEXICO",Proyecto 40
