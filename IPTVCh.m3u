@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/teran91/IPTVChile/master/webdelfutbol.m3u
 #EXTINF:0 tvg-logo="http://2.bp.blogspot.com/-fQjf9xuHS1E/Vm-hBpsFJnI/AAAAAAAAAA0/og7MvcJuEgI/s1600/futbol_chile.png" group-title="Agenda Deportiva", Canales FutbolChile.net
 https://raw.githubusercontent.com/teran91/IPTVChile/master/futbolchile.m3u
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/eventos-deportivos.png" group-title="Agenda Deportiva", Evento Deportivo
-http://d1k8w635mcebvp.cloudfront.net/cl/smil:telecanal.smil/playlist.m3u8
+http://d1k8w635mcebvp.cloudfront.net/cl/smil:telecanal.smil/chunklist_b981072.m3u8
 
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png" group-title="radios chilenas", Radios Chilenas
@@ -37,7 +37,7 @@ http://cdn.ztreaming.com/t13radio/mobile.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/logo%20iptv%20chile.png" group-title="NACIONALES", Canales Nacionales
 http://streaming.megatopradio.com:8100/megatopradio
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/Lared.png" group-title="NACIONALES",La Red
-http://ec2-52-201-28-82.compute-1.amazonaws.com/lared/smil:lared.smil/chunklist_b2129163.m3u8
+http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/chunklist_b1429163.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/UCV_HD_2014.png" group-title="NACIONALES",UCV 
 http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/TvnHD.png" group-title="NACIONALES",TVN 
